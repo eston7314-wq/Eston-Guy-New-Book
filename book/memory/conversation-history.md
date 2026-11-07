@@ -26,3 +26,10 @@ rows 1-4 added. Deliberately not done: no survey figure used as evidence; locked
 tone, launch) and the subtitle and category rows untouched. Open for the author: data 
 provenance, consent, structure approval, title (working title collides with a 2021 Arouca Press 
 book), Bible translation, nine author story slots, clinician reviewer for ch08-09.
+
+### 2026-11-07 · book-orchestrator · archive · book
+Author asked that approved documents be committed to memory and copied to Google Drive. Created 
+Drive folder 'Approved Documents' inside 'Eston's Thesis Book' and uploaded the book 
+configuration and the thesis-to-book plan as Google Docs. Register and standing rule in 
+knowledge-notes/approved-documents.md. Blueprint and publishing options not uploaded: still 
+awaiting the author's decision.

@@ -10,3 +10,4 @@ states its source and date. Add a row when you add a note.
 | `terms-glossary.md` | Verified glosses of the book's key terms; the researcher fills rows | |
 | `kdp-rules.md` | Current, dated Amazon KDP rules that affect this book; the launch strategist fills it | |
 | `comparable-titles.md` | Verified comparable titles, title collisions, category observations (for book-marketer) | 2026-11-07 |
+- `approved-documents.md`: register of author-approved documents and their Google Drive copies; standing rule to upload each newly approved document.
