@@ -1,0 +1,8 @@
+name: Check sources of truth
+on: [pull_request, push]
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: chmod +x scripts/*.sh && ./scripts/check-divisions.sh && ./scripts/check-tools.sh && ./scripts/check-runbooks.sh

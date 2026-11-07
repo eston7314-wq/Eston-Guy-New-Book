@@ -1,0 +1,14 @@
+{
+  "_note": "Source of truth for the supported tool set. Keyed by kebab tool name. `format` names the renderer in scripts/convert.sh (`identity` copies the source file unchanged); `installKind` is `per-agent` (one file per agent) or `roster` (one combined file); `dest` templates use {slug}. scripts/check-tools.sh fails CI if this disagrees with ALL_TOOLS in install.sh or the converters in convert.sh.",
+  "tools": {
+    "claude-code": {"label":"Claude Code","format":"identity","installKind":"per-agent","scope":{"user":true,"project":true},"dest":{"user":".claude/agents/{slug}.md","project":".claude/agents/{slug}.md"},"detect":[".claude"]},
+    "copilot":     {"label":"GitHub Copilot","format":"identity","installKind":"per-agent","scope":{"user":true,"project":true},"dest":{"user":".copilot/agents/{slug}.md","project":".github/agents/{slug}.md"},"detect":[".github",".copilot"]},
+    "gemini-cli":  {"label":"Gemini CLI","format":"gemini-md","installKind":"per-agent","scope":{"user":true,"project":true},"dest":{"user":".gemini/agents/{slug}.md","project":".gemini/agents/{slug}.md"},"detect":[".gemini"]},
+    "qwen":        {"label":"Qwen Code","format":"gemini-md","installKind":"per-agent","scope":{"user":true,"project":true},"dest":{"user":".qwen/agents/{slug}.md","project":".qwen/agents/{slug}.md"},"detect":[".qwen"]},
+    "opencode":    {"label":"opencode","format":"opencode-md","installKind":"per-agent","scope":{"user":true,"project":true},"dest":{"user":".config/opencode/agents/{slug}.md","project":".opencode/agents/{slug}.md"},"detect":[".config/opencode"]},
+    "codex":       {"label":"Codex","format":"codex-toml","installKind":"per-agent","scope":{"user":true,"project":true},"dest":{"user":".codex/agents/{slug}.toml","project":".codex/agents/{slug}.toml"},"detect":[".codex"]},
+    "cursor":      {"label":"Cursor","format":"cursor-mdc","installKind":"per-agent","scope":{"user":false,"project":true},"dest":{"user":"","project":".cursor/rules/{slug}.mdc"},"detect":[".cursor"]},
+    "aider":       {"label":"Aider","format":"aider-conventions","installKind":"roster","scope":{"user":false,"project":true},"dest":{"user":"","project":"CONVENTIONS.md"},"detect":[]},
+    "windsurf":    {"label":"Windsurf","format":"windsurf-rules","installKind":"roster","scope":{"user":false,"project":true},"dest":{"user":"","project":".windsurfrules"},"detect":[".codeium"]}
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_note": "Machine-readable rosters for the runbooks in pipeline/runbooks/. agents[] entries are agent file stems (e.g. writing/writing-chapter-writer.md -> writing-chapter-writer). scripts/check-runbooks.sh verifies every slug resolves to a real agent file.",
+  "runbooks": [
+    {"slug": "consolidate-existing-drafts", "title": "Consolidate Existing Drafts", "mode": "Consolidate", "doc": "pipeline/runbooks/consolidate-existing-drafts.md",
+     "roster": [{"group": "Core", "activation": "always", "agents": ["orchestration-book-orchestrator","strategy-book-strategist","research-book-researcher","writing-chapter-writer","writing-story-injector","editing-developmental-editor","editing-copy-editor"]},
+                {"group": "End game", "activation": "after finals", "agents": ["marketing-book-marketer","publishing-launch-strategist"]}]},
+    {"slug": "write-from-blueprint", "title": "Write From a Blueprint", "mode": "Book", "doc": "pipeline/runbooks/write-from-blueprint.md",
+     "roster": [{"group": "Core", "activation": "always", "agents": ["orchestration-book-orchestrator","strategy-book-strategist","research-book-researcher","writing-chapter-writer","writing-story-injector","editing-developmental-editor","editing-copy-editor"]},
+                {"group": "End game", "activation": "after finals", "agents": ["marketing-book-marketer","publishing-launch-strategist"]}]},
+    {"slug": "second-edition-refresh", "title": "Second Edition Refresh", "mode": "Stage", "doc": "pipeline/runbooks/second-edition-refresh.md",
+     "roster": [{"group": "Core", "activation": "always", "agents": ["orchestration-book-orchestrator","research-book-researcher","editing-developmental-editor","editing-copy-editor","marketing-book-marketer","publishing-launch-strategist"]}]}
+  ]
+}

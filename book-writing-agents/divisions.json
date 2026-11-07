@@ -1,0 +1,12 @@
+{
+  "_note": "Source of truth for the agent division set. Each division is a top-level directory holding one or more agent files with YAML frontmatter. scripts/check-divisions.sh fails CI if this list disagrees with the directories on disk or with AGENT_DIRS in scripts/convert.sh and scripts/lint-agents.sh. pipeline/, templates/, skills/, scripts/, integrations/, and examples/ are not divisions.",
+  "divisions": {
+    "orchestration": { "label": "Orchestration", "icon": "Workflow",   "color": "#0EA5E9", "stage": "all",  "order": 0 },
+    "strategy":      { "label": "Strategy",      "icon": "Compass",    "color": "#8B5CF6", "stage": "0-1",  "order": 1 },
+    "research":      { "label": "Research",      "icon": "Search",     "color": "#7C3AED", "stage": "2",    "order": 2 },
+    "writing":       { "label": "Writing",       "icon": "PenLine",    "color": "#F97316", "stage": "3",    "order": 3 },
+    "editing":       { "label": "Editing",       "icon": "Scissors",   "color": "#EF4444", "stage": "4-5",  "order": 4 },
+    "marketing":     { "label": "Marketing",     "icon": "Megaphone",  "color": "#EC4899", "stage": "6",    "order": 5 },
+    "publishing":    { "label": "Publishing",    "icon": "Rocket",     "color": "#22C55E", "stage": "7",    "order": 6 }
+  }
+}
