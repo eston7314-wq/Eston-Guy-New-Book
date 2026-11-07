@@ -9,10 +9,10 @@ must lock them. Mark any row an agent inferred rather than you stated as **Infer
 | Working title | Thy Faith Hath Made Thee Whole **(Inferred: proposed, not yet chosen by the author)** |
 | Subtitle | [locked after the book-marketer title round] |
 | Topic (one sentence) | How the teachings, practices and community life of New Testament Christianity help, and sometimes harm, the mental health of people of African heritage in the UK, USA and Canada. |
-| Target reader | [AUTHOR TO LOCK] **Inferred proposal:** pastors, church leaders and church members of African heritage in the UK, USA and Canada, and the families, counsellors and chaplains who support them; people who know their Bible but are unsure how faith and mental-health care fit together |
+| Target reader | General public (author decision 2026-11-07): curious lay readers, Christian or not, with no specialist knowledge of theology or psychology. People of African heritage in the UK, USA and Canada, and the families and church members around them, are the readers the book speaks to most directly. |
 | Core transformation | **Inferred:** from seeing faith and mental-health care as rivals, or staying silent out of stigma, to using scripture, prayer and church community as real supports *alongside* professional help, and recognising when faith is being used in harmful ways |
 | Positioning angle | **Inferred:** combines New Testament reading, the colonial and missionary history, gospel music, and original survey and interview research from 50 participants across three countries; speaks honestly about both the healing and the harmful sides of faith |
-| Tone | [AUTHOR TO LOCK] **Inferred proposal:** warm and pastoral (primary); authoritative and evidence-based (secondary); reverent, never jokey |
+| Tone | Warm and pastoral (author decision 2026-11-07); evidence stays in the background; reverent, never jokey |
 | Point of view | **Inferred:** first person singular (the author's own voice and experience); reader addressed as "you" |
 | Chapter count | **Inferred:** 10 chapters, plus preface and afterword |
 | Words per chapter | **Inferred:** 4,000-6,000; whole book about 50,000 (source thesis is about 38,600 words) |
@@ -20,9 +20,9 @@ must lock them. Mark any row an agent inferred rather than you stated as **Infer
 | Author name | Eston T. B. Guy |
 | Author credibility (2 lines) | PhD in Religion (Selinus University, 2025). Former Head of Religious Studies, Head of Year and Assistant Headteacher in North London secondary schools. |
 | Comparable titles | [to be found and verified by book-strategist with web search; none invented] |
-| Publishing route | [AUTHOR TO DECIDE] traditional Christian publisher (e.g. Wipf & Stock, SPCK) **or** self-publish via Amazon KDP + IngramSpark |
+| Publishing route | [AUTHOR TO DECIDE] Options in book/00-strategy/publishing-route-options.md. **Recommended:** self-publish under the author's own imprint through Amazon KDP + IngramSpark, to meet the May 2027 date |
 | Target category | [book-marketer to confirm] likely Christian living / pastoral care / Christianity and mental health |
-| Launch date target | [AUTHOR TO SET] plan assumes about 12 months: autumn 2027 |
+| Launch date target | 2027-05 (author decision 2026-11-07; exact day to be set) |
 | Source material | yes: PhD thesis in book/source/thesis-2025.md, mapped in book/source/README.md; chapters are consolidated, never drafted fresh |
 
 ## Hard rules for all agents
