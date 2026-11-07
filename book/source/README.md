@@ -38,23 +38,29 @@ There is one version of each section, so the "Versions" column is always 1.
 
 ## Where each chapter's raw text lives
 
-The proposed mapping from the author-approved book plan of 2026-10-27 (the strategist confirms or revises it in blueprint.md):
+Revised by book-strategist on 2026-11-07 (blueprint: `book/01-outline/blueprint.md`). This is a proposal awaiting author approval; the earlier map of 2026-10-27 is kept below for reference. The blueprint's per-chapter blocks give finer line ranges and owners.
 
 | Ch | File | Lines | Versions | Heading as written |
 |---|---|---|---|---|
-| 00 Preface / Introduction | thesis-2025.md | 1-124 (acknowledgements), 502-679 | 1 | Chapter 1: Introduction |
-| 01 | thesis-2025.md | 3726-4077 | 1 | Chapter 4 |
-| 02 | thesis-2025.md | 2428-2606 | 1 | 3.6.1.3-3.6.1.9e Gospel Music |
-| 03 | thesis-2025.md | 1863-1988 | 1 | 3.1-3.2 |
-| 04 | thesis-2025.md | 1989-2165 | 1 | 3.3-3.4 |
-| 05 | thesis-2025.md | 2166-2427, 1168-1466 | 1 | 3.5, 3.6.1.1-2, 2.6 |
-| 06 | thesis-2025.md | 2607-2745 | 1 | 3.6.2.1-3.6.2.3c |
-| 07 | thesis-2025.md | 2746-3725 | 1 | 3.6.2.4-3.7 |
-| 08 | thesis-2025.md | 4616-4904 | 1 | Chapters 6, 7.1 |
-| 09 | thesis-2025.md | 4931-4967, 1763-1862 | 1 | 7.3, 7.4, 2.9 |
-| 99 Afterword | thesis-2025.md | 4905-4930, 4968-4999 | 1 | 7.2, 7.5 |
+| 00 Preface | thesis-2025.md | 1-124, 502-679, 1170-1188, 2768-2781, 4921-4923 | 1 | Front matter; Chapter 1; 2.6.1; 3.6.2.4a |
+| 01 A Faith Handed Down in Chains | thesis-2025.md | 3726-4077, 1284-1295, 1564-1583, 1749-1761, 3670-3709 | 1 | Chapter 4; 2.6.5; 2.7.3.2; 2.8.3; 3.7.3 |
+| 02 Songs for Sorrow | thesis-2025.md | 2428-2606 | 1 | 3.6.1.3-3.6.1.9e |
+| 03 The Way Home | thesis-2025.md | 1863-1988, 1738-1747, 3617-3621 | 1 | 3.1-3.2; 2.8.2; 3.7.1 |
+| 04 Thy Faith Hath Made Thee Whole | thesis-2025.md | 1989-2165, 1256-1277, 1414-1442, 1007-1063, 1113-1135, 1706-1736 | 1 | 3.3-3.4; 2.6.4; 2.6.6; 2.3.1; 2.3.3; 2.8.2 |
+| 05 Casting Your Cares | thesis-2025.md | 2166-2292, 2339-2400, 1528-1540, 1559-1564, 1587-1591, 906-928 | 1 | 3.5; 3.6.1.1-2; 2.7 (parts); 2.2.1 (Polanyi) |
+| 06 A Family House | thesis-2025.md | 1190-1255, 1279-1413, 1917-1948, 2154-2164, 2294-2337, 1482-1514, 1599-1665 | 1 | 2.6.2-2.6.5; 3.1.4; 3.4.3; 3.5.4; 2.7.2; 2.7.4 |
+| 07 When Faith Becomes a Burden | thesis-2025.md | 2607-2745, 1667-1704, 3623-3668, 4895-4903 | 1 | 3.6.2-3.6.2.3c; 2.8.1; 3.7.1-3.7.2; 7.1 |
+| 08 Naming the Sorrow | thesis-2025.md | 2746-3058, 3609-3615, 1151-1158 | 1 | 3.6.2.4a-3.6.2.7; 3.7.1; 2.5 |
+| 09 The Hardest Conversations | thesis-2025.md | 3059-3591 | 1 | 3.6.2.8-3.6.2.9 |
+| 10 The Church and the Clinic | thesis-2025.md | 1763-1806, 4931-4967, 2339-2351, 1071-1091, 1684-1693, 4033-4038 | 1 | 2.9; 7.3-7.4; 3.5.5; 2.3.2; 2.8.1; 4.4 |
+| 99 Afterword | thesis-2025.md | 4859-4930, 4968-4996, 998-1005, 116-121 | 1 | 7.1-7.2; 7.5; 2.3.1; acknowledgements |
+| App. A Research | thesis-2025.md | 4078-4615, 4616-4673, 4824-4832 | 1 | Chapters 5-6 (condensed; no survey figure used as evidence until the author confirms line 4624) |
 
-Unassigned and to be spread through the chapters, or cut with the author's sign-off: 680-1167 (epistemology), 1467-1762 (literature by country, stigma, suffering).
+Epistemology (680-1167) is condensed to about 900 words, spread over ch04, ch05, ch08, ch10 and 99; the rest goes to the cut lists. The literature by country (1467-1666) is spread over ch01, ch05, ch06, ch07 and ch10.
+
+### Earlier proposed mapping (2026-10-27, superseded if the author approves the blueprint)
+
+00: 1-124, 502-679 · 01: 3726-4077 · 02: 2428-2606 · 03: 1863-1988 · 04: 1989-2165 · 05: 2166-2427, 1168-1466 · 06: 2607-2745 · 07: 2746-3725 · 08: 4616-4904 · 09: 4931-4967, 1763-1862 · 99: 4905-4930, 4968-4999
 
 ## Reading order for the consolidate stage
 

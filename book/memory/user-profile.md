@@ -16,7 +16,10 @@ infers goes under "Proposed" until the author confirms it.
 
 ## Proposed (agents add here; author confirms or strikes)
 
-- 
+- (book-strategist, 2026-11-07, inferred from the thesis) Quotes scripture in the KJV/AKJV wording; translation for the book not yet chosen.
+- (book-strategist, 2026-11-07, inferred from thesis 7.3-7.5) Prefers to end on practice and hope with a charge to the church, not on mystery.
+- (book-strategist, 2026-11-07, inferred) Pairs every harm with a church response that works; the blueprint keeps that pattern in ch07-09.
+- (book-strategist, 2026-11-07) The blueprint proposes ten numbered chapters plus a short afterword; the author to confirm.
 
 ## Decisions log (author decisions, dated)
 

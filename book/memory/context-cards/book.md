@@ -1,21 +1,23 @@
 # Context card: the book
 
-**Title:** Thy Faith Hath Made Thee Whole (working, not locked)   **Author:** Eston T. B. Guy
-**State (2026-11-07):** config locked except publishing route; blueprint not yet written
-**Length target:** about 50,000 words; 10 chapters plus preface and afterword
+**Title:** Thy Faith Hath Made Thee Whole (working, not locked; the strategist ranks "A Fortress, Not a Prison" first)   **Author:** Eston T. B. Guy
+**State (2026-11-07):** blueprint written (01-outline/blueprint.md); awaiting the author's approval of structural changes
+**Length target:** main text 50,400 words: preface, 10 chapters in four parts, afterword; plus about 2,000 in appendices
 **Mode:** consolidate from book/source/ (the author's PhD thesis)
 
 **Structural decisions in force**
 - Reader: the general public. Tone: warm and pastoral. Launch: May 2027.
-- Methodology goes to an appendix; the literature review is spread through the chapters, not kept as one block.
-- Earlier proposed 10-chapter, 5-part structure (Roots / Resources of the New Testament / When Faith Hurts / What 50 Voices Told Me / The Way Forward) is a proposal, not locked.
+- Methodology goes to Appendix A; the literature review is spread through the chapters.
+- Proposed parts: Roots (01-02) / What the New Testament Offers (03-06) / When Faith Hurts (07-09) / The Way Forward (10, 99). The old "What 50 Voices Told Me" part is withdrawn pending the data question.
 
 **Rules from the author**
 - British spelling (proposed).
 
 **Outstanding for the author**
-- Publishing route (options in 00-strategy/publishing-route-options.md).
-- Line 4624 of the thesis says the fifty survey responses "were generated". Confirm they come from real participants before any figure is used as evidence.
-- Confirm that the participants' consent covers quotation in a published book.
+- Line 4624: were the 50 survey responses from real participants? No survey figure counts as evidence until this is answered.
+- Consent covers academic use only (4139, 4585, 4590). Does it cover a book?
+- Approve the 10 structural changes in the blueprint; choose a title; choose a Bible translation.
+- Supply the story slots marked [AUTHOR STORY NEEDED] (9 of 12 slots).
+- Publishing route.
 
-**For every agent:** read `book/memory/README.md` for the read order, and log your run.
+**For every agent:** read `book/memory/README.md` for the read order, and log your run. Researcher: more than 40 in-text citations are missing from the bibliography (knowledge-notes/source-map.md).
