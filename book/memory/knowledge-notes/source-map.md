@@ -36,3 +36,14 @@ only (config hard rule 10). There are still no verbatim interview quotations, an
 Fig.27 is participant-level and must never be reproduced. Known weaknesses: out-of-order answer options
 in Fig.5, 7 and 8; SPSS results not reported; yes/no help-seeking, age and denomination questions not
 charted; 20 interviewees (Fig.26 is the only source).
+
+## Added by book-researcher, 2026-11-10 (ch04 research)
+
+- Network in research sessions: web search works; direct page fetch failed on every host except GitHub.
+  Scripture can be checked word for word against public-domain KJV (1769) files on GitHub:
+  thiagobodruk/bible `json/en_kjv.json` and scrollmapper/bible_databases `formats/json/KJV.json` (they agree).
+- KJV slips in the ch04 passages (detail in 02-research/ch04-evidence.md section 7): Romans 8:28 "who are
+  called" (KJV "who are the called", 1417); 1 Cor 15:19 "We are all men" (KJV "we are of all men", 2054);
+  Phil 4:8 "things are is honest" (2148); 1 Cor 1:12 "I am Paul" (KJV "I am of Paul") and miscited as
+  "1 Corinthians 12" (2158); Hebrews 11:1 paraphrase at 2113 is NIV wording, not KJV.
+- Not found by search: Brown and Hughes (2017); Harris and Young (2018) (thesis 1711-1716).

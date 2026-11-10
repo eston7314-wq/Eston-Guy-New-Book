@@ -70,6 +70,23 @@ Each example is used once. If you need it again, refer back to it by name.
 | Wittgenstein, meaning as use: *Philosophical Investigations* §43, first published 1953; 4th ed. Wiley-Blackwell 2009 (Hacker and Schulte). 1889 is his birth year | SEP "Ludwig Wittgenstein", https://plato.stanford.edu/entries/wittgenstein/ ; Wiley listing ISBN 978-1-4051-5928-9 (search-verified). Exact §43 sentence not verified | 00 |
 | WHO definition of mental health (state of mental well-being; cope with stresses, realise abilities, learn and work, contribute to community). Exact wording to be re-checked before quoting | WHO fact sheet "Mental health", https://www.who.int/news-room/fact-sheets/detail/mental-health-strengthening-our-response (search only; page not opened) | 00 |
 | Help lines: Samaritans 116 123 (UK and ROI, free, 24/7); 988 Suicide & Crisis Lifeline (USA, call/text 988); 9-8-8 Suicide Crisis Helpline (Canada, call/text, launched 30 Nov 2023) | samaritans.org; 988lifeline.org; 988.ca and canada.ca (search-verified 2026-11-10; re-check at proof) | 00 content note (App. B owns the full list; ch09 opening repeats) |
+| Positive vs negative religious coping relate to better vs worse adjustment (49 studies, 105 effect sizes) | Ano and Vasconcelles 2005, J Clin Psychol 61(4):461-480, doi:10.1002/jclp.20049 | 04 (pack) |
+| African Americans and Black Caribbeans in the US endorse religious coping more than White Americans (NSAL) | Chatters, Taylor, Jackson and Lincoln 2008, J Community Psychol 36(3):371-386, doi:10.1002/jcop.20202 | 04 (pack) |
+| Stronger belief in life after death linked with fewer psychiatric symptoms (n=1,403, US) | Flannelly et al. 2006, J Nerv Ment Dis 194(7):524-529, doi:10.1097/01.nmd.0000224876.63035.23 | 04 (pack) |
+| Eschatological hope inversely related to depression and anxiety (3 studies, 1,466 participants) | Witvliet et al. 2022, J Psychol Christianity 41(1):16-35 | 04 (pack) |
+| Religious CBT as effective as conventional CBT for depression; slightly better in the more religious (n=132, pilot RCT) | Koenig et al. 2015, J Nerv Ment Dis 203(4):243-251, doi:10.1097/NMD.0000000000000273 | 04 (pack) |
+| Spirituality a central coping resource for 50 African Nova Scotian women facing racism | Beagan, Etowa and Bernard 2012, Ment Health Relig Cult 15(2):103-120, doi:10.1080/13674676.2011.560145 | 04 (pack) |
+| Stigma and beliefs about causes shape help-seeking in African-descended faith communities, south London | Mantovani, Pizzolati and Edge 2017, Health Expect 20(3):373-384, doi:10.1111/hex.12464 | 04 (pack) |
+| Church-based programmes for mental disorders among African Americans: evidence extremely limited | Hankerson and Weissman 2012, Psychiatr Serv 63(3):243-249, PMID 22388529 | 04 (pack) |
+| Religious struggle predicts mortality in medically ill older patients (RR about 1.06) | Pargament, Koenig, Tarakeshwar and Hahn 2001, Arch Intern Med 161(15):1881-1885, doi:10.1001/archinte.161.15.1881 | 04 (pack) |
+| 172 US child deaths 1975-1995 where faith healing replaced medical care | Asser and Swan 1998, Pediatrics 101:625-629, doi:10.1542/peds.101.4.625 | 04 (pack) |
+| Positive religious coping linked with intensive life-prolonging care near death (AOR 2.90, n=345) | Phelps et al. 2009, JAMA 301(11):1140-1147, doi:10.1001/jama.2009.341 | 04 (pack) |
+| Religious and Spiritual Struggles Scale: six domains incl. doubt | Exline, Pargament, Grubbs and Yali 2014, Psychol Relig Spiritual 6(3):208-222, doi:10.1037/a0036465 | 04 (pack) |
+| 97% of Black American adults believe in God or a higher power (n=8,660) | Pew Research Center, Faith Among Black Americans, 16 Feb 2021 | 04 (pack) |
+| 68.8% of Black people in Canada reported a Christian religion (2021 Census) | Statistics Canada, The Daily, 25 Oct 2024, table t002b | 04 (pack) |
+| King, 'Shattered Dreams' draft: 'accept the finite disappointment and yet cling to the infinite hope' | King Papers Project, Stanford King Institute, draft dated 1962-63 (published wording unverified) | 04 (pack) |
+| Case: Rev. Michael A. Walrond, First Corinthian Baptist, Harlem; therapy after suicidal crisis; church's H.O.P.E. Center | Riddle, NPR Shots, 23 Mar 2025 | 04 (pack) |
+| KJV wording of Luke 8:43-48, Mark 5:34, Luke 17:19, Heb 11:1, Rom 5:3-5, 8:18, 8:28, Phil 4:8, 4:13, Mark 15:34, 1 Cor 1:12 | KJV 1769 text, two independent public-domain files; see 02-research/ch04-evidence.md section 7 | 04 (pack) |
 
 ## Promises made to the reader (must be paid off)
 
@@ -101,7 +118,7 @@ Each example is used once. If you need it again, refer back to it by name.
 | 01 | A Faith Handed Down in Chains | done | | | | | | |
 | 02 | Songs for Sorrow | done | | | | | | |
 | 03 | The Way Home: The Teachings and Parables of Jesus | done | | | | | | |
-| 04 | Thy Faith Hath Made Thee Whole: Miracles, Letters and Hope | done | | | | | | |
+| 04 | Thy Faith Hath Made Thee Whole: Miracles, Letters and Hope | done | done (v1-based, re-check vs v2) | | | | | |
 | 05 | Casting Your Cares: Prayer, Scripture and Worship | done | | | | | | |
 | 06 | A Family House: The Church as Community | done | | | | | | |
 | 07 | When Faith Becomes a Burden: Guilt, Demons and Stigma | done | | | | | | |

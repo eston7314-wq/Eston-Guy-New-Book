@@ -104,3 +104,22 @@ to the 'Mental health' key-term row; open-claims rows 9-14; glossary note filled
 Acknowledgement career details marked author testimony, not checked. Did not draft or commit. 
 Open for the author: WHO-only or WHO+CDC wording; naming Perkins, Gould and Hartney; the GCSE 
 claim; who conducted the interviews.
+
+### 2026-11-10 · book-researcher · research · 04
+Mode A evidence pack written to book/02-research/ch04-evidence.md. Verified at abstract level 
+via web search (page fetches were blocked; only GitHub reachable): 13 studies (core: Ano and 
+Vasconcelles 2005; Chatters et al. 2008; Flannelly et al. 2006; Witvliet et al. 2022; Koenig et 
+al. 2015 religious CBT RCT; plus Beagan et al. 2012 Nova Scotia, Mantovani et al. 2017 and 
+Leavey et al. 2017 UK, Hankerson and Weissman 2012; counter-evidence Pargament et al. 2001, 
+Asser and Swan 1998, Phelps et al. 2009, Exline et al. 2014), 3 statistics (Pew 2021 97% 
+belief; StatCan 2021 68.8% Christian; Asser and Swan 172 deaths), 1 quotation (King 'Shattered 
+Dreams' draft wording, Stanford), 1 case (Rev. Michael Walrond, NPR 23 Mar 2025). KJV of all 
+requested verses checked against two public-domain texts; 1 Cor 1:12 confirmed and found to 
+rebuke division, so it undercuts the 'communal bonds' point (ch06). Could not find Brown and 
+Hughes (2017) or Harris and Young (2018). Open-claims rows 5-12 added; Book Bible citations 
+appended and Research marked done for 04; ch04 card created. Not done: no full texts opened; no 
+survey figures chosen. Open for the author: the two missing references; whether 1 Cor 12:12-27 
+was meant; Walrond case vs ch10.
+
+### 2026-11-10 · book-orchestrator · merge · ch04
+Author: keep the ch04 fact-check pack. Merged from claude/jolly-ride-12gkg1 (3c00a15): ch04-evidence.md, ch04 card, Book Bible citation rows, open-claims rows (renumbered after ch00's), source-map note. The pack was built on blueprint v1 and checked at search-result level only; re-check against v2 when ch04 runs. Superseded user-profile line not merged.
