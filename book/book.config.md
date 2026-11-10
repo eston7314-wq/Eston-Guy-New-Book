@@ -11,7 +11,7 @@ must lock them. Mark any row an agent inferred rather than you stated as **Infer
 | Topic (one sentence) | How the teachings, practices and community life of New Testament Christianity help, and sometimes harm, the mental health of people of African heritage in the UK, USA and Canada. |
 | Target reader | General public (author decision 2026-11-07): curious lay readers, Christian or not, with no specialist knowledge of theology or psychology. People of African heritage in the UK, USA and Canada, and the families and church members around them, are the readers the book speaks to most directly. |
 | Core transformation | **Inferred:** from seeing faith and mental-health care as rivals, or staying silent out of stigma, to using scripture, prayer and church community as real supports *alongside* professional help, and recognising when faith is being used in harmful ways |
-| Positioning angle | **Inferred:** combines New Testament reading, the colonial and missionary history, gospel music, and original survey and interview research from 50 participants across three countries (**on hold:** usable only once the author confirms the data are from real participants and consent covers a book; see blueprint); speaks honestly about both the healing and the harmful sides of faith. None of the five verified comparables covers the UK, the USA and Canada together |
+| Positioning angle | **Inferred:** combines New Testament reading, the colonial and missionary history, gospel music, and original survey and interview research from 50 participants across three countries (real participants, confirmed 2026-11-10; overall numbers only, see hard rule 10); speaks honestly about both the healing and the harmful sides of faith. None of the five verified comparables covers the UK, the USA and Canada together |
 | Tone | Warm and pastoral (author decision 2026-11-07); evidence stays in the background; reverent, never jokey |
 | Point of view | **Inferred:** first person singular (the author's own voice and experience); reader addressed as "you" |
 | Chapter count | **Inferred:** 10 chapters in four parts (Roots 01-02; What the New Testament Offers 03-06; When Faith Hurts 07-09; The Way Forward 10, 99), plus preface (00), afterword (99) and two short appendices. Proposed in book/01-outline/blueprint.md, 2026-11-07; awaiting author approval |
@@ -47,3 +47,10 @@ must lock them. Mark any row an agent inferred rather than you stated as **Infer
 9. An attribution the researcher cannot verify is not a reason to drop the quotation. It stays,
    marked `[UNVERIFIED: attribution]`, and the author decides. When the author confirms an item,
    replace the flag with `<!-- author-confirmed YYYY-MM-DD -->` so the build can proceed.
+10. **Survey data (author decision 2026-11-10).** The 50 survey replies are from real participants.
+    Because consent covered academic use, the book uses **only overall numbers** (counts and
+    proportions across the group, by country or sex at most), taken from the charts in
+    `book/source/images/`. Never an individual participant's answer, quotation, story or any detail
+    that could identify someone. Describe findings with the sample size (50) and do not claim they
+    represent all people of African heritage.
+

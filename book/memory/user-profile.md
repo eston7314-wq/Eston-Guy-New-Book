@@ -33,3 +33,4 @@ infers goes under "Proposed" until the author confirms it.
 | 2026-11-10 | The thesis master copy is the Google Drive file https://docs.google.com/document/d/1FZ3EtAZpxlmjN-lmXVzptyPK1GZ9JETU/edit | book/source/README.md, book.config.md |
 | 2026-11-10 | Use only the Google Drive version of the thesis; keep it in GitHub with all images | book/source/README.md |
 | 2026-11-10 | Survey (line 4624): "We got 50 replies": the 50 responses are from real participants. "Generated" meant collected. Consent for book use still to be confirmed | memory/context-cards/book.md |
+| 2026-11-10 | Consent: the book uses only overall (aggregate) survey numbers, never an individual participant's answer, quotation or identifiable detail | book.config.md hard rule 10; context card |

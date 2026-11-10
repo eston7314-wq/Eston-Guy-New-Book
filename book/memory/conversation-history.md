@@ -49,3 +49,8 @@ importance 1-5: 3/8/6/14/19). Author answered line 4624: "We got 50 replies", re
 Still open: consent for book use (4139, 4585, 4590); blueprint approval (change 3 can now be
 reversed if consent is confirmed).
 
+### 2026-11-10 · book-orchestrator · decision · book
+Author on consent: use only the overall numbers and no individual answers. Added as hard rule 10 in
+book.config.md; positioning row updated. Open: blueprint approval (including whether to restore
+the '50 Voices' chapter as aggregate findings).
+

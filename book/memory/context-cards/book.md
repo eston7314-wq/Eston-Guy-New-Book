@@ -15,7 +15,7 @@
 
 **Outstanding for the author**
 - ~~Line 4624: were the 50 responses real?~~ **Answered 2026-11-10: yes, 50 real replies** ("generated" meant collected). The 26 survey charts are now in book/source/images/ with their numbers. Survey figures may be used once consent is confirmed.
-- Consent covers academic use only (4139, 4585, 4590). Does it cover a book?
+- ~~Consent~~ **Decided 2026-11-10:** overall survey numbers only, no individual answers (config hard rule 10).
 - Approve the 10 structural changes in the blueprint; choose a title; choose a Bible translation.
 - Supply the story slots marked [AUTHOR STORY NEEDED] (9 of 12 slots).
 - Publishing route.
