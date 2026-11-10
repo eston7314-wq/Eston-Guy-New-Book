@@ -101,3 +101,85 @@ Each example is used once. If you need it again, refer back to it by name.
 | 09 | The Hardest Conversations: Suicide and Domestic Abuse | done | | | | | | |
 | 10 | The Church and the Clinic | done | | | | | | |
 | 99 | Afterword: Your Fortress, Not Your Prison | done | | | | | | |
+
+---
+
+## Blueprint v2 (proposed 2026-11-10 by book-strategist; NOT yet approved by the author)
+
+Source: `book/01-outline/blueprint-v2.md`. Author decision behind it: 11 chapters (2026-11-10). The v1 rows above stay as they are until the author approves v2. **If v2 is approved, this block supersedes the v1 Frameworks, Promises and Chapter status tables above.** The main renumbering: the Church and the Clinic moves from 10 to 11, and the new ch10 is "What Fifty People Told Me".
+
+### Consistency decisions (v2, pending)
+
+- (strategist, 2026-11-10) Survey numbers come only from `book/02-research/survey-aggregate.md` (config hard rule 10). Write each as "N of the 50". Never use the words "representative" or "balanced" for the sample. Never cite Fig.27, and never give education, employment or interview figures by country.
+- (strategist, 2026-11-10) Figures from Fig.5, Fig.7 and Fig.8 (church attendance, prayer, community worship) are used for "never" and "occasionally" only, because their answer options are out of order.
+- (strategist, 2026-11-10) The author's pronouns are he/him (author decision 2026-11-10, relayed by the coordinator).
+
+### Frameworks and named ideas (v2)
+
+| Name | One-line meaning | Chapter | Do not reintroduce after |
+|---|---|---|---|
+| The three strands (awareness, knowledge, practice) | The book's lens for how faith touches mental health | 00 | 00 (later chapters refer by name only) |
+| The double-edged inheritance | The faith was used against the ancestors and reclaimed by them | 01 | 01 |
+| Faith as intentional reaching | Faith acts before the evidence, like the woman who touched the garment; reaching out can include a doctor | 04 | 04 |
+| Spiritual practices as care | Prayer, scripture, worship and service as real practices of care, associated with (not proven to cause) better mental health | 05 | 05 |
+| The family house / pastoral first-aid | The church as extended family that carries people in crisis | 06 | 06 |
+| The three forms of stigma | Social, self and structural | 07 | 07 |
+| Mental illness is not moral failure | Illness is not sin; naming it is not faithlessness | 07 | 07 (ch08-11 refer back) |
+| Faith walks with treatment | In every condition, faith helps most alongside evidence-based care | 08 | 08 |
+| **The listening gap** (new) | 38 of the 50 say faith and practices help them manage mental-health challenges (Fig.13); only 23 of the 50 call their church supportive about mental health (Fig.19): faith is helping more than the church is listening | 10 | 10 (ch11 and 99 refer back by name only; the preface may show the two numbers without naming the gap) |
+| Church and clinic | Partnership: prayer can precede therapy, support it and strengthen it | 11 | 11 |
+| Fortress, not a prison | Faith should protect, never confine | 99 | 99 (do not use earlier; title candidate) |
+
+### Promises made to the reader (v2)
+
+| Promise | Made in | Paid off in |
+|---|---|---|
+| The book will be honest about where faith harms as well as heals | 00 | 07, 08, 09 |
+| You will not be asked to choose between your faith and your doctor | 00 | 11 |
+| What the 50 participants reported will be told honestly, as overall numbers, with its limits | 00 | 10 |
+| The limits of the research will be stated plainly | 00 | 10 (sample, self-report), 99 (scope, language, no clinical measures) |
+| Help is listed for anyone who needs it now | 00 | App. B (plus content notes in 00 and Part Three) |
+| We will hear how these same scriptures became songs of freedom | 01 | 02 |
+| The trauma of history will be met with practical care | 01 | 08 |
+| The songs drew on the teachings of Jesus, opened next | 02 | 03 |
+| Forgiveness never requires you to stay where you are being harmed | 03 | 09 |
+| How the healing story of the woman has been used to keep people from treatment | 04 | 07 |
+| Honesty about when prayer is not enough on its own | 05 | 08 |
+| What has to change so the first door (the pastor) leads to the right help | 06 | 11 |
+| Each common condition named plainly, with what faith and treatment offer | 07 | 08 |
+| What the 50 participants said about stigma and silence | 07 | 10 |
+| Where to get help in each country | 08 | App. B |
+| How church and clinic can actually work together | 08 | 11 |
+| Crisis lines in each country | 09 | 09 (chapter opening), App. B |
+| How leaders get trained and where referrals go | 09 | 11 |
+| What these fifty answers cannot tell us, and the questions they leave open | 10 | 99 |
+
+### Landing images (v2 owners)
+
+| Image | Lines | Owner |
+|---|---|---|
+| "Anchor, shield, sanctuary" | 4884-4885 | 06 |
+| "Mental illness is not moral failure" | 4942-4944 | 07 |
+| "...and above all, listen" | 4937-4938 | 10 |
+| "Prayer... can precede it, support it, strengthen it" | 4938-4940 | 11 |
+| "A place of deliverance... from suffering" | 4936-4937 | 11 (body) |
+| "YES, they do!"; "guilt versus healing, silence versus truth" | 4863-4869; 4895-4896 | 99 |
+| "Fortress, not a prison" | 4935-4936 | 99 |
+
+### Chapter status (v2)
+
+| # | Title | Outline | Research | Draft | Story pass | Dev edit | Copy edit | Final |
+|---|---|---|---|---|---|---|---|---|
+| 00 | Preface: Felt Before It Is Understood | done (v2, pending approval) | | | | | | |
+| 01 | A Faith Handed Down in Chains | done (v2, pending approval) | | | | | | |
+| 02 | Songs for Sorrow | done (v2, pending approval) | | | | | | |
+| 03 | The Way Home: The Teachings and Parables of Jesus | done (v2, pending approval) | | | | | | |
+| 04 | Thy Faith Hath Made Thee Whole: Miracles, Letters and Hope | done (v2, pending approval) | | | | | | |
+| 05 | Casting Your Cares: Prayer, Scripture and Worship | done (v2, pending approval) | | | | | | |
+| 06 | A Family House: The Church as Community | done (v2, pending approval) | | | | | | |
+| 07 | When Faith Becomes a Burden: Guilt, Demons and Stigma | done (v2, pending approval) | | | | | | |
+| 08 | Naming the Sorrow: Anxiety, Depression, Trauma, Addiction and Psychosis | done (v2, pending approval) | | | | | | |
+| 09 | The Hardest Conversations: Suicide and Domestic Abuse | done (v2, pending approval) | | | | | | |
+| 10 | What Fifty People Told Me | done (v2, pending approval) | survey-aggregate.md done | | | | | |
+| 11 | The Church and the Clinic | done (v2, pending approval) | | | | | | |
+| 99 | Afterword: Your Fortress, Not Your Prison | done (v2, pending approval) | | | | | | |

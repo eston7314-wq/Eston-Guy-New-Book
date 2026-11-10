@@ -22,7 +22,7 @@ Three things are locked by the author and not changed here: the general-public r
 10. **One new named idea and one new landing.** "The listening gap" (ch10), landing on "and above all, listen" (4937-4938).
 11. **Renumbered tables.** Every reference to the Church and the Clinic moves from 10 to 11, in the promises, owners, overlaps, Appendix A and the hooks.
 12. **Appendix A** now carries a one-page table of overall survey results. It still contains no individual data.
-13. **The author is referred to by name, without pronouns.** v1's positioning called the author a "Black British educator" with "30 years" in schools. Neither detail is in the source, so both now wait for the author to confirm.
+13. **Author facts.** The author's pronouns are he/him (author, 2026-11-10), as v1 used. v1's positioning called him a "Black British educator" with "30 years" in schools. Neither detail is in the source, so both now wait for him to confirm.
 14. **Title ranking unchanged.** The positioning gains one clause. A possible near-collision for the lead title is noted but could not be verified.
 15. **Story slots.** The participant source candidate in ch07 is removed (rule 10). Ch10 adds one author slot and contains no participant stories.
 16. **The survey's weaknesses are listed** (scale anchors, untested statistics, missing yes/no counts), and ch10 is written around them.
@@ -57,7 +57,7 @@ This book shows people of African heritage, and the families, church members and
 
 **Shelf:** Christian living / pastoral care / Christianity and mental health. The book-marketer confirms the category.
 
-**Angle (revised).** A North London educator and former Head of Religious Studies, Head of Year and Assistant Headteacher (98-116) reads the New Testament, the history of slavery and mission, and gospel music to ask one question: when does faith heal the mind, and when does it harm? The author answers warmly, from inside the church. **The answer is tested against what 50 people of African heritage in the UK, the USA and Canada reported.** Each chapter ends with practical help for families, church leaders and clinicians. `[AUTHOR TO CONFIRM: how to describe the author's own heritage, and the total years in teaching, for the bio and cover copy; v1's "Black British" and "30 years" are not in the source]`
+**Angle (revised).** A North London educator and former Head of Religious Studies, Head of Year and Assistant Headteacher (98-116) reads the New Testament, the history of slavery and mission, and gospel music to ask one question: when does faith heal the mind, and when does it harm? He answers warmly, from inside the church. **The answer is tested against what 50 people of African heritage in the UK, the USA and Canada reported.** Each chapter ends with practical help for families, church leaders and clinicians. `[AUTHOR TO CONFIRM: how to describe his own heritage, and his total years in teaching, for the bio and cover copy; v1's "Black British" and "30 years" are not in the source]`
 
 **Does the restored research change the angle?** Only by one clause. The survey is credibility, not the headline. Fifty participants is a strength in a pastoral book and a weakness in a research book, so the cover copy should say "the author asked 50 people in three countries" and never "a new study shows". *Troubled Minds* already uses a survey (of 500 churches), so a survey alone does not differentiate. What differentiates is the three-country frame and the listening-gap finding.
 
@@ -130,7 +130,7 @@ The cost is a long final part (9,500 words in three pieces). That is acceptable 
 - **00, -200.** The research paragraph is shorter now that it can be plain.
 - **ch07, -200.** The survey's stigma finding moves to ch10.
 
-**Ch10 is below the config's inferred 4,000-6,000 range on purpose.** Its source, the findings text plus the counts, is about 700 words of prose and 26 charts. At 3,500 words the chapter is already about five times its source. A 4,000-word chapter would have to pad, or would start interpreting numbers that 50 people cannot bear. The author should confirm that this exception is acceptable (open question 9).
+**Ch10 is below the config's inferred 4,000-6,000 range on purpose.** Its source, the findings text plus the counts, is about 700 words of prose and 26 charts. At 3,500 words the chapter is already about five times its source. A 4,000-word chapter would have to pad, or would start interpreting numbers that 50 people cannot bear. The author should confirm that this exception is acceptable (open question 8).
 
 The source supplies about 27,000 usable words once the table of contents, methodology, bibliography and most of the epistemology are set aside; the findings add about 700. Each chapter budget therefore assumes three sources of extra length:
 - the closing section the config requires (a reflection, then "For church leaders / For families / For clinicians", then discussion questions), at about 600 words;
@@ -145,7 +145,7 @@ No chapter may reach its budget through new argument.
 
 **Word budget:** 2,800
 
-**Brief.** Open on the author, not on the research. As Eston T. B. Guy finished the thesis, news came of Pope Francis's death. With it came the memory of the words to the woman with the issue of blood: "Thy faith hath made thee whole" (90-96). That moment, the author's family (86-88) and years of pastoral care in North London schools (98-116) are why the book exists. Quote only the line here. Chapter 04 tells the woman's story; the preface must not retell it.
+**Brief.** Open on the author, not on the research. As Eston T. B. Guy finished the thesis, he heard of Pope Francis's death and remembered the words to the woman with the issue of blood: "Thy faith hath made thee whole" (90-96). That moment, his family (86-88) and his years of pastoral care in North London schools (98-116) are why he wrote. Quote only the line here. Chapter 04 tells the woman's story; the preface must not retell it.
 
 **Essential arguments**
 1. Why this book, and for whom: faith gives many people of African heritage connection, identity and solidarity (506-515). Say plainly who the book speaks to most directly, and that it welcomes every reader.
@@ -159,7 +159,7 @@ No chapter may reach its budget through new argument.
    - Give **no more than two** overall findings, both from `survey-aggregate.md`. Recommended: 38 of the 50 said their faith and religious practices help them manage mental-health challenges (Fig.13), and only 23 of the 50 called their church community supportive about mental health (Fig.19). Together they set up the book's both/and argument without spending ch10's material.
    - Say in one sentence that 50 people cannot speak for everyone and the book will not pretend they do (4907-4910), and that ch10 reports what they said.
    - No participant's answer, story or words (rule 10).
-   - `[AUTHOR TO CONFIRM: whether the author conducted the interviews personally, so the preface can say "I spoke with twenty of them"]`
+   - `[AUTHOR TO CONFIRM: whether he conducted the interviews personally, so the preface can say "I spoke with twenty of them"]`
 5. "Faith is often felt before it is understood, and mental health is lived before it is named" (4921-4923): the reason the book moves from history and story towards practice.
 
 **Owns / does not:** owns the reason for the book, the term definitions, the three-strand lens and the first mention of the survey (two numbers at most). It does not tell the woman's story (ch04 owns that). It does not summarise the chapters one by one: one paragraph on the four parts, no more. It does not present the survey's results (ch10) or name the listening gap (ch10 names it; the preface only shows the two numbers).
@@ -495,7 +495,7 @@ It refers back to the woman with the issue of blood (ch04) to show how 3651-3655
 **Word budget:** 2,000 (v1: 2,500; -500 because the sample-size limits now sit in ch10)
 
 **Brief: not a summary.** It must not recap the chapter titles (a Book Bible rule). It makes three new moves:
-1. **The answer and its shadow.** The author's own answer to the book's question is "YES, they do!" (4863-4869). It comes with a tension: "guilt versus healing, silence versus truth" (4895-4896). Use 4878-4885 for the voice, but not the "anchor, shield, sanctuary" phrase (ch06 owns it). Refer to the fifty participants in a single clause ("the fifty people in chapter 10"), and do not repeat their numbers.
+1. **The answer and its shadow.** The author's own answer to his question is "YES, they do!" (4863-4869). It comes with a tension: "guilt versus healing, silence versus truth" (4895-4896). Use 4878-4885 for the voice, but not the "anchor, shield, sanctuary" phrase (ch06 owns it). Refer to the fifty participants in a single clause ("the fifty people in chapter 10"), and do not repeat their numbers.
 2. **Honest limits beyond the numbers.** "Now we see through a glass, darkly" (1 Corinthians 13:12; 998-1001).
    - The study did not examine denominational differences, long-term outcomes or clinical measures (4913-4919).
    - Words like "spiritual warfare", "breakthrough" and "trauma" do not translate cleanly between the church and the clinic. Many participants used the first pair where others used the second (4921-4929). This is group-level and allowed by rule 10.
@@ -504,7 +504,7 @@ It refers back to the woman with the issue of blood (ch04) to show how 3651-3655
 
 **Owns / does not:** owns "YES, they do!", "guilt versus healing, silence versus truth", the limits of scope and language, 1 Corinthians 13:12, the open questions and the fortress line. It does not return to Galatians 6:2 (ch06 owns it); 4948-4950 may refer back in a single clause. It must not retell any story or repeat any survey number.
 **Shift:** "Faith and mental health is a closed question: either it works or it doesn't" -> "My faith can be my fortress, and I will not let it become my prison."
-**Story slot:** must prove the author's hope for family and community. Source: 86-88 and 116-121 (family, dedication, thanksgiving). Also needed: [AUTHOR STORY NEEDED: what you hope your grandchildren's church will be like on mental health].
+**Story slot:** must prove the author's hope for his own family and community. Source: 86-88 and 116-121 (family, dedication, thanksgiving). Also needed: [AUTHOR STORY NEEDED: what you hope your grandchildren's church will be like on mental health].
 **Lands on:** "Your faith has been your fortress, but it should not be your prison" (4935-4936). Quote this sentence only; ch10 owns "above all, listen" and ch11 owns "a place of deliverance".
 **Promises made:** none new. Every open question is stated as open, not promised.
 
@@ -702,18 +702,17 @@ Promises, frameworks and chapter status for v2 are appended there as a separate 
 Most important first.
 
 1. **Approve the v2 structure:** 11 chapters, the restored chapter placed at 10, and Part Four combined as "Listening and the Way Forward" rather than a separate research part. Also choose the chapter title: "What Fifty People Told Me" (recommended), "What 50 Voices Told Me", or "Fifty People, Three Countries".
-2. **How should the book and its cover copy refer to you?** You have not stated pronouns. This blueprint uses your name only. The book itself is in the first person, but the bio, back cover and press material need a choice. (The memory profile's confirmed section also says "his", which only you or the orchestrator can confirm or change.)
-3. **The survey data behind the charts.**
+2. **The survey data behind the charts.**
    - Did the live Google Form really list "Daily" below "Weekly" for church attendance, prayer and community worship?
    - Do you have the counts for the yes/no questions: sought professional help, sought help from a faith leader, spiritual counselling, used faith for emotional support? And for age group and denomination?
    - Do you have the SPSS output behind "significantly associated" (4658-4663)?
    - The help-seeking counts would be the strongest numbers in the book.
-4. **Did you conduct the interviews yourself?** If so, the preface can say "I spoke with twenty of them". Also confirm that 20 is the right interview figure (it comes only from Fig.26).
-5. **Title.** "A Fortress, Not a Prison" remains first; the working title remains second, for the reasons in the table. Note the possible near-collision found today (unverified).
-6. **Bible translation.** The thesis quotes KJV/AKJV wording; choose one for the book.
-7. **Story slots.** Eleven of thirteen slots need an author story (ch06 has an optional one). The new one is ch10: what it was like to ask, with no participant detail. The preface, ch01, ch04, ch05, ch07 and ch08 matter most.
-8. **The remaining structural changes** (rows 1, 2 and 4-10 above, carried from v1), especially the two chapter splits (rows 1 and 2) and moving the fortress line to the afterword (row 4).
-9. **Ch10 at 3,500 words**, below the inferred 4,000-word floor per chapter. Is that acceptable, or should the floor be relaxed for ch10, as it is for the preface and afterword?
-10. **Positioning facts for the bio:** how to describe your heritage, and your total years in teaching (v1's "Black British" and "30 years" are not in the source).
-11. **Charts in the book.** May ch10 carry three or four redrawn charts of overall results, and Appendix A a one-page table of overall results?
-12. **Still open from v1:** the publishing route, and a clinician to review ch08 and ch09.
+3. **Did you conduct the interviews yourself?** If so, the preface can say "I spoke with twenty of them". Also confirm that 20 is the right interview figure (it comes only from Fig.26).
+4. **Title.** "A Fortress, Not a Prison" remains first; the working title remains second, for the reasons in the table. Note the possible near-collision found today (unverified).
+5. **Bible translation.** The thesis quotes KJV/AKJV wording; choose one for the book.
+6. **Story slots.** Eleven of thirteen slots need an author story (ch06 has an optional one). The new one is ch10: what it was like to ask, with no participant detail. The preface, ch01, ch04, ch05, ch07 and ch08 matter most.
+7. **The remaining structural changes** (rows 1, 2 and 4-10 above, carried from v1), especially the two chapter splits (rows 1 and 2) and moving the fortress line to the afterword (row 4).
+8. **Ch10 at 3,500 words**, below the inferred 4,000-word floor per chapter. Is that acceptable, or should the floor be relaxed for ch10, as it is for the preface and afterword?
+9. **Positioning facts for the bio:** how to describe your heritage, and your total years in teaching (v1's "Black British" and "30 years" are not in the source).
+10. **Charts in the book.** May ch10 carry three or four redrawn charts of overall results, and Appendix A a one-page table of overall results?
+11. **Still open from v1:** the publishing route, and a clinician to review ch08 and ch09.

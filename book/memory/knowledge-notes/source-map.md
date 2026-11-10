@@ -24,3 +24,15 @@ Added by book-strategist, 2026-11-07, from a full read of book/source/thesis-202
 - Known factual slips for the researcher: Moravians "1772" (should be 1732, line 3843); "1060s" (4040);
   "suicide is a crime" in the UK and Canada (3074-3079); Mark "64 B.C.E." (1725); "1 Corinthians 12" quote
   is 1:12 (2156); Elevation Worship is a US band (2510); "Wittgenstein (1889)" is his birth year (68).
+
+## Correction, 2026-11-10 (book-strategist)
+
+The bullet above saying "Findings (4616-4858) hold no data" is **superseded**. The Drive master's
+images are now in `book/source/images/`: 26 charts (image2-image27) for Fig.1-21 and Fig.23-27, and
+Fig.22 is a text table. All counts are transcribed in `book/02-research/survey-aggregate.md`. Every
+chart totals 50 (or UK 20 / USA 16 / Canada 14). Eight Fig.27 columns were re-tallied and match the
+charts exactly. Line 4624: the author confirmed the 50 replies are real. Consent: overall numbers
+only (config hard rule 10). There are still no verbatim interview quotations, and none may be used.
+Fig.27 is participant-level and must never be reproduced. Known weaknesses: out-of-order answer options
+in Fig.5, 7 and 8; SPSS results not reported; yes/no help-seeking, age and denomination questions not
+charted; 20 interviewees (Fig.26 is the only source).

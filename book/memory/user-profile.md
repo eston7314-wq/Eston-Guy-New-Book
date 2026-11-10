@@ -9,6 +9,7 @@ infers goes under "Proposed" until the author confirms it.
 - Book: book of his 2025 PhD thesis (Selinus University) on New Testament Christianity and the mental health of people of African heritage in the UK, USA and Canada
 - Working style with AI: [e.g. wants pushback, not validation; direct and concise]
 - Spelling and punctuation: British (proposed, awaiting confirmation)
+- Pronouns: he/him (author, 2026-11-10)
 
 ## Voice (observed in the author's drafts)
 
@@ -20,6 +21,9 @@ infers goes under "Proposed" until the author confirms it.
 - (book-strategist, 2026-11-07, inferred from thesis 7.3-7.5) Prefers to end on practice and hope with a charge to the church, not on mystery.
 - (book-strategist, 2026-11-07, inferred) Pairs every harm with a church response that works; the blueprint keeps that pattern in ch07-09.
 - (book-strategist, 2026-11-07) The blueprint proposes ten numbered chapters plus a short afterword; the author to confirm.
+- (book-strategist, 2026-11-10, relayed by the coordinator) Author asked for 11 chapters, restoring the survey chapter as ch10 before the Church and the Clinic; main text about 50,000-52,000 words. Not yet in the decisions log below; supersedes the 2026-11-07 ten-chapter proposal above.
+- (book-strategist, 2026-11-10, inferred) Wants the author's own research visible in the book as a chapter, not only in an appendix, within the aggregate-only consent limit.
+- (book-strategist, 2026-11-10, inferred) Reviews by comparing versions side by side; keep earlier versions intact and lead with a "what changed" list.
 
 ## Decisions log (author decisions, dated)
 
