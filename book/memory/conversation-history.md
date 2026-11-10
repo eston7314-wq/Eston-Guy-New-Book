@@ -203,3 +203,13 @@ Chronic-illness risk clause now cited (CDC, NIMH, NICE CG91): open-claims 23 res
 against image14/20/23/26. No wording changed; 3 hidden citation notes added. Updated 
 open-claims (8, 9, 13, 23, new 24), Book Bible citations and status, terms-glossary, ch00 card. 
 Output: book/02-research/ch00-factcheck.md. Not committed.
+
+### 2026-11-10 · book-researcher · fact-check · ch00
+Author decision relayed by the coordinator (recorded in user-profile.md 2026-11-10): the 
+chronic-illness sentence in book/04-edited/ch00-preface.md (thesis 1184-1188) replaced by the 
+author's wording 'Some people believe that long-term physical illness raises the risk of some 
+mental-health problems, including excessive stress.' plus <!-- author-confirmed 2026-11-10 -->. 
+Removed with it: the row-24 [UNVERIFIED] flag and the CDC/NIMH/NICE citation note (kept as an 
+optional endnote in ch00-factcheck.md addendum). Chapter now has 0 [UNVERIFIED]. Open-claims 23 
+and 24 resolved (author-confirmed wording). Cut-list row 30 records the removed source wording 
+with the author's decision. Bible status and card updated. Not committed.

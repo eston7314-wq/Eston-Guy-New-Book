@@ -26,9 +26,9 @@ Against: `book/source/thesis-2025.md`, `book/02-research/ch00-evidence.md`,
 |---|---|
 | Verified (thesis, charts or search-level) | 34 |
 | Corrected | 0 (no factual error found; see "Changes made in the chapter") |
-| Unverified (flag in chapter) | 1 |
+| Unverified (flag in chapter) | 0 (the one flag, row 37, was superseded by author decision; see Addendum) |
 | Author testimony | 8 (rows 16 and 17 also carry career testimony; counted under author-confirmed for the names) |
-| Author-confirmed | 6 |
+| Author-confirmed | 6 (+1 by the addendum: rows 37-38 replaced by author-confirmed wording) |
 | **Total claims checked** | **49** |
 
 ## Claims
@@ -135,3 +135,29 @@ for physical illness than on physical illness shaping behaviour. NICE CG91 also 
 symptoms (such as fatigue) that make depression harder to recognise in people with chronic illness.
 The preface's general claim holds; its first clause, as written, has the direction the sources
 least support.
+
+## Addendum: author decision on the chronic-illness sentence (2026-11-10)
+
+Relayed by the coordinator; recorded in `book/memory/user-profile.md` decisions log (2026-11-10,
+"Chronic illness claim (thesis 1184-1188; open-claims row 23) reworded by the author").
+
+| Before (l.45, after the fact check above) | After |
+|---|---|
+| "Long-lasting conditions such as diabetes, heart disease and stroke affect how we behave [UNVERIFIED: "affect how we behave" ... open-claims row 24], and living with a chronic condition can raise the risk of developing a mental-health condition.`<!-- note: CDC ...; NIMH ...; NICE CG91 ... -->`" | "Some people believe that long-term physical illness raises the risk of some mental-health problems, including excessive stress. `<!-- author-confirmed 2026-11-10 -->`" |
+
+- Verdict for claims 37 and 38: **author-confirmed** (belief framing, config rule 5; no citation
+  required). The chapter now has **0 `[UNVERIFIED]` flags**.
+- The author's wording uses his capital-S sentence start; otherwise verbatim. It follows "Mind and
+  body are bound up together, too." and closes the paragraph.
+- The removed source wording (diabetes, heart disease, stroke; "affect how we behave") is logged
+  on `book/03-drafts/ch00-cut-list.md` with the author's decision, per config rule 8.
+- **Optional endnote** (the belief is also what these bodies report, search-level, pages not
+  opened): CDC, "About Mental Health", https://www.cdc.gov/mental-health/about/index.html ("the
+  presence of chronic conditions can increase the risk for developing a mental health condition");
+  NIMH, "Understanding the Link Between Chronic Disease and Depression",
+  https://www.nimh.nih.gov/health/publications/chronic-illness-mental-health ; NICE CG91 (2009),
+  https://www.nice.org.uk/guidance/cg91/chapter/Context (depression about 2-3 times more common with
+  a chronic physical health problem). Note for the author: these sources support depression rather
+  than "excessive stress" specifically; as a belief statement that does not matter, but an endnote
+  should not imply they say "stress". Not inserted in the text.
+- open-claims rows 23 and 24 marked resolved (author-confirmed wording).
