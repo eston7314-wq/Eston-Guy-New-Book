@@ -8,7 +8,7 @@
 - Reader: the general public. Tone: warm and pastoral. Launch: May 2027.
 - 11 chapters (author, 2026-11-10). v2 proposes ch10 "What Fifty People Told Me" and ch11 "The Church and the Clinic", in four parts; Part Four is "Listening and the Way Forward" (10, 11, 99).
 - Survey: 50 real participants; overall numbers only (config rule 10). The only source for numbers is 02-research/survey-aggregate.md. Never use Fig.27.
-- Methodology goes to Appendix A; the literature review is spread through the chapters.
+- Methodology to Appendix A; literature review spread through chapters.
 
 **Outstanding for the author**
 - Approve v2 (structure, parts, ch10 title); choose a title; choose a Bible translation.
