@@ -191,3 +191,15 @@ triads, two 'Think of' openers, promises). Flags, author-confirmed comment, surv
 scripture, help-line note, headings and closer unchanged (verified by diff). Body about 2,550 
 words incl. 202-word story brief. Card stage: humanize; Book Bible humanize note added. Next: 
 fact check. Not committed.
+
+### 2026-11-10 · book-researcher · fact-check · ch00
+Mode B fact check of book/04-edited/ch00-preface.md. 49 claims checked: 34 verified (thesis, 
+charts, search-level), 0 corrected, 1 unverified, 8 author testimony, 6 author-confirmed. 
+WebFetch failed at DNS for www.cdc.gov and www.who.int; no further hosts tried; all external 
+evidence search-level. CDC 'think, feel and act ... make healthy choices' traced to current 
+cdc.gov 'About Mental Health' (not only the 2012 archive); WHO paraphrase faithful. 
+Chronic-illness risk clause now cited (CDC, NIMH, NICE CG91): open-claims 23 resolved; new row 
+24 flags 'affect how we behave' (sources give the reverse direction). Survey numbers re-checked 
+against image14/20/23/26. No wording changed; 3 hidden citation notes added. Updated 
+open-claims (8, 9, 13, 23, new 24), Book Bible citations and status, terms-glossary, ch00 card. 
+Output: book/02-research/ch00-factcheck.md. Not committed.

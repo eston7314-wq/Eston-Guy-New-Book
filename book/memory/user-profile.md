@@ -45,4 +45,5 @@ infers goes under "Proposed" until the author confirms it.
 | 2026-11-10 | Name Father F. W. G. Perkins, H. Gould, T. Hartney and Professor Salvatore Fava from the acknowledgements | ch00 (author-confirmed) |
 | 2026-11-10 | GCSE results described as "one of the best in the history of the school, at that time", as the author's own recollection | ch00 |
 | 2026-11-10 | The author is of African heritage: the book may say "our ancestors" and "we" about people of African heritage | all chapters; Book Bible voice rules |
+| 2026-11-10 | Chronic illness claim (thesis 1184-1188; open-claims row 23) reworded by the author: "some people believe that long-term physical illness raises the risk of some mental-health problems, including excessive stress". Framed as belief (config rule 5); author-confirmed wording | ch00 |
 
