@@ -41,7 +41,8 @@ infers goes under "Proposed" until the author confirms it.
 | 2026-11-10 | Write the whole book using the humanizer skill, for all chapters | book.config.md hard rule 11; book-bible voice rules; .claude/skills/humanizer/; write-book skill sequencing |
 | 2026-11-10 | "write this book": taken as approval of blueprint-v2 (11 chapters) to start drafting; open questions in v2 still to be answered | memory/context-cards/book.md |
 | 2026-11-10 | Mental-health definition: combine the WHO and US CDC descriptions, each credited to its own source | ch00; Book Bible key term to be corrected |
-| 2026-11-10 | "I conducted the surveys myself" (whether this covers the 20 interviews: asked) | ch00 research paragraph; ch10; App. A |
+| 2026-11-10 | "I conducted the surveys myself"; and "I carried out the 20 follow-up interviews myself" | ch00 research paragraph; ch10; App. A |
 | 2026-11-10 | Name Father F. W. G. Perkins, H. Gould, T. Hartney and Professor Salvatore Fava from the acknowledgements | ch00 (author-confirmed) |
 | 2026-11-10 | GCSE results described as "one of the best in the history of the school, at that time", as the author's own recollection | ch00 |
+| 2026-11-10 | The author is of African heritage: the book may say "our ancestors" and "we" about people of African heritage | all chapters; Book Bible voice rules |
 
