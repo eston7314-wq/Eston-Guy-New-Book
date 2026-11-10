@@ -86,3 +86,21 @@ so every session has it. Added config hard rule 11, a Book Bible voice rule, a C
 non-negotiable and a humanize stage in write-book's chapter sequencing (after devedit, before
 fact check). Took "write this book" as approval of blueprint-v2 to begin drafting; started ch00.
 
+
+### 2026-11-10 · book-researcher · research · ch00
+Mode A evidence pack written to book/02-research/ch00-evidence.md. Verified against repository 
+files: preface source lines; survey counts re-read from the chart images (Fig.13 38/50 = 24+14; 
+Fig.19 23/50 = 13+10; Fig.26 20 interviewed, 8/7/5; Fig.22 20/16/14) and phrasing rules under 
+hard rule 10. Corrected: thesis 'WHO, 2010' definition (1172-1182) is half CDC wording; 2010 
+source and URL untraceable. 'Wittgenstein (1889)' is his birth year; the work is Philosophical 
+Investigations s.43 (1953; 2009 4th ed. cited at 890), and the thesis drops 'though not for 
+all'. 'Thy Faith had made thee whole' should read 'hath' (KJV Luke 8:48). Search-verified: Pope 
+Francis died 21 April 2025; Samaritans 116 123; 988 USA; 9-8-8 Canada (launched 30 Nov 2023). 
+Tool limits: WebFetch could not resolve who.int or cdc.gov; curl was refused by the permission 
+system and was not retried. No external page was opened, so studies (Smith et al. 2003; Ano and 
+Vasconcelles 2005; Pew 2021) are listed as could-not-verify leads with counter-evidence 
+(religiousness-depression r about -.10). Book Bible: 8 citation rows plus a proposed correction 
+to the 'Mental health' key-term row; open-claims rows 9-14; glossary note filled. 
+Acknowledgement career details marked author testimony, not checked. Did not draft or commit. 
+Open for the author: WHO-only or WHO+CDC wording; naming Perkins, Gould and Hartney; the GCSE 
+claim; who conducted the interviews.

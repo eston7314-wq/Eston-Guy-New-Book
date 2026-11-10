@@ -62,7 +62,14 @@ Each example is used once. If you need it again, refer back to it by name.
 
 | Claim | Source | Chapter |
 |---|---|---|
-| | | |
+| Survey: 50 participants (UK 20, USA 16, Canada 14; 30 women, 20 men); 20 of them interviewed | survey-aggregate.md, Fig.22-23, Fig.26; thesis 4822-4832, 4507-4509 (researcher re-checked images, 2026-11-10) | 00 (first mention; ch10 and App. A own the detail) |
+| 38 of the 50 said they believe their faith and religious practices help manage mental-health challenges ("yes" 24 + "very much so" 14) | survey-aggregate.md, Fig.13 (image14.png) | 00 (preview only; ch10 owns) |
+| 23 of the 50 described their church community as supportive or very supportive about mental health (13 + 10) | survey-aggregate.md, Fig.19 (image20.png) | 00 (preview only; ch10 owns) |
+| Pope Francis died 21 April 2025 (Easter Monday), aged 88 | Vatican News, 21 April 2025, https://www.vaticannews.va/en/pope/news/2025-04/pope-francis-dies-on-easter-monday-aged-88.html (search-verified) | 00 |
+| Luke 8:48 KJV: "Daughter, be of good comfort: thy faith hath made thee whole; go in peace" (thesis 94-95 misquotes "had") | KJV, https://www.kingjamesbibleonline.org/Luke-8-48/ (search-verified). Parallels Mark 5:34, Matt. 9:22 | 00 (line only; ch04 owns the story) |
+| Wittgenstein, meaning as use: *Philosophical Investigations* §43, first published 1953; 4th ed. Wiley-Blackwell 2009 (Hacker and Schulte). 1889 is his birth year | SEP "Ludwig Wittgenstein", https://plato.stanford.edu/entries/wittgenstein/ ; Wiley listing ISBN 978-1-4051-5928-9 (search-verified). Exact §43 sentence not verified | 00 |
+| WHO definition of mental health (state of mental well-being; cope with stresses, realise abilities, learn and work, contribute to community). Exact wording to be re-checked before quoting | WHO fact sheet "Mental health", https://www.who.int/news-room/fact-sheets/detail/mental-health-strengthening-our-response (search only; page not opened) | 00 |
+| Help lines: Samaritans 116 123 (UK and ROI, free, 24/7); 988 Suicide & Crisis Lifeline (USA, call/text 988); 9-8-8 Suicide Crisis Helpline (Canada, call/text, launched 30 Nov 2023) | samaritans.org; 988lifeline.org; 988.ca and canada.ca (search-verified 2026-11-10; re-check at proof) | 00 content note (App. B owns the full list; ch09 opening repeats) |
 
 ## Promises made to the reader (must be paid off)
 
@@ -114,6 +121,7 @@ Source: `book/01-outline/blueprint-v2.md`. Author decision behind it: 11 chapter
 - (strategist, 2026-11-10) Survey numbers come only from `book/02-research/survey-aggregate.md` (config hard rule 10). Write each as "N of the 50". Never use the words "representative" or "balanced" for the sample. Never cite Fig.27, and never give education, employment or interview figures by country.
 - (strategist, 2026-11-10) Figures from Fig.5, Fig.7 and Fig.8 (church attendance, prayer, community worship) are used for "never" and "occasionally" only, because their answer options are out of order.
 - (strategist, 2026-11-10) The author's pronouns are he/him (author decision 2026-11-10, relayed by the coordinator).
+- (researcher, 2026-11-10, correction proposed for the "Mental health" key-term row) The wording "emotional, psychological and social well-being ... how we think, feel, act" in thesis 1172-1182 is **CDC** wording, not WHO's; only "cope with the stresses of life ... realise abilities ... contribute" is WHO's. "WHO, 2010" could not be traced. Credit each body for its own words (see 02-research/ch00-evidence.md, 1.1). Wittgenstein is cited as *Philosophical Investigations* (1953; 2009 ed.), never "(1889)".
 
 ### Frameworks and named ideas (v2)
 
@@ -171,7 +179,7 @@ Source: `book/01-outline/blueprint-v2.md`. Author decision behind it: 11 chapter
 
 | # | Title | Outline | Research | Draft | Story pass | Dev edit | Copy edit | Final |
 |---|---|---|---|---|---|---|---|---|
-| 00 | Preface: Felt Before It Is Understood | done (v2, pending approval) | | | | | | |
+| 00 | Preface: Felt Before It Is Understood | done (v2, pending approval) | evidence pack done (02-research/ch00-evidence.md) | | | | | |
 | 01 | A Faith Handed Down in Chains | done (v2, pending approval) | | | | | | |
 | 02 | Songs for Sorrow | done (v2, pending approval) | | | | | | |
 | 03 | The Way Home: The Teachings and Parables of Jesus | done (v2, pending approval) | | | | | | |
