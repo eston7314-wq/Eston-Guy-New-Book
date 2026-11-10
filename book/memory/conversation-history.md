@@ -160,3 +160,24 @@ sentences verbatim, content note, headings, closer. No source cut, so no cut-lis
 before editor notes 2,420 to 2,609 (+7.8%, mostly the slot brief). Not done: no commit; no 
 author material invented; closer not retuned (does not depend on the story). Open for the 
 author: the story; heritage; the four names; interviews; WHO wording; 29 cut-list rows.
+
+### 2026-11-10 · developmental-editor · devedit · ch00
+Dev edit of the post-story draft. Output book/04-edited/ch00-preface.md and ch00-edit-memo.md. 
+Verdict: ready for humanize/fact check (author story still missing; weakest point). Applied 
+author decisions of 2026-11-10 relayed by the coordinator: mental health credited to CDC and 
+WHO separately, both paraphrased, so the WHO-wording flag is resolved by decision (open-claims 
+row 9 still open for source re-check); 'I conducted the survey and the interviews myself' 
+(interview flag resolved); Fava, Perkins, Gould and Hartney named, one author-confirmed 
+comment; GCSE 'one of the best in the history of the school, at that time' as recollection; 
+author is of African heritage, so 'many of us', 'our communities', 'our faith and practice', 
+'our ancestors' used, with the welcome to all readers kept. Structure: first H2 split; new H2 
+'Many people sent me to this research'. Hook now 'To see why the same faith can both heal and 
+wound...'. Psalms hypothetical trimmed to one 'may' sentence; woman and grandmother/young man 
+kept; all three read as imagined. Parts paragraph reduced to book-map wording. Home-section 
+triads merged. Sentence four checked: restates the thesis question (title; 1189-1190), kept. 
+First-paragraph punctuation already correct in the input (ends on sentence four; quotation 
+closes before the citation), so no change was needed. Survey sentences unchanged. Book Bible: 
+Mental health key-term row corrected, v2 status Dev edit = done, dev-edit block appended. Cut 
+list unchanged (29 rows, no additions). Words 2,610 to about 2,550 before notes. Not done: no 
+commit; story not filled; user-profile not edited. Open for the author: the story; 29 cut-list 
+rows.

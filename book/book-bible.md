@@ -28,7 +28,7 @@ repeat it.
 | Term | Our definition | First defined in |
 |---|---|---|
 | African heritage | The author's usage (thesis 66-78): people often called Black or mixed-race (one parent of African descent), including African, Afro-Caribbean, African American, African Canadian and African British people | 00 |
-| Mental health | WHO description (thesis 1172-1182): emotional, psychological and social well-being that shapes how we think, feel, act, cope and relate | 00 |
+| Mental health | Two descriptions, each credited to its own body (author decision 2026-11-10; thesis 1172-1182 credits all of it to "WHO, 2010", which could not be traced). US CDC: emotional, psychological and social well-being; how we think, feel and act, handle stress, relate to others and make healthy choices. WHO: a state of well-being that lets us cope with the stresses of life, realise our abilities, learn and work, and contribute to our community. Paraphrased in 00, not quoted | 00 |
 | Religious awareness / knowledge / practice | The three strands (thesis 2768-2781): recognising one's faith; understanding its texts and doctrines; doing it (prayer, worship, scripture, Eucharist) | 00 |
 | Faith | The author's definition (thesis 2135-2140): a strong personal belief in God's power and in Jesus incarnate; confidence in what is hoped for. Shown as intentional action (2093-2094) | 04 |
 | Spiritual practice | An activity a believer performs regularly to strengthen faith and connect with God (thesis 2180-2186) | 05 |
@@ -197,7 +197,7 @@ Source: `book/01-outline/blueprint-v2.md`. Author decision behind it: 11 chapter
 
 | # | Title | Outline | Research | Draft | Story pass | Dev edit | Copy edit | Final |
 |---|---|---|---|---|---|---|---|---|
-| 00 | Preface: Felt Before It Is Understood | done (v2, pending approval) | evidence pack done (02-research/ch00-evidence.md) | done 2026-11-10 (03-drafts/ch00-preface.md; cut list 29 rows) | done 2026-11-10 (pre-pass copy ch00-preface.pre-story.md; 1 new hypothetical) | | | |
+| 00 | Preface: Felt Before It Is Understood | done (v2, pending approval) | evidence pack done (02-research/ch00-evidence.md) | done 2026-11-10 (03-drafts/ch00-preface.md; cut list 29 rows) | done 2026-11-10 (pre-pass copy ch00-preface.pre-story.md; 1 new hypothetical) | done 2026-11-10 (04-edited/ch00-preface.md; memo ch00-edit-memo.md; ready for humanize/fact check) | | |
 | 01 | A Faith Handed Down in Chains | done (v2, pending approval) | | | | | | |
 | 02 | Songs for Sorrow | done (v2, pending approval) | | | | | | |
 | 03 | The Way Home: The Teachings and Parables of Jesus | done (v2, pending approval) | | | | | | |
@@ -254,3 +254,15 @@ Draft: `book/03-drafts/ch00-preface.md`. Cut list: `book/03-drafts/ch00-cut-list
 - Opening now sets Pope Francis's humility and concern for the oppressed (thesis 92-93) beside the Luke 8:48 line in paragraph one; "In the days that followed" removed (not in source). Woman's story still untold (ch04).
 - One new example, row added above: hypothetical woman before a hospital appointment (composite, "Think of"). Examples used in 00 now: 2 real (author testimony), 3 hypothetical.
 - Real cases in the packs still unused by any chapter: none in ch00-evidence.md (its only case is the author's own story). Rev. Michael Walrond (NPR, 23 Mar 2025) in ch04-evidence.md remains unclaimed; ch04 or ch10 to decide.
+
+### Ch00 dev edit (developmental-editor, 2026-11-10)
+
+Edited file: `book/04-edited/ch00-preface.md`. Memo: `book/04-edited/ch00-edit-memo.md`. Verdict: ready for humanize/fact check (author story still missing).
+
+- **Author decisions applied (2026-11-10):** mental health is credited to the CDC and the WHO separately and paraphrased (the key-term row above is corrected to match; the ch00 draft-block "Mental health" row is superseded). Later chapters must not call the CDC wording WHO's. "I conducted the survey and the interviews myself" (supersedes the `[AUTHOR TO CONFIRM]` note in the ch00 survey row). Fava, Perkins, Gould and Hartney named, `author-confirmed 2026-11-10` (supersedes "names flagged" in the school-career row). GCSE: "one of the best in the history of the school, at that time", as his recollection. Author is of African heritage: 00 now uses "many of us", "our communities", "our faith and practice" and "our ancestors"; later chapters may do the same, keeping the welcome to every reader.
+- **Structure:** new H2 "Many people sent me to this research" (family, mentors, school, story slot, dedication); first H2 now covers only the Luke line and the thesis question. H2 renamed "Faith gives many of us a home, and a home can also hurt".
+- **Examples adjusted:** the hypothetical man with the psalms is trimmed to one sentence ("A man may still know by heart the psalms he learned as a boy..."), same section, still hypothetical. The woman before a hospital appointment and the grandmother and young man are unchanged. Examples used in 00: 2 real (author testimony), 3 hypothetical.
+- **Bridge into ch01 (now):** "To see why the same faith can both heal and wound, we have to begin with an older question. How did this faith reach our ancestors, and how did it come to be handed down in chains?" Ch01 opens on that question.
+- **Parts paragraph** uses the book-map wording only (no chapter list). The promise that the afterword says what the research could not show is made in the research section.
+- **Promises:** all five v2 promises present; no rows moved.
+
