@@ -211,6 +211,10 @@ Source: `book/01-outline/blueprint-v2.md`. Author decision behind it: 11 chapter
 | 11 | The Church and the Clinic | done (v2, pending approval) | | | | | | |
 | 99 | Afterword: Your Fortress, Not Your Prison | done (v2, pending approval) | | | | | | |
 
+**Humanize status** (pass after the dev edit, before the fact check; config hard rule 11; no column in the table above):
+
+- 00: Humanize: done 2026-11-10 (04-edited/ch00-humanize-log.md; 1 change, §4 staged run-up; pre-pass copy ch00-preface.pre-humanize.md). Kept for voice: the author's own "plays a very significant role" (thesis 506) and the source triads in the home section.
+
 ### Ch00 draft additions (chapter-writer, consolidate, 2026-11-10)
 
 Draft: `book/03-drafts/ch00-preface.md`. Cut list: `book/03-drafts/ch00-cut-list.md` (29 rows).

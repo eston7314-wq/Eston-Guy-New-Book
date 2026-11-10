@@ -181,3 +181,13 @@ Mental health key-term row corrected, v2 status Dev edit = done, dev-edit block 
 list unchanged (29 rows, no additions). Words 2,610 to about 2,550 before notes. Not done: no 
 commit; story not filled; user-profile not edited. Open for the author: the story; 29 cut-list 
 rows.
+
+### 2026-11-10 · copy-editor · humanize · ch00
+Humanize pass on book/04-edited/ch00-preface.md (config rule 11, skill humanizer v3.0.0), in 
+place; pre-pass copy ch00-preface.pre-humanize.md; log ch00-humanize-log.md. 1 prose change 
+(§4 staged run-up: 'something harder to replace' joined to its point with a colon); all other 
+patterns checked and clean or deliberately kept (author's own thesis 506 sentence, source 
+triads, two 'Think of' openers, promises). Flags, author-confirmed comment, survey sentences, 
+scripture, help-line note, headings and closer unchanged (verified by diff). Body about 2,550 
+words incl. 202-word story brief. Card stage: humanize; Book Bible humanize note added. Next: 
+fact check. Not committed.
