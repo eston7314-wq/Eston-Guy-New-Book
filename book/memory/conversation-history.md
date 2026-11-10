@@ -39,3 +39,13 @@ Author gave the thesis location: https://docs.google.com/document/d/1FZ3EtAZpxlm
 the same file name as the converted source (THESIS -UNISE0700EG_Main_Lastest_14Jan25_v02.docx, modified
 2026-04-06). Recorded in source/README.md, book.config.md and user-profile.md. Ch00 drafting is on hold
 pending the author's answers on blueprint approval, survey data provenance and how to run the agents.
+
+### 2026-11-10 · book-orchestrator · source · book
+Author: use only the Drive version, and keep it in GitHub with all images. Downloaded the .docx
+from Drive to book/source/original/. Re-converted text is identical to thesis-2025.md (5,483 lines,
+0 differences), so line references hold. Extracted the 27 images (logo + 26 chapter-6 charts) to
+book/source/images/ and wrote thesis-2025-with-images.md. The charts carry real counts (e.g. faith
+importance 1-5: 3/8/6/14/19). Author answered line 4624: "We got 50 replies", real participants.
+Still open: consent for book use (4139, 4585, 4590); blueprint approval (change 3 can now be
+reversed if consent is confirmed).
+

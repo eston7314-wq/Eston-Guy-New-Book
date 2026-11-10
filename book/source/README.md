@@ -5,13 +5,24 @@ chapters. Nothing here goes into `book/05-final/` without passing through the pi
 
 | File | Origin | Modified | Words |
 |---|---|---|---|
-| thesis-2025.md | Author's PhD thesis (Selinus University, 2025), file "THESIS - UNISE0700EG Main Latest 14Jan25 v02.docx", converted to plain text with pandoc. Images and charts were not carried over; figure captions remain. | 2026-11-07 | ~38,600 (including front matter and bibliography) |
+| thesis-2025.md | Author's PhD thesis (Selinus University, 2025), file "THESIS - UNISE0700EG Main Latest 14Jan25 v02.docx", converted to plain text with pandoc. Images were not carried over in the first conversion; they are now in `images/` (see below). | 2026-11-07 | ~38,600 (including front matter and bibliography) |
 
 **Master copy (author, 2026-11-10):** the thesis lives in Google Drive at
 https://docs.google.com/document/d/1FZ3EtAZpxlmjN-lmXVzptyPK1GZ9JETU/edit
 (file "THESIS  -UNISE0700EG_Main_Lastest_14Jan25_v02.docx", last modified 2026-04-06). This is
 the same file name as the one converted to `thesis-2025.md`. If the two ever disagree, the Drive
 copy is the author's original; re-convert from it rather than editing `thesis-2025.md` by hand.
+
+**Files from the Drive master (2026-11-10):**
+
+| File | What it is |
+|---|---|
+| `original/thesis-2025.docx` | The author's Word file, downloaded unchanged from Drive (1,740,191 bytes) |
+| `thesis-2025.md` | Plain-text conversion. Re-converted from the Drive file on 2026-11-10: identical, line for line, to the earlier copy, so every line reference in the blueprint still holds. Agents cite lines from this file |
+| `thesis-2025-with-images.md` | The same thesis with all 27 images in place (line numbers differ; do not cite them) |
+| `images/` | The 27 images: the logo (image1) and the 26 survey charts from chapter 6 (image2-image27), with their real numbers |
+
+Only the Drive version is used (author, 2026-11-10).
 
 There is one version of each section, so the "Versions" column is always 1.
 
