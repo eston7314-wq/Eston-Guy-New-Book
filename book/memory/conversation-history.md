@@ -78,3 +78,11 @@ under Confirmed per the coordinator. Not done: locked config rows and the positi
 untouched; no new statistical analysis of Fig.27. Open for the author: approve v2; survey 
 anchors, yes/no counts, SPSS output; who ran the interviews; title; Bible translation; 11 story 
 slots; heritage and years for the bio.
+
+### 2026-11-10 · book-orchestrator · decision · book
+Author: "write this book using human skill find skill and commit this to memory for all chapters".
+Found the humanizer skill (blader humanizer v3.0.0, MIT) and vendored it to .claude/skills/humanizer/
+so every session has it. Added config hard rule 11, a Book Bible voice rule, a CLAUDE.md
+non-negotiable and a humanize stage in write-book's chapter sequencing (after devedit, before
+fact check). Took "write this book" as approval of blueprint-v2 to begin drafting; started ch00.
+

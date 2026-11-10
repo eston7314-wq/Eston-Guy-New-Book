@@ -19,6 +19,9 @@ There is no application code.
 
 ## Non-negotiables
 
+- Every chapter is written and edited with the humanizer skill (`.claude/skills/humanizer/`), with a
+  dedicated humanize pass after the developmental edit (author decision 2026-11-10; config rule 11).
+
 - No invented statistics, studies, quotations, or named people: `[UNVERIFIED]`, never smoothed over.
 - No invented stories about the author: `[AUTHOR STORY NEEDED: brief]`.
 - Nothing from the author's source is cut without their sign-off: `book/03-drafts/chNN-cut-list.md`.

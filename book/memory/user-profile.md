@@ -38,3 +38,6 @@ infers goes under "Proposed" until the author confirms it.
 | 2026-11-10 | Use only the Google Drive version of the thesis; keep it in GitHub with all images | book/source/README.md |
 | 2026-11-10 | Survey (line 4624): "We got 50 replies": the 50 responses are from real participants. "Generated" meant collected. Consent for book use still to be confirmed | memory/context-cards/book.md |
 | 2026-11-10 | Consent: the book uses only overall (aggregate) survey numbers, never an individual participant's answer, quotation or identifiable detail | book.config.md hard rule 10; context card |
+| 2026-11-10 | Write the whole book using the humanizer skill, for all chapters | book.config.md hard rule 11; book-bible voice rules; .claude/skills/humanizer/; write-book skill sequencing |
+| 2026-11-10 | "write this book": taken as approval of blueprint-v2 (11 chapters) to start drafting; open questions in v2 still to be answered | memory/context-cards/book.md |
+

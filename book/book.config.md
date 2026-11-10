@@ -53,4 +53,12 @@ must lock them. Mark any row an agent inferred rather than you stated as **Infer
     `book/source/images/`. Never an individual participant's answer, quotation, story or any detail
     that could identify someone. Describe findings with the sample size (50) and do not claim they
     represent all people of African heritage.
+11. **Humanizer (author decision 2026-11-10, applies to every chapter, 00 to 99).** All prose is
+    written and edited against `.claude/skills/humanizer/SKILL.md` (the humanizer skill, based on
+    Wikipedia's "Signs of AI writing"). Every writing and editing agent reads it before working.
+    Each chapter also gets a dedicated **humanize** pass after the developmental edit and before
+    the fact check: the pass rewrites AI-sounding patterns in place in `book/04-edited/`, keeps
+    the meaning, the author's voice and every flag, adds nothing new, and logs each change in
+    `book/04-edited/chNN-humanize-log.md`. The copy editor checks the humanizer patterns again
+    at the end.
 

@@ -14,6 +14,7 @@ repeat it.
 - Banned structures: three-item lists in every paragraph; rhetorical question openers
   more than once per chapter; a summary that restates the headings; a conclusion that recaps
   chapter titles.
+- **Humanizer rules apply to every chapter** (author, 2026-11-10): read `.claude/skills/humanizer/SKILL.md` before writing or editing. No not-X-but-Y contrasts, one-line closers, staged openers, forced triads, dashes everywhere, inflated claims, sales language, stock AI words, bold labels or filler.
 - Reader is addressed as "you". Author is "I" (or "we" if config says so).
 
 ### Consistency decisions (copy editor appends; later chapters follow)
