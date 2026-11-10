@@ -141,3 +141,22 @@ appended, v2 status Draft = done. Deliberately not done: no 'we/our ancestors' (
 heritage unconfirmed); no 999/911 numbers (not verified); 'public school service' changed to 
 'school service' (cut-list row 29); no commit. Open for the author: heritage, the four names, 
 the interviews, WHO alone or WHO+CDC, the story, the 29 cut-list rows.
+
+### 2026-11-10 · story-injector · story · ch00
+Story pass (Mode A, light, preface). Pre-pass copy saved as 
+book/03-drafts/ch00-preface.pre-story.md. Opening rebuilt from acknowledgements 90-96 only: 
+Pope Francis's humility and concern for the oppressed now sit with the Luke 8:48 line in 
+paragraph one; sentence four states the book's question (whether faith can help make a person 
+whole in mind, and whether it can do the opposite), a restatement of the thesis question, not 
+new argument. Removed 'In the days that followed' (not in source). Woman's story not told 
+(ch04). One-line transition merged as 'The reasons for it go back further', matching the 
+source. AUTHOR STORY NEEDED brief made precise: six points, 250-350 words, anonymising rules, 
+no survey or interview participants (rule 10). One new hypothetical, ILLUSTRATIVE: woman who 
+sleeps after reading a verse before a hospital appointment, then is told by a church leader 
+that stronger faith would stop her feeling low; expands the draft's existing general verse 
+sentence; recorded in book-bible.md and book/02-research/ch00-stories.md; ch07 must not reuse 
+it. Kept: every flag (2 UNVERIFIED, 1 AUTHOR STORY NEEDED, 5 AUTHOR TO CONFIRM), both survey 
+sentences verbatim, content note, headings, closer. No source cut, so no cut-list rows. Words 
+before editor notes 2,420 to 2,609 (+7.8%, mostly the slot brief). Not done: no commit; no 
+author material invented; closer not retuned (does not depend on the story). Open for the 
+author: the story; heritage; the four names; interviews; WHO wording; 29 cut-list rows.

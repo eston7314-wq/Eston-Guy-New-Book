@@ -196,7 +196,7 @@ Source: `book/01-outline/blueprint-v2.md`. Author decision behind it: 11 chapter
 
 | # | Title | Outline | Research | Draft | Story pass | Dev edit | Copy edit | Final |
 |---|---|---|---|---|---|---|---|---|
-| 00 | Preface: Felt Before It Is Understood | done (v2, pending approval) | evidence pack done (02-research/ch00-evidence.md) | done 2026-11-10 (03-drafts/ch00-preface.md; cut list 29 rows) | | | | |
+| 00 | Preface: Felt Before It Is Understood | done (v2, pending approval) | evidence pack done (02-research/ch00-evidence.md) | done 2026-11-10 (03-drafts/ch00-preface.md; cut list 29 rows) | done 2026-11-10 (pre-pass copy ch00-preface.pre-story.md; 1 new hypothetical) | | | |
 | 01 | A Faith Handed Down in Chains | done (v2, pending approval) | | | | | | |
 | 02 | Songs for Sorrow | done (v2, pending approval) | | | | | | |
 | 03 | The Way Home: The Teachings and Parables of Jesus | done (v2, pending approval) | | | | | | |
@@ -229,9 +229,10 @@ Draft: `book/03-drafts/ch00-preface.md`. Cut list: `book/03-drafts/ch00-cut-list
 |---|---|---|---|
 | News of Pope Francis's death (21 April 2025) sending the author back to "thy faith hath made thee whole" | Why the author finished and wrote; opening hook | 00 | Date verified; the author's reaction is his testimony |
 | The author's school career: Perkins, Gould, Hartney; Head of RS in five years; Head of Year 11 (2004) and Assistant Headteacher; 215 students; GCSE result "as I remember it" | The author's standing and pastoral background | 00 | Author testimony; names flagged `[AUTHOR TO CONFIRM]` |
-| A verse that steadies a frightened mind, and the same verse used carelessly to make an unwell person feel at fault | Faith can heal and harm (general, no case) | 00 | Illustration, not a case |
+| A verse that steadies a frightened mind, and the same verse used carelessly to make an unwell person feel at fault | Faith can heal and harm (general, no case) | 00 | Illustration, not a case. Story pass 2026-11-10: now carried by the "Hypothetical woman ... hospital appointment" row below |
 | Hypothetical man who can recite the psalms he learned as a boy but no longer goes to church | The three strands overlapping in one life | 00 | Hypothetical ("Think of") |
 | Hypothetical grandmother who prays every morning without explaining prayer; young man with years of low mood before it is called depression | "Felt before it is understood ... lived before it is named" | 00 | Hypothetical ("may") |
+| Hypothetical woman who sleeps after reading a verse before a hospital appointment, then is told by a church leader that stronger faith would stop her feeling low (story pass, 2026-11-10) | Faith can steady and, used carelessly by someone in authority, wound; replaces the draft's general verse sentence | 00 | Composite/hypothetical ("Think of"); ILLUSTRATIVE in 02-research/ch00-stories.md. ch07 must not reuse it |
 | "A home can also hurt" (heading image) | Faith as home that can wound | 00 | Image; ch06 owns "the family house", so later chapters should not reuse "home" as a heading image |
 
 **Statistics and claims used in 00** (in addition to the rows above already marked 00)
@@ -246,3 +247,9 @@ Draft: `book/03-drafts/ch00-preface.md`. Cut list: `book/03-drafts/ch00-cut-list
 **Promises made in 00 (as written)**: all five v2 promises appear in the draft. Honest about harm ("I will be honest about both sides"; Part Three named); not asked to choose between faith and doctor ("I will not ask you to choose between your faith and your doctor"); the fifty reported honestly as overall numbers with limits (ch10); limits stated plainly (ch10, "the afterword says plainly what the research could not show"); help listed now (content note; App. B).
 
 **Lines and images now spent in 00**: "In some unique way, Pope Francis made my research seem so relevant to today's challenges"; "Faith is often felt before it is understood, and mental health is lived before it is named or identified" (4921-4923; 99 may call it back by name only); Wittgenstein (no other chapter uses him). Bridge into ch01: "How did this faith reach the ancestors of so many people of African heritage, and how did it come to be handed down in chains?"
+
+### Ch00 story pass (story-injector, 2026-11-10)
+
+- Opening now sets Pope Francis's humility and concern for the oppressed (thesis 92-93) beside the Luke 8:48 line in paragraph one; "In the days that followed" removed (not in source). Woman's story still untold (ch04).
+- One new example, row added above: hypothetical woman before a hospital appointment (composite, "Think of"). Examples used in 00 now: 2 real (author testimony), 3 hypothetical.
+- Real cases in the packs still unused by any chapter: none in ch00-evidence.md (its only case is the author's own story). Rev. Michael Walrond (NPR, 23 Mar 2025) in ch04-evidence.md remains unclaimed; ch04 or ch10 to decide.
