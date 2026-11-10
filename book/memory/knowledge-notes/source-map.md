@@ -47,3 +47,7 @@ charted; 20 interviewees (Fig.26 is the only source).
   Phil 4:8 "things are is honest" (2148); 1 Cor 1:12 "I am Paul" (KJV "I am of Paul") and miscited as
   "1 Corinthians 12" (2158); Hebrews 11:1 paraphrase at 2113 is NIV wording, not KJV.
 - Not found by search: Brown and Hughes (2017); Harris and Young (2018) (thesis 1711-1716).
+
+## Best spine per chapter (chapter-writer)
+
+- ch00 (2026-11-10): only one version exists. Spine order used: acknowledgements 90-96 (hook), 82-121 (standing), 506-515 (why), 66-78, 1172-1188, 2135-2137, 2772-2781 (definitions and lens), survey-aggregate Fig.13/19/22/23/26 (research), 4907-4910 (one limit sentence), 4921-4923 (title line). Line ranges in ch00-evidence.md 1.3 are off by two for Fava (82-84 in the source, not 84-85).

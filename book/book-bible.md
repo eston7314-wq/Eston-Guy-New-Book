@@ -196,7 +196,7 @@ Source: `book/01-outline/blueprint-v2.md`. Author decision behind it: 11 chapter
 
 | # | Title | Outline | Research | Draft | Story pass | Dev edit | Copy edit | Final |
 |---|---|---|---|---|---|---|---|---|
-| 00 | Preface: Felt Before It Is Understood | done (v2, pending approval) | evidence pack done (02-research/ch00-evidence.md) | | | | | |
+| 00 | Preface: Felt Before It Is Understood | done (v2, pending approval) | evidence pack done (02-research/ch00-evidence.md) | done 2026-11-10 (03-drafts/ch00-preface.md; cut list 29 rows) | | | | |
 | 01 | A Faith Handed Down in Chains | done (v2, pending approval) | | | | | | |
 | 02 | Songs for Sorrow | done (v2, pending approval) | | | | | | |
 | 03 | The Way Home: The Teachings and Parables of Jesus | done (v2, pending approval) | | | | | | |
@@ -209,3 +209,40 @@ Source: `book/01-outline/blueprint-v2.md`. Author decision behind it: 11 chapter
 | 10 | What Fifty People Told Me | done (v2, pending approval) | survey-aggregate.md done | | | | | |
 | 11 | The Church and the Clinic | done (v2, pending approval) | | | | | | |
 | 99 | Afterword: Your Fortress, Not Your Prison | done (v2, pending approval) | | | | | | |
+
+### Ch00 draft additions (chapter-writer, consolidate, 2026-11-10)
+
+Draft: `book/03-drafts/ch00-preface.md`. Cut list: `book/03-drafts/ch00-cut-list.md` (29 rows).
+
+**Terms as drafted in 00**
+
+| Term | As written in the preface | Note |
+|---|---|---|
+| African heritage | People often described as Black, or mixed-race with one parent of African descent; includes people born in Africa and those who migrated; African British, Afro-Caribbean, African American, African Canadian for particular communities | Introduced via Wittgenstein "in many cases, the meaning of a word is its use" (no date in text) |
+| Mental health | Plain paraphrase: emotional, psychological and social well-being; how we think, feel and act, handle stress, get on with others, make choices. WHO paraphrase (cope with stresses, realise abilities, learn and work, contribute) flagged `[UNVERIFIED: WHO wording; author to choose WHO alone or WHO+CDC]` | Not presented as a WHO quotation. Later chapters must not quote it as WHO either |
+| Faith (preview) | "a strong personal belief in God's power and in Jesus incarnate: confidence in what is hoped for" | ch04 gives the full definition (2135-2140) |
+| The three strands | Awareness (recognising and acknowledging your own faith); knowledge (how deeply you understand its scriptures, teachings and practices); practice (praying, worshipping, reading scripture, Bible study, the Eucharist). Presented as the author's lens, not a finding | Later chapters refer to "the three strands" by name only |
+
+**Stories, examples and images used in 00** (do not reuse without calling back by name)
+
+| Example | What it illustrated | Chapter | Verified? |
+|---|---|---|---|
+| News of Pope Francis's death (21 April 2025) sending the author back to "thy faith hath made thee whole" | Why the author finished and wrote; opening hook | 00 | Date verified; the author's reaction is his testimony |
+| The author's school career: Perkins, Gould, Hartney; Head of RS in five years; Head of Year 11 (2004) and Assistant Headteacher; 215 students; GCSE result "as I remember it" | The author's standing and pastoral background | 00 | Author testimony; names flagged `[AUTHOR TO CONFIRM]` |
+| A verse that steadies a frightened mind, and the same verse used carelessly to make an unwell person feel at fault | Faith can heal and harm (general, no case) | 00 | Illustration, not a case |
+| Hypothetical man who can recite the psalms he learned as a boy but no longer goes to church | The three strands overlapping in one life | 00 | Hypothetical ("Think of") |
+| Hypothetical grandmother who prays every morning without explaining prayer; young man with years of low mood before it is called depression | "Felt before it is understood ... lived before it is named" | 00 | Hypothetical ("may") |
+| "A home can also hurt" (heading image) | Faith as home that can wound | 00 | Image; ch06 owns "the family house", so later chapters should not reuse "home" as a heading image |
+
+**Statistics and claims used in 00** (in addition to the rows above already marked 00)
+
+| Claim | Source | Chapter |
+|---|---|---|
+| Survey: 50 (UK 20, USA 16, Canada 14; 30 women, 20 men); 20 interviewed, "I spoke with twenty of them" flagged `[AUTHOR TO CONFIRM]` | survey-aggregate.md Fig.22, Fig.23, Fig.26 | 00 |
+| 38 of the 50 (Fig.13) and 23 of the 50 (Fig.19), side by side, not named or interpreted | survey-aggregate.md | 00 (ch10 owns and names the gap) |
+| Chronic conditions (diabetes, heart disease, stroke) affect behaviour and can raise the risk of a mental-health condition | thesis 1184-1188, no source; `[UNVERIFIED]`, open-claims row 23 | 00 |
+| Help lines in the content note: Samaritans 116 123 (UK and ROI); call or text 988 (USA); call or text 9-8-8 (Canada); "your local emergency number" (no 999/911 given: not verified) | ch00-evidence.md 1.5 | 00 |
+
+**Promises made in 00 (as written)**: all five v2 promises appear in the draft. Honest about harm ("I will be honest about both sides"; Part Three named); not asked to choose between faith and doctor ("I will not ask you to choose between your faith and your doctor"); the fifty reported honestly as overall numbers with limits (ch10); limits stated plainly (ch10, "the afterword says plainly what the research could not show"); help listed now (content note; App. B).
+
+**Lines and images now spent in 00**: "In some unique way, Pope Francis made my research seem so relevant to today's challenges"; "Faith is often felt before it is understood, and mental health is lived before it is named or identified" (4921-4923; 99 may call it back by name only); Wittgenstein (no other chapter uses him). Bridge into ch01: "How did this faith reach the ancestors of so many people of African heritage, and how did it come to be handed down in chains?"

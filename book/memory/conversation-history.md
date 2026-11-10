@@ -123,3 +123,21 @@ was meant; Walrond case vs ch10.
 
 ### 2026-11-10 · book-orchestrator · merge · ch04
 Author: keep the ch04 fact-check pack. Merged from claude/jolly-ride-12gkg1 (3c00a15): ch04-evidence.md, ch04 card, Book Bible citation rows, open-claims rows (renumbered after ch00's), source-map note. The pack was built on blueprint v1 and checked at search-result level only; re-check against v2 when ch04 runs. Superseded user-profile line not merged.
+
+### 2026-11-10 · chapter-writer · draft · ch00
+Consolidate mode. Draft written to book/03-drafts/ch00-preface.md (about 2,420 words incl. 
+flags against a 2,800 budget; the author story slot should add 250-350). Five H2 sections plus 
+a short closer (reflection; one or two points each for church leaders, families, clinicians; 
+three small-group questions). Applied every researcher correction: Luke 8:48 'hath', line only 
+(ch04 owns the story); Wittgenstein 'suggested that, in many cases, the meaning of a word is 
+its use', no date; mental-health wording paraphrased, not presented as WHO, flagged; three 
+strands as the author's lens; survey wording '38 of the 50 said they believe...' and '23 of the 
+50 described...', side by side, gap not named; Pope Francis 21 April 2025, Easter Monday; 
+content note with Samaritans 116 123, 988 USA, 9-8-8 Canada. Flags: 2 UNVERIFIED (WHO wording; 
+chronic physical illness and mental-health risk, new open-claims row 23), 1 AUTHOR STORY 
+NEEDED, 5 AUTHOR TO CONFIRM (Fava, Perkins, Gould, Hartney; interviews). Cut list 
+book/03-drafts/ch00-cut-list.md, 29 rows, author column empty. Book Bible: ch00 draft block 
+appended, v2 status Draft = done. Deliberately not done: no 'we/our ancestors' (author's 
+heritage unconfirmed); no 999/911 numbers (not verified); 'public school service' changed to 
+'school service' (cut-list row 29); no commit. Open for the author: heritage, the four names, 
+the interviews, WHO alone or WHO+CDC, the story, the 29 cut-list rows.
