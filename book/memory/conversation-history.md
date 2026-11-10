@@ -33,3 +33,9 @@ Drive folder 'Approved Documents' inside 'Eston's Thesis Book' and uploaded the 
 configuration and the thesis-to-book plan as Google Docs. Register and standing rule in 
 knowledge-notes/approved-documents.md. Blueprint and publishing options not uploaded: still 
 awaiting the author's decision.
+
+### 2026-11-10 · book-orchestrator · source · book
+Author gave the thesis location: https://docs.google.com/document/d/1FZ3EtAZpxlmjN-lmXVzptyPK1GZ9JETU/edit. Drive metadata shows
+the same file name as the converted source (THESIS -UNISE0700EG_Main_Lastest_14Jan25_v02.docx, modified
+2026-04-06). Recorded in source/README.md, book.config.md and user-profile.md. Ch00 drafting is on hold
+pending the author's answers on blueprint approval, survey data provenance and how to run the agents.

@@ -30,3 +30,4 @@ infers goes under "Proposed" until the author confirms it.
 | 2026-11-07 | Launch: May 2027 | book.config.md, Launch date target |
 | 2026-11-07 | Publishing route: asked for researched options before deciding | book/00-strategy/publishing-route-options.md |
 | 2026-11-07 | Standing rule: save every approved document to memory and to Drive folder "Eston's Thesis Book / Approved Documents" | memory/knowledge-notes/approved-documents.md |
+| 2026-11-10 | The thesis master copy is the Google Drive file https://docs.google.com/document/d/1FZ3EtAZpxlmjN-lmXVzptyPK1GZ9JETU/edit | book/source/README.md, book.config.md |

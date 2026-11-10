@@ -23,7 +23,7 @@ must lock them. Mark any row an agent inferred rather than you stated as **Infer
 | Publishing route | [AUTHOR TO DECIDE] Options in book/00-strategy/publishing-route-options.md. **Recommended:** self-publish under the author's own imprint through Amazon KDP + IngramSpark, to meet the May 2027 date |
 | Target category | [book-marketer to confirm] likely Christian living / pastoral care / Christianity and mental health |
 | Launch date target | 2027-05 (author decision 2026-11-07; exact day to be set) |
-| Source material | yes: PhD thesis in book/source/thesis-2025.md, mapped in book/source/README.md; chapters are consolidated, never drafted fresh |
+| Source material | yes: PhD thesis in book/source/thesis-2025.md (master copy in Google Drive: https://docs.google.com/document/d/1FZ3EtAZpxlmjN-lmXVzptyPK1GZ9JETU/edit), mapped in book/source/README.md; chapters are consolidated, never drafted fresh |
 
 ## Hard rules for all agents
 

@@ -7,6 +7,12 @@ chapters. Nothing here goes into `book/05-final/` without passing through the pi
 |---|---|---|---|
 | thesis-2025.md | Author's PhD thesis (Selinus University, 2025), file "THESIS - UNISE0700EG Main Latest 14Jan25 v02.docx", converted to plain text with pandoc. Images and charts were not carried over; figure captions remain. | 2026-11-07 | ~38,600 (including front matter and bibliography) |
 
+**Master copy (author, 2026-11-10):** the thesis lives in Google Drive at
+https://docs.google.com/document/d/1FZ3EtAZpxlmjN-lmXVzptyPK1GZ9JETU/edit
+(file "THESIS  -UNISE0700EG_Main_Lastest_14Jan25_v02.docx", last modified 2026-04-06). This is
+the same file name as the one converted to `thesis-2025.md`. If the two ever disagree, the Drive
+copy is the author's original; re-convert from it rather than editing `thesis-2025.md` by hand.
+
 There is one version of each section, so the "Versions" column is always 1.
 
 ## Thesis sections by line range (thesis-2025.md)
