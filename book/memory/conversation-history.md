@@ -370,3 +370,20 @@ Author correction: "three other people shaped the years before it, but two are n
 ### 2026-11-11 · book-orchestrator · decision · book
 Charts: Fig.1-26 restored (key ones in ch10, all in Appendix A). Fig.27 (participant-level table): the orchestrator explained that consent covered academic use only, the re-identification and data-protection risk, and options (leave out / re-consent / include). Author: "include it anyway". Added as an exception to config rule 10, Appendix A only. Corrected Preface uploaded to Drive; old copy renamed SUPERSEDED.
 
+
+### 2026-11-11 · copy-editor · copy-edit · ch01
+Copy edit (Mode A) of 04-edited/ch01 (input unchanged) -> 
+05-final/ch01-a-faith-handed-down-in-chains.md and 05-final/ch01-changes.md. 13 prose changes, 
+0 to meaning: punctuation/clarity 5 (incl. fact check row 65, Turks Island full stop outside), 
+repeated words 3 (King 'principles' -> one 'teaching'; 'many ... many'; 'published' twice), 
+centuries 2, 'class leaders' 1, 'she said' before a first-person quotation 1, closer Q3 'said' 
+for 'wrote' 1. Notes block moved to the change log word for word. Opening paragraph, 30 HTML 
+comments, 11 flags, 44 quotations (bar row 65 punctuation), hook and closer structure 
+byte-identical; humanizer final check clean. 11 consistency decisions added to style-sheet.md 
+and Book Bible (African heritage open before a noun; quotations keep own spelling/serial 
+commas; diacritics kept; Sabbath/Sunday school; centuries in words; Church; 
+Black/white/indigenous; Dr/St no stops; titles; health care). Proposed, not applied: 3 more 
+quotation full stops outside (Douglass x2, Prince x1; Gutenberg re-checked). Not final: 10 
+UNVERIFIED, 1 AUTHOR TO CONFIRM, 36 cut rows undecided, voice check pending. 4,702 words (4,370 
+without flag text). Card and Book Bible status updated. Not committed (note: another session's 
+commit 29d75b9 included ch01-changes.md mid-run).

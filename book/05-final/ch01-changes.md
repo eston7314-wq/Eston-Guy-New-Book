@@ -101,3 +101,7 @@ Added at copy edit (not part of the original block): the fact check (book-resear
 ## Word count
 
 The method is the humanize log's: prose from the title to the end of the closer, with HTML comments and the notes block left out. **4,702 words**, against 4,697 in the input (the copy edit added 5). The fact check's flag text in square brackets is included. Without the bracketed flag text, the reader-facing prose is **4,370 words**. The budget for chapters is 3,500-4,600 (blueprint v2), so the reader-facing text is within it. The total will change as flags are resolved and cut-list rows return.
+
+## Orchestrator, 2026-11-11
+Applied the copy editor's three recommended punctuation fixes (style rule: full stop outside the closing mark when the source sentence continues): Douglass "widest possible difference", Douglass "impartial Christianity of Christ", Prince "English marriage is not allowed to slaves". No words changed.
+
