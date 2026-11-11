@@ -46,4 +46,8 @@ infers goes under "Proposed" until the author confirms it.
 | 2026-11-10 | GCSE results described as "one of the best in the history of the school, at that time", as the author's own recollection | ch00 |
 | 2026-11-10 | The author is of African heritage: the book may say "our ancestors" and "we" about people of African heritage | all chapters; Book Bible voice rules |
 | 2026-11-10 | Chronic illness claim (thesis 1184-1188; open-claims row 23) reworded by the author: "some people believe that long-term physical illness raises the risk of some mental-health problems, including excessive stress". Framed as belief (config rule 5); author-confirmed wording | ch00 |
+| 2026-11-10 | Ch00 cut list: all 29 undecided rows (1-29) cut | book/03-drafts/ch00-cut-list.md |
+| 2026-11-10 | Ch00 story slot filled with the author's own words: "the determination of many pupils to succeed, and the motivation of most parents to provide a better future for their children, in spite of the many challenges that confronted them, made me join with other believers in saying that faith really heals the mind" | ch00 |
+| 2026-11-10 | He studied "Contemporary Religions" at the University of London and taught the same at secondary school | ch00; author bio |
+| 2026-11-10 | GCSE wording kept as the author's own ("one of the best in the history of the school, at that time") | ch00 |
 
