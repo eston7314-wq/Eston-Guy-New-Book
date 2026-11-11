@@ -53,4 +53,5 @@ infers goes under "Proposed" until the author confirms it.
 | 2026-11-11 | GCSE wording replaced: "our 2004 students' GCSE results were the best for the school, to that date" (supersedes the 2026-11-10 wording) | ch00 final |
 | 2026-11-11 | Ch00: "My year group that year was 215 students..." (not "in 2004") | ch00 final |
 | 2026-11-11 | Ch00 voice check passed: "sounds like me". Preface approved | book/05-final/ch00-preface.md; Book Bible status |
+| 2026-11-11 | Ch01 family story (author's own words, author testimony): "Christianity came into my family line from my paternal grandparents who embraced Christianity through the Moravian Church in the Caribbean island of Tobago, while my maternal grandparents followed Christianity through the Anglican Church. My wife, children and I also embraced the Church of England practices while paying homage also to the Pentecostal and Spiritual Baptist practices." | ch01 opening story slot; book/memory/context-cards/ch01.md |
 
