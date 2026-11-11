@@ -316,3 +316,23 @@ ch02 hook unchanged. Words 4,370 to about 4,530 prose (+3.6%; about 4,950 with h
 the figure the coordinator quoted as 4,740). Book Bible: Prince and Douglass rows amended, v2 
 status Story pass done, story-pass block appended. Not done: no commit; open-claims untouched. 
 Open for the author: as on the card.
+
+### 2026-11-11 · developmental-editor · devedit · ch01
+Dev edit of ch01 from 03-drafts (post story pass) into 
+book/04-edited/ch01-a-faith-handed-down-in-chains.md with memo ch01-edit-memo.md. Verdict: 
+ready for humanize/fact check. Words 4,530 -> 4,500 (prose to end of closer, notes excluded). 
+Main edits: H2s for sections 3 and 4 rewritten to cover their sections ('Missions differed, and 
+even the Moravians worked within slavery'; 'The mind paid a price, and the wound outlived 
+slavery'); Canada paragraph moved to section 1; Spanish/Puritan/Oregon paragraph moved before 
+the Moravians and its dates compressed (new cut-list row 36); King moved before Cone (King was 
+called a voice of Black theology); Latin American liberation theology no longer said to 
+confront racial injustice. Checked against the opened Gutenberg texts: Douglass's Appendix was 
+not a reply to readers; Prince's English baptism (1817) came before the Moravians; the 
+Moravians took in her trunk, did not shelter her. Evidence: studies tied to racism today, not 
+slavery's legacy; Williams 2007 met head-on ('none of us should say that our people are more 
+depressed because of slavery'); 'my years of pastoral work' removed (unclaimed credential); 'I 
+know of no study' removed. Shift paid off with two closing sentences before the unchanged hook. 
+Opening paragraph byte-identical; all 21 notes, 10 KJV refs, 8 UNVERIFIED and 1 AUTHOR TO 
+CONFIRM kept. Not done: no commit; open-claims untouched; no study opened. Open for the author: 
+Tobago, Slave Bible, 36 cut rows, Bethel 1794 (pack fact dropped from prose), whether to add a 
+clause on Baptist resistance (Sharpe) to section 3.
