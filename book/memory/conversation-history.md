@@ -367,3 +367,6 @@ citations/status/fact-check section, glossary (network note), ch01 card. Not com
 ### 2026-11-11 · book-orchestrator · revision · ch00
 Author correction: "three other people shaped the years before it, but two are now deceased". Applied in 05-final and 04-edited; logged in ch00-changes.md. The Drive copy of the approved Preface is now out of date.
 
+### 2026-11-11 · book-orchestrator · decision · book
+Charts: Fig.1-26 restored (key ones in ch10, all in Appendix A). Fig.27 (participant-level table): the orchestrator explained that consent covered academic use only, the re-identification and data-protection risk, and options (leave out / re-consent / include). Author: "include it anyway". Added as an exception to config rule 10, Appendix A only. Corrected Preface uploaded to Drive; old copy renamed SUPERSEDED.
+

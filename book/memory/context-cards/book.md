@@ -15,5 +15,5 @@
 - Survey: the form's scale anchors (Fig.5/7/8), the yes/no help-seeking counts, the SPSS output, whether he conducted the interviews.
 - 11 author story slots; heritage and years in teaching for the bio; publishing route; a clinician for ch08-09.
 
-**Charts (author, 2026-11-11):** Fig.1-26 go back in (key ones in ch10, all in Appendix A, redrawn with answer words; Fig.5/7/8 scale problem footnoted). This amends blueprint-v2's "3 or 4 redrawn charts". Fig.27 on hold pending the author's confirmation (consent).
+**Charts (author, 2026-11-11):** Fig.1-26 go back in (key ones in ch10, all in Appendix A, redrawn with answer words; Fig.5/7/8 scale problem footnoted). This amends blueprint-v2's "3 or 4 redrawn charts". Fig.27 included in Appendix A only, by the author's explicit decision after the consent risk was explained (config rule 10 exception).
 

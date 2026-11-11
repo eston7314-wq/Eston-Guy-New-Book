@@ -1,0 +1,103 @@
+**Not final.** Flags in the text: UNVERIFIED 10, AUTHOR TO CONFIRM 1, AUTHOR STORY NEEDED 0, COPY EDIT 0, DEV EDIT 0, RESEARCH NEEDED 0. Cut list: 36 of 36 rows undecided (`book/03-drafts/ch01-cut-list.md`). Pending the author's voice check (read aloud, as for ch00). The build will refuse this file while any flag remains.
+
+# Ch01 change log: A Faith Handed Down in Chains
+
+Copy edit (Mode A), copy-editor, 2026-11-11. Input: `book/04-edited/ch01-a-faith-handed-down-in-chains.md` (after the dev edit, the humanize pass and the fact check; left unchanged). Output: `book/05-final/ch01-a-faith-handed-down-in-chains.md`. To reverse any edit, put the "Original" text back in its place.
+
+## Summary (three lines)
+
+There are 13 prose changes: 5 punctuation or clarity fixes (one of them the fact check's Turks Island quotation, row 65), 3 repeated words, 2 consistency fixes for centuries, 1 hyphenation in a paraphrase, 1 shift of grammatical person around a quotation and 1 closer question brought into line with the chapter ("said", not "wrote"). The "Notes for the editor" block was taken out of the final file and moved below, word for word.
+Nothing was changed in meaning, order or examples. The author's opening paragraph, all 30 HTML comments, all 11 flags, the hook and the closer structure are byte-identical to the input. All 44 quotations are word for word; only the Turks Island one has changed, and only in where its full stop sits (checked by script and diff).
+The final humanizer check (rule 11) is clean: no dashes, no curly quotes and no stock AI words ("Testament" appears only as a proper noun; "aligns with" only in the author's quoted line, thesis 4063-4067). No new serial commas, triads, run-ups or one-line closers.
+
+## Significant changes
+
+| # | Original | Revision | Why |
+|---|---|---|---|
+| 1 | "the indigenous people who had survived, the Arawaks and Caribs in the Caribbean and the Cree, Iroquois and Ojibwa in Canada." | "the indigenous people who had survived: the Arawaks and Caribs in the Caribbean and the Cree, Iroquois and Ojibwa in Canada." | Punctuation. After a comma, the list read as more people being saved. A colon shows that it names the survivors. |
+| 2 | "came home from a Methodist camp meeting in 1832 a converted man, and in Douglass's judgement a worse one, because" | "came home from a Methodist camp meeting in 1832 a converted man and, in Douglass's judgement, a worse one, because" | Punctuation. "in Douglass's judgement" is an aside, so it needs a comma on each side. Read aloud, the old version paused in the wrong place. |
+| 3 | "two class-leaders of the church" | "two class leaders of the church" | Humanize log item 3. This is our paraphrase, not a quotation, so house style applies: "class leader" is open, the usual Methodist term. Douglass's own "class-leaders" would be kept if the words were quoted (style sheet: quotations keep their own form). |
+| 4 | "They converted indigenous people, sometimes by force, and enslaved Africans brought by the Spanish laboured alongside them" | "They converted indigenous people, sometimes by force; enslaved Africans brought by the Spanish laboured alongside them" | Clarity. The sentence led the reader up a garden path: "converted indigenous people ... and enslaved Africans" first reads as "they enslaved Africans", or as "converted ... enslaved Africans". The semicolon makes "enslaved Africans" the subject of "laboured". Every word is kept. |
+| 5 | "came to New England in the early 1600s hoping" | "came to New England early in the seventeenth century hoping" | Consistency. The chapter writes centuries in words ("from the sixteenth century", "In the seventeenth and eighteenth centuries"). Decades stay in figures ("the 1830s"). The period meant is the same. |
+| 6 | "Two young Moravians, Johann Leonhard Dober, a potter, and David Nitschmann, a carpenter, landed" | "Two young Moravians, the potter Johann Leonhard Dober and the carpenter David Nitschmann, landed" | Punctuation. Four commas of nested appositives read like a list of four people. Each trade still goes with the same man (Hamilton 1901, opened in the fact check). |
+| 7 | "In the 1700s they also reached out" | "In the eighteenth century they also reached out" | Consistency (see 5). |
+| 8 | "The Moravian women there "taught me to read in the class"." | "The Moravian women there, she said, "taught me to read in the class"." | Grammar. A first-person "me" sat inside third-person narration with nothing to mark the change of speaker. "she said" marks it, as the chapter does elsewhere ("The meeting, she said, ..."). The quotation is unchanged. |
+| 9 | "Her *History*, published in 1831, was the first account of an enslaved Black woman's life published in Britain." | "Her *History*, which appeared in 1831, was the first account of an enslaved Black woman's life published in Britain." | "published" came twice in one sentence. I changed the first one. The fact check's corrected wording (C6) is kept exactly. |
+| 10 | "...but the white people pulled it down twice."" | "...but the white people pulled it down twice"." | Fact check row 65. Prince's sentence goes on ("twice, and would not allow them even a shed for prayers"), so the full stop is not hers and goes outside the closing mark (house rule). I re-checked this against Gutenberg #17851 today. |
+| 11 | "whose non-violent campaign was rooted in Christian principles." | "whose non-violent campaign was rooted in Christian teaching." | Humanize log item 1: "principles" came three times in four sentences, and a fourth time in the paragraph before ("Allen and Douglass both used Christian principles"). I kept "principles" in the two sentences that carry the source's causal claim (thesis 1575-1577: "Dr King's Christian principles brought the support of multi-racial groups, and influenced the passing..."). I varied only the descriptive first use. The author may prefer "principles" back. |
+| 12 | "Many African heritage Christians, including many who came from Africa and the Caribbean," | "Many African heritage Christians, including people who came from Africa and the Caribbean," | Humanize log item 2: "many ... many". Source: "African heritage Christians, including many immigrants from Africa and the Caribbean" (thesis 3983). The sentence still says that migrants are among the Christians described. To reverse, restore "many who". "African heritage" before a noun stays open (new decision 1 below). |
+| 13 | "3. Mary Prince wrote that keeping down her "fretting" was..." | "3. Mary Prince said that keeping down her "fretting" was..." | Consistency with the chapter, which says she dictated her *History* and introduces this line with "she said". One word changed. The closer's structure, labels and three questions are unchanged. |
+| 14 | "## Notes for the editor" block (5 lines) | Removed from the final file | As briefed. The full text is below under "Editor notes carried forward". |
+
+**Changes by type:** punctuation and clarity 5 (rows 1, 2, 4, 6, 10, where 10 is the fact check's quotation punctuation); repeated words 3 (9, 11, 12); consistency 3 (5 and 7 for centuries, 13 for "said"); hyphenation 1 (3); grammar 1 (8, the change of person). Total: 13 prose changes, plus 1 structural change (14). Meaning changed: none.
+
+**Recommended, not applied (quotation punctuation, for the author or orchestrator to approve).** The brief limited quotation fixes to the one the fact check found. I checked every other quotation's closing punctuation against Gutenberg #23 and #17851 today. Three more have a full stop inside the closing mark that is not in the source, because the source sentence goes on. The house rule (logical punctuation) would move each one outside, and no word would change:
+- Douglass, Appendix: "...I recognize the widest possible difference." The source continues with a dash ("difference—so wide, that..."). Proposed: `difference".`
+- Douglass, Appendix: "I love the pure, peaceable, and impartial Christianity of Christ." The source continues with a colon ("Christ: I therefore hate..."). Proposed: `Christ".`
+- Prince: "English marriage is not allowed to slaves." The source continues with a semicolon ("slaves; and no free man..."). Proposed: `slaves".`
+The others are correct as they stand: "many stripes.", "are the worst.", "a hard and heavy task to do so." and "to be free is very sweet." end sentences in the source; "upon their back?" is her question mark; the comma after "to leave all to Him," is hers.
+
+**Checked and deliberately left alone:**
+
+- The author's opening paragraph (line 3, `author-confirmed 2026-11-11`): byte-identical, including "embraced ... practices" and the doubled "also" (Book Bible: author statements stay in his words).
+- Humanize log item 5, "so Christianity was made to justify the enslaving of Africans": a passive. To make it active I would have to name an actor ("the preachers", "slaveholders") that the sentence does not name, which would narrow the claim. Left as it is.
+- Items 6 and 7 ("designed to erase it"; Pentecostal and African-initiated church growth): both are now inside [UNVERIFIED] flags from the fact check. Wording and flags kept.
+- Item 8 (Covey): the fact check's correction C4 is kept exactly. The echo "to be broken: "I was broken..."" is deliberate and comes from Douglass.
+- Items 9 and 10: "recognize", "baptizing" and "pure, peaceable, and impartial" stay inside quotations as written. "Sabbath school" and "Sunday school" were already in house form.
+- All the fact check's corrections C1-C6 are kept word for word.
+- "seeking to save souls, rather than to liberate bodies" (with its comma), the source triads, the "I believe" framings and "That is my own view, not a measured finding": kept, as the humanize log lists.
+- "the British and French colonial powers spread Catholicism and Anglicanism": the order of the religions does not match the order of the powers, but the sentence does not claim "respectively". Left alone.
+- "an ever larger workforce", "If you have heard it said ... it deserves a hearing", "a ready hearing ... who hear": light echoes, natural when read aloud. Kept.
+- "Mary" after first mention, beside "Douglass" (surname). This follows the chapter's own pattern and avoids "Prince" read as a title. **For the author:** some readers notice when a woman is called by her first name and a man by his surname. "Prince" throughout is the scholarly option. Not changed.
+- "indigenous" in lowercase (four uses): Hart's Rules form, recorded as the current treatment. **For the author:** Canadian and many US publishers now capitalise "Indigenous" for peoples. This is a single global switch if he prefers it (style sheet, Terms).
+- "white" in lowercase in narration ("a young white man named Wilson") beside "White Americans" (the Williams study's category): recorded as a rule (decision 7), so no change was needed.
+- Headings: the five H2s are past-tense claims in sentence case, and the H1 is in title case. The closer labels match the config and ch00. No change.
+
+## Consistency decisions (also recorded in the Book Bible and `book/style-sheet.md`)
+
+Each is a rule, with its source. Ch01 now follows all of them. Ch00 already did, or does not use the form.
+
+1. **"African heritage" before a noun: open, never hyphenated** ("African heritage Christians"). This matches the existing rule for African American, African British and African Canadian (no hyphen as noun or adjective; Book Bible 2026-11-11) and the author's source form (thesis 3983, 4063). Where it reads naturally, "of African heritage" after the noun is preferred ("people of African heritage", "a patient of African heritage"), but the attributive form is not wrong and is not rewritten. Never "African-heritage".
+2. **Accents and other diacritics in names are kept** as the person, place or author spells them: Junípero Serra, Medellín, Gustavo Gutiérrez, Bécares, González. This applies in prose and in citation notes. Source: Hart's Rules (accents in proper names are retained). Names in common English form without an accent stay without one (Quebec, not Québec, in running text).
+3. **Quotations keep their own spelling, capitalisation, hyphenation and punctuation, serial commas included:** "recognize", "baptizing", "class-leaders", "pure, peaceable, and impartial", "the Moravian church". House style (British spelling, no serial comma, "class leaders") applies only to our narration and paraphrase. The one exception is the closing mark: under logical punctuation, a full stop or comma goes inside only if the source has it there (fact check row 65). Source: Hart's Rules on quotations; config rule 4 applies to our own prose.
+4. **"Sabbath school" and "Sunday school":** capitalise the day and lowercase "school", in narration and paraphrase (Hart's Rules, generic noun after a proper name). The same goes for "camp meeting" and "prayer meeting".
+5. **Centuries in words, decades in figures:** "the sixteenth century", "early in the seventeenth century", "the eighteenth century"; "the 1830s" (no apostrophe). Hyphenate a century before a noun ("eighteenth-century missions"). Do not write "the 1700s" for a century. Source: ch01 majority usage; Hart's Rules.
+6. **Church:** capitalise it in the name of a denomination or body, or for the institution as a whole: the Church of England, the Moravian Church, the English Church (Prince's term), the African Methodist Episcopal Church, the colonial Church (Fanon), "the Church in Africa". Lowercase it for congregations, buildings and generic use: "our churches", "Black churches", "a small Protestant church", "that church", "the Moravian chapel". "the Black Church" is used only for the institution (Book Bible 2026-11-07).
+7. **Black and white:** "Black" is capitalised for people and their institutions (Black Christians, Black churches, Black theology, Black Americans). "white" is lowercase in narration ("a young white man"). It is capitalised only where it names a study's or census category ("White Americans", "White British"). Quotations keep their own form ("the white people", Prince). Source: ch01 as written; the categories follow the cited studies.
+8. **indigenous and Native American:** "indigenous" lowercase as an adjective ("indigenous peoples", Hart's Rules), pending the author's choice (see above). Named peoples are capitalised (Arawaks, Caribs, Cree, Iroquois, Ojibwa), and so is "Native American".
+9. **Titles and abbreviations without full stops in narration:** Dr, Jr, St, Mr, Mrs ("the Reverend Dr Martin Luther King Jr"; "St Thomas"; "St George's Methodist Church"). Quotations and titles keep theirs. This extends the ch00 rule (UK, USA, PhD).
+10. **Movements, laws and speeches:** "the civil rights movement" is lowercase and never hyphenated. Named Acts are capitalised (the Civil Rights Act, the Voting Rights Act, the Slavery Abolition Act). Speech and letter titles go in double quotation marks with title-case capitals ("I Have a Dream", "Letter from Birmingham Jail"). Book titles are in italics, including the short forms (*Narrative*, *History*). Proper names keep their own spelling (National Association for the Advancement of Colored People; ch00 rule).
+11. **health care:** open as a noun ("basic health care"), hyphenated before a noun ("health-care workers"), like "mental-health services".
+
+## Outstanding flags
+
+| Flag | Count | Where (section, first words) | Who |
+|---|---|---|---|
+| `[UNVERIFIED]` | 10 | (1) section 2, Galatians 3:28 "often invoked" (open-claims 39); (2) section 2, "designed to erase it" (40); (3) section 3, mission education and herbal medicine, Hastings 1994 (26); (4) section 3, Moravian religious education "unlike most other missionaries" (41); (5) section 3, "Some saw their work..." (42); (6) section 4, Williams et al. 2007 not opened (36); (7) section 5, hidden church and the Underground Railroad (43); (8) section 5, Lincoln and Mamiya "sanctuary ... centre of social change" and the seminaries/banks sentence (44); (9) section 5, the churches' part in the NAACP's work (32); (10) section 5, Pentecostal and African-initiated church growth (45) | author (a source, a page reference or sign-off on rewording, rule 9) or researcher (Williams needs jamanetwork.com allowed, or the PDF) |
+| `[AUTHOR TO CONFIRM]` | 1 | section 1, the 1807 Slave Bible (add it or not; not in the thesis) | author |
+| `[AUTHOR STORY NEEDED]`, `[COPY EDIT]`, `[DEV EDIT]`, `[RESEARCH NEEDED]` | 0 | n/a | n/a |
+| `<!-- author-confirmed 2026-11-11 -->` | 1 | opening paragraph | kept |
+| `<!-- note: ... -->` citation notes | 29 | as in the input, unchanged | build: convert to endnotes (URLs in ch01-factcheck.md) |
+| Cut list | 36 of 36 rows undecided | `book/03-drafts/ch01-cut-list.md` | author |
+
+**What the author must do to make ch01 final:**
+1. Settle the 10 [UNVERIFIED] flags: give a source or page, or approve rewording or cutting the sentence (rule 9). After that, the researcher replaces each flag, or the copy editor rewords.
+2. Decide on the 1807 Slave Bible (keep or drop the [AUTHOR TO CONFIRM] paragraph).
+3. Mark keep or cut on all 36 cut-list rows. Kept rows go back in, and the new text then needs a light copy edit.
+4. Read the chapter aloud for voice. Optionally: approve the three quotation-punctuation fixes above, and choose "Indigenous" or "indigenous" and "Mary" or "Prince".
+
+## Editor notes carried forward
+
+This is the "Notes for the editor" block from `book/04-edited/ch01-a-faith-handed-down-in-chains.md`, word for word.
+
+- Dev edit (developmental-editor, 2026-11-11). Full account in `book/04-edited/ch01-edit-memo.md`. Earlier versions kept in `book/03-drafts/` (draft and `.pre-story.md`), with the writer's and story-injector's notes, which still apply (spine, verbatim lines, corrections).
+- Moved: the Canada paragraph from the mental-cost section to section 1 (before Fanon); the Spanish, Puritan and Oregon paragraph to second place in section 3 (before the Moravians); Dr King before Cone in section 5 (chronology, and King is not a voice of Black theology). Douglass's Britain and Ireland lectures moved into his introduction. Two H2 headings rewritten to cover their sections.
+- Opening paragraph (author's words): byte-identical to the draft. The hook line and the closer section are unchanged; the paragraph before the hook gains two sentences (Douglass and Prince; honesty and the mind). Flags in prose: 8 UNVERIFIED and 1 AUTHOR TO CONFIRM, as before; all 21 citation notes kept (one moved, two extended). New cut-list row 36.
+- For the humanize pass: "I believe" appears often in section 4 and the King paragraph by design (config rule 5). The source triads ("tobacco, rice and cotton"; "spiritual empowerment, economic justice and racial equality"; "unite, heal and inspire") are the author's. "That is my own view, not a measured finding" replaces "I know of no study that has measured it", which spoke for the author's reading.
+- Humanize pass done 2026-11-11; see ch01-humanize-log.md
+
+Added at copy edit (not part of the original block): the fact check (book-researcher, 2026-11-11, `book/02-research/ch01-factcheck.md`) has since changed the flag and comment counts above. The text now has 10 UNVERIFIED and 1 AUTHOR TO CONFIRM, plus 30 HTML comments (29 citation notes and 1 author-confirmed comment). Copy edit (copy-editor, 2026-11-11): this file. The block was removed from `book/05-final/ch01-a-faith-handed-down-in-chains.md`.
+
+## Word count
+
+The method is the humanize log's: prose from the title to the end of the closer, with HTML comments and the notes block left out. **4,702 words**, against 4,697 in the input (the copy edit added 5). The fact check's flag text in square brackets is included. Without the bracketed flag text, the reader-facing prose is **4,370 words**. The budget for chapters is 3,500-4,600 (blueprint v2), so the reader-facing text is within it. The total will change as flags are resolved and cut-list rows return.
