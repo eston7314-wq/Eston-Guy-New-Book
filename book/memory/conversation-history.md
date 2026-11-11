@@ -336,3 +336,13 @@ Opening paragraph byte-identical; all 21 notes, 10 KJV refs, 8 UNVERIFIED and 1 
 CONFIRM kept. Not done: no commit; open-claims untouched; no study opened. Open for the author: 
 Tobago, Slave Bible, 36 cut rows, Bethel 1794 (pack fact dropped from prose), whether to add a 
 clause on Baptist resistance (Sharpe) to section 3.
+
+### 2026-11-11 · copy-editor · humanize · ch01
+Humanize pass (config rule 11) on 04-edited/ch01-a-faith-handed-down-in-chains.md, edited in 
+place; pre-pass copy .pre-humanize.md; log ch01-humanize-log.md. 2 prose changes, both §4 
+sentence-scale run-ups (paragraph 3 'The answer has two edges:'; Moravian 'one important way' 
+delivered after a colon, per thesis 3838-3840). Opening paragraph byte-identical; flags 8 
+UNVERIFIED + 1 AUTHOR TO CONFIRM unchanged; 21 comments, all quotations, KJV references, hook 
+and closer unchanged. 4,500 -> 4,497 words. Kept: author triads (traced), 'rather than' 
+verdict, 4063-4067 quotation, 'I believe' framings. 10 stage-5 points in the log. Card and Book 
+Bible humanize status updated. Not committed.
