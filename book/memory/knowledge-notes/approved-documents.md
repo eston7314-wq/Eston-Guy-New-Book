@@ -7,8 +7,10 @@ and as a Google Doc in the author's Drive folder "Eston's Thesis Book / Approved
 **Sync rule (author, 2026-11-11): keep GitHub and Drive in sync at all times.** Whenever an
 approved document changes in the repository, upload the new version to the Drive folder the same
 session (HTML comments stripped, Google Doc), rename the previous Drive copy "SUPERSEDED - ...",
-and update the link in this table. A daily scheduled check ("Book Drive sync") also compares each
-approved file here with its Drive copy and fixes any drift.
+and update the link in this table. A daily scheduled task ("Book Drive sync", 21:17 London) was created on 2026-11-11 but is
+DISABLED: it was created without the Google Drive connector, so it could not reach Drive. It can be
+recreated with Google Drive attached from the claude.ai scheduled-tasks page. Until then, the sync
+rule is carried out by each session as it makes changes.
 
 **Standing rule (author, 2026-11-07):** whenever the author approves a document, record it here
 and upload a copy to that Drive folder. Documents still awaiting a decision are not uploaded.
