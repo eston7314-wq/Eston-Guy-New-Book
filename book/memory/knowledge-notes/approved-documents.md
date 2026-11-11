@@ -11,8 +11,8 @@ and upload a copy to that Drive folder. Documents still awaiting a decision are 
 |---|---|---|---|---|
 | 2026-11-07 | Book configuration (reader, tone, launch locked) | book/book.config.md | https://docs.google.com/document/d/1w53zhSjaD1gwmpqf4ZSR-M-xM-RjD7M6EdQ1C3fh4ek/edit | Author locked reader, tone and launch on 2026-11-07; other rows still Inferred |
 | 2026-11-07 | From Thesis to Book: conversion and publishing plan (27 Oct 2026) | book/00-strategy/thesis-to-book-plan.md | https://docs.google.com/document/d/1DWnEpZVziQJrptQB0KktQeb8MQHf5eDqjCPMMGkNwSs/edit | Author adopted Route A and proceeded on it |
-| 2026-11-10 | Blueprint v2 (11 chapters), approved for drafting | book/01-outline/blueprint-v2.md | not yet uploaded (Drive upload blocked 2026-11-11; awaiting author's go-ahead) | Author: "make 11 chapters" and "write this book" |
-| 2026-11-11 | Preface: Felt Before It Is Understood (ch00 final) | book/05-final/ch00-preface.md | not yet uploaded (as above) | Author voice check: "sounds like me" |
+| 2026-11-10 | Blueprint v2 (11 chapters), approved for drafting | book/01-outline/blueprint-v2.md | https://docs.google.com/document/d/1zF459h0hH1btmADTUWVeHQIZvnE-YtjiSoTinquJfCA/edit | Author: "make 11 chapters" and "write this book" |
+| 2026-11-11 | Preface: Felt Before It Is Understood (ch00 final) | book/05-final/ch00-preface.md | https://docs.google.com/document/d/1_JY37UsrFjFWHwyrUR4IJZhszXdwC78rPjAlDTRLzsc/edit | Author voice check: "sounds like me" |
 
 ## Awaiting the author's decision (not uploaded)
 

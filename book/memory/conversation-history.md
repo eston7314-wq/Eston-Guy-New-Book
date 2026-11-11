@@ -252,3 +252,6 @@ Author gave new GCSE wording: "our 2004 students' GCSE results were the best for
 ### 2026-11-11 · book-orchestrator · approval · ch00
 Author voice check on ch00: "sounds like me". Preface approved; the voice of ch00 is the reference for later chapters. Drive copies of the Preface and blueprint-v2 were blocked by the session's permission check; asked the author. Starting ch01 research.
 
+### 2026-11-11 · book-orchestrator · archive · book
+Author: "please upload them". Uploaded the approved Preface (ch00) and blueprint-v2 as Google Docs to Drive 'Eston's Thesis Book / Approved Documents' (HTML comments stripped). Preface content verified by reading it back. Links in knowledge-notes/approved-documents.md.
+
