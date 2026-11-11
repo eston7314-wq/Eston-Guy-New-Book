@@ -346,3 +346,20 @@ UNVERIFIED + 1 AUTHOR TO CONFIRM unchanged; 21 comments, all quotations, KJV ref
 and closer unchanged. 4,500 -> 4,497 words. Kept: author triads (traced), 'rather than' 
 verdict, 4063-4067 quotation, 'I believe' framings. 10 stage-5 points in the log. Card and Book 
 Bible humanize status updated. Not committed.
+
+### 2026-11-11 · book-researcher · fact-check · ch01
+Mode B on book/04-edited/ch01-a-faith-handed-down-in-chains.md; report 
+book/02-research/ch01-factcheck.md (80 claims: 39 verified opened, 23 search-level or framed 
+per rule 5, 6 corrected, 11 unverified rows, 1 author testimony). Opened: PMC full texts of 
+Paradies 2015, Wallace 2016, Mohatt 2014, Yehuda and Lehrner 2018; Crossref and NIMH for 
+Williams 2007 (paper itself not opened: jamanetwork.com not allowed, PubMed reCAPTCHA); 
+Gutenberg #23, #17851, #10; Hamilton 1901 on archive.org (Tobago 1790, St Thomas 1732, 
+Herrnhut); King Institute entries; National Archives guide. Corrections in place: Paradies 
+'most clearly' -> 'including'; Wallace 'part of life ... years later' -> 'form ... later'; 
+Yehuda sentence; Covey (Douglass hired out to him 'to be broken'); Prince Sunday school 'as she 
+understood him'; 'first account of an enslaved Black woman's life'. Flags: 5 removed (four 
+studies, Tobago), 3 kept and rewritten (Williams, Lincoln and Mamiya, NAACP), 7 inserted 
+(Galatians 3:28 use, 'designed to erase it', Hastings/herbs, Moravian education, 'some saw', 
+Underground Railroad, church growth); now 10 [UNVERIFIED], 1 [AUTHOR TO CONFIRM]. Updated 
+open-claims (26, 32, 35, 36 amended; 38 resolved; 39-45 added), Book Bible 
+citations/status/fact-check section, glossary (network note), ch01 card. Not committed.
