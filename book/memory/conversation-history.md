@@ -296,3 +296,23 @@ passage not quoted. Book Bible: status Draft done, ch01 block appended; context 
 source-map and authors-voice notes updated. Not done: no commit; open-claims rows not edited 
 (flags map to 29-37 plus Tobago, which has no row). Author to decide: Tobago Moravian history, 
 Slave Bible, 35 cut rows, missing references.
+
+### 2026-11-11 · story-injector · story · ch01
+Story pass (Mode A) on book/03-drafts/ch01-a-faith-handed-down-in-chains.md; pre-pass copy 
+ch01-a-faith-handed-down-in-chains.pre-story.md; record in 02-research/ch01-stories.md (0 
+ILLUSTRATIVE pieces, 2 real scenes listed). Opening: author's family words unchanged with their 
+author-confirmed comment; the next paragraph tightened so the chapter question is sentence 
+five. Real scenes, both paraphrased from the pack's opened GITenberg texts (re-read this run): 
+Mary Prince's Christmas prayer meeting at Winthorps, where the driver Henry confesses beating 
+the enslaved, his own wife or sister if ordered, placed in section 4 to prove 'spiritual 
+alienation, guilt and mental anguish' (section 3 now only introduces the meeting and her secret 
+visits to the Moravian teachers); Thomas Auld's 1832 camp-meeting conversion and 'religious 
+sanction' (Douglass, section 1). Only pack-verified passages quoted; Prince's 'I still live in 
+the hope...' now paraphrased. Sharpe not used or quoted. No hypothetical. Lecture lines turned 
+to direct address in sections 1, 2 and 4; 'resonate' x3, 'bastions', 'instrumental' replaced; 
+two restating lines cut (no cut-list rows: not distinct ideas, not from the source). Flags 
+unchanged: 8 UNVERIFIED, 1 AUTHOR TO CONFIRM, 0 AUTHOR STORY NEEDED; KJV references, closer and 
+ch02 hook unchanged. Words 4,370 to about 4,530 prose (+3.6%; about 4,950 with hidden notes, 
+the figure the coordinator quoted as 4,740). Book Bible: Prince and Douglass rows amended, v2 
+status Story pass done, story-pass block appended. Not done: no commit; open-claims untouched. 
+Open for the author: as on the card.
