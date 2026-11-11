@@ -18,7 +18,7 @@ T. Hartney was the headteacher of the last secondary school I worked in, and he 
 
 <!-- author-confirmed 2026-11-10 (Professor Salvatore Fava, Father F. W. G. Perkins, H. Gould and T. Hartney may be named) -->
 
-My year group in 2004 was 215 students from many ethnic backgrounds, a fantastic group. As I remember it, our 2004 students' GCSE results were the best for the school, to that date. <!-- author-confirmed 2026-11-11 --> The memory of their cooperation stayed with me, along with the support of fellow teachers and my many conversations with parents. Together they are part of why I undertook this research.
+My year group that year was 215 students from many ethnic backgrounds, a fantastic group. As I remember it, our 2004 students' GCSE results were the best for the school, to that date. <!-- author-confirmed 2026-11-11 --> The memory of their cooperation stayed with me, along with the support of fellow teachers and my many conversations with parents. Together they are part of why I undertook this research.
 
 In those years, the determination of many pupils to succeed, and the motivation of most parents to provide a better future for their children, in spite of the many challenges that confronted them, made me join with other believers in saying that faith really heals the mind. <!-- author-confirmed 2026-11-10 -->
 

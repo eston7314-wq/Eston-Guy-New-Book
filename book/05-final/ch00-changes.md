@@ -124,4 +124,5 @@ Applied by copy-editor on 2026-11-11, editing `book/05-final/ch00-preface.md` in
 | Original | Revised | Reason |
 |---|---|---|
 | As I remember it, their GCSE results were one of the best in the history of the school, at that time. | As I remember it, our 2004 students' GCSE results were the best for the school, to that date. | Author's exact wording (2026-11-11); kept as his recollection |
+| My year group in 2004 was | My year group that year was | Author's choice (2026-11-11), avoiding "2004" twice in a row; "that year" refers to Head of Year 11 in 2004 in the paragraph before. Supersedes copy-edit change "My year group in 2004" |
 
