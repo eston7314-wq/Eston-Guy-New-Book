@@ -213,3 +213,22 @@ Removed with it: the row-24 [UNVERIFIED] flag and the CDC/NIMH/NICE citation not
 optional endnote in ch00-factcheck.md addendum). Chapter now has 0 [UNVERIFIED]. Open-claims 23 
 and 24 resolved (author-confirmed wording). Cut-list row 30 records the removed source wording 
 with the author's decision. Bible status and card updated. Not committed.
+
+### 2026-11-11 · copy-editor · copyedit · ch00
+Copy edit (Mode A) of book/04-edited/ch00-preface.md into book/05-final/ch00-preface.md, with 
+log 05-final/ch00-changes.md. 10 prose changes: 4 serial commas (Part Three list removed; WHO 
+list, research aims and closer sentence recast because dropping the comma made them ambiguous), 
+2 punctuation fixes (semicolon between the country and sex breakdowns; parentheses round the 
+strands in question 1), 2 repetitions ('year group in 2004'; 'more specific'), 1 parallel list 
+('studying the Bible'), 1 CDC paraphrase made faithful (', which affects how we think, feel and 
+act'). The 'Notes for the editor' block was moved word for word into the change log. Flags, 
+both author-confirmed comments, both citation notes, both survey sentences, Luke 8:48 KJV and 
+the help-line note are unchanged (checked). Final humanizer check clean. Recorded 11 
+house-style rules in the Book Bible consistency decisions and in the new book/style-sheet.md: 
+British -ise with proper names kept (World Health Organization); no serial comma, recast if 
+ambiguous; scripture (Luke 8:48, KJV); 'chapter 4', no leading zero; numbers in words for one 
+to ten, figures for data, words at sentence start; double straight quotes, curled at 
+typesetting; abbreviations, initials, titles, hyphenation, headings. Bible status: Copy edit 
+done; Final = flags open. Not final: 1 AUTHOR STORY NEEDED, 29 of 30 cut-list rows undecided. 
+Not done: no commit; story not filled; GCSE 'results were one of the best' left as the author's 
+decided wording; 'Contemporary Religion/Religions' left, with a query to the author.

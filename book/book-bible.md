@@ -22,6 +22,13 @@ repeat it.
 
 - (strategist, 2026-11-07, pending author) Scripture is quoted in the KJV/AKJV wording the thesis uses until the author chooses a translation. "The writer to the Hebrews", not "Paul", for Hebrews. Use "African heritage" as the umbrella term; use "Black Church" only for the institution.
 - (strategist, 2026-11-07) Suicide passages follow the Samaritans media guidelines: no methods, and a help line nearby.
+- (copy-editor, 2026-11-11, ch00; full list in `book/style-sheet.md`) **Spelling:** British -ise (config rule 4); proper names keep their own spelling ("World Health Organization", "Centers for Disease Control and Prevention"), and our paraphrase of them is British.
+- (copy-editor, 2026-11-11) **Serial comma:** none (config rule 4). Where a list is ambiguous without it, recast the sentence; never restore the comma. A comma before "and" that joins clauses, or two items, is allowed.
+- (copy-editor, 2026-11-11) **Scripture references:** "quotation" (Luke 8:48, KJV): book in full, chapter:verse, translation after a comma, one pair of parentheses. Every quotation carries its translation until the author chooses one. Lowercase "scripture" and "the psalms" (individual psalms); capitalise the Bible, Bible study, the New Testament, the Eucharist, Psalms (the book).
+- (copy-editor, 2026-11-11) **Chapter references:** "chapter 4" (lowercase mid-sentence, no leading zero; never "chapter 04"); Part One to Part Four; Appendix A and B; "the preface", "the afterword".
+- (copy-editor, 2026-11-11) **Numbers:** words for one to ten in prose; figures for 11 and up and for every count or survey figure in a data sentence ("20 in the UK ... 30 women and 20 men", never "thirty women"); "N of the 50"; spell out at the start of a sentence; "fifty" in words for the group in narrative ("what fifty people told me"). Dates: 21 April 2025. Phone numbers as each service writes them.
+- (copy-editor, 2026-11-11) **Quotation marks:** double, with single inside; straight in the files and curled at typesetting; British logical punctuation; the citation after the closing mark.
+- (copy-editor, 2026-11-11) **Also:** UK, USA (noun), US (adjective), CDC, WHO, PhD, GCSE, KJV without stops. Initials spaced with stops (F. W. G. Perkins). Specific posts and named courses capitalised (Head of Year 11, Contemporary Religion); generic roles lowercase. "mental-health" before a noun, "mental health" as a noun; "well-being"; African American / British / Canadian with no hyphen; Afro-Caribbean and mixed-race hyphenated. H1 in title case, H2/H3 in sentence case.
 
 ## Key terms and how we define them
 
@@ -199,7 +206,7 @@ Source: `book/01-outline/blueprint-v2.md`. Author decision behind it: 11 chapter
 
 | # | Title | Outline | Research | Draft | Story pass | Dev edit | Copy edit | Final |
 |---|---|---|---|---|---|---|---|---|
-| 00 | Preface: Felt Before It Is Understood | done (v2, pending approval) | evidence pack done (02-research/ch00-evidence.md); fact check done 2026-11-10 (02-research/ch00-factcheck.md: 49 claims, 0 corrections, 0 [UNVERIFIED] left after the author reworded the chronic-illness sentence (author-confirmed 2026-11-10; open-claims 23-24 resolved); search-level, cdc.gov and who.int not opened) | done 2026-11-10 (03-drafts/ch00-preface.md; cut list 29 rows) | done 2026-11-10 (pre-pass copy ch00-preface.pre-story.md; 1 new hypothetical) | done 2026-11-10 (04-edited/ch00-preface.md; memo ch00-edit-memo.md; ready for humanize/fact check) | | |
+| 00 | Preface: Felt Before It Is Understood | done (v2, pending approval) | evidence pack done (02-research/ch00-evidence.md); fact check done 2026-11-10 (02-research/ch00-factcheck.md: 49 claims, 0 corrections, 0 [UNVERIFIED] left after the author reworded the chronic-illness sentence (author-confirmed 2026-11-10; open-claims 23-24 resolved); search-level, cdc.gov and who.int not opened) | done 2026-11-10 (03-drafts/ch00-preface.md; cut list 29 rows) | done 2026-11-10 (pre-pass copy ch00-preface.pre-story.md; 1 new hypothetical) | done 2026-11-10 (04-edited/ch00-preface.md; memo ch00-edit-memo.md; ready for humanize/fact check) | done 2026-11-11 (05-final/ch00-preface.md; log 05-final/ch00-changes.md; 10 prose changes; decisions in style-sheet.md) | flags open (1 AUTHOR STORY NEEDED; cut list 29 of 30 rows undecided) |
 | 01 | A Faith Handed Down in Chains | done (v2, pending approval) | | | | | | |
 | 02 | Songs for Sorrow | done (v2, pending approval) | | | | | | |
 | 03 | The Way Home: The Teachings and Parables of Jesus | done (v2, pending approval) | | | | | | |
@@ -215,6 +222,7 @@ Source: `book/01-outline/blueprint-v2.md`. Author decision behind it: 11 chapter
 
 **Humanize status** (pass after the dev edit, before the fact check; config hard rule 11; no column in the table above):
 
+- 00: Copy edit: done 2026-11-11 by copy-editor (05-final/ch00-preface.md; 05-final/ch00-changes.md). The final humanizer check is clean. Not final: the story slot is open and 29 cut-list rows are undecided.
 - 00: Fact check: done 2026-11-10 by book-researcher (02-research/ch00-factcheck.md). No wording changed; three hidden citation notes added in the mental-health paragraph; chronic-illness sentence then replaced by the author's wording, "some people believe that long-term physical illness raises the risk of some mental-health problems, including excessive stress" (author-confirmed 2026-11-10; framed as belief, no citation in text; rows 23-24 resolved; cut-list row added); rows 8 and 13 (ch00 part) resolved, row 9 partly. Next: copy edit.
 - 00: Humanize: done 2026-11-10 (04-edited/ch00-humanize-log.md; 1 change, §4 staged run-up; pre-pass copy ch00-preface.pre-humanize.md). Kept for voice: the author's own "plays a very significant role" (thesis 506) and the source triads in the home section.
 
