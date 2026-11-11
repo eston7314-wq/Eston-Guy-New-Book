@@ -11,3 +11,9 @@ Stub. State the source and date of anything you add. Undated entries are untrust
 - "In some unique way" is his idiom for a felt connection he does not explain (95). Keep it.
 - Ends sections by thanking God (121). One such line per chapter at most, where the source has it.
 - Uses "Public school" for state schools (106-107); UK readers will misread it. Ask him before restoring.
+
+## Observed in ch01 source and testimony (chapter-writer, 2026-11-11; thesis 3726-4077; author testimony 2026-11-11)
+
+- Signposting connectives at paragraph starts: "On the other hand", "Above all", "Furthermore", "Again", "On the contrary". Used 3-4 times per page in the source; the ch01 draft keeps almost none.
+- Balanced verdict sentences with a comma before "rather than": "seeking to save souls, rather than to liberate bodies" (3911-3912). Keep verbatim; the humanizer allows it because both halves carry information.
+- His own testimony uses doubled "also" and "embraced ... practices", "paying homage also to" (2026-11-11). Kept unedited in ch01 per the ch00 precedent (author statements stay in his words).

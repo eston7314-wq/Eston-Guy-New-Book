@@ -221,7 +221,7 @@ Source: `book/01-outline/blueprint-v2.md`. Author decision behind it: 11 chapter
 | # | Title | Outline | Research | Draft | Story pass | Dev edit | Copy edit | Final |
 |---|---|---|---|---|---|---|---|---|
 | 00 | Preface: Felt Before It Is Understood | done (v2, pending approval) | evidence pack done (02-research/ch00-evidence.md); fact check done 2026-11-10 (02-research/ch00-factcheck.md: 49 claims, 0 corrections, 0 [UNVERIFIED] left after the author reworded the chronic-illness sentence (author-confirmed 2026-11-10; open-claims 23-24 resolved); search-level, cdc.gov and who.int not opened) | done 2026-11-10 (03-drafts/ch00-preface.md; cut list 29 rows) | done 2026-11-10 (pre-pass copy ch00-preface.pre-story.md; 1 new hypothetical) | done 2026-11-10 (04-edited/ch00-preface.md; memo ch00-edit-memo.md; ready for humanize/fact check) | done 2026-11-11 (05-final/ch00-preface.md; log 05-final/ch00-changes.md; 10 prose changes; decisions in style-sheet.md); author revisions applied 2026-11-11 ("Author revisions 2026-11-10" in ch00-changes.md) | done 2026-11-11: Final: APPROVED by the author 2026-11-11 (voice check passed). 0 flags; cut list 30 of 30 decided (all cut). Before press: researcher opens cdc.gov and who.int (open-claims row 9) and re-checks help lines |
-| 01 | A Faith Handed Down in Chains | done (v2, pending approval) | evidence pack done 2026-11-11 (02-research/ch01-evidence.md): 5 brief flags settled (1732, 1960s, period, Fanon misapplied, Hastings/Bediako/Murrell traced, Graham not); 13 further source errors; 7 study leads not opened (hosts blocked); case candidates Mary Prince (recommended), Douglass, Sam Sharpe; open-claims 25-37 | | | | | |
+| 01 | A Faith Handed Down in Chains | done (v2, pending approval) | evidence pack done 2026-11-11 (02-research/ch01-evidence.md): 5 brief flags settled (1732, 1960s, period, Fanon misapplied, Hastings/Bediako/Murrell traced, Graham not); 13 further source errors; 7 study leads not opened (hosts blocked); case candidates Mary Prince (recommended), Douglass, Sam Sharpe; open-claims 25-37 | done 2026-11-11 (03-drafts/ch01-a-faith-handed-down-in-chains.md, about 4,375 words; cut list 35 rows, all undecided; 8 [UNVERIFIED], 1 [AUTHOR TO CONFIRM]; opening = author's family words, author-confirmed 2026-11-11) | | | | |
 | 02 | Songs for Sorrow | done (v2, pending approval) | | | | | | |
 | 03 | The Way Home: The Teachings and Parables of Jesus | done (v2, pending approval) | | | | | | |
 | 04 | Thy Faith Hath Made Thee Whole: Miracles, Letters and Hope | done (v2, pending approval) | | | | | | |
@@ -295,4 +295,43 @@ Edited file: `book/04-edited/ch00-preface.md`. Memo: `book/04-edited/ch00-edit-m
 - **Bridge into ch01 (now):** "To see why the same faith can both heal and wound, we have to begin with an older question. How did this faith reach our ancestors, and how did it come to be handed down in chains?" Ch01 opens on that question.
 - **Parts paragraph** uses the book-map wording only (no chapter list). The promise that the afterword says what the research could not show is made in the research section.
 - **Promises:** all five v2 promises present; no rows moved.
+
+### Ch01 draft additions (chapter-writer, consolidate, 2026-11-11)
+
+Draft: `book/03-drafts/ch01-a-faith-handed-down-in-chains.md`. Cut list: `book/03-drafts/ch01-cut-list.md` (35 rows). Opens on the author's family words (author testimony 2026-11-11), then picks up ch00's closing question.
+
+**Terms and frameworks as drafted in 01**
+
+| Term | As written in 01 | Note |
+|---|---|---|
+| The double-edged inheritance | "The faith was used against our ancestors, and they took it back and made it their own ... holding both truths at once is part of being well" | Named in the opening and in the last paragraph. Later chapters refer back by name only |
+| Great Commission | Matthew 28:19-20 (KJV, corrected wording), "in the hands of empire it became a duty to convert and 'civilise'" | Not to be re-explained later |
+| Invisible institution | Worship the masters could not see; Raboteau's 1978 title. Frazier not credited | |
+| Liberation theology / Black theology | Liberation theology: arose in Roman Catholicism, helping the poor and oppressed through political and civic life; Medellín 1968, Gutiérrez 1971. Cone 1969 and 1970, contemporary with it and not derived from it | Cone not quoted |
+
+**Stories, examples and cases used in 01** (do not reuse without calling back by name)
+
+| Example | What it illustrated | Chapter | Verified? |
+|---|---|---|---|
+| The author's family line: paternal grandparents through the Moravian Church in Tobago; maternal grandparents through the Anglican Church; he, his wife and children Church of England, honouring Pentecostal and Spiritual Baptist practice | How the history lives on in one family; the opening and the closing paragraph | 01 | Author testimony, author-confirmed 2026-11-11. Tobago's Moravian history itself flagged [UNVERIFIED] |
+| Mary Prince: Methodist prayer meeting and the driver Henry; "led my spirit to the Moravian church"; taught to read by Moravian women; Sunday school barred without her owner's note (1817); Moravian wedding to Daniel James (1826), "English marriage is not allowed to slaves"; Moravians at Hatton Garden took in her trunk; "keep down my fretting ... hard and heavy task"; "How can slaves be happy..."; "to be free is very sweet"; Turks Island prayer place "pulled ... down twice" | Moravians as refuge and gatekeeping; the mental cost; the invisible institution in the Caribbean | 01 | Prince 1831, opened (Gutenberg #17851) |
+| Douglass: master whipping a lame young woman and quoting "He that knoweth his master's will..."; Wilson's Sabbath school broken up "with sticks and other missiles"; "religious slaveholders are the worst"; "the Christianity of this land, and the Christianity of Christ"; "broken in body, soul, and spirit" (suicide line not quoted) | Scripture used to justify cruelty; the two Christianities; the mental cost | 01 | Douglass 1845, opened (Gutenberg #23) |
+| Absalom Jones pulled from his knees at St George's; Allen, Bethel 1794, AME April 1816 | Origins of the independent Black Church | 01 | Search-level; no walkout year; Allen not quoted |
+| Dr King: Letter from Birmingham Jail line; non-violence; "I Have a Dream" 1963; Acts 1964 and 1965 | The Black Church as force for change | 01 | Search-level; one short line only (estate) |
+
+**Statistics, scripture and quotations used in 01** (beyond the pack rows above already marked 01)
+
+| Claim | Source | Chapter |
+|---|---|---|
+| About 12.5 million embarked, about 10.7 million arrived | SlaveVoyages (search-level) | 01 |
+| Slavery Abolition Act in force 1 August 1834; fewer than 50 freed in British North America; Emancipation Day named 2021 | National Archives; Canadian Encyclopedia; canada.ca (search-level) | 01 |
+| Dober and Nitschmann, St Thomas, 13 December 1732 | ch01-evidence.md F1 | 01 |
+| "Injustice anywhere is a threat to justice everywhere" (King, 16 April 1963) | King Institute (search-level) | 01 (spent; later chapters paraphrase King or use another line with clearance) |
+| Racism and mental health (Paradies 2015; Wallace, Nazroo and Bécares 2016); historical trauma as narrative (Mohatt 2014); no shown epigenetic inheritance (Yehuda and Lehrner 2018); lower lifetime depression but more chronic and less treated (Williams 2007) | All [UNVERIFIED: study not opened]; no numbers given | 01 (ch08 may call back; must not repeat as new) |
+| Scripture quoted: Matthew 28:19-20; Ephesians 6:5; Colossians 3:22 and Titus 2:9 (references only); Exodus 3:7; Exodus 5:1; Galatians 3:28; Isaiah 61:1; Isaiah 61:3 ("the garment of praise for the spirit of heaviness"), all KJV | KJV 1769, ch01-evidence.md section 3 | 01 (Galatians 3:28 and Ephesians 6:5 owned by 01; Isaiah 61:3 now spent) |
+| 1807 "Slave Bible" | Offered only inside [AUTHOR TO CONFIRM]; not in the thesis | 01 (pending author) |
+
+**Promises made in 01 (as written):** "Chapter 2 tells how they turned it into song" (paid off in 02); "Chapter 8 turns to the practical care this history calls for, so that the trauma named here is met with help" (paid off in 08). Both match the v2 promise rows; no new promises.
+
+**Lines and images now spent in 01:** the author's "seeking to save souls, rather than to liberate bodies" (3911-3912); "Christianity, in its truest form, holds the potential to unite, heal and inspire..." (4063-4067); Fanon (gist, hidden citation; no other chapter uses him). Bridge into ch02: "What the enslaved could not say aloud, they sang." Mark 12:31 left for ch03; the spirituals and "Let my people go" as song left for ch02 (01 quotes Exodus 5:1 as scripture only).
 

@@ -277,3 +277,22 @@ Prince recommended; Douglass and Sharpe alternates. Open-claims 25-37 added; Boo
 citation rows and status; glossary 6 terms plus GITenberg network note; ch01 card created. Not 
 done: no draft text touched; no commit; studies not opened. Questions for the author: missing 
 references, 13,000 source, NAACP wording, family story.
+
+### 2026-11-11 · chapter-writer · consolidate · ch01
+Consolidated ch01 from thesis 3670-4077, 1284-1298, 1564-1583, 1749-1761 into 
+book/03-drafts/ch01-a-faith-handed-down-in-chains.md (about 4,375 words to end of closer, HTML 
+notes excluded) and ch01-cut-list.md (35 rows, six columns, all undecided). Opens on the 
+author's family words verbatim (Moravian Tobago, Anglican, Church of England with Pentecostal 
+and Spiritual Baptist), marked author-confirmed 2026-11-11; the maternal Anglican line is not 
+placed in Tobago and no detail is added. Five H2 sections follow v2's arguments; Mary Prince is 
+the case (Moravians as refuge and gatekeeping; fretting), Douglass second; Sharpe not used. 
+Evidence corrections applied: 1732, no slave-labour myth, no 13,000, Fanon only for religion as 
+a tool of empire (hidden note, not quoted), Cone contemporary with liberation theology, NAACP 
+multiracial 1909, KJV wording, no trauma-in-genes, PTSD/most-noted/Acts-improved-mental-health 
+reworded as belief. Prince and Douglass lines re-checked against the GITenberg texts. Flags: 8 
+UNVERIFIED (Tobago Moravian mission; 5 unopened studies; Lincoln and Mamiya page; churches' 
+NAACP/civil-rights role), 1 AUTHOR TO CONFIRM (1807 Slave Bible). Douglass's suicidal-thoughts 
+passage not quoted. Book Bible: status Draft done, ch01 block appended; context card, 
+source-map and authors-voice notes updated. Not done: no commit; open-claims rows not edited 
+(flags map to 29-37 plus Tobago, which has no row). Author to decide: Tobago Moravian history, 
+Slave Bible, 35 cut rows, missing references.
