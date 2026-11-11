@@ -249,3 +249,6 @@ Cut-list rows 1-29 have the decision in a stray seventh cell (not edited). Not c
 ### 2026-11-11 · book-orchestrator · revision · ch00
 Author gave new GCSE wording: "our 2004 students' GCSE results were the best for the school, to that date". Applied in 05-final/ch00-preface.md as his recollection, logged in ch00-changes.md. Voice check still pending.
 
+### 2026-11-11 · book-orchestrator · approval · ch00
+Author voice check on ch00: "sounds like me". Preface approved; the voice of ch00 is the reference for later chapters. Drive copies of the Preface and blueprint-v2 were blocked by the session's permission check; asked the author. Starting ch01 research.
+

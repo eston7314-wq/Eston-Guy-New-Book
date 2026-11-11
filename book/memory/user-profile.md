@@ -52,4 +52,5 @@ infers goes under "Proposed" until the author confirms it.
 | 2026-11-10 | GCSE wording kept as the author's own ("one of the best in the history of the school, at that time") | ch00 |
 | 2026-11-11 | GCSE wording replaced: "our 2004 students' GCSE results were the best for the school, to that date" (supersedes the 2026-11-10 wording) | ch00 final |
 | 2026-11-11 | Ch00: "My year group that year was 215 students..." (not "in 2004") | ch00 final |
+| 2026-11-11 | Ch00 voice check passed: "sounds like me". Preface approved | book/05-final/ch00-preface.md; Book Bible status |
 
