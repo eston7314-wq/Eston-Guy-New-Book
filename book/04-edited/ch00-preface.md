@@ -12,7 +12,7 @@ That research was a doctoral thesis for Selinus University of Science and Litera
 
 My wife, my sons, my grandsons, my granddaughter, my daughter-in-law and the wider family all inspired me to undertake the study. Professor Salvatore Fava, who supervised it, motivated me to develop and keep a high standard of research.
 
-Three other people shaped the years before it, but two are now deceased. Father F. W. G. Perkins was my supervisor at university, and he first inspired me to study Contemporary Religion. H. Gould was the headteacher who supervised my probationary year as a newly qualified teacher in North London. In that school I introduced the teaching of Contemporary Religions at secondary level, and under her leadership I rose to Head of Religious Studies in five years.
+Three other people shaped the years before it. Father F. W. G. Perkins was my supervisor at university, and he first inspired me to study Contemporary Religion. H. Gould was the headteacher who supervised my probationary year as a newly qualified teacher in North London. In that school I introduced the teaching of Contemporary Religions at secondary level, and under her leadership I rose to Head of Religious Studies in five years.
 
 T. Hartney was the headteacher of the last secondary school I worked in, and he gave me support and guidance through my final years in school service. Under his leadership I supervised the Heads of Year, who helped to build a high level of pastoral care. I also managed the Gifted and Talented programme, which reached out to less able pupils as well. That setting let me hold the roles of Head of Year 11, in 2004, and Assistant Headteacher.
 

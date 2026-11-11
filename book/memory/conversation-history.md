@@ -387,3 +387,7 @@ quotation full stops outside (Douglass x2, Prince x1; Gutenberg re-checked). Not
 UNVERIFIED, 1 AUTHOR TO CONFIRM, 36 cut rows undecided, voice check pending. 4,702 words (4,370 
 without flag text). Card and Book Bible status updated. Not committed (note: another session's 
 commit 29d75b9 included ch01-changes.md mid-run).
+
+### 2026-11-11 · book-orchestrator · revision · ch00
+Author: delete "but two are now deceased". Sentence is now "Three other people shaped the years before it." Applied in 05-final and 04-edited. Drive copy (corrected 2026-11-11) is now out of date.
+

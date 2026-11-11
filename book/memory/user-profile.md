@@ -59,4 +59,5 @@ infers goes under "Proposed" until the author confirms it.
 | 2026-11-11 | Survey charts back in the book: Fig.1-26 (including Fig.24 employment and Fig.25 education by country, author's choice after the re-identification risk was explained). Placement default (author did not choose): key charts in ch10, all in Appendix A, redrawn with answer words | blueprint-v2 amendment; ch10 card; App. A |
 | 2026-11-11 | Fig.27 (participant-level table): author asked to add it back. Held for one confirmation, because it reproduces each participant's answers and their consent covered academic use only; this would reverse hard rule 10 | user-profile; config rule 10 unchanged until confirmed |
 | 2026-11-11 | Fig.27: "include it anyway", after being told of the consent and data-protection risk and advised to check with an ethics contact. Goes in Appendix A only | book.config.md rule 10 exception |
+| 2026-11-11 | Preface: "but two are now deceased" deleted; the sentence is "Three other people shaped the years before it." The book makes no statement about whether Perkins, Gould or Hartney have died | ch00 final |
 
