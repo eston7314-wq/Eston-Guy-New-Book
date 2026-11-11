@@ -232,3 +232,16 @@ typesetting; abbreviations, initials, titles, hyphenation, headings. Bible statu
 done; Final = flags open. Not final: 1 AUTHOR STORY NEEDED, 29 of 30 cut-list rows undecided. 
 Not done: no commit; story not filled; GCSE 'results were one of the best' left as the author's 
 decided wording; 'Contemporary Religion/Religions' left, with a query to the author.
+
+### 2026-11-11 · copy-editor · final-revision · ch00
+Applied the author's 2026-11-10 decisions in place in 05-final/ch00-preface.md. Line 23: the 
+[AUTHOR STORY NEEDED] brief is replaced by his statement, in his words, with the lead-in 'In 
+those years,' and <!-- author-confirmed 2026-11-10 -->. Line 15: 'supervisor at the University 
+of London ... study Contemporary Religions'. The school mention already matched. GCSE wording 
+unchanged. No linking phrase added: the next heading makes the turn to harm. A light copy edit, 
+humanizer check and style check of lines 15 and 23 found them clean; diff confirms only those 
+lines changed. Status: Final, pending the author's voice check; 0 flags; cut list 30/30 cut. 
+About 2,366 words (2,286 body). Logged in ch00-changes.md under 'Author revisions 2026-11-10'. 
+Book Bible status row and decisions updated (Contemporary Religions; institutions in full), 
+plus the style sheet and the context card. Before press: open-claims row 9 and the help lines. 
+Cut-list rows 1-29 have the decision in a stray seventh cell (not edited). Not committed.

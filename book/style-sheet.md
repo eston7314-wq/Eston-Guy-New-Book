@@ -22,7 +22,8 @@ Started 2026-11-11 by copy-editor at ch00. Each line gives its source.
 
 - Headings: H1 chapter titles in title case. H2 and H3 in sentence case. Closer labels are fixed: Reflection and practice; For church leaders; For families; For clinicians; Questions for small groups.
 - Specific posts are capitalised (Head of Religious Studies, Head of Year 11, Assistant Headteacher, Heads of Year). The generic role is lowercase (the headteacher, a leader at her church, pastor).
-- Named courses and programmes are capitalised: Contemporary Religion, Religious Studies, the Gifted and Talented programme.
+- Named courses and programmes are capitalised: Contemporary Religions (plural; the same subject at university and at school, author 2026-11-10), Religious Studies, the Gifted and Talented programme.
+- Institutions are written in full and capitalised: the University of London; Selinus University of Science and Literature. Generic "university" and "school" are lowercase (copy-editor 2026-11-11, ch00).
 - Faith terms: the Bible, Bible study, the New Testament, the Eucharist, Psalms (the book), the Gospels (the books), God, Christ. Lowercase: scripture, the psalms (individual psalms), biblical. "Black Church" is used only for the institution (Book Bible 2026-11-07).
 - Cross-references: chapter 4 (lowercase mid-sentence, no leading zero; never "chapter 04"); Part One to Part Four; Appendix A, Appendix B; the preface, the afterword.
 

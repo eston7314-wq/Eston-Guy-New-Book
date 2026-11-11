@@ -1,4 +1,4 @@
-**Not final**: AUTHOR STORY NEEDED 1, UNVERIFIED 0, COPY EDIT 0; cut list unsigned (29 of 30 rows undecided in `book/03-drafts/ch00-cut-list.md`; only row 30 is decided). Before press, open-claims row 9 still needs the cdc.gov and who.int pages opened (this is not a flag in the text).
+**Final, pending the author's voice check**; before press: researcher to open cdc.gov and who.int pages (open-claims row 9) and re-check help lines. Flags in the text: AUTHOR STORY NEEDED 0, UNVERIFIED 0, AUTHOR TO CONFIRM 0, DEV EDIT 0, RESEARCH NEEDED 0, COPY EDIT 0; cut list 30 of 30 rows decided (all cut, none returns). Superseded status (2026-11-11 copy edit): not final, story slot open, 29 cut-list rows undecided.
 
 # Ch00 change log: Preface, Felt Before It Is Understood
 
@@ -81,3 +81,40 @@ This is the "Notes for the editor" block from `book/04-edited/ch00-preface.md`, 
 ## Word count
 
 The final file is about 2,520 words, including headings and the 202-word story brief and excluding HTML comments. That is about 2,316 words of reader-facing prose, roughly 30 fewer than the input once the notes block is set aside (the edits shortened it by a few words). A 250-350-word story would bring the preface to about 2,570-2,670, against the 2,800 budget.
+
+## Author revisions 2026-11-10
+
+Applied by copy-editor on 2026-11-11, editing `book/05-final/ch00-preface.md` in place. Source: Eston T. B. Guy's decisions of 2026-11-10, relayed by the orchestrator (recorded in `book/memory/user-profile.md`). After that, a light copy edit, a humanizer check and a style-sheet check of the changed passages only. Nothing else in the file was touched (checked by diff: only lines 15 and 23 changed). Pre-edit copy: none kept in the repo. To reverse, put the "Original" text back.
+
+| # | Original | Revised | Reason |
+|---|---|---|---|
+| A1 | "Father F. W. G. Perkins was my supervisor at university, and he first inspired me to study Contemporary Religion." | "Father F. W. G. Perkins was my supervisor at the University of London, and he first inspired me to study Contemporary Religions." | Author decision 2: the course he studied was "Contemporary Religions" at the University of London. "the University of London" replaces "university" in the same slot, so no new clause was needed and "university" is not repeated. |
+| A2 | "In that school I introduced the teaching of Contemporary Religions at secondary level" | unchanged | Author decision 2: he taught the same subject at school. With A1, both mentions now use the same name, so they read as one subject. No edit needed. |
+| A3 | "their GCSE results were one of the best in the history of the school, at that time" | unchanged | Author decision 3: his wording stays exactly as it is. The "were among the best" option offered at copy edit is withdrawn. |
+| A4 | `[AUTHOR STORY NEEDED: 250-350 words ... with or without the story.]` (the whole six-point brief) | "In those years, the determination of many pupils to succeed, and the motivation of most parents to provide a better future for their children, in spite of the many challenges that confronted them, made me join with other believers in saying that faith really heals the mind. `<!-- author-confirmed 2026-11-10 -->`" | Author decision 1: his own statement in place of the story. His words and his punctuation are kept. The only additions are the lead-in "In those years," (which ties the sentence to the school years in the paragraph above) and a capital letter where the sentence now begins. No pupil, parent, event or detail was added. The "join with other believers in saying" framing is his and is kept (config rule 5: a belief, not a fact). The confirmation comment goes after the statement (config rule 9). |
+| A5 | (linking phrase) | none added | Checked by reading aloud. His statement is followed by the dedication paragraph and then the heading "Faith gives many of us a home, and a home can also hurt", the woman example and "I will be honest about both sides". The heading itself makes the turn to the harm, and the statement is framed as what he and other believers say, so it does not contradict the honesty that follows. Adding a hedge would weaken his conviction for no gain. |
+
+**Light copy edit of the changed passages.**
+- A4 is one long sentence. The Book Bible allows one long sentence per paragraph, and this one is its own paragraph. His commas around "and the motivation ... children" and around "in spite of ... them" are kept: they mark the two subjects and the aside clearly when read aloud. The comma after the lead-in "In those years" was added so that the long subject starts cleanly. "many pupils ... the many challenges" repeats "many", and "really heals" is an intensifier. Both are his words and are kept for voice.
+- "pupils" (A4) beside "215 students" (the paragraph before): both words are already used in the preface ("less able pupils"), so I kept both.
+- Humanizer (rule 11) on lines 15 and 23: no dashes, no curly quotes, no not-X-but-Y, no one-line closer, no staged opener, no stock AI words, and no new triad (A4 has two subjects and one aside). Clean.
+- Style sheet: British spelling; no serial comma (the A4 comma before "and" joins two long subject phrases, not a list of three); "the University of London" capitalised as a proper name.
+
+**Consistency decisions (also recorded in the Book Bible and `book/style-sheet.md`).**
+- Rule 9 is updated. The named course is "Contemporary Religions" (plural) for both the university course and the school subject (author, 2026-11-10). The earlier "Contemporary Religion" example in rule 9 is superseded.
+- New rule: institutions are written in full with a capital, "the University of London" ("the" lowercase mid-sentence). Generic "university" and "school" are lowercase (Hart's Rules, proper names). Selinus University of Science and Literature, already in ch00, follows the same rule.
+
+**Cut list.** All 30 rows in `book/03-drafts/ch00-cut-list.md` are now marked cut (author, 2026-11-10). Nothing returns to the text. Note for whoever owns that file: in rows 1-29 the decision sits in a seventh cell after an empty sixth ("|| cut"), so a parser that reads the "Author decision" column will find it empty. I did not edit the file, because the decisions themselves are not in doubt.
+
+**Outstanding flags (supersedes the table above).**
+
+| Flag | Count | Where | Who |
+|---|---|---|---|
+| `[AUTHOR STORY NEEDED]`, `[UNVERIFIED]`, `[AUTHOR TO CONFIRM]`, `[DEV EDIT]`, `[RESEARCH NEEDED]`, `[COPY EDIT]` | 0 | n/a | n/a |
+| `<!-- author-confirmed 2026-11-10 -->` | 3 (four names; the faith statement; the chronic-illness sentence) | kept | n/a |
+| `<!-- note: ... -->` citation notes | 2 (CDC; WHO) | mental-health paragraph | build: convert to endnotes |
+| Cut list | 0 undecided (30 cut) | 03-drafts/ch00-cut-list.md | done |
+
+**Before press (not flags in the text):** the author reads the preface aloud for voice, especially the new sentence. The researcher opens the cdc.gov and who.int pages (open-claims row 9) and re-checks the three help lines (Samaritans 116 123; 988; 9-8-8).
+
+**Word count.** About 2,366 words including headings, excluding HTML comments. About 2,286 words of body prose. That is roughly 150 fewer than before, because the 202-word brief became a 47-word statement. The budget is 2,800.
