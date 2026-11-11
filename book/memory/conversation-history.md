@@ -363,3 +363,7 @@ studies, Tobago), 3 kept and rewritten (Williams, Lincoln and Mamiya, NAACP), 7 
 Underground Railroad, church growth); now 10 [UNVERIFIED], 1 [AUTHOR TO CONFIRM]. Updated 
 open-claims (26, 32, 35, 36 amended; 38 resolved; 39-45 added), Book Bible 
 citations/status/fact-check section, glossary (network note), ch01 card. Not committed.
+
+### 2026-11-11 · book-orchestrator · revision · ch00
+Author correction: "three other people shaped the years before it, but two are now deceased". Applied in 05-final and 04-edited; logged in ch00-changes.md. The Drive copy of the approved Preface is now out of date.
+

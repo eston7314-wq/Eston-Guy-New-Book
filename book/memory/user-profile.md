@@ -54,4 +54,5 @@ infers goes under "Proposed" until the author confirms it.
 | 2026-11-11 | Ch00: "My year group that year was 215 students..." (not "in 2004") | ch00 final |
 | 2026-11-11 | Ch00 voice check passed: "sounds like me". Preface approved | book/05-final/ch00-preface.md; Book Bible status |
 | 2026-11-11 | Ch01 family story (author's own words, author testimony): "Christianity came into my family line from my paternal grandparents who embraced Christianity through the Moravian Church in the Caribbean island of Tobago, while my maternal grandparents followed Christianity through the Anglican Church. My wife, children and I also embraced the Church of England practices while paying homage also to the Pentecostal and Spiritual Baptist practices." | ch01 opening story slot; book/memory/context-cards/ch01.md |
+| 2026-11-11 | Correction: of Perkins, Gould and Hartney, two are now deceased (not all three, as the thesis said). Which two not stated; the book must not say which | ch00 final; Book Bible |
 
