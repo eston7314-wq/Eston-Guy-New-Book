@@ -255,3 +255,25 @@ Author voice check on ch00: "sounds like me". Preface approved; the voice of ch0
 ### 2026-11-11 · book-orchestrator · archive · book
 Author: "please upload them". Uploaded the approved Preface (ch00) and blueprint-v2 as Google Docs to Drive 'Eston's Thesis Book / Approved Documents' (HTML comments stripped). Preface content verified by reading it back. Links in knowledge-notes/approved-documents.md.
 
+
+### 2026-11-11 · book-researcher · research · ch01
+Mode A evidence pack for ch01: book/02-research/ch01-evidence.md. Brief flags: 1772 corrected 
+to 1732 (Dober and Nitschmann landed on St Thomas 13 Dec 1732; 1772 is Bishop Nitschmann's 
+death year); 1060s to 1960s; period 3734/3752 resolved (Spanish 16th c., British from 17th c., 
+events run to 1834); Fanon 1961 misapplied (he argues the colonial Church served the master; 
+cite only for religion as a tool of empire; English Grove ed. 1963); Hastings 1994, Bediako 
+1995, Murrell 2010 traced; Graham 2010 not found. 13 further source errors (slave-labour myth, 
+13,000 converts unconfirmed, Wesley/Bethlehem merge, California 1541 should be 1769, liberation 
+theology dated late 1960s and contemporary with Cone, Matthew 28:19-20 and Isaiah 61:1 KJV 
+wording, NAACP founding, missing Cone 1986/King 1963/West 2004, Hintzen 2002, Collins and 
+Smith, Clarke and Thompson). Opened (via GITenberg raw files and KJV on GitHub): Douglass 1845, 
+Mary Prince 1831, 14 KJV verses. Search-level: Allen/AME 1816, Raboteau 1978, Lincoln and 
+Mamiya 1990, Slave Bible 1807, Abolition Act 1834, SlaveVoyages, Sharpe 1832, King 1963. Seven 
+studies (Paradies 2015, Wallace 2016, Mohatt 2014, Yehuda and Lehrner 2018, Ellison 
+2008/Bierman 2006, Chatters 2011, Williams 2007) are leads only: PMC, PLOS, Crossref and 
+archive.org gave 403 to curl, and WebFetch was DNS-blocked. Counter-evidence: lower lifetime 
+depression in Black Americans (Williams 2007), no proven epigenetic inheritance. Case: Mary 
+Prince recommended; Douglass and Sharpe alternates. Open-claims 25-37 added; Book Bible 11 
+citation rows and status; glossary 6 terms plus GITenberg network note; ch01 card created. Not 
+done: no draft text touched; no commit; studies not opened. Questions for the author: missing 
+references, 13,000 source, NAACP wording, family story.
