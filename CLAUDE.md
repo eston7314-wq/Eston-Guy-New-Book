@@ -19,6 +19,9 @@ There is no application code.
 
 ## Non-negotiables
 
+- Approved documents are kept in sync with Google Drive "Eston's Thesis Book / Approved Documents"
+  at all times (author, 2026-11-11): see `book/memory/knowledge-notes/approved-documents.md`.
+
 - Every chapter is written and edited with the humanizer skill (`.claude/skills/humanizer/`), with a
   dedicated humanize pass after the developmental edit (author decision 2026-11-10; config rule 11).
 
