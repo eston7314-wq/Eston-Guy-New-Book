@@ -50,4 +50,5 @@ infers goes under "Proposed" until the author confirms it.
 | 2026-11-10 | Ch00 story slot filled with the author's own words: "the determination of many pupils to succeed, and the motivation of most parents to provide a better future for their children, in spite of the many challenges that confronted them, made me join with other believers in saying that faith really heals the mind" | ch00 |
 | 2026-11-10 | He studied "Contemporary Religions" at the University of London and taught the same at secondary school | ch00; author bio |
 | 2026-11-10 | GCSE wording kept as the author's own ("one of the best in the history of the school, at that time") | ch00 |
+| 2026-11-11 | GCSE wording replaced: "our 2004 students' GCSE results were the best for the school, to that date" (supersedes the 2026-11-10 wording) | ch00 final |
 

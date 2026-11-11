@@ -118,3 +118,10 @@ Applied by copy-editor on 2026-11-11, editing `book/05-final/ch00-preface.md` in
 **Before press (not flags in the text):** the author reads the preface aloud for voice, especially the new sentence. The researcher opens the cdc.gov and who.int pages (open-claims row 9) and re-checks the three help lines (Samaritans 116 123; 988; 9-8-8).
 
 **Word count.** About 2,366 words including headings, excluding HTML comments. About 2,286 words of body prose. That is roughly 150 fewer than before, because the 202-word brief became a 47-word statement. The budget is 2,800.
+
+## Author revision 2026-11-11
+
+| Original | Revised | Reason |
+|---|---|---|
+| As I remember it, their GCSE results were one of the best in the history of the school, at that time. | As I remember it, our 2004 students' GCSE results were the best for the school, to that date. | Author's exact wording (2026-11-11); kept as his recollection |
+

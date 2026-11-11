@@ -245,3 +245,7 @@ About 2,366 words (2,286 body). Logged in ch00-changes.md under 'Author revision
 Book Bible status row and decisions updated (Contemporary Religions; institutions in full), 
 plus the style sheet and the context card. Before press: open-claims row 9 and the help lines. 
 Cut-list rows 1-29 have the decision in a stray seventh cell (not edited). Not committed.
+
+### 2026-11-11 · book-orchestrator · revision · ch00
+Author gave new GCSE wording: "our 2004 students' GCSE results were the best for the school, to that date". Applied in 05-final/ch00-preface.md as his recollection, logged in ch00-changes.md. Voice check still pending.
+
