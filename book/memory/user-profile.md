@@ -17,7 +17,6 @@ infers goes under "Proposed" until the author confirms it.
 
 ## Proposed (agents add here; author confirms or strikes)
 
-- (book-strategist, 2026-11-07, inferred from the thesis) Quotes scripture in the KJV/AKJV wording; translation for the book not yet chosen.
 - (book-strategist, 2026-11-07, inferred from thesis 7.3-7.5) Prefers to end on practice and hope with a charge to the church, not on mystery.
 - (book-strategist, 2026-11-07, inferred) Pairs every harm with a church response that works; the blueprint keeps that pattern in ch07-09.
 - (book-strategist, 2026-11-07) The blueprint proposes ten numbered chapters plus a short afterword; the author to confirm.
@@ -61,4 +60,5 @@ infers goes under "Proposed" until the author confirms it.
 | 2026-11-11 | Fig.27: "include it anyway", after being told of the consent and data-protection risk and advised to check with an ethics contact. Goes in Appendix A only | book.config.md rule 10 exception |
 | 2026-11-11 | Preface: "but two are now deceased" deleted; the sentence is "Three other people shaped the years before it." The book makes no statement about whether Perkins, Gould or Hartney have died | ch00 final |
 | 2026-11-11 | Keep the repository and Drive copies of approved documents in sync at all times, periodically | approved-documents.md sync rule; CLAUDE.md; daily scheduled task "Book Drive sync" |
-
+| 2026-11-13 | Bible: use the King James wording throughout the book | book-bible.md consistency decisions; style-sheet.md Scripture |
+| 2026-11-13 | ch01: "I confirm the 'Slave Bible'": the 1807 Slave Bible paragraph goes into chapter 01 as reader prose; its [AUTHOR TO CONFIRM] flag becomes an author-confirmed comment (rule 9) | ch01 card; 05-final/ch01 |

@@ -50,9 +50,9 @@ Started 2026-11-11 by copy-editor at ch00. Each line gives its source.
 
 ## Scripture
 
-- Translation: KJV/AKJV wording until the author chooses (Book Bible 2026-11-07).
-- Reference form: book name in full, chapter:verse, translation after a comma, all in one pair of parentheses after the quotation: "thy faith hath made thee whole" (Luke 8:48, KJV). No abbreviated book names (Hebrews, not Heb.; 1 Corinthians, not 1 Cor.).
-- Every quotation carries its translation until one translation is chosen for the book. Then the copyright page names it, and only quotations from another version are marked.
+- Translation: the King James Version (KJV) throughout (author decision 2026-11-13).
+- Reference form: book name in full, chapter:verse, translation after a comma, all in one pair of parentheses after the quotation: "thy faith hath made thee whole" (Luke 8:48). No abbreviated book names (Hebrews, not Heb.; 1 Corinthians, not 1 Cor.).
+- One translation is now chosen (KJV, 2026-11-13): the copyright page names it, KJV quotations carry no translation tag ("thy faith hath made thee whole" (Luke 8:48)), and only a quotation from another version is marked.
 - "The writer to the Hebrews", not "Paul", for Hebrews (Book Bible 2026-11-07).
 
 ## Names

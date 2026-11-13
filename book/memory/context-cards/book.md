@@ -11,7 +11,7 @@
 - Methodology to Appendix A; literature review spread through chapters.
 
 **Outstanding for the author**
-- Approve v2 (structure, parts, ch10 title); choose a title; choose a Bible translation.
+- Approve v2 (structure, parts, ch10 title); choose a title. (Bible translation: KJV throughout, author 2026-11-13.)
 - Survey: the form's scale anchors (Fig.5/7/8), the yes/no help-seeking counts, the SPSS output, whether he conducted the interviews.
 - 11 author story slots; heritage and years in teaching for the bio; publishing route; a clinician for ch08-09.
 

@@ -391,3 +391,13 @@ commit 29d75b9 included ch01-changes.md mid-run).
 ### 2026-11-11 · book-orchestrator · revision · ch00
 Author: delete "but two are now deceased". Sentence is now "Three other people shaped the years before it." Applied in 05-final and 04-edited. Drive copy (corrected 2026-11-11) is now out of date.
 
+
+### 2026-11-13 · book-orchestrator · decision · book
+Author (2026-11-13, ch01 session): (1) use the King James wording of the Bible throughout the 
+book; recorded in book-bible consistency decisions, style-sheet Scripture section, book card 
+and user-profile. KJV quotations will drop the ', KJV' tag at each chapter's next copy edit; 
+ch00 (approved) is not touched without the author's say. (2) 'I confirm the Slave Bible': the 
+1807 Slave Bible paragraph goes into ch01; copy-editor to turn the flag into reader prose with 
+an author-confirmed comment. Also merged claude/cool-gauss-gv47hw into 
+claude/peaceful-dijkstra-pb4nw9 so the author can work through the ch01 open items in this 
+session.

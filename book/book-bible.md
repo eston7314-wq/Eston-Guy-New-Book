@@ -20,11 +20,11 @@ repeat it.
 
 ### Consistency decisions (copy editor appends; later chapters follow)
 
-- (strategist, 2026-11-07, pending author) Scripture is quoted in the KJV/AKJV wording the thesis uses until the author chooses a translation. "The writer to the Hebrews", not "Paul", for Hebrews. Use "African heritage" as the umbrella term; use "Black Church" only for the institution.
+- (author, 2026-11-13) **Scripture is quoted in the King James Version (KJV) throughout the book.** (Was: strategist 2026-11-07, pending author.) "The writer to the Hebrews", not "Paul", for Hebrews. Use "African heritage" as the umbrella term; use "Black Church" only for the institution.
 - (strategist, 2026-11-07) Suicide passages follow the Samaritans media guidelines: no methods, and a help line nearby.
 - (copy-editor, 2026-11-11, ch00; full list in `book/style-sheet.md`) **Spelling:** British -ise (config rule 4); proper names keep their own spelling ("World Health Organization", "Centers for Disease Control and Prevention"), and our paraphrase of them is British.
 - (copy-editor, 2026-11-11) **Serial comma:** none (config rule 4). Where a list is ambiguous without it, recast the sentence; never restore the comma. A comma before "and" that joins clauses, or two items, is allowed.
-- (copy-editor, 2026-11-11) **Scripture references:** "quotation" (Luke 8:48, KJV): book in full, chapter:verse, translation after a comma, one pair of parentheses. Every quotation carries its translation until the author chooses one. Lowercase "scripture" and "the psalms" (individual psalms); capitalise the Bible, Bible study, the New Testament, the Eucharist, Psalms (the book).
+- (copy-editor, 2026-11-11) **Scripture references:** "quotation" (Luke 8:48, KJV): book in full, chapter:verse, translation after a comma, one pair of parentheses. (Author chose the KJV on 2026-11-13: from now on a KJV quotation needs no translation tag, the copyright page names the KJV, and only a quotation from another version is marked. Existing ", KJV" tags are removed at the next copy edit of each chapter.) Lowercase "scripture" and "the psalms" (individual psalms); capitalise the Bible, Bible study, the New Testament, the Eucharist, Psalms (the book).
 - (copy-editor, 2026-11-11) **Chapter references:** "chapter 4" (lowercase mid-sentence, no leading zero; never "chapter 04"); Part One to Part Four; Appendix A and B; "the preface", "the afterword".
 - (copy-editor, 2026-11-11) **Numbers:** words for one to ten in prose; figures for 11 and up and for every count or survey figure in a data sentence ("20 in the UK ... 30 women and 20 men", never "thirty women"); "N of the 50"; spell out at the start of a sentence; "fifty" in words for the group in narrative ("what fifty people told me"). Dates: 21 April 2025. Phone numbers as each service writes them.
 - (copy-editor, 2026-11-11) **Quotation marks:** double, with single inside; straight in the files and curled at typesetting; British logical punctuation; the citation after the closing mark.
@@ -350,7 +350,7 @@ Draft: `book/03-drafts/ch01-a-faith-handed-down-in-chains.md`. Cut list: `book/0
 | "Injustice anywhere is a threat to justice everywhere" (King, 16 April 1963) | King Institute (search-level) | 01 (spent; later chapters paraphrase King or use another line with clearance) |
 | Racism and mental health (Paradies 2015; Wallace, Nazroo and Bécares 2016); historical trauma as narrative (Mohatt 2014); no shown epigenetic inheritance (Yehuda and Lehrner 2018); lower lifetime depression but more chronic and less treated (Williams 2007) | All [UNVERIFIED: study not opened]; no numbers given | 01 (ch08 may call back; must not repeat as new) |
 | Scripture quoted: Matthew 28:19-20; Ephesians 6:5; Colossians 3:22 and Titus 2:9 (references only); Exodus 3:7; Exodus 5:1; Galatians 3:28; Isaiah 61:1; Isaiah 61:3 ("the garment of praise for the spirit of heaviness"), all KJV | KJV 1769, ch01-evidence.md section 3 | 01 (Galatians 3:28 and Ephesians 6:5 owned by 01; Isaiah 61:3 now spent) |
-| 1807 "Slave Bible" | Offered only inside [AUTHOR TO CONFIRM]; not in the thesis | 01 (pending author) |
+| 1807 "Slave Bible" | Confirmed by the author 2026-11-13 for inclusion (not in the thesis; rule 9) | 01 |
 
 **Promises made in 01 (as written):** "Chapter 2 tells how they turned it into song" (paid off in 02); "Chapter 8 turns to the practical care this history calls for, so that the trauma named here is met with help" (paid off in 08). Both match the v2 promise rows; no new promises.
 
