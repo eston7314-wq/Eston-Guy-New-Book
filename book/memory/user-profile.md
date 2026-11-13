@@ -68,3 +68,4 @@ infers goes under "Proposed" until the author confirms it.
 | 2026-11-13 | ch01 line ~91: the paragraph opens with "our churches in Britain, USA and Canada, today" (author's words) | 05-final/ch01 |
 | 2026-11-13 | ch01: keep "missionaries followed, building schools, hospitals and churches" as the author's view | 05-final/ch01 |
 | 2026-11-13 | ch01 cut list (orchestrator's groups): A approve moves (rows 10, 22, 25, 26, 28, 32); B cut (3, 4, 5, 7, 8, 9, 13, 14, 15, 18, 23, 27, 29, 30); C keep as now (1, 21, 31, 34, 35); D cut (2, 6, 11, 12, 16, 17, 19, 20, 24, 33, 36). Row 37 already cut | 03-drafts/ch01-cut-list.md |
+| 2026-11-13 | ch01 approved after the read-aloud voice check: "It sounds like me; Approved" | ch01 card; book-bible status; approved-documents.md |

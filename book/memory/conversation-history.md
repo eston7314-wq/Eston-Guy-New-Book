@@ -483,3 +483,10 @@ ch02; 25 to ch03; 32 to ch06; 26, 28 to ch11), listed with thesis lines in the B
 'Carried forward from ch01'. No chapter text changed for cut-list rows. Flags 0; 44 comments; 
 4,451 reader-facing words. Not committed. Open for the author: the read-aloud voice check only; 
 optional ', today' back on line 91.
+
+### 2026-11-13 · book-orchestrator · archive · ch01
+Author approved ch01 after the read-aloud voice check (2026-11-13): 'It sounds like me; 
+Approved'. Marked final and approved in the card, Book Bible status and change log. Uploaded to 
+Drive 'Approved Documents' as a Google Doc with HTML comments stripped: 
+https://docs.google.com/document/d/1xb4JHVfM3lEYZS3epou94-pMdMSNHcagtM58QfR9xFQ/edit (content 
+read back and checked). Register updated.
