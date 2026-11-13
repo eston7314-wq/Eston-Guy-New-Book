@@ -416,3 +416,11 @@ line-19 citation comment (comments byte-identical), 04-edited/, ch00. Counts: UN
 AUTHOR TO CONFIRM 0, comments 31 (30 old byte-identical + 1). Updated ch01-changes.md (status 
 line, dated section), the ch01 card and the Book Bible status. Still open for the author: 10 
 [UNVERIFIED], 36 cut-list rows, read-aloud voice check.
+
+### 2026-11-13 · book-orchestrator · decision · ch01
+Author (2026-11-13) on the 10 ch01 [UNVERIFIED] flags: narrow #1 and #9 to what is confirmed; 
+keep #2, #4, #5 as his view; cut #3 (Hastings); present #7, #8, #10 as his own observation, 
+with his statement: 'I have observed that the Black Churches are increasingly becoming Centres 
+of community life in Britain and the USA as they are in the Caribbean and Africa, regions from 
+which people migrate, today.' #6 (Williams 2007) still open. Sent to copy-editor for a targeted 
+revision of 05-final/ch01.
