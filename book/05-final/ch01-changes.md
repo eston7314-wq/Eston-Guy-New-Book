@@ -1,4 +1,4 @@
-**Not final.** Flags in the text: UNVERIFIED 10, AUTHOR TO CONFIRM 1, AUTHOR STORY NEEDED 0, COPY EDIT 0, DEV EDIT 0, RESEARCH NEEDED 0. Cut list: 36 of 36 rows undecided (`book/03-drafts/ch01-cut-list.md`). Pending the author's voice check (read aloud, as for ch00). The build will refuse this file while any flag remains.
+**Not final.** Flags in the text: UNVERIFIED 10, AUTHOR TO CONFIRM 0, AUTHOR STORY NEEDED 0, COPY EDIT 0, DEV EDIT 0, RESEARCH NEEDED 0. Cut list: 36 of 36 rows undecided (`book/03-drafts/ch01-cut-list.md`). Pending the author's voice check (read aloud, as for ch00). The build will refuse this file while any flag remains. (Updated 2026-11-13: the 1807 Slave Bible is author-confirmed; see "2026-11-13 author decisions".)
 
 # Ch01 change log: A Faith Handed Down in Chains
 
@@ -105,3 +105,13 @@ The method is the humanize log's: prose from the title to the end of the closer,
 ## Orchestrator, 2026-11-11
 Applied the copy editor's three recommended punctuation fixes (style rule: full stop outside the closing mark when the source sentence continues): Douglass "widest possible difference", Douglass "impartial Christianity of Christ", Prince "English marriage is not allowed to slaves". No words changed.
 
+## 2026-11-13 author decisions
+
+Targeted revision by copy-editor, 2026-11-13; not a full copy edit. Only lines 15, 17, 23, 33, 35 and 77 changed. The opening paragraph, the hook, the closer, all 10 [UNVERIFIED] flags and all 30 existing HTML comments are byte-identical (checked by diff).
+
+| # | Original | Revision | Why |
+|---|---|---|---|
+| 1 | Line 23: "[AUTHOR TO CONFIRM: add the 1807 Slave Bible? Not in the thesis. In 1807 a Bible printed in London ... not proof of a general policy.]" | "Earlier still, in London, the Bible had been cut down for enslaved readers. An edition printed there in 1807 "for the Use of the Negro Slaves, in the British West-India Islands" kept about 232 of the Bible's 1,189 chapters and left out almost all of Exodus, the story of a people led out of slavery. One scholar argues that a museum's account of this Bible is overstated, so I offer it as one striking object and not as proof of a general policy." | Author: "I confirm the 'Slave Bible'" (2026-11-13; config rule 9). Uses only the facts in the old note; no new fact, number, name or quotation. "Earlier still" follows on from Douglass (1830s) and "in London" sets up "Canada had its own part in this history". The existing citation comment is kept and `<!-- author-confirmed 2026-11-13: 1807 Slave Bible included (config rule 9) -->` follows it directly. **83 words.** Humanizer check: no dashes, curly quotes, stock AI words, triads or one-line closer; the one contrast ("one striking object and not as proof of a general policy") is the scholar's caveat the note asked to keep, so both halves carry information (SKILL.md section 1 exception). |
+| 2 | "(Matthew 28:19-20, KJV)", "(Ephesians 6:5, KJV)", "(Colossians 3:22, KJV; Titus 2:9, KJV)", "(Exodus 3:7, KJV)", "(Exodus 5:1, KJV)", "(Galatians 3:28, KJV)", "(Isaiah 61:1, KJV)", "(Isaiah 61:3, KJV)" | The same references without ", KJV" | Author chose the KJV for the whole book (2026-11-13); style-sheet.md "Scripture": KJV quotations carry no translation tag. **9 tags removed.** No quotation's wording changed. No quotation in ch01 comes from another version, so none is marked. "compare Luke 12:47, KJV" inside the Douglass citation comment (line 19) is left as it is (comments stay byte-identical; it is a note, not a reader-facing reference). "In the King James wording, "bond" means a slave" (line 35) is prose and stays. |
+
+Counts after the revision: [UNVERIFIED] 10; [AUTHOR TO CONFIRM] 0; HTML comments 31 (29 citation notes, 2 author-confirmed). The "Outstanding flags" table and item 2 of "What the author must do" above are superseded by this section: item 2 is done.

@@ -401,3 +401,18 @@ ch00 (approved) is not touched without the author's say. (2) 'I confirm the Slav
 an author-confirmed comment. Also merged claude/cool-gauss-gv47hw into 
 claude/peaceful-dijkstra-pb4nw9 so the author can work through the ch01 open items in this 
 session.
+
+### 2026-11-13 · copy-editor · revision · ch01
+Targeted revision of 05-final/ch01 for two author decisions of 2026-11-13; not a full copy 
+edit. (1) Slave Bible: the [AUTHOR TO CONFIRM] note on line 23 became an 83-word reader 
+paragraph after the Douglass paragraph, using only the note's facts (London 1807, the title 
+phrase, about 232 of 1,189 chapters, almost all of Exodus left out) and keeping the caveat (one 
+scholar says the museum account is overstated; offered as one striking object, not proof of a 
+general policy). Citation comment kept; <!-- author-confirmed 2026-11-13: 1807 Slave Bible 
+included (config rule 9) --> added after it. Humanizer check clean. (2) KJV: 9 ', KJV' tags 
+removed from prose references (lines 15, 17, 33, 35, 77); no quotation wording changed; no 
+non-KJV quotation in ch01. Deliberately not changed: 'compare Luke 12:47, KJV' inside the 
+line-19 citation comment (comments byte-identical), 04-edited/, ch00. Counts: UNVERIFIED 10, 
+AUTHOR TO CONFIRM 0, comments 31 (30 old byte-identical + 1). Updated ch01-changes.md (status 
+line, dated section), the ch01 card and the Book Bible status. Still open for the author: 10 
+[UNVERIFIED], 36 cut-list rows, read-aloud voice check.
