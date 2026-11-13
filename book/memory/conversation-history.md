@@ -424,3 +424,26 @@ with his statement: 'I have observed that the Black Churches are increasingly be
 of community life in Britain and the USA as they are in the Caribbean and Africa, regions from 
 which people migrate, today.' #6 (Williams 2007) still open. Sent to copy-editor for a targeted 
 revision of 05-final/ch01.
+
+### 2026-11-13 · copy-editor · revision · ch01
+Targeted revision of 05-final/ch01 applying the author's 2026-11-13 decisions on the 
+[UNVERIFIED] flags; not a full copy edit. Removed 9 of 10 flags, each replaced by <!-- 
+author-decision 2026-11-13: #N ... --> after the changed sentence(s): #1 Galatians 3:28 
+narrowed (the 'often invoked' sentence dropped); #2 'a system that, I believe, sought to erase 
+it'; #3 Hastings herbs sentence cut, join smoothed to 'The work of Anglican, Catholic and 
+Baptist missionaries was bound up with colonial interests' (cut-list row 37, cut 2026-11-13); 
+#4 and #5 Moravian comparison and 'keeping enslaved people quiet' now his view; #7 hidden 
+church/Underground Railroad as his view ('I have come to see'); #8 Lincoln and Mamiya 
+attribution removed from the prose, 'I regard the Black Church as...' and 'As I understand its 
+history...', plus a new citation note (thesis 1290-1295, 4024-4025); #9 NAACP narrowed 
+(founding kept, churches' part in its work dropped; civil rights part kept); #10 his own 
+statement used nearly verbatim (Black churches, centres: house capitals; Britain and the USA; 
+Canada not added), next sentence framed as his view. #6 Williams 2007 untouched. Lines changed: 
+35, 39, 45, 51, 83, 85, 91; all 31 old comments, the opening, the hook and the closer 
+byte-identical (diff against a scratchpad copy). Counts: UNVERIFIED 1, comments 41, 
+reader-facing 4,435 words. Updated open-claims 26, 32, 39-45 (resolved, which way), 
+ch01-changes.md (status, '2026-11-13 flag decisions'), the card and the Book Bible. 
+Deliberately not done: no cut-list rows for #1/#9 drops (only #3 was briefed); the unflagged 
+'Britain and Canada today' (line 91) and line 11's 'schools, hospitals' left as they are. For 
+the author: Williams 2007; whether line 91's first sentence should match his 'Britain and the 
+USA'; 36 cut-list rows; read-aloud check.
