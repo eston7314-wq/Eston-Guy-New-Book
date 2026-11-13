@@ -515,3 +515,22 @@ added. Case: Liverpool lockdown choir, thesis-only, no one named; author story s
 fit. Book Bible appended (citations rows, v2 status, ch02 research block); ch02 card created; 
 source-map and terms-glossary notes extended. Not done: no web search or publisher site; no 
 study content described; no commit. Questions for the author: on the card.
+
+### 2026-11-13 · chapter-writer · consolidate · ch02
+Draft written: book/03-drafts/ch02-songs-for-sorrow.md; cut list 
+book/03-drafts/ch02-cut-list.md (5 rows, all undecided). Spine: thesis 2428-2606 in blueprint 
+v2 order, with 3781-3786 and 3964-3965 (carried from ch01) and 1910-1912; also used 2402-2427 
+(the gospel section's own introduction, unassigned in blueprint v2) for the orchestrator to 
+confirm. Opens on ch01's last line; 2430-2431 kept with [AUTHOR TO CONFIRM: own sentence or 
+quotation]; story slot after the opening; Liverpool Lighthouse choir told only as the thesis 
+tells it (no one named) in the last section; the four 'Jesus taught me' lyrics moved to the end 
+to carry the hook into ch03. All six lyrics paraphrased (author decision 2026-11-13); no 
+spiritual chosen ([AUTHOR TO CONFIRM]); KJV Exodus 5:1 call-back only, no tag. Deliberately not 
+done: F1 (2436-2444) and Elevation Worship left out and listed on the cut list; no numbers, no 
+survey, no outside study described; no padding. Length: 2,739 reader-facing words without flags 
+(2,359 before the closer, 380 closer), about 1,250 under the 4,000 budget, because the source 
+lines are about 1,500 words. Flags: 7 UNVERIFIED, 2 AUTHOR TO CONFIRM, 1 AUTHOR STORY NEEDED. 
+Book Bible: ch02 draft status and 'Ch02 draft additions' block; ch02 card updated. Not 
+committed. Questions for the author: story; 2430-2431; which spiritual; song titles and Willie 
+Nelson; Elevation Worship; Tharpe in Liverpool; choir name and leader; cut-list rows; whether 
+to accept the shorter length or add author material.

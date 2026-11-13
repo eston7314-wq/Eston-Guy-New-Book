@@ -17,3 +17,9 @@ Stub. State the source and date of anything you add. Undated entries are untrust
 - Signposting connectives at paragraph starts: "On the other hand", "Above all", "Furthermore", "Again", "On the contrary". Used 3-4 times per page in the source; the ch01 draft keeps almost none.
 - Balanced verdict sentences with a comma before "rather than": "seeking to save souls, rather than to liberate bodies" (3911-3912). Keep verbatim; the humanizer allows it because both halves carry information.
 - His own testimony uses doubled "also" and "embraced ... practices", "paying homage also to" (2026-11-11). Kept unedited in ch01 per the ch00 precedent (author statements stay in his words).
+
+## Observed in ch02 source (chapter-writer, 2026-11-13; thesis 2402-2606, 1910-1912)
+
+- Ends paragraphs on a "thereby" or "thus" clause naming the benefit ("thereby promoting mental health", "thereby spreading joy and inspiration"). The draft turns most into "I believe ..." sentences (config rule 5).
+- Stacked verbs in threes and fours: "reinforce, publicise and strengthen their beliefs while rejuvenating their spirit" (1910-1912). Kept verbatim once.
+- "when their days were dark and dreary" (2466): his image, kept.

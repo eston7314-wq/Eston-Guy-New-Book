@@ -57,3 +57,8 @@ charted; 20 interviewees (Fig.26 is the only source).
 
 - ch02 lines 2428-2606 carry **no in-text citation**. The thesis's gospel sources sit only in the bibliography (Darden 34, Davis 35, Harris 52, Hitchcock and Sadie 56, Hyman 58, Journal of Gospel Music 61, Kearney 62-63, Koskoff 64, Phillips 98-99, Rempel 104, LCGC 117, Toronto Mass Choir 118). Davis 2003 is not in JAAH 88(1); Hyman 2019 and Kearney 2012 not in Crossref; Rempel is really "Country, Folk and Gospel" (1981), doi 10.3138/CRAS-012-03-06. Detail: 02-research/ch02-evidence.md section 4; open-claims 53.
 - Slips in ch02 lines: "1930s–960s" (2486; 2484 has 1960s); "World War 11" (2498); "Aretha Franklyn" (2588); choir named two ways (2515, 2523-2524).
+
+## Added by chapter-writer, 2026-11-13 (ch02 draft)
+
+- ch02 spine: 2428-2606 is a single version (no duplicates inside it); 3781-3786 duplicates 2458-2462 and adds only the purpose phrase. 2402-2427 (sections 3.6.1.3-3.6.1.4, the gospel section's introduction) falls between ch05 (to 2400) and ch02 (from 2428) in blueprint v2 and was unassigned; ch02 draft uses it, pending the orchestrator.
+- ch02 source is about 1,500 words for a 4,000-word budget; without added facts the draft reaches about 2,750 reader-facing words.
