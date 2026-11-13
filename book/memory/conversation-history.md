@@ -495,3 +495,23 @@ read back and checked). Register updated.
 Author (2026-11-13): paraphrase in-copyright song lyrics (name the song, describe the line in 
 our words); no lyric clearance to seek. Public-domain spirituals may be quoted. Applies from 
 ch02 on.
+
+### 2026-11-13 · book-researcher · research · ch02
+Evidence pack written: book/02-research/ch02-evidence.md, under the author's 2026-11-11 
+fact-checking rules (thesis first; outside works existence only). Services: api.crossref.org 
+worked (one 429), doi.org handle API worked; api.openalex.org and openlibrary.org refused by 
+the proxy, no substitute used. Inventory of 2428-2606: 50 items, 35 thesis-supported, 1 
+existence confirmed (Franklin spelling), 14 unconfirmed. Blueprint flags: 
+Charlemagne/Mahmud/Tang/Viking passage (2436-2444) unconfirmed, recommend cut-list row; Willie 
+Nelson attribution unconfirmed; Elevation Worship's home unconfirmed either way (do not call it 
+UK or US); Tharpe in Liverpool unconfirmed; Liverpool Lighthouse choir core thesis-supported, 
+name and who-leads-what inconsistent. Author decision relayed by the coordinator 2026-11-13 
+recorded: modern lyrics paraphrased with the song named, public-domain spirituals may be 
+quoted; six lyric lines listed, three have no song title in the thesis (open-claims 48). Thesis 
+bibliography: Davis 2003 not in JAAH 88(1), Hyman 2019 and Kearney 2012 not found, Rempel DOI 
+and title corrected (1981, 10.3138/CRAS-012-03-06). 15 sources added to sources.md (rows 3-17, 
+existence only; music and mental-health studies' findings not checked). Open-claims 46-53 
+added. Case: Liverpool lockdown choir, thesis-only, no one named; author story still the better 
+fit. Book Bible appended (citations rows, v2 status, ch02 research block); ch02 card created; 
+source-map and terms-glossary notes extended. Not done: no web search or publisher site; no 
+study content described; no commit. Questions for the author: on the card.
