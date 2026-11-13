@@ -447,3 +447,19 @@ Deliberately not done: no cut-list rows for #1/#9 drops (only #3 was briefed); t
 'Britain and Canada today' (line 91) and line 11's 'schools, hospitals' left as they are. For 
 the author: Williams 2007; whether line 91's first sentence should match his 'Britain and the 
 USA'; 36 cut-list rows; read-aloud check.
+
+### 2026-11-13 · book-orchestrator · decision · ch01
+Author (2026-11-13): for Williams 2007 (ch01 flag #6), cite the NIMH Science Update of 5 March 
+2007 that summarises the study. Sent to copy-editor.
+
+### 2026-11-13 · copy-editor · revision · ch01
+Author decision 2026-11-13 applied: Williams et al. 2007 (#6) cited to the NIMH Science Update 
+of 5 March 2007. Line 75 only: 'One large American survey points the other way.' became 'One 
+large American survey, summarised by the US National Institute of Mental Health in 2007, points 
+the other way.'; finding unchanged, no new numbers; [UNVERIFIED] flag removed; NIMH note 
+byte-identical, author-decision comment added after it. Diff against scratchpad copy: only line 
+75 differs. ch01 now has 0 flags of any type; 4,446 reader-facing words; 42 comments. 
+sources.md rows 1 (Williams 2007, Crossref, existence only) and 2 (NIMH summary, opened 
+2026-11-11, chosen by author 2026-11-13) added; open-claims 36 resolved; changes log, card and 
+Book Bible updated. Not done: no commit; Drive sync of approved documents not touched. Still 
+open for the author: 36 undecided cut-list rows and the read-aloud voice check.

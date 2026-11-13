@@ -1,4 +1,4 @@
-**Not final.** Flags in the text: UNVERIFIED 1 (Williams 2007, no decision yet), AUTHOR TO CONFIRM 0, AUTHOR STORY NEEDED 0, COPY EDIT 0, DEV EDIT 0, RESEARCH NEEDED 0. Cut list: 36 of 37 rows undecided (row 37 cut by the author 2026-11-13; `book/03-drafts/ch01-cut-list.md`). Pending the author's voice check (read aloud, as for ch00). The build will refuse this file while any flag remains. (Updated 2026-11-13: nine [UNVERIFIED] flags settled by the author; see "2026-11-13 flag decisions". Earlier the same day: the 1807 Slave Bible author-confirmed; see "2026-11-13 author decisions".)
+**Not final.** Flags in the text: UNVERIFIED 0, AUTHOR TO CONFIRM 0, AUTHOR STORY NEEDED 0, COPY EDIT 0, DEV EDIT 0, RESEARCH NEEDED 0. Cut list: 36 of 37 rows undecided (row 37 cut by the author 2026-11-13; `book/03-drafts/ch01-cut-list.md`). Pending the author's voice check (read aloud, as for ch00). The build will refuse this file while cut-list rows are undecided. (Updated 2026-11-13: the last [UNVERIFIED] flag, Williams 2007, settled by author decision; see "2026-11-13 Williams 2007 decision". Earlier the same day: nine [UNVERIFIED] flags settled, see "2026-11-13 flag decisions"; the 1807 Slave Bible author-confirmed, see "2026-11-13 author decisions".)
 
 # Ch01 change log: A Faith Handed Down in Chains
 
@@ -142,3 +142,17 @@ Targeted revision by copy-editor, 2026-11-13, applying the author's decisions on
 - Line 11 ("missionaries followed, building schools, hospitals and churches") is the thesis 3752-3754 content, without a citation and without a flag. It was not covered by flag #3 and is unchanged.
 
 **Counts after this revision:** [UNVERIFIED] 1 (#6, Williams 2007). HTML comments 41: the 31 from before (29 citation notes, 2 author-confirmed) plus 9 `author-decision 2026-11-13` comments and 1 new citation note (#8). Word count (whole file, HTML comments removed, `wc -w`): 4,472 with flag text; **4,435 reader-facing** without it (was 4,434 by the same method; the cut and the narrowing roughly balance the new framings). The "Outstanding flags" table above is superseded: only the Williams 2007 flag is left.
+
+## 2026-11-13 Williams 2007 decision
+
+Targeted revision by copy-editor, 2026-11-13; not a full copy edit. Author: "For Williams 2007, cite the US National Institute of Mental Health's summary of the study." Only line 75 changed (diff against the copy taken before editing). The NIMH citation comment is byte-identical; `<!-- author-decision 2026-11-13: #6 cited to the NIMH summary of Williams et al. 2007 (Arch Gen Psychiatry 64(3):305, doi 10.1001/archpsyc.64.3.305); study itself not opened (config rule 9) -->` follows it directly.
+
+| # | Original | Revision | Why |
+|---|---|---|---|
+| 1 | "One large American survey points the other way. It found ... go untreated more often [UNVERIFIED: study not opened (Williams, González, ... jamanetwork.com not reachable, PubMed bot-gated); the sentence matches the NIMH summary of 5 March 2007, opened]." | "One large American survey, summarised by the US National Institute of Mental Health in 2007, points the other way. It found ... go untreated more often." | Author decision (rule 9): the finding is attributed to the NIMH summary, which the researcher opened on 2026-11-11 and which matches the sentence (fact check row 61). The finding is unchanged; no number or claim added. Flag removed. 11 words added. |
+
+Humanizer check (rule 11) on the changed sentence: no dashes, no curly quotes, no stock AI words, no triad, run-up or not-X-but-Y; "summarised" is British -ise (rule 4). "American ... US" sit close together; kept, because "US" belongs to the institution's name as the author gave it.
+
+Counts after this revision: [UNVERIFIED] 0; all other flag types 0; HTML comments 42 (41 before, plus the author-decision comment). Reader-facing words: 4,446 (`wc -w` with comments removed; 4,435 before). Sources: 02-research/sources.md rows 1 (Williams 2007, Crossref) and 2 (NIMH summary). Open-claims 36 resolved.
+
+**What the author must still do to make ch01 final:** mark keep or cut on the 36 undecided cut-list rows (kept rows go back in and get a light copy edit); read the chapter aloud for voice. Optional points are on the ch01 card.
