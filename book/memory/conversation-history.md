@@ -463,3 +463,10 @@ sources.md rows 1 (Williams 2007, Crossref, existence only) and 2 (NIMH summary,
 2026-11-11, chosen by author 2026-11-13) added; open-claims 36 resolved; changes log, card and 
 Book Bible updated. Not done: no commit; Drive sync of approved documents not touched. Still 
 open for the author: 36 undecided cut-list rows and the read-aloud voice check.
+
+### 2026-11-13 · book-orchestrator · decision · ch01
+Author (2026-11-13): line ~91 opening 'our churches in Britain, USA and Canada, today'; keep 
+'missionaries followed, building schools, hospitals and churches' as his view; cut list by 
+group: A approve moves (10, 22, 25, 26, 28, 32), B cut (3, 4, 5, 7, 8, 9, 13, 14, 15, 18, 23, 
+27, 29, 30), C keep as now (1, 21, 31, 34, 35), D cut (2, 6, 11, 12, 16, 17, 19, 20, 24, 33, 
+36). Sent to copy-editor.
