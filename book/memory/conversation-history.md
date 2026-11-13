@@ -490,3 +490,8 @@ Approved'. Marked final and approved in the card, Book Bible status and change l
 Drive 'Approved Documents' as a Google Doc with HTML comments stripped: 
 https://docs.google.com/document/d/1xb4JHVfM3lEYZS3epou94-pMdMSNHcagtM58QfR9xFQ/edit (content 
 read back and checked). Register updated.
+
+### 2026-11-13 · book-orchestrator · decision · book
+Author (2026-11-13): paraphrase in-copyright song lyrics (name the song, describe the line in 
+our words); no lyric clearance to seek. Public-domain spirituals may be quoted. Applies from 
+ch02 on.
