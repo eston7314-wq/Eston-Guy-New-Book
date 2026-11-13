@@ -36,3 +36,19 @@ only (config hard rule 10). There are still no verbatim interview quotations, an
 Fig.27 is participant-level and must never be reproduced. Known weaknesses: out-of-order answer options
 in Fig.5, 7 and 8; SPSS results not reported; yes/no help-seeking, age and denomination questions not
 charted; 20 interviewees (Fig.26 is the only source).
+
+## Added by book-researcher, 2026-11-10 (ch04 research)
+
+- Network in research sessions: web search works; direct page fetch failed on every host except GitHub.
+  Scripture can be checked word for word against public-domain KJV (1769) files on GitHub:
+  thiagobodruk/bible `json/en_kjv.json` and scrollmapper/bible_databases `formats/json/KJV.json` (they agree).
+- KJV slips in the ch04 passages (detail in 02-research/ch04-evidence.md section 7): Romans 8:28 "who are
+  called" (KJV "who are the called", 1417); 1 Cor 15:19 "We are all men" (KJV "we are of all men", 2054);
+  Phil 4:8 "things are is honest" (2148); 1 Cor 1:12 "I am Paul" (KJV "I am of Paul") and miscited as
+  "1 Corinthians 12" (2158); Hebrews 11:1 paraphrase at 2113 is NIV wording, not KJV.
+- Not found by search: Brown and Hughes (2017); Harris and Young (2018) (thesis 1711-1716).
+
+## Best spine per chapter (chapter-writer)
+
+- ch00 (2026-11-10): only one version exists. Spine order used: acknowledgements 90-96 (hook), 82-121 (standing), 506-515 (why), 66-78, 1172-1188, 2135-2137, 2772-2781 (definitions and lens), survey-aggregate Fig.13/19/22/23/26 (research), 4907-4910 (one limit sentence), 4921-4923 (title line). Line ranges in ch00-evidence.md 1.3 are off by two for Fava (82-84 in the source, not 84-85).
+- ch01 (2026-11-11, chapter-writer): one version only. Spine: author's family testimony (2026-11-11) as opening; 3749-3770, 3772-3786, 3686-3690, 4029-4031 (empire and reclaiming); 3828-3853, 3906-3916, 3855-3921 condensed (missions); 3930-3976, 3672-3677, 1749-1761, 3692-3701 (mental cost); 1284-1295, 3703-3709, 4000-4046, 1564-1583, 4063-4067 (Black Church). 3711-3724 and 4048-4076 are conclusions that restate; only 4063-4067 is lifted. Tobago appears in the source only at 3846 (the unverified 13,000 sentence).

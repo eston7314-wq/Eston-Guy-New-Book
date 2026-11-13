@@ -1,0 +1,56 @@
+# Ch00 edit memo: Preface, Felt Before It Is Understood
+
+Developmental editor, 2026-11-10. Input: `book/03-drafts/ch00-preface.md` (after the story pass). Output: `book/04-edited/ch00-preface.md`. Earlier versions are unchanged in `book/03-drafts/`.
+
+## Verdict
+**Ready for humanize/fact check.** One condition: the author story is still missing. The preface works without it, but it does not yet fully deliver the blueprint's shift ("this author is one of us"). See "Weakest remaining section".
+
+## What was wrong, and what I did about it
+
+1. **The first heading did not prove itself.** "One sentence from Jesus brought my research home" sat over about 650 words, and most of them were the author's family, mentors and school career. The heading covered two paragraphs at most. I split the section. The heading now covers the Pope Francis line and the thesis question. A new section, "Many people sent me to this research", covers family, Fava, Perkins, Gould, Hartney, the 215 students, the story slot and the dedication. The new heading claims only what the source says: they "inspired" and "motivated" him to undertake the study (thesis 86-88, 113-115). It does not claim the question began there.
+2. **Author decisions (2026-11-10) applied:**
+   - *Mental health:* credited to two bodies, each for its own words, both paraphrased: "The US Centers for Disease Control and Prevention describes it as our emotional, psychological and social well-being: how we think, feel and act, how we handle stress, how we relate to other people and how we make healthy choices. The World Health Organization describes it as a state of well-being that lets us cope with the stresses of life, realise our abilities, learn and work, and contribute to our community." I quote neither body, so `[UNVERIFIED: WHO wording; author to choose WHO alone or WHO+CDC]` is resolved by the author's decision. I did not drop it silently. Open-claims row 9 stays open: who.int and cdc.gov still need opening before press.
+   - *Survey and interviews:* "I conducted the survey and the interviews myself." Both `[AUTHOR TO CONFIRM]` interview flags are now resolved: the first decision covered the survey, and a second decision covered the 20 interviews. "Twenty of them later took part in interviews with me."
+   - *Names:* all four `[AUTHOR TO CONFIRM: may this person be named?]` flags are removed from the prose. There is one `<!-- author-confirmed 2026-11-10 -->` comment after the naming paragraphs, and it lists all four names (config rule 9).
+   - *GCSE:* "As I remember it, their GCSE results were one of the best in the history of the school, at that time." This uses the author's words and frames them as his recollection.
+   - *Heritage:* the author is of African heritage. The heading is now "Faith gives many of us a home, and a home can also hurt". I made two more changes. "the ground on which their faith and practice stand" became "our faith and practice". "In the African communities of the UK, the USA and Canada, Christianity gives people a connection..." became "In our communities in the UK, the USA and Canada, Christianity connects us to our cultural identity and to one another." The bridge now reads "How did this faith reach our ancestors". The welcome paragraph is unchanged ("If that is not you, you are welcome all the same"), so readers of every background still have a clear way in.
+3. **Hook into ch01 tied back to the argument.** The old hook was "Before any of that comes an older question." It is now "To see why the same faith can both heal and wound, we have to begin with an older question." This is the blueprint's hook, and it hands ch01 the double-edged inheritance without naming it.
+4. **Three hypotheticals: one trimmed, none cut.** All three earn their place. The woman before the hospital appointment is the only thing in the "home can also hurt" section that proves the heading. The grandmother and the young man give the title line both of its halves in about 40 words. The man with the psalms was the weakest. He repeated the woman's "Think of" opener, and his "can be bent against him" duplicated the home section's point. I cut him from about 70 words to one sentence that starts with "may": "A man may still know by heart the psalms he learned as a boy, yet not have been inside a church for years, and feel like a believer one week and not the next." All three strands are still in that sentence, so no idea was dropped. Each figure is now signalled as imagined ("Think of", "may", "may"). Only the woman and the reflection now open with "Think of".
+5. **Parts paragraph was drifting into a chapter list.** "Part Two looks at what the New Testament offers: the teaching of Jesus, the healing stories and letters, prayer and worship, and the church as a family" named ch03-06 one by one. It now reads "...offers in teaching, healing, prayer and community", which is the book map's wording. Part Four: "reports what fifty people told me, sets out how church and clinic can work together, and ends with what is still unknown" became "listens to what fifty people told me and asks how church and clinic can work together". The afterword's promise about limits is still made in the research section ("the afterword says plainly what the research could not show").
+6. **Triads and staging in the home section.** The old text was "Its messages of redemption, hope and community are the ground... For generations its teachings, parables and miracles have given Christians hope, a spirit of community and moral guidance. I believe it does something more as well." That is three triads in a row, "hope" and "community" said twice, and a staged run-up. The new text is one sentence ("...and for generations its teachings, parables and miracles have also given Christians moral guidance") followed by "I believe it also gives us something harder to replace." The three source triads are the author's (thesis 51-53, 507-509). Only the duplicate words went.
+7. **Smaller fixes.** "He died on Easter Monday, 21 April 2025, the Bishop of Rome whom..." was a misplaced apposition. It is now "...that Pope Francis, the Bishop of Rome whom so many called 'the People's Pope', had died. It was Easter Monday, 21 April 2025." The heading "Faith gives many people a home" was a topic, not a claim, and is changed as in item 2. In the strands paragraph, "lens" no longer appears twice. Numbers are consistent ("30 women and 20 men", not "thirty women and twenty men" beside "20 in the UK").
+
+**Checks requested by the coordinator**
+- *Sentence four* ("whether faith can help to make a person whole in mind, and whether it can sometimes do the opposite"). It restates the thesis question and adds no new claim. The thesis asks whether the three strands "influence" mental health (title; aim 517-520), and 1189-1190 says mental health is "influenced by several positive or negative effects of religious engagement". "Sometimes do the opposite" is that negative half. Kept.
+- *First-paragraph punctuation.* In the input I received, the first paragraph does not end on the quotation. It ends on sentence four, with a full stop. The quotation sits inside sentence three and closes correctly: `whole" (Luke 8:48, KJV).` There is no stop inside the quotation marks, because the KJV verse continues ("; go in peace"), and that is correct British practice. Nothing needed fixing. If the coordinator was looking at an older version, the current file is correct either way.
+- *Survey sentences.* "Across the whole group, 38 of the 50 said they believe..." and "Only 23 of the 50 described their church community as supportive or very supportive about mental health" are word-for-word unchanged. "Representative" and "balanced" appear nowhere. No participant's answer appears, and the gap is not named.
+- *v2 job.* Every item is in place:
+  - why the book, and for whom;
+  - the three definitions, plus the faith preview;
+  - the three strands, offered as the author's lens ("a way of looking that I chose");
+  - an honest word on the research;
+  - one paragraph on the four parts;
+  - the hook into ch01;
+  - all five v2 promises: harm (Part Three), faith and doctor, the 50 told honestly (ch10), limits (ch10 and the afterword), and help now (content note and App. B).
+  - The woman's story is not retold.
+- *Ownership.* Nothing that belongs to ch04, ch07 or ch10 is spent here. "A home" stays as a heading image only, and ch06 owns "the family house".
+- *Counter-evidence.* The pack's strongest objections are that the faith effect is small and that 38 of the 50 is what a sample recruited through churches would say. The preface meets them by refusing to claim an outcome: "These are answers people gave about themselves", "Fifty people cannot speak for everyone", "Faith is untidier than any three words". The recruitment point belongs to ch10. I did not add it here, because doing so would introduce a new claim.
+
+## Weakest remaining section and its fix
+**"Many people sent me to this research"** still lists the author's credentials, and the only moment of lived feeling is the `[AUTHOR STORY NEEDED]` slot. Until the author writes it, the reader gets his record but never sees the question become personal. The blueprint's shift therefore lands only halfway. Fix: the author writes the 250-350 words using the six-point brief. Do not let any agent fill it. The paragraph after the slot already follows on, so the preface reads correctly either way. A second, smaller weakness: the 2004 school paragraph runs three role sentences in a row (supervised, managed, held). Once the story is in, the humanize pass could fold "I also managed the Gifted and Talented programme..." into the sentence before it.
+
+## Cuts awaiting author sign-off
+See `book/03-drafts/ch00-cut-list.md` rows 1 to 29 (unchanged; author column still empty). No rows were added. Every source idea in the draft is still in the edit. The only removals were duplicate words ("hope", "community spirit", a second "lens") and a writer-made chapter list in the parts paragraph, which was not source material.
+
+## Outstanding flags
+- `[UNVERIFIED]`: 1. Chronic physical conditions and mental-health risk (thesis 1184-1188, open-claims row 23).
+- `[AUTHOR STORY NEEDED]`: 1. The story slot.
+- `[AUTHOR TO CONFIRM]`: 0 (all 5 resolved by author decisions on 2026-11-10).
+- `<!-- author-confirmed 2026-11-10 -->`: 1, covering the four names.
+- `[DEV EDIT]`: 0. `[RESEARCH NEEDED]`: 0.
+- WHO-wording flag: resolved by author decision. The text is now a paraphrase with no quotation, and open-claims row 9 stays open for re-checking the source pages.
+- For the fact checker: the CDC sentences "think, feel and act ... handle stress, relate to others, and make healthy choices" were found only on an archived 2012 CDC page (ch00-evidence.md 1.1). Cite that page, or trim the paraphrase to the current CDC sentence ("emotional, psychological, and social well-being").
+- Still open for the author: the 29 cut-list rows; the story; "school service" (row 29).
+
+## Word count: before -> after
+Body without the editor notes: 2,610 -> about 2,550, including the 202-word story-slot brief. When a 250-350-word story replaces the brief, the preface will run to about 2,600-2,700 against the 2,800 budget. No padding is needed. The reflection and closer are unchanged.

@@ -40,4 +40,25 @@ infers goes under "Proposed" until the author confirms it.
 | 2026-11-10 | Consent: the book uses only overall (aggregate) survey numbers, never an individual participant's answer, quotation or identifiable detail | book.config.md hard rule 10; context card |
 | 2026-11-10 | Write the whole book using the humanizer skill, for all chapters | book.config.md hard rule 11; book-bible voice rules; .claude/skills/humanizer/; write-book skill sequencing |
 | 2026-11-10 | "write this book": taken as approval of blueprint-v2 (11 chapters) to start drafting; open questions in v2 still to be answered | memory/context-cards/book.md |
+| 2026-11-10 | Mental-health definition: combine the WHO and US CDC descriptions, each credited to its own source | ch00; Book Bible key term to be corrected |
+| 2026-11-10 | "I conducted the surveys myself"; and "I carried out the 20 follow-up interviews myself" | ch00 research paragraph; ch10; App. A |
+| 2026-11-10 | Name Father F. W. G. Perkins, H. Gould, T. Hartney and Professor Salvatore Fava from the acknowledgements | ch00 (author-confirmed) |
+| 2026-11-10 | GCSE results described as "one of the best in the history of the school, at that time", as the author's own recollection | ch00 |
+| 2026-11-10 | The author is of African heritage: the book may say "our ancestors" and "we" about people of African heritage | all chapters; Book Bible voice rules |
+| 2026-11-10 | Chronic illness claim (thesis 1184-1188; open-claims row 23) reworded by the author: "some people believe that long-term physical illness raises the risk of some mental-health problems, including excessive stress". Framed as belief (config rule 5); author-confirmed wording | ch00 |
+| 2026-11-10 | Ch00 cut list: all 29 undecided rows (1-29) cut | book/03-drafts/ch00-cut-list.md |
+| 2026-11-10 | Ch00 story slot filled with the author's own words: "the determination of many pupils to succeed, and the motivation of most parents to provide a better future for their children, in spite of the many challenges that confronted them, made me join with other believers in saying that faith really heals the mind" | ch00 |
+| 2026-11-10 | He studied "Contemporary Religions" at the University of London and taught the same at secondary school | ch00; author bio |
+| 2026-11-10 | GCSE wording kept as the author's own ("one of the best in the history of the school, at that time") | ch00 |
+| 2026-11-11 | GCSE wording replaced: "our 2004 students' GCSE results were the best for the school, to that date" (supersedes the 2026-11-10 wording) | ch00 final |
+| 2026-11-11 | Ch00: "My year group that year was 215 students..." (not "in 2004") | ch00 final |
+| 2026-11-11 | Ch00 voice check passed: "sounds like me". Preface approved | book/05-final/ch00-preface.md; Book Bible status |
+| 2026-11-11 | Ch01 family story (author's own words, author testimony): "Christianity came into my family line from my paternal grandparents who embraced Christianity through the Moravian Church in the Caribbean island of Tobago, while my maternal grandparents followed Christianity through the Anglican Church. My wife, children and I also embraced the Church of England practices while paying homage also to the Pentecostal and Spiritual Baptist practices." | ch01 opening story slot; book/memory/context-cards/ch01.md |
+| 2026-11-11 | Correction: of Perkins, Gould and Hartney, two are now deceased (not all three, as the thesis said). Which two not stated; the book must not say which | ch00 final; Book Bible |
+| 2026-11-11 | Corrected Preface uploaded to Drive; the earlier copy renamed "SUPERSEDED" | knowledge-notes/approved-documents.md |
+| 2026-11-11 | Survey charts back in the book: Fig.1-26 (including Fig.24 employment and Fig.25 education by country, author's choice after the re-identification risk was explained). Placement default (author did not choose): key charts in ch10, all in Appendix A, redrawn with answer words | blueprint-v2 amendment; ch10 card; App. A |
+| 2026-11-11 | Fig.27 (participant-level table): author asked to add it back. Held for one confirmation, because it reproduces each participant's answers and their consent covered academic use only; this would reverse hard rule 10 | user-profile; config rule 10 unchanged until confirmed |
+| 2026-11-11 | Fig.27: "include it anyway", after being told of the consent and data-protection risk and advised to check with an ethics contact. Goes in Appendix A only | book.config.md rule 10 exception |
+| 2026-11-11 | Preface: "but two are now deceased" deleted; the sentence is "Three other people shaped the years before it." The book makes no statement about whether Perkins, Gould or Hartney have died | ch00 final |
+| 2026-11-11 | Keep the repository and Drive copies of approved documents in sync at all times, periodically | approved-documents.md sync rule; CLAUDE.md; daily scheduled task "Book Drive sync" |
 

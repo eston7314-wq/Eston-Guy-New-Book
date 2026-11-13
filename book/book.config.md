@@ -61,4 +61,10 @@ must lock them. Mark any row an agent inferred rather than you stated as **Infer
     the meaning, the author's voice and every flag, adds nothing new, and logs each change in
     `book/04-edited/chNN-humanize-log.md`. The copy editor checks the humanizer patterns again
     at the end.
+    **Exception (author decision 2026-11-11):** Fig.27, the participant-level survey table, is
+    reproduced in Appendix A at the author's explicit instruction ("include it anyway"), after he
+    was told it shows each participant's answers, that consent covered academic use only, and that
+    an ethics/data-protection check was advised. The exception covers Fig.27 in Appendix A only.
+    Running text still uses overall numbers only, and no participant's words, story or identity
+    appear anywhere.
 

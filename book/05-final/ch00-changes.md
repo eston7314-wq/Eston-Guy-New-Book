@@ -1,0 +1,130 @@
+**Final, pending the author's voice check**; before press: researcher to open cdc.gov and who.int pages (open-claims row 9) and re-check help lines. Flags in the text: AUTHOR STORY NEEDED 0, UNVERIFIED 0, AUTHOR TO CONFIRM 0, DEV EDIT 0, RESEARCH NEEDED 0, COPY EDIT 0; cut list 30 of 30 rows decided (all cut, none returns). Superseded status (2026-11-11 copy edit): not final, story slot open, 29 cut-list rows undecided.
+
+# Ch00 change log: Preface, Felt Before It Is Understood
+
+Copy edit (Mode A), copy-editor, 2026-11-11. Input: `book/04-edited/ch00-preface.md` (after the dev edit, the humanize pass and the fact check; left unchanged). Output: `book/05-final/ch00-preface.md`. To reverse any edit, put the "Original" text back in its place.
+
+## Summary (three lines)
+
+There are 10 prose changes: 4 serial commas removed or the sentence recast (config rule 4), 2 punctuation fixes for clarity, 2 repeated words, 1 parallel list and 1 fix that makes the CDC paraphrase match its source. The "Notes for the editor" block was taken out of the final file and moved here, word for word.
+Nothing was changed in meaning, order or examples. Every flag, comment, citation note, survey sentence, the scripture quotation and the help-line note are byte-identical to the input (checked by grep and diff).
+The final humanizer check (rule 11) is clean: no dashes, no curly quotes, no stock AI words ("Testament" appears only in "New Testament"), no new serial commas.
+
+## Significant changes
+
+| # | Original | Revision | Why |
+|---|---|---|---|
+| 1 | "My year group that year was 215 students" | "My year group in 2004 was 215 students" | "year ... year" repeated (humanize log, for stage 5). The thesis (105-112) ties the 215 students to his time as Head of Year 11 in 2004, which the sentence before names, so "that year" means 2004. |
+| 2 | "the stigma that keeps people silent, and the hardest conversations a church can have" | "the stigma that keeps people silent and the hardest conversations a church can have" | Serial comma, config rule 4. Without the comma the sentence is still clear ("keeps the hardest conversations" does not parse), so I removed it and did not recast. |
+| 3 | "Where I need to be more particular, I use ... living in particular communities" | "Where I need to be more specific, I use ... living in particular communities" | "particular" appeared twice in one sentence. I changed the first and kept the second, which is the author's sense. |
+| 4 | "describes it as our emotional, psychological and social well-being: how we think, feel and act, how we handle stress..." | "describes it as our emotional, psychological and social well-being, which affects how we think, feel and act, how we handle stress..." | The fact-check note (ch00-factcheck.md row 34). The CDC says mental health *includes* well-being and *affects* how we think, feel and act. With the colon, the sentence read as if mental health *is* those things. Two words replace the colon, the rest of the sentence is unchanged, and the hidden CDC note stays in place. |
+| 5 | "cope with the stresses of life, realise our abilities, learn and work, and contribute to our community" | "cope with the stresses of life, realise our abilities, learn, work and contribute to our community" | Serial comma, config rule 4. Removing only the comma ("learn and work and contribute") would blur the items, so I recast them: there are still four capacities, in the WHO's order. The paraphrase still matches the WHO fact sheet ("learn well and work well, and contribute"). The hidden WHO note stays in place. |
+| 6 | "praying, worshipping, reading scripture, Bible study and celebrating the Eucharist" | "praying, worshipping, reading scripture, studying the Bible and celebrating the Eucharist" | The list was not parallel (four gerunds and one noun). Only the noun was changed. |
+| 7 | "I set out to learn how aware people are of their faith, how much of it they know and practise, which New Testament teachings matter most to their mental health, and where culture and faith meet, sometimes helping each other and sometimes pulling apart." | "I set out to learn how aware people are of their faith and how much of it they know and practise. I asked which New Testament teachings matter most to their mental health, and where culture and faith meet, sometimes helping each other and sometimes pulling apart." | Serial comma, config rule 4. Removing the comma here does create ambiguity ("matter most to their mental health and where culture and faith meet" reads as one object of "to"), and "know and practise and which" piles up "and"s. So I recast it as two sentences. All four aims are kept in the same order. The comma left in the second sentence joins two items, so it is not a serial comma. I used "I asked" rather than a third "I wanted" in the paragraph, and the thesis aims (525-575) are framed as questions. |
+| 8 | "20 in the UK, 16 in the USA and 14 in Canada, 30 women and 20 men." | "20 in the UK, 16 in the USA and 14 in Canada; 30 women and 20 men." | Two breakdowns were run together with a comma. A semicolon separates the country list from the sex list. The numbers are unchanged. |
+| 9 | "Each chapter ends with a short reflection, a few points for church leaders, families and clinicians, and questions a small group can talk over." | "Each chapter ends with a short reflection and a few points for church leaders, families and clinicians, followed by questions a small group can talk over." | Serial comma, config rule 4. The nested list ("families and clinicians") makes a bare "and questions" ambiguous, so I recast it. The order of the closer (reflection, points, questions) is kept and matches the config closer. |
+| 10 | "Which of the three strands, awareness, knowledge or practice, is strongest" | "Which of the three strands (awareness, knowledge or practice) is strongest" | Commas round a list inside a question read as a list of four. Parentheses mark the three as the strands. |
+| 11 | "## Notes for the editor" block (7 lines) | Removed from the final file | As briefed. Its full text is below under "Editor notes carried forward". |
+
+**Changes by type:** serial comma (config rule 4) 4 (rows 2, 5, 7, 9); other punctuation for clarity 2 (8, 10); repeated word 2 (1, 3); parallelism 1 (6); paraphrase made faithful to its source 1 (4); structure (notes block moved) 1 (11). Total: 10 prose changes plus 1 structural.
+
+**Checked and deliberately left alone** (author's voice or author decisions; the humanize log's keep-list still applies):
+
+- "their GCSE results were one of the best in the history of the school, at that time". "Results were one of" is loose agreement, but this is the author's decided wording (decisions log 2026-11-10). Kept. If he wants it tightened, "were among the best" is the option.
+- "Contemporary Religion" (what he studied at university) beside "Contemporary Religions" (what he introduced at school). The difference is in the thesis (100-103) and may name two different courses. Kept. Author to confirm whether they are the same subject.
+- "...have also given Christians moral guidance. I believe it also gives us..." "Also" comes twice in a row, but each one links a different thing. Kept, because it is light and humanized.
+- "In some unique way", "a fantastic group", "plays a very significant role", "Above all, I thank God", "That setting let me hold the roles of...", the two "Think of" openers and the 2004 role sentences are all kept, as the humanize log lists.
+- "You can see it in an ordinary week: whether ..., and whether ..." and "Think of one time ..., and one time ..." These commas come before the second of only two items, so they are not serial commas. Kept for rhythm.
+- "learned" (not "learnt"), "cooperation" (no hyphen) and "towards". Kept, and recorded as house style.
+
+## Consistency decisions (also recorded in the Book Bible and `book/style-sheet.md`)
+
+Each is a rule, with where it came from. Ch00 already follows all of them.
+
+1. **Spelling: British, -ise** (config rule 4): realise, recognise, marginalised, programme, practise (verb) / practice (noun), worshipping, judgement, towards, learned. **Proper names keep their own spelling**: "World Health Organization" and "US Centers for Disease Control and Prevention" keep the z and -er inside British text, because a body's name is spelled the way the body spells it (Hart's Rules / New Oxford Style Manual, proper names). British spelling applies to our own paraphrase of what they say ("realise our abilities").
+2. **No serial (Oxford) comma** (config rule 4). Where removing it would make a list ambiguous, usually because an item contains its own "and", recast the sentence. Do not put the comma back. A comma before "and" that joins two clauses, or before the second of only two items, is not a serial comma and is allowed.
+3. **Scripture references** (Book Bible 2026-11-07; Chicago 10.44-10.47 form): the book named in full in both running text and parentheses (Luke, Hebrews, 1 Corinthians), no abbreviations; chapter and verse with a colon and no spaces (Luke 8:48; ranges with a hyphen, Luke 8:43-48). The translation abbreviation follows after a comma inside the same parentheses: `"thy faith hath made thee whole" (Luke 8:48, KJV)`. Closing punctuation goes after the parenthesis. Every scripture quotation carries its translation until the author chooses one translation for the book. Then the copyright page names it, and only quotations from a different version carry the abbreviation. "Scripture" and "the psalms" (individual psalms) are lowercase. "the Bible", "Bible study", "the New Testament", "the Eucharist" and "Psalms" (the book) are capitalised.
+4. **Chapter and part references**: "chapter 4" with a lowercase c and an arabic number with no leading zero ("chapter 10", never "chapter 04"; the 00-99 numbers are file names only). Capital C at the start of a sentence ("Chapter 4 gives..."). Parts are capitalised and spelled out: "Part One" to "Part Four". "Appendix A" and "Appendix B" are capitalised. "the preface" and "the afterword" are lowercase in running text. Source: the ch00 text as written, and Chicago 8.180.
+5. **Numbers**: use words for one to ten in ordinary prose ("five years", "three strands", "two numbers"). Use figures for 11 and above, and for every count, statistic or survey figure in a data sentence even when it is below 11 ("20 in the UK, 16 in the USA and 14 in Canada; 30 women and 20 men"; "215 students"). This is the dev edit's standardisation (memo item 7), so it is "30 women" and never "thirty women" beside "20 in the UK". Survey proportions are always written "N of the 50" (Book Bible v2). **Spell out any number that begins a sentence** ("Fifty people...", "Twenty of them..."). Use "fifty" in words when it names the group in narrative and no data is in the sentence ("what fifty people told me", "the fifty"), to match the ch10 title "What Fifty People Told Me". School years are figures (Year 11). Dates are day month year with no comma and no ordinal (21 April 2025). Help-line numbers are written as each service writes them (116 123; 988; 9-8-8). For later chapters, proposed and not yet used: "per cent" in running text and % in tables and figures.
+6. **Quotation marks**: use double quotation marks for quotations and scare quotes, and single marks for a quotation inside a quotation. This is the system already used in ch00 and the Book Bible, so no chapter needs re-marking. Manuscript files use straight marks (humanizer §21). Curly marks are applied at typesetting, not in `book/05-final/`. Note for the build: `scripts/build-manuscript.sh` does not convert them at present. Punctuation goes inside the closing mark only when it belongs to the quotation (British logical style), and the citation follows the closing mark.
+7. **Abbreviations without full stops**: UK, USA, US, CDC, WHO, PhD, GCSE, KJV, ROI. Use "the USA" for the country as a noun (in lists with the UK and Canada) and "US" as an adjective ("the US Centers for Disease Control and Prevention"). Spell the name out at first use where the reader needs it.
+8. **Personal initials**: spaced, with full stops (Eston T. B. Guy; Father F. W. G. Perkins; H. Gould; T. Hartney). Titles go before the name in full ("Professor Salvatore Fava", "Father", "Pope Francis").
+9. **Job titles and subjects**: capitalise a specific post ("Head of Religious Studies", "Head of Year 11", "Assistant Headteacher", "the Heads of Year") and a named course or programme ("Contemporary Religion", "Religious Studies", "the Gifted and Talented programme"). Use lowercase for the generic role ("the headteacher", "a leader at her church", "pastor").
+10. **Hyphenation**: "mental-health" takes a hyphen before a noun ("mental-health services", "mental-health challenges") and is open as a noun ("mental health"). The same goes for "public-health bodies" and "long-term physical illness". "well-being" is always hyphenated. Use "mixed-race" and "Afro-Caribbean". **No hyphen** in "African American", "African British" or "African Canadian", whether noun or adjective.
+11. **Headings**: H1 chapter titles are in title case (Preface: Felt Before It Is Understood). H2 and H3 are in sentence case. Body H2s are stated as claims. The closer headings are fixed labels: "Reflection and practice", "For church leaders", "For families", "For clinicians", "Questions for small groups" (config closer; humanizer §20).
+
+## Outstanding flags
+
+| Flag | Count | Where | Who |
+|---|---|---|---|
+| `[AUTHOR STORY NEEDED]` | 1 | after the 215-students paragraph (250-350 words; six-point brief) | the author. No agent fills it |
+| `[UNVERIFIED]` | 0 | n/a | n/a |
+| `[COPY EDIT]` | 0 | n/a | n/a |
+| `<!-- author-confirmed 2026-11-10 -->` | 2 (four names; chronic-illness sentence) | kept as written | n/a |
+| `<!-- note: ... -->` citation notes | 2 (CDC; WHO) | mental-health paragraph; endnote list in ch00-factcheck.md | build: convert to endnotes |
+| Cut list | 29 of 30 rows undecided | 03-drafts/ch00-cut-list.md (incl. row 29, "school service") | the author |
+
+**What the author must do to make ch00 final:** write the story (250-350 words) in place of the brief. Mark keep or cut on cut-list rows 1-29; kept rows go back in, and then the chapter needs a light copy edit of the new text. Optionally, confirm "Contemporary Religion" / "Religions". Before press, the researcher opens cdc.gov and who.int (open-claims row 9).
+
+## Editor notes carried forward
+
+This is the "Notes for the editor" block from `book/04-edited/ch00-preface.md`, word for word.
+
+- Dev edit (developmental-editor, 2026-11-10). Full account in `book/04-edited/ch00-edit-memo.md`. Earlier versions kept in `book/03-drafts/` (ch00-preface.md, ch00-preface.pre-story.md), including the drafter's and story-injector's notes, which still apply (spine, verbatim lines, corrections).
+- Author decisions applied (2026-11-10): mental health credited to the CDC and the WHO separately, both paraphrased (no WHO quotation, so the WHO-wording flag is resolved by decision; open-claims row 9 still needs who.int and cdc.gov re-opened before press); "I conducted the survey myself" and "I carried out the 20 follow-up interviews myself" (interview flag resolved); the author is of African heritage, so "our communities", "many of us" and "our ancestors" now appear where they read warmer; the four names confirmed, one `author-confirmed` comment after the naming paragraphs; GCSE wording "one of the best in the history of the school, at that time", as recollection.
+- For the fact checker: the CDC wording "think, feel and act ... handle stress, relate to others, and make healthy choices" was found by the researcher on an archived 2012 CDC page, not a current one (ch00-evidence.md 1.1). Cite the page that carries it.
+- For the humanize pass: two "Think of" openers remain (the woman; the reflection). The three source triads in the "home" section were merged into one sentence; the sense is the author's.
+- Humanize pass done 2026-11-10; see ch00-humanize-log.md
+- Fact check (book-researcher, Mode B, 2026-11-10): see `book/02-research/ch00-factcheck.md`. No wording changed. Added hidden citation notes in the mental-health paragraph (CDC; WHO; two remain). The chronic-conditions sentence was then replaced by the author's own wording, framed as belief (author decision 2026-11-10; open-claims rows 23 and 24 resolved; the CDC/NIMH/NICE sources are kept in the fact-check file as an optional endnote). The CDC "think, feel and act ... make healthy choices" wording was traced to cdc.gov's "About Mental Health" page by search (page not opened).
+- Copy edit (copy-editor, 2026-11-11): this file. The block above was removed from `book/05-final/ch00-preface.md`.
+
+## Word count
+
+The final file is about 2,520 words, including headings and the 202-word story brief and excluding HTML comments. That is about 2,316 words of reader-facing prose, roughly 30 fewer than the input once the notes block is set aside (the edits shortened it by a few words). A 250-350-word story would bring the preface to about 2,570-2,670, against the 2,800 budget.
+
+## Author revisions 2026-11-10
+
+Applied by copy-editor on 2026-11-11, editing `book/05-final/ch00-preface.md` in place. Source: Eston T. B. Guy's decisions of 2026-11-10, relayed by the orchestrator (recorded in `book/memory/user-profile.md`). After that, a light copy edit, a humanizer check and a style-sheet check of the changed passages only. Nothing else in the file was touched (checked by diff: only lines 15 and 23 changed). Pre-edit copy: none kept in the repo. To reverse, put the "Original" text back.
+
+| # | Original | Revised | Reason |
+|---|---|---|---|
+| A1 | "Father F. W. G. Perkins was my supervisor at university, and he first inspired me to study Contemporary Religion." | "Father F. W. G. Perkins was my supervisor at the University of London, and he first inspired me to study Contemporary Religions." | Author decision 2: the course he studied was "Contemporary Religions" at the University of London. "the University of London" replaces "university" in the same slot, so no new clause was needed and "university" is not repeated. |
+| A2 | "In that school I introduced the teaching of Contemporary Religions at secondary level" | unchanged | Author decision 2: he taught the same subject at school. With A1, both mentions now use the same name, so they read as one subject. No edit needed. |
+| A3 | "their GCSE results were one of the best in the history of the school, at that time" | unchanged | Author decision 3: his wording stays exactly as it is. The "were among the best" option offered at copy edit is withdrawn. |
+| A4 | `[AUTHOR STORY NEEDED: 250-350 words ... with or without the story.]` (the whole six-point brief) | "In those years, the determination of many pupils to succeed, and the motivation of most parents to provide a better future for their children, in spite of the many challenges that confronted them, made me join with other believers in saying that faith really heals the mind. `<!-- author-confirmed 2026-11-10 -->`" | Author decision 1: his own statement in place of the story. His words and his punctuation are kept. The only additions are the lead-in "In those years," (which ties the sentence to the school years in the paragraph above) and a capital letter where the sentence now begins. No pupil, parent, event or detail was added. The "join with other believers in saying" framing is his and is kept (config rule 5: a belief, not a fact). The confirmation comment goes after the statement (config rule 9). |
+| A5 | (linking phrase) | none added | Checked by reading aloud. His statement is followed by the dedication paragraph and then the heading "Faith gives many of us a home, and a home can also hurt", the woman example and "I will be honest about both sides". The heading itself makes the turn to the harm, and the statement is framed as what he and other believers say, so it does not contradict the honesty that follows. Adding a hedge would weaken his conviction for no gain. |
+
+**Light copy edit of the changed passages.**
+- A4 is one long sentence. The Book Bible allows one long sentence per paragraph, and this one is its own paragraph. His commas around "and the motivation ... children" and around "in spite of ... them" are kept: they mark the two subjects and the aside clearly when read aloud. The comma after the lead-in "In those years" was added so that the long subject starts cleanly. "many pupils ... the many challenges" repeats "many", and "really heals" is an intensifier. Both are his words and are kept for voice.
+- "pupils" (A4) beside "215 students" (the paragraph before): both words are already used in the preface ("less able pupils"), so I kept both.
+- Humanizer (rule 11) on lines 15 and 23: no dashes, no curly quotes, no not-X-but-Y, no one-line closer, no staged opener, no stock AI words, and no new triad (A4 has two subjects and one aside). Clean.
+- Style sheet: British spelling; no serial comma (the A4 comma before "and" joins two long subject phrases, not a list of three); "the University of London" capitalised as a proper name.
+
+**Consistency decisions (also recorded in the Book Bible and `book/style-sheet.md`).**
+- Rule 9 is updated. The named course is "Contemporary Religions" (plural) for both the university course and the school subject (author, 2026-11-10). The earlier "Contemporary Religion" example in rule 9 is superseded.
+- New rule: institutions are written in full with a capital, "the University of London" ("the" lowercase mid-sentence). Generic "university" and "school" are lowercase (Hart's Rules, proper names). Selinus University of Science and Literature, already in ch00, follows the same rule.
+
+**Cut list.** All 30 rows in `book/03-drafts/ch00-cut-list.md` are now marked cut (author, 2026-11-10). Nothing returns to the text. Note for whoever owns that file: in rows 1-29 the decision sits in a seventh cell after an empty sixth ("|| cut"), so a parser that reads the "Author decision" column will find it empty. I did not edit the file, because the decisions themselves are not in doubt.
+
+**Outstanding flags (supersedes the table above).**
+
+| Flag | Count | Where | Who |
+|---|---|---|---|
+| `[AUTHOR STORY NEEDED]`, `[UNVERIFIED]`, `[AUTHOR TO CONFIRM]`, `[DEV EDIT]`, `[RESEARCH NEEDED]`, `[COPY EDIT]` | 0 | n/a | n/a |
+| `<!-- author-confirmed 2026-11-10 -->` | 3 (four names; the faith statement; the chronic-illness sentence) | kept | n/a |
+| `<!-- note: ... -->` citation notes | 2 (CDC; WHO) | mental-health paragraph | build: convert to endnotes |
+| Cut list | 0 undecided (30 cut) | 03-drafts/ch00-cut-list.md | done |
+
+**Before press (not flags in the text):** the author reads the preface aloud for voice, especially the new sentence. The researcher opens the cdc.gov and who.int pages (open-claims row 9) and re-checks the three help lines (Samaritans 116 123; 988; 9-8-8).
+
+**Word count.** About 2,366 words including headings, excluding HTML comments. About 2,286 words of body prose. That is roughly 150 fewer than before, because the 202-word brief became a 47-word statement. The budget is 2,800.
+
+## Author revision 2026-11-11
+
+| Original | Revised | Reason |
+|---|---|---|
+| As I remember it, their GCSE results were one of the best in the history of the school, at that time. | As I remember it, our 2004 students' GCSE results were the best for the school, to that date. | Author's exact wording (2026-11-11); kept as his recollection |
+| My year group in 2004 was | My year group that year was | Author's choice (2026-11-11), avoiding "2004" twice in a row; "that year" refers to Head of Year 11 in 2004 in the paragraph before. Supersedes copy-edit change "My year group in 2004" |
+| Three other people shaped the years before it, and all three have now died. | Three other people shaped the years before it, but two are now deceased. | Author correction (2026-11-11): two of the three, not all three, have died. Supersedes the thesis wording "three other significant persons who have now departed" (thesis 98-99) |
+| Three other people shaped the years before it, but two are now deceased. | Three other people shaped the years before it. | Author (2026-11-11): delete "but two are now deceased"; the book no longer says whether any of the three have died |
+
