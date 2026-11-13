@@ -19,6 +19,7 @@ Started 2026-11-11 by copy-editor at ch00. Each line gives its source.
 - Quotation marks: double for quotations and scare quotes, single inside them. The files use straight marks, which are curled at typesetting (the build does not do this yet). Punctuation goes inside the closing mark only if it belongs to the quotation. The citation follows the closing mark. If the source sentence goes on after the quoted words, the full stop goes outside: "...pulled it down twice". (ch01 fact check row 65; source text checked).
 - No em or en dashes in prose (humanizer §8). Number ranges take a hyphen (Luke 8:43-48; 3,500-4,600).
 - Abbreviations have no full stops: UK, USA, US, CDC, WHO, PhD, GCSE, KJV, ROI.
+- "the USA" and "the UK" take the article as nouns in narration, also inside a list: "in Britain, the USA and Canada". Bare forms only in labels and data shorthand ("UK 20, USA 16") (ch01, 2026-11-13).
 - Titles and contractions have no full stops in narration: Dr, Jr, St, Mr, Mrs (the Reverend Dr Martin Luther King Jr; St Thomas; St George's Methodist Church). Quotations keep theirs (ch01).
 
 ## Capitalisation

@@ -470,3 +470,16 @@ Author (2026-11-13): line ~91 opening 'our churches in Britain, USA and Canada, 
 group: A approve moves (10, 22, 25, 26, 28, 32), B cut (3, 4, 5, 7, 8, 9, 13, 14, 15, 18, 23, 
 27, 29, 30), C keep as now (1, 21, 31, 34, 35), D cut (2, 6, 11, 12, 16, 17, 19, 20, 24, 33, 
 36). Sent to copy-editor.
+
+### 2026-11-13 · copy-editor · revision · ch01
+Targeted revision for the author's decisions of 2026-11-13 (not a full copy edit). Line 91: 
+'our churches in Britain, the USA and Canada today' (author's words; 'the' added before USA per 
+house style, new consistency decision in Book Bible and style sheet; his comma before 'today' 
+not kept, reversible). Line 11: 'missionaries followed and, I believe, built schools, hospitals 
+and churches' (his view, rule 5; no page for Hastings 1994). Each has an author-decision 
+comment. Diff against the pre-edit copy: only those two lines changed. Cut list 37 of 37 
+decided: 26 cut (25 today plus row 37), 5 keep as now (1, 21, 31, 34, 35), 6 moved (10, 22 to 
+ch02; 25 to ch03; 32 to ch06; 26, 28 to ch11), listed with thesis lines in the Book Bible under 
+'Carried forward from ch01'. No chapter text changed for cut-list rows. Flags 0; 44 comments; 
+4,451 reader-facing words. Not committed. Open for the author: the read-aloud voice check only; 
+optional ', today' back on line 91.

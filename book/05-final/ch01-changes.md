@@ -1,4 +1,4 @@
-**Not final.** Flags in the text: UNVERIFIED 0, AUTHOR TO CONFIRM 0, AUTHOR STORY NEEDED 0, COPY EDIT 0, DEV EDIT 0, RESEARCH NEEDED 0. Cut list: 36 of 37 rows undecided (row 37 cut by the author 2026-11-13; `book/03-drafts/ch01-cut-list.md`). Pending the author's voice check (read aloud, as for ch00). The build will refuse this file while cut-list rows are undecided. (Updated 2026-11-13: the last [UNVERIFIED] flag, Williams 2007, settled by author decision; see "2026-11-13 Williams 2007 decision". Earlier the same day: nine [UNVERIFIED] flags settled, see "2026-11-13 flag decisions"; the 1807 Slave Bible author-confirmed, see "2026-11-13 author decisions".)
+**Not final: only the voice check remains.** Flags in the text: UNVERIFIED 0, AUTHOR TO CONFIRM 0, AUTHOR STORY NEEDED 0, COPY EDIT 0, DEV EDIT 0, RESEARCH NEEDED 0. Cut list: 37 of 37 rows decided (2026-11-13: 26 cut, 5 keep as now, 6 moved to ch02, ch03, ch06 and ch11; `book/03-drafts/ch01-cut-list.md`). Remaining: the author reads the chapter aloud for voice (as for ch00). (Updated 2026-11-13, see "2026-11-13 cut list and two lines". Earlier the same day: Williams 2007 settled, nine [UNVERIFIED] flags settled, the 1807 Slave Bible author-confirmed; see the dated sections below.)
 
 # Ch01 change log: A Faith Handed Down in Chains
 
@@ -156,3 +156,32 @@ Humanizer check (rule 11) on the changed sentence: no dashes, no curly quotes, n
 Counts after this revision: [UNVERIFIED] 0; all other flag types 0; HTML comments 42 (41 before, plus the author-decision comment). Reader-facing words: 4,446 (`wc -w` with comments removed; 4,435 before). Sources: 02-research/sources.md rows 1 (Williams 2007, Crossref) and 2 (NIMH summary). Open-claims 36 resolved.
 
 **What the author must still do to make ch01 final:** mark keep or cut on the 36 undecided cut-list rows (kept rows go back in and get a light copy edit); read the chapter aloud for voice. Optional points are on the ch01 card.
+
+## 2026-11-13 cut list and two lines
+
+Targeted revision by copy-editor, 2026-11-13, applying the author's decisions (recorded by the orchestrator in `book/memory/conversation-history.md`, 2026-11-13). Not a full copy edit. Only lines 11 and 91 changed (diff against a copy taken before editing: 2 lines changed, nothing else). No chapter text changed for any cut-list row.
+
+| # | Original | Revision | Why |
+|---|---|---|---|
+| 1 | Line 91: "The same double edge runs through our churches in Britain and Canada today." | "The same double edge runs through our churches in Britain, the USA and Canada today." followed by `<!-- author-decision 2026-11-13: Britain, the USA and Canada (author's words) -->` | Author's wording: "our churches in Britain, USA and Canada, today". Two adjustments, both house style. (a) "the" before USA: as a noun in narration "USA" takes the article, including in a list; every other use in ch00 and ch01 does, including the author's own sentence later in this paragraph ("in Britain and the USA"); new consistency decision below. (b) No comma before "today": the house comma rules (style sheet, Punctuation) allow commas between list items and before "and" joining clauses; a comma between the last item of a list and a closing adverb is not one of them, and here it would read as if the list ran on. The sentence had no comma there before. To restore his exact punctuation, put ", today" back; nothing else depends on it. Now matches his #10 sentence (Britain and the USA). |
+| 2 | Line 11: "Britain built plantations across the Caribbean and North America, and missionaries followed, building schools, hospitals and churches." | "Britain built plantations across the Caribbean and North America, and missionaries followed and, I believe, built schools, hospitals and churches." followed by `<!-- author-decision 2026-11-13: kept as the author's view (no page for Hastings 1994) -->` | Author: keep it as his view (config rule 5); thesis 3752-3754 content, cited there to Hastings 1994, no page. "I believe" covers only the building, not "missionaries followed", which the chapter supports elsewhere. "building" became "built" so the framing can sit between the two verbs without a comma pile-up ("building, I believe, schools, ..." read aloud as a list). Source triad kept. 3 words added. |
+
+**Humanizer check (rule 11) on both sentences:** no dashes, no curly quotes, no stock AI words, no new triad (schools, hospitals and churches is the source's), no run-up, no one-line closer, no not-X-but-Y. Line 11: "I believe" appears once in this paragraph and the next "I believe" is in section 2; it does not stack with another hedge (§9). Line 91: the paragraph now names the USA twice ("Britain, the USA and Canada", then "Britain and the USA"); both are the author's, so kept. "today" still occurs twice in the paragraph, as before.
+
+**Cut list (all 36 open rows decided; row 37 was already cut):**
+
+| Decision | Rows | Count |
+|---|---|---|
+| move to chNN (approved 2026-11-13) | 10 and 22 to ch02; 25 to ch03; 32 to ch06; 26 and 28 to ch11 | 6 |
+| cut (2026-11-13) | 2, 3, 4, 5, 6, 7, 8, 9, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 23, 24, 27, 29, 30, 33, 36 (plus 37, cut earlier) | 25 (+1) |
+| keep as now (2026-11-13) | 1, 21, 31, 34, 35 (the idea is already in the chapter in its current form; nothing goes back in) | 5 |
+
+The six moved rows are listed in `book/book-bible.md` under "Carried forward from ch01 (author-approved 2026-11-13)" with their thesis lines, so the ch02, ch03, ch06 and ch11 writers pick them up.
+
+## Consistency decision (2026-11-13; also in the Book Bible and `book/style-sheet.md`)
+
+12. **"the USA" as a noun in narration takes the article, also in a list:** "Britain, the USA and Canada". Bare "USA" only in labels and data shorthand ("UK 20, USA 16, Canada 14"). Source: all existing uses in 05-final ch00 and ch01; the config topic line.
+
+**Counts after this revision:** flags of every type 0. HTML comments 44 (42 before, plus the two author-decision comments). Reader-facing words 4,451 (`wc -w` with comments removed; 4,446 before).
+
+**What the author must still do to make ch01 final:** read the chapter aloud for voice. Optional points (unchanged): "Indigenous" or "indigenous"; "Mary" or "Prince" after first mention; "principles" back in the King paragraph if he prefers; ", today" restored on line 91 if he wants his own punctuation.
