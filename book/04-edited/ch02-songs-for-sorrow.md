@@ -111,3 +111,4 @@ Think of a song that has carried you: a hymn from childhood, a gospel song from 
 - Gladesmore paragraphs byte-identical to the draft. Changed around them: the lead-in sentence and the join after.
 - Flags in prose: 0 of every type. HTML comments: all kept (one moved with its sentence); two new dev-edit notes (the counterweight's added lines; the join after the story).
 - For the humanize pass: "I believe" recurs by design (config rule 5); the triads "upliftment, resilience and protest", "keep our culture, press for change and hold together" and "slavery, migration and lockdown" are the source's or carry three real items.
+- Humanize pass done 2026-11-14; see ch02-humanize-log.md (0 prose changes).

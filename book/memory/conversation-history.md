@@ -628,3 +628,20 @@ kept, 2 new). Words body 2,736 to 2,757, closer 375. No cut-list rows added (not
 For the fact checker: open-claims 47-52 still marked open though the author settled them 
 2026-11-14. Question for the author (optional): one clause on why Together Again belongs among 
 the songs.
+
+### 2026-11-14 · copy-editor · humanize · ch02
+Humanize pass on 04-edited/ch02-songs-for-sorrow.md (pre-pass copy 
+ch02-songs-for-sorrow.pre-humanize.md; log 04-edited/ch02-humanize-log.md). Result: 0 prose 
+changes; only the traceability line added to Notes for the editor. The dev edit had already 
+applied the humanizer. Every candidate traced to the thesis by line (source triads 2407-2408, 
+2425-2426, 2473, 2535-2538, 3785-3786, 1910-1912; Organisations 2478-2479; American singers 
+2511-2512; worldwide 2547-2548; flourished 2507; revolution 2592; powerful tool 2580-2581; 
+lively/enlivened 2504-2505), to an author decision, or to a dev-edit topic sentence kept on the 
+ch01 precedent. Byte-identical by md5: the universal-language paragraph, the Gladesmore 
+paragraphs, all 43 comments, all 51 quoted spans, the ch03 hook. Flags 0 of every type before 
+and after; I believe 6 in prose, unchanged; 102 straight quote marks; no lyric quoted. Words 
+body 2,757, closer 375, unchanged. Did not: rewrite the dev transitions (This is how the Exodus 
+became song; Further north the story was the same), name the book's question in the Marley 
+paragraph, or touch the closer bullets; all left for the copy edit (8-point list in the log). 
+No consistency decisions made. No commit. Open for the author (optional, from the dev memo): 
+why Together Again belongs among the songs.
