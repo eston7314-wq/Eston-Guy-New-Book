@@ -666,3 +666,25 @@ because it needs an email address. Not done: no web search, no publisher site, n
 any source checked, no wording changed, no commit. For the author: 'recorded' or another word 
 (row 54); optional, why Together Again; the courage sentence in section 4 is his view, not a 
 finding.
+
+### 2026-11-14 · copy-editor · copyedit · ch02
+Copy edit (Mode A) of 04-edited/ch02-songs-for-sorrow.md (unchanged) into 
+05-final/ch02-songs-for-sorrow.md; log 05-final/ch02-changes.md. 16 prose changes: repeated 
+words 6 (Canada 'as in the USA' -> 'too'; Marley 'calls' -> 'describes ... as'; 
+lively/'enlivened' -> 'stirred'; second '1957' dropped; 'American singers' -> 'Singers in the 
+USA'; clinician bullet 'Asking' dropped), consistency 5 (Afrobeats -> Afrobeat; multi-racial -> 
+multiracial; four hundred/twenty/twenty -> 400/20/20), clarity 3 ('America, the UK, Canada' -> 
+'the USA, ...'; rhythm and blues/rock and roll audiences recast; 'they help' -> 'this music 
+helps'), serial comma 1 (reflection), and the Marley paragraph now names the book's question in 
+the preface's own words ('whether faith can help to make a person whole in mind, and whether it 
+can sometimes do the opposite'). Notes for the editor moved word for word to the change log. 
+Byte-identical by script: universal-language paragraph, Gladesmore paragraphs and comment, all 
+43 comments (md5 163937e59095), every quoted span, (Exodus 5:1), ch03 hook, BeBe Winans 
+sentence with its flag. No lyric quoted. Humanizer check clean. Decisions recorded in 
+style-sheet.md and the Book Bible (Afrobeat; multi- compounds; music terms; named periods incl. 
+Covid-19; round numbers in figures; the USA in country lists; Music Director/Headteacher). 
+Words body 2,757 -> 2,778, closer 375 -> 374. Did not: touch the BeBe Winans sentence (its 
+'stage name' apposition left for the author with row 54), drop other closer labels, change 
+'drawn from ... the songs themselves', commit. Not final: 1 [UNVERIFIED] (row 54); voice check. 
+Optional for the author: Afrobeat vs Afrobeats (different genres); 'Liverpool Music festival' 
+capitals; 'Two of those churches' vs Spiritual Baptist; reverse any row in the log.

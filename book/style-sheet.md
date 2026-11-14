@@ -19,7 +19,7 @@ Started 2026-11-11 by copy-editor at ch00. Each line gives its source.
 - Quotation marks: double for quotations and scare quotes, single inside them. The files use straight marks, which are curled at typesetting (the build does not do this yet). Punctuation goes inside the closing mark only if it belongs to the quotation. The citation follows the closing mark. If the source sentence goes on after the quoted words, the full stop goes outside: "...pulled it down twice". (ch01 fact check row 65; source text checked).
 - No em or en dashes in prose (humanizer §8). Number ranges take a hyphen (Luke 8:43-48; 3,500-4,600).
 - Abbreviations have no full stops: UK, USA, US, CDC, WHO, PhD, GCSE, KJV, ROI.
-- "the USA" and "the UK" take the article as nouns in narration, also inside a list: "in Britain, the USA and Canada". Bare forms only in labels and data shorthand ("UK 20, USA 16") (ch01, 2026-11-13).
+- "the USA" and "the UK" take the article as nouns in narration, also inside a list: "in Britain, the USA and Canada". Bare forms only in labels and data shorthand ("UK 20, USA 16") (ch01, 2026-11-13). In a country list that also names Canada, write "the USA", not "America" (which can read as the continent); "America" stays where it stands alone (ch02).
 - Titles and contractions have no full stops in narration: Dr, Jr, St, Mr, Mrs (the Reverend Dr Martin Luther King Jr; St Thomas; St George's Methodist Church). Quotations keep theirs (ch01).
 
 ## Capitalisation
@@ -36,6 +36,9 @@ Started 2026-11-11 by copy-editor at ch00. Each line gives its source.
 - the civil rights movement is lowercase. Named Acts are capitalised: the Civil Rights Act, the Voting Rights Act, the Slavery Abolition Act (ch01).
 - Titles: books and their short forms in italics (*Narrative*, *History*, *The Wretched of the Earth*). Speeches, letters and articles in double quotation marks with title-case capitals ("I Have a Dream", "Letter from Birmingham Jail") (ch01).
 - Cross-references: chapter 4 (lowercase mid-sentence, no leading zero; never "chapter 04"); Part One to Part Four; Appendix A, Appendix B; the preface, the afterword.
+- Named periods and events are capitalised: the Great Migration, gospel's Golden Age, the Second World War (not World War II), the Windrush generation, the Covid-19 pandemic (Hart's form, not COVID-19) (ch02).
+- Song titles in double quotation marks with their own capitals ("Go Down, Moses", "Redemption Song", "Oh Happy Day"); a television or radio series in italics (*My Life, My Religion*). In-copyright lyrics are paraphrased outside quotation marks with the song named (author 2026-11-13) (ch02).
+- Music Director (a specific post) is capitalised. "the Headteacher" is capitalised where it names one person in the author's own story and the sentence joined to it; generic "headteacher" stays lowercase (ch02).
 
 ## Numbers and dates
 
@@ -48,6 +51,7 @@ Started 2026-11-11 by copy-editor at ch00. Each line gives its source.
 - Centuries in words, lowercase: the sixteenth century, early in the seventeenth century. Hyphenate before a noun: eighteenth-century missions. Decades in figures with no apostrophe: the 1830s. Not "the 1700s" for a century (ch01).
 - Phone numbers are written as the service writes them: 116 123; 988; 9-8-8.
 - Proposed, not yet used: "per cent" in running text, % in tables and figures.
+- Round numbers in narrative follow the same rule: "20 African men", "more than 400 years", "more than 20 years" (ch02, 2026-11-14).
 
 ## Scripture
 
@@ -71,3 +75,6 @@ Started 2026-11-11 by copy-editor at ch00. Each line gives its source.
 - health care (noun), health-care (before a noun). class leader (open, in narration). large-scale, all-powerful, non-violent, African-initiated before a noun (ch01).
 - Survey wording: "50 participants", "overall numbers" (config rule 10).
 - "the three strands" (awareness, knowledge, practice): defined in 00, referred to by name afterwards.
+- Afrobeat: one word, capital A, no hyphen, no s, throughout (thesis majority "Afro-beat", 2537, 2603; once "Afro-beats", 2524). **Pending the author:** "Afrobeats" names a different, newer genre; one global switch (ch02, 2026-11-14).
+- multiracial, multicultural (closed); multi-ethnic (hyphenated) (approved ch01 "multiracial"; ch02).
+- Music genres lowercase and open as nouns: gospel, blues, jazz, soul, calypso, reggae, soca, hip hop, rock and roll; "rhythm and blues" at first use, R&B after. work-songs (Book Bible key term) (ch02).
