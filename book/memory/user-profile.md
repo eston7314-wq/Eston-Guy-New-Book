@@ -85,3 +85,4 @@ infers goes under "Proposed" until the author confirms it.
 | 2026-11-14 | ch02 BeBe Winans: "has sung a new rendition of one that sings of Jesus forever the same" (settles open-claims 54) | 05-final/ch02 |
 | 2026-11-14 | ch02 courage sentence: "People singing together in a group or congregation can find a courage or strength that each might not experience alone." | 05-final/ch02 |
 | 2026-11-14 | "Afrobeat" (confirmed); "Liverpool Music Festival" with a capital F | 05-final/ch02; style-sheet |
+| 2026-11-14 | ch02 approved after the read-aloud voice check: "It sounds like me." | ch02 card; book-bible status; approved-documents.md |

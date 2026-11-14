@@ -713,3 +713,10 @@ Comments now 46. Flags 0 of every type. Words: body 2,778 -> 2,819, closer 374. 
 status updated: only the voice check remains. Card and Book Bible status updated. No commit. 
 Optional for the author: 'sufferings' or 'suffering'; 'Two of those churches' (Spiritual 
 Baptist); the 'stage name' apposition.
+
+### 2026-11-14 · book-orchestrator · archive · ch02
+Author approved ch02 after the read-aloud voice check (2026-11-14): 'It sounds like me.' Marked 
+final and approved in the card, Book Bible status and change log. Uploaded to Drive 'Approved 
+Documents' as a Google Doc (HTML comments stripped), content read back and checked: 
+https://docs.google.com/document/d/14EIk_8Sd07n-kO9-GhW2CGlpdE207ljfx7H1bswBs2Y/edit. Register 
+updated.

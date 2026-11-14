@@ -1,4 +1,4 @@
-**Not final (voice check only)**: flags in the text 0 of every type (UNVERIFIED 0, AUTHOR TO CONFIRM 0, AUTHOR STORY NEEDED 0, COPY EDIT 0, DEV EDIT 0, RESEARCH NEEDED 0) after the author's decisions of 2026-11-14 (see "2026-11-14 author decisions" at the end). Cut list: 7 of 7 rows decided (5 cut, 2 keep; `book/03-drafts/ch02-cut-list.md`). Remaining: the author reads the chapter aloud for voice. (Updated 2026-11-14. Before the decisions: UNVERIFIED 1, BeBe Winans "recorded", open-claims 54.)
+**Final, APPROVED by the author 2026-11-14** (voice check: "It sounds like me."): flags in the text 0 of every type (UNVERIFIED 0, AUTHOR TO CONFIRM 0, AUTHOR STORY NEEDED 0, COPY EDIT 0, DEV EDIT 0, RESEARCH NEEDED 0) after the author's decisions of 2026-11-14 (see "2026-11-14 author decisions" at the end). Cut list: 7 of 7 rows decided (5 cut, 2 keep; `book/03-drafts/ch02-cut-list.md`). Remaining: the author reads the chapter aloud for voice. (Updated 2026-11-14. Before the decisions: UNVERIFIED 1, BeBe Winans "recorded", open-claims 54.)
 
 # Ch02 change log: Songs for Sorrow
 
