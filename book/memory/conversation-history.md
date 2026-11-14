@@ -580,3 +580,13 @@ change nothing else): the editor notes still list the Together Again paraphrase 
 Author (2026-11-14): describe the BeBe Winans song without a title (removes the last flag); 
 keep cut-list row 7, putting his roles sentence back in the story, including 'Head of Pastoral 
 Care'.
+
+### 2026-11-14 · chapter-writer · revision · ch02
+Two author decisions of 2026-11-14 applied to 03-drafts/ch02-songs-for-sorrow.md (copy taken 
+and diffed). (1) BeBe Winans's song described without a title: [UNVERIFIED: song title] 
+removed, author-decision comment added; the sentence already paraphrased the thesis fragment, 
+wording unchanged. (2) Cut-list row 7 keep: his roles sentence restored verbatim after the 
+class of 2004 sentence, before 'My faith helped me...'. Editor notes: Together Again weakest 
+spot removed, flag counts now 0 of every type, cut list all decided (5 cut, 2 keep). 
+Reader-facing words: body 2,675, closer 375. Card (no questions left) and Book Bible status 
+updated.
