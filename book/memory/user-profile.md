@@ -87,3 +87,4 @@ infers goes under "Proposed" until the author confirms it.
 | 2026-11-14 | "Afrobeat" (confirmed); "Liverpool Music Festival" with a capital F | 05-final/ch02; style-sheet |
 | 2026-11-14 | ch02 approved after the read-aloud voice check: "It sounds like me." | ch02 card; book-bible status; approved-documents.md |
 | 2026-11-14 | ch02 family sentence (after approval): "some hymns of four of these churches, Moravian, Anglican, Pentecostal and later Spiritual Baptists ..." run through his family story; ch01 wording unchanged | 05-final/ch02 |
+| 2026-11-14 | ch02 family sentence, final: "Four of the churches, the Moravian, Anglican, Pentecostal and later the Spiritual Baptist, run through my family's story, which I told in chapter 1." | 05-final/ch02 |

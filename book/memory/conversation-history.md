@@ -740,3 +740,11 @@ Flags 0; comments 47; body 2,825. Logged in ch02-changes.md and the ch02 card. N
 Drive sync after the four-churches revision: new Google Doc 
 https://docs.google.com/document/d/1qpR0joYSO17zEcZ4IPcqsD5cz41uwTC50-R09c5SbH4/edit (content 
 checked); previous copy renamed 'SUPERSEDED - ...'; register updated.
+
+### 2026-11-14 · copy-editor · revision · ch02
+One-sentence revision to approved ch02 (author decision 2026-11-14): line 45 family sentence 
+now opens "Four of the churches, the Moravian, Anglican, Pentecostal and later the Spiritual 
+Baptist, ..." (was "Some hymns of four of these churches ..."); its comment now reads "(after 
+approval, revised)". Backup diffed: only line 45 changed. Flags 0, comments 47, body 2,822. 
+Logged as row 2 of ch02-changes.md "2026-11-14 revision after approval"; context card updated. 
+Not committed.
