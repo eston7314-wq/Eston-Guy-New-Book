@@ -567,3 +567,11 @@ the researcher/orchestrator); copy-edit the story. Flags now 1 [UNVERIFIED] (BeB
 title). Reader-facing words: body 2,635, closer 375. Open for the author: Winans title; row 7; 
 whether the story belongs in ch02 or ch05 (it is about prayer, not song); the 'Together Again' 
 paraphrase follows only the thesis fragment because his chorus lyric did not reach the writer.
+
+### 2026-11-14 · chapter-writer · revision · ch02
+Fix from the orchestrator: replaced the one 'Together Again' sentence in 
+03-drafts/ch02-songs-for-sorrow.md (line 69) with a paraphrase of the chorus the author 
+supplied 2026-11-14 (no lyric quoted; the song is not said to name Jesus), with an 
+author-confirmed comment. Diffed against a copy: only line 69 changed. Not changed (told to 
+change nothing else): the editor notes still list the Together Again paraphrase as weakest spot 
+(2), now out of date. Card updated.
