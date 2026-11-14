@@ -534,3 +534,10 @@ Book Bible: ch02 draft status and 'Ch02 draft additions' block; ch02 card update
 committed. Questions for the author: story; 2430-2431; which spiritual; song titles and Willie 
 Nelson; Elevation Worship; Tharpe in Liverpool; choir name and leader; cut-list rows; whether 
 to accept the shorter length or add author material.
+
+### 2026-11-14 · book-orchestrator · source · book
+Author gave a story (2026-11-14), saved verbatim at 
+book/memory/author-stories/2026-11-14-gladesmore-prayer.md: as Head of Year he prayed for his 
+students, who achieved Gladesmore Community School's best SATs results in 2002; the class of 
+2004's best GCSEs; Headteacher Hartney's yearbook line. It is about prayer, not song, and 
+overlaps the Preface; placement to be agreed with the author.
