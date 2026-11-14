@@ -590,3 +590,20 @@ class of 2004 sentence, before 'My faith helped me...'. Editor notes: Together A
 spot removed, flag counts now 0 of every type, cut list all decided (5 cut, 2 keep). 
 Reader-facing words: body 2,675, closer 375. Card (no questions left) and Book Bible status 
 updated.
+
+### 2026-11-14 · story-injector · story · ch02
+Story pass on 03-drafts/ch02-songs-for-sorrow.md (pre-pass copy 
+ch02-songs-for-sorrow.pre-story.md). Opening: ch01's last line kept first; the plantation hymns 
+(thesis 2456-2462, 3781-3786) moved up from section 1 so a real scene hooks by sentence three 
+and the question (what the singing did for the mind) lands at sentence four; universal-language 
+paragraph and framing untouched. Section 1 and the Go Down, Moses paragraph trimmed of the 
+repeated hymn-blending sentence. Tharpe in Britain made its own paragraph (author's dates 
+first, thesis Liverpool claim after, 'first great recording artist' called back). Liverpool 
+Lighthouse choir reordered to lead with its lockdown founding and Anu Omideyi; 'Liverpool gives 
+one example' dropped. Gladesmore paragraphs byte-identical (checked by cmp and sha256); only 
+the lead-in and one joining sentence before the ch03 bridge changed. All illustrations real 
+(thesis or author); 0 composites; nothing invented; every HTML comment kept (37 original, 4 
+story-pass notes added). Flags 0 of every type. Words body 2,675 to 2,736 (+2.3%), closer 375 
+unchanged. Cut list unchanged (nothing distinct removed). Not done: no lyric or spiritual words 
+quoted beyond the draft; no commit. Open for the author: whether the prayer story stays in ch02 
+or moves to ch05.
