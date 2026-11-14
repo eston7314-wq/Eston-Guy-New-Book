@@ -79,3 +79,5 @@ infers goes under "Proposed" until the author confirms it.
 | 2026-11-14 | ch02: keep Elevation Worship, described as an American contemporary worship music group | ch02 |
 | 2026-11-14 | ch02 owns thesis lines 2402-2427 (gospel section introduction; leads into ch03) | ch02; source/README.md |
 | 2026-11-14 | ch02 cut list: rows 1, 2, 4, 5 cut; row 3 (Elevation Worship) kept | 03-drafts/ch02-cut-list.md |
+| 2026-11-14 | ch02: describe the BeBe Winans song without a title | ch02 |
+| 2026-11-14 | ch02 cut-list row 7: keep; his roles sentence goes back in, including "Head of Pastoral Care" | ch02 |

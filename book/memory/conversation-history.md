@@ -575,3 +575,8 @@ supplied 2026-11-14 (no lyric quoted; the song is not said to name Jesus), with 
 author-confirmed comment. Diffed against a copy: only line 69 changed. Not changed (told to 
 change nothing else): the editor notes still list the Together Again paraphrase as weakest spot 
 (2), now out of date. Card updated.
+
+### 2026-11-14 · book-orchestrator · decision · ch02
+Author (2026-11-14): describe the BeBe Winans song without a title (removes the last flag); 
+keep cut-list row 7, putting his roles sentence back in the story, including 'Head of Pastoral 
+Care'.
