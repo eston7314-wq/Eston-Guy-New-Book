@@ -70,3 +70,12 @@ infers goes under "Proposed" until the author confirms it.
 | 2026-11-13 | ch01 cut list (orchestrator's groups): A approve moves (rows 10, 22, 25, 26, 28, 32); B cut (3, 4, 5, 7, 8, 9, 13, 14, 15, 18, 23, 27, 29, 30); C keep as now (1, 21, 31, 34, 35); D cut (2, 6, 11, 12, 16, 17, 19, 20, 24, 33, 36). Row 37 already cut | 03-drafts/ch01-cut-list.md |
 | 2026-11-13 | ch01 approved after the read-aloud voice check: "It sounds like me; Approved" | ch01 card; book-bible status; approved-documents.md |
 | 2026-11-13 | Song lyrics still in copyright (e.g. "Redemption Song", "Oh Happy Day", the BeBe Winans line) are paraphrased and the song named, not quoted; public-domain spirituals may be quoted | ch02 card; book-bible |
+| 2026-11-14 | ch02 story: use the Gladesmore story (class of 2004, prayer, SATs 2002, yearbook line) in ch02 "to stress my faith and belief"; saved verbatim in memory/author-stories/2026-11-14-gladesmore-prayer.md | ch02 |
+| 2026-11-14 | ch02 opening sentence ("Music expresses what cannot be put into words...") is "paraphrased in part, from someone who I cannot remember" | ch02 |
+| 2026-11-14 | ch02: name the spiritual "Go Down, Moses" for the Exodus promise | ch02 |
+| 2026-11-14 | ch02 songs: "Jesus you taught me how to smile" is by Sister Rosetta Tharpe; the "every smile" song is Janet Jackson's "Together Again" (lyric to be paraphrased, author rule 2026-11-13); cut Willie Nelson; stage name is "BeBe Winans" (Benjamin Winans) | ch02 |
+| 2026-11-14 | ch02 Tharpe in Britain (author, from his own Google search): first toured Great Britain late 1957; London Palladium 15 December 1957; also Wolverhampton and Bradford; the Cavern Club, Liverpool, late 1950s; Liverpool Philharmonic Hall 1 May 1964 on the Blues and Gospel Caravan tour with Muddy Waters, Sonny Terry and Brownie McGhee | ch02 |
+| 2026-11-14 | ch02 Liverpool choir (author): Anu Omideyi, a criminal barrister in London from 2001, moved in 2015 to music full-time and performance; Music Director at the Liverpool Lighthouse in North Liverpool, where she leads the gospel choirs; directs the Liverpool Music festival; helping develop a national gospel music centre | ch02 |
+| 2026-11-14 | ch02: keep Elevation Worship, described as an American contemporary worship music group | ch02 |
+| 2026-11-14 | ch02 owns thesis lines 2402-2427 (gospel section introduction; leads into ch03) | ch02; source/README.md |
+| 2026-11-14 | ch02 cut list: rows 1, 2, 4, 5 cut; row 3 (Elevation Worship) kept | 03-drafts/ch02-cut-list.md |

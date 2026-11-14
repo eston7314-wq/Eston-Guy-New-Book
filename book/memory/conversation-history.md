@@ -541,3 +541,11 @@ book/memory/author-stories/2026-11-14-gladesmore-prayer.md: as Head of Year he p
 students, who achieved Gladesmore Community School's best SATs results in 2002; the class of 
 2004's best GCSEs; Headteacher Hartney's yearbook line. It is about prayer, not song, and 
 overlaps the Preface; placement to be agreed with the author.
+
+### 2026-11-14 · book-orchestrator · decision · ch02
+Author (2026-11-14) answered all ch02 questions: Gladesmore class-of-2004 story goes in ch02 to 
+stress his faith; opening sentence is his partial paraphrase of someone he cannot remember; 
+name 'Go Down, Moses'; Tharpe 'smile' song; Janet Jackson 'Together Again' (paraphrase); cut 
+Willie Nelson; 'BeBe Winans'; Tharpe's British tours and Liverpool dates (his own search); Anu 
+Omideyi and the Liverpool Lighthouse; keep Elevation Worship as an American group; ch02 owns 
+2402-2427; cut rows 1, 2, 4, 5, keep row 3. Sent to chapter-writer for a revision of the draft.
