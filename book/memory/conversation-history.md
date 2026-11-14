@@ -549,3 +549,21 @@ name 'Go Down, Moses'; Tharpe 'smile' song; Janet Jackson 'Together Again' (para
 Willie Nelson; 'BeBe Winans'; Tharpe's British tours and Liverpool dates (his own search); Anu 
 Omideyi and the Liverpool Lighthouse; keep Elevation Worship as an American group; ch02 owns 
 2402-2427; cut rows 1, 2, 4, 5, keep row 3. Sent to chapter-writer for a revision of the draft.
+
+### 2026-11-14 · chapter-writer · revision · ch02
+Applied the author's answers of 2026-11-14 to 03-drafts/ch02-songs-for-sorrow.md (pre-revision 
+copy ch02-songs-for-sorrow.pre-author.md). Opening framed as his partial paraphrase of someone 
+he cannot remember, no source named. 'Go Down, Moses' named for the Exodus promise, not quoted 
+(its words are not in the thesis, ch01 or the pack). Tharpe's British dates (author's search) 
+and Anu Omideyi (author) added with author-confirmed comments; the choir is described, not 
+given a proper name. Elevation Worship back in as an American contemporary worship music group 
+(row 3 keep). Tharpe 'smile' song and Janet Jackson 'Together Again' credited and paraphrased; 
+Willie Nelson cut (row 6); 'BeBe Winans'. Gladesmore story placed in the last section after the 
+1910-1912 sentence (hymns, prayers and gospel music strengthen belief), in his words with only 
+the two typos corrected; his roles sentence left out as a Preface repeat and listed as cut-list 
+row 7 for his decision. Last H2 retitled 'Old hymns and prayers still hold our people up'. Did 
+not: quote any lyric or spiritual; resolve open-claims rows 47-52 in open-claims.md (left to 
+the researcher/orchestrator); copy-edit the story. Flags now 1 [UNVERIFIED] (BeBe Winans song 
+title). Reader-facing words: body 2,635, closer 375. Open for the author: Winans title; row 7; 
+whether the story belongs in ch02 or ch05 (it is about prayer, not song); the 'Together Again' 
+paraphrase follows only the thesis fragment because his chorus lyric did not reach the writer.

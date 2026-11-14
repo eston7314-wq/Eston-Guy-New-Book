@@ -23,3 +23,5 @@ Stub. State the source and date of anything you add. Undated entries are untrust
 - Ends paragraphs on a "thereby" or "thus" clause naming the benefit ("thereby promoting mental health", "thereby spreading joy and inspiration"). The draft turns most into "I believe ..." sentences (config rule 5).
 - Stacked verbs in threes and fours: "reinforce, publicise and strengthen their beliefs while rejuvenating their spirit" (1910-1912). Kept verbatim once.
 - "when their days were dark and dreary" (2466): his image, kept.
+
+- (chapter-writer, 2026-11-14, from his Gladesmore story, memory/author-stories/2026-11-14-gladesmore-prayer.md) In testimony he writes long, formal sentences that list everyone who helped ("the teaching staff, their voluntary Academic Mentors, the school's ancillary staff, the support of their parents and the leadership of..."), opens with "Furthermore", gives God thanks before results, and ends on a short credo ("Like others, I believed in God's rewards."). Keep those endings; do not smooth his lists.
