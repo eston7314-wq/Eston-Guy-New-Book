@@ -115,3 +115,15 @@ Targeted revision by copy-editor, 2026-11-14, applying the author's decisions (r
 
 **What the author must still do to make ch02 final:** read the chapter aloud for voice. Optional points that are still open: "sufferings" or "suffering"; "Two of those churches" or "Three" (Spiritual Baptist); the "stage name" apposition; dropping the label "Pass the songs down."; reversing any row above.
 
+
+## 2026-11-14 revision after approval
+
+One-sentence revision by copy-editor, 2026-11-14, after the author approved ch02. Reason: author decision (2026-11-14, relayed by the orchestrator; user-profile row "ch02 family sentence (after approval)"). The final file was copied to the scratchpad before editing and diffed after: only line 45 changed, and within it only this sentence and its new comment. The sentence before it ("Hymns from Pentecostal, Moravian and Baptist churches are sung to Afrobeat ...", thesis 2535-2539), the existing note comment after it and the rest of the chapter are byte-identical.
+
+| # | Line | Original | Revision | Why |
+|---|---|---|---|---|
+| 1 | 45 | "Two of those churches, the Moravian and the Pentecostal, run through my own family's story, which I told in chapter 1." | "Some hymns of four of these churches, the Moravian, Anglican, Pentecostal and later the Spiritual Baptist, run through my family's story, which I told in chapter 1.<!-- author's words 2026-11-14 (after approval); ch01 wording left unchanged by his decision -->" | Author decision. His words were "Moravian, Anglican, Pentecostal and later Spiritual Baptists"; house style needed only the article and singular to match "the Moravian" ("the Spiritual Baptist"), no serial comma (config rule 4), British spelling (no change needed). No comma was added around "later". Family history is his testimony (CLAUDE.md fact-checking rule 3); not flagged. ch01 is left unchanged by his decision. |
+
+**Counts after this revision:** flags of every type 0. HTML comments 47 (46 plus 1). Reader-facing words: body 2,825 (2,819 + 6), closer 374, total 3,199. The optional question "Two of those churches or three (Spiritual Baptist)" is settled by this revision.
+
+**For his ear (optional, not a flag):** "these churches" points back to the previous sentence, which names Pentecostal, Moravian and Baptist churches but not Anglican. Left as he wrote it.

@@ -720,3 +720,18 @@ final and approved in the card, Book Bible status and change log. Uploaded to Dr
 Documents' as a Google Doc (HTML comments stripped), content read back and checked: 
 https://docs.google.com/document/d/14EIk_8Sd07n-kO9-GhW2CGlpdE207ljfx7H1bswBs2Y/edit. Register 
 updated.
+
+### 2026-11-14 · book-orchestrator · decision · ch02
+Author (2026-11-14, after approval): change the ch02 family sentence ('Two of those churches, 
+the Moravian and the Pentecostal, run through my own family's story') to name four churches: 
+some hymns of the Moravian, Anglican, Pentecostal and later Spiritual Baptist churches. Leave 
+ch01 unchanged. Approved file revised; Drive copy to be replaced and the old one marked 
+SUPERSEDED.
+
+### 2026-11-14 · copy-editor · revision · ch02
+One-sentence revision to approved ch02 (author decision 2026-11-14). Line 45: 'Two of those 
+churches, the Moravian and the Pentecostal, run through my own family's story...' replaced with 
+'Some hymns of four of these churches, the Moravian, Anglican, Pentecostal and later the 
+Spiritual Baptist, run through my family's story, which I told in chapter 1.' plus an 
+author's-words comment. Pre/post diff: only that sentence and comment changed. ch01 unchanged. 
+Flags 0; comments 47; body 2,825. Logged in ch02-changes.md and the ch02 card. Not committed.
