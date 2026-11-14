@@ -748,3 +748,8 @@ Baptist, ..." (was "Some hymns of four of these churches ..."); its comment now 
 approval, revised)". Backup diffed: only line 45 changed. Flags 0, comments 47, body 2,822. 
 Logged as row 2 of ch02-changes.md "2026-11-14 revision after approval"; context card updated. 
 Not committed.
+
+### 2026-11-14 · book-orchestrator · archive · ch02
+Drive sync: 'Four of the churches...' version uploaded 
+https://docs.google.com/document/d/1dICR04zgAnEpHUXcmmkb1DGMPtuFSBdpXk3t7oP4lok/edit; previous 
+copy renamed SUPERSEDED; register updated.

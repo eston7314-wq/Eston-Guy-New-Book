@@ -22,7 +22,7 @@ and upload a copy to that Drive folder. Documents still awaiting a decision are 
 | 2026-11-10 | Blueprint v2 (11 chapters), approved for drafting | book/01-outline/blueprint-v2.md | https://docs.google.com/document/d/1zF459h0hH1btmADTUWVeHQIZvnE-YtjiSoTinquJfCA/edit | Author: "make 11 chapters" and "write this book" |
 | 2026-11-11 | Preface: Felt Before It Is Understood (ch00 final) | book/05-final/ch00-preface.md | https://docs.google.com/document/d/1x4bJhR0TiGZnHiMH0ACIPY68D0Cf17TPtK9kxA_n6GI/edit (current; older copies renamed SUPERSEDED) | Author voice check: "sounds like me" |
 | 2026-11-13 | Chapter 1: A Faith Handed Down in Chains (ch01 final) | book/05-final/ch01-a-faith-handed-down-in-chains.md | https://docs.google.com/document/d/1xb4JHVfM3lEYZS3epou94-pMdMSNHcagtM58QfR9xFQ/edit | Author voice check: "It sounds like me; Approved" |
-| 2026-11-14 | Chapter 2: Songs for Sorrow (ch02 final) | book/05-final/ch02-songs-for-sorrow.md | https://docs.google.com/document/d/1qpR0joYSO17zEcZ4IPcqsD5cz41uwTC50-R09c5SbH4/edit (current, revised 2026-11-14 for the four-churches sentence; older copy renamed SUPERSEDED) | Author voice check: "It sounds like me." |
+| 2026-11-14 | Chapter 2: Songs for Sorrow (ch02 final) | book/05-final/ch02-songs-for-sorrow.md | https://docs.google.com/document/d/1dICR04zgAnEpHUXcmmkb1DGMPtuFSBdpXk3t7oP4lok/edit (current, revised 2026-11-14: "Four of the churches..."; older copies renamed SUPERSEDED) | Author voice check: "It sounds like me." |
 
 ## Awaiting the author's decision (not uploaded)
 
