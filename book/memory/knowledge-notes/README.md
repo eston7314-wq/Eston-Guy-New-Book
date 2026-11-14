@@ -7,7 +7,7 @@ states its source and date. Add a row when you add a note.
 |---|---|---|
 | `source-map.md` | Where each chapter's raw text lives; findings and consent gaps (corrected 2026-11-10: charts recovered); citations missing from the bibliography; factual slips; best spine per chapter; ch02 bibliography problems | 2026-11-07, 2026-11-10, 2026-11-13 |
 | `authors-voice.md` | Observed patterns in the author's prose, for writers and editors | 2026-11-10 |
-| `terms-glossary.md` | Verified glosses of the book's key terms (WHO and CDC mental health, Wittgenstein meaning-as-use, Luke 8:48; ch01: invisible institution, Great Commission, Slave Bible, Black/liberation theology, Moravians, historical trauma); network note, incl. the GITenberg route to public-domain texts; which of the four lookup services work (ch02) | 2026-11-10, 2026-11-11, 2026-11-13 |
+| `terms-glossary.md` | Verified glosses of the book's key terms (WHO and CDC mental health, Wittgenstein meaning-as-use, Luke 8:48; ch01: invisible institution, Great Commission, Slave Bible, Black/liberation theology, Moravians, historical trauma); network note, incl. the GITenberg route to public-domain texts; which of the four lookup services work (ch02; updated 2026-11-14: all four reachable, OpenAlex rate-limited) | 2026-11-10, 2026-11-11, 2026-11-13, 2026-11-14 |
 | `kdp-rules.md` | Current, dated Amazon KDP rules that affect this book; the launch strategist fills it | |
 | `comparable-titles.md` | Verified comparable titles, title collisions, category observations (for book-marketer); lead-title re-check | 2026-11-07, 2026-11-10 |
 - `approved-documents.md`: register of author-approved documents and their Google Drive copies; standing rule to upload each newly approved document.

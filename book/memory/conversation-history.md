@@ -645,3 +645,24 @@ became song; Further north the story was the same), name the book's question in 
 paragraph, or touch the closer bullets; all left for the copy edit (8-point list in the log). 
 No consistency decisions made. No commit. Open for the author (optional, from the dev memo): 
 why Together Again belongs among the songs.
+
+### 2026-11-14 · book-researcher · factcheck · ch02
+Fact check of 04-edited/ch02-songs-for-sorrow.md under the author's 2026-11-11 rules; report 
+02-research/ch02-factcheck.md. 86 claims: thesis 59, existence confirmed 2 (studies exist, 
+sources.md 6-12; Franklin spelling, sources.md 17), author-confirmed 10 (2026-11-14 items: 
+Tharpe's British dates, Anu Omideyi, Elevation Worship as American, Together Again, BeBe 
+Winans, the opening paraphrase; also Go Down, Moses and the Tharpe smile song), author 
+testimony 5 (Gladesmore story, checked byte-for-byte against the saved story, and the family 
+line), unverified 1; plus 4 ch01 cross-references and 5 framed views, all consistent. 0 
+corrections. 1 flag inserted: BeBe Winans 'has recorded' a new version (thesis 2511-2513 says 
+only 'rendition'; open-claims 54). No in-copyright lyric quoted (all quoted spans listed by 
+script); '(Exodus 5:1)' carries no translation tag. Open-claims 46-52 marked resolved by the 
+author's 2026-11-14 decisions; 53 resolved for ch02 (cut-list row 5) with Open Library results 
+added (Darden 2004, Koskoff ed. 2001, Phillips and Phillips 1998, Harris 1992, New Grove 1986 
+confirmed; Kearney 2022 not found). sources.md: rows 3, 5, 14, 15 updated with Open Library 
+years; rows 18-20 added. Services: Crossref, doi.org and Open Library worked; OpenAlex worked 
+for three calls, then hit its shared no-key daily limit (HTTP 429); no API key requested 
+because it needs an email address. Not done: no web search, no publisher site, no content of 
+any source checked, no wording changed, no commit. For the author: 'recorded' or another word 
+(row 54); optional, why Together Again; the courage sentence in section 4 is his view, not a 
+finding.
