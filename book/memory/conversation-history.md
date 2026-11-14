@@ -735,3 +735,8 @@ churches, the Moravian and the Pentecostal, run through my own family's story...
 Spiritual Baptist, run through my family's story, which I told in chapter 1.' plus an 
 author's-words comment. Pre/post diff: only that sentence and comment changed. ch01 unchanged. 
 Flags 0; comments 47; body 2,825. Logged in ch02-changes.md and the ch02 card. Not committed.
+
+### 2026-11-14 · book-orchestrator · archive · ch02
+Drive sync after the four-churches revision: new Google Doc 
+https://docs.google.com/document/d/1qpR0joYSO17zEcZ4IPcqsD5cz41uwTC50-R09c5SbH4/edit (content 
+checked); previous copy renamed 'SUPERSEDED - ...'; register updated.
