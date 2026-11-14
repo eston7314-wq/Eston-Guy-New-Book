@@ -38,6 +38,7 @@ Started 2026-11-11 by copy-editor at ch00. Each line gives its source.
 - Cross-references: chapter 4 (lowercase mid-sentence, no leading zero; never "chapter 04"); Part One to Part Four; Appendix A, Appendix B; the preface, the afterword.
 - Named periods and events are capitalised: the Great Migration, gospel's Golden Age, the Second World War (not World War II), the Windrush generation, the Covid-19 pandemic (Hart's form, not COVID-19) (ch02).
 - Song titles in double quotation marks with their own capitals ("Go Down, Moses", "Redemption Song", "Oh Happy Day"); a television or radio series in italics (*My Life, My Religion*). In-copyright lyrics are paraphrased outside quotation marks with the song named (author 2026-11-13) (ch02).
+- Named festivals and events take capitals on every word of the name: the Liverpool Music Festival (author 2026-11-14, ch02).
 - Music Director (a specific post) is capitalised. "the Headteacher" is capitalised where it names one person in the author's own story and the sentence joined to it; generic "headteacher" stays lowercase (ch02).
 
 ## Numbers and dates
@@ -75,6 +76,6 @@ Started 2026-11-11 by copy-editor at ch00. Each line gives its source.
 - health care (noun), health-care (before a noun). class leader (open, in narration). large-scale, all-powerful, non-violent, African-initiated before a noun (ch01).
 - Survey wording: "50 participants", "overall numbers" (config rule 10).
 - "the three strands" (awareness, knowledge, practice): defined in 00, referred to by name afterwards.
-- Afrobeat: one word, capital A, no hyphen, no s, throughout (thesis majority "Afro-beat", 2537, 2603; once "Afro-beats", 2524). **Pending the author:** "Afrobeats" names a different, newer genre; one global switch (ch02, 2026-11-14).
+- Afrobeat: one word, capital A, no hyphen, no s, throughout (thesis majority "Afro-beat", 2537, 2603; once "Afro-beats", 2524). **Confirmed by the author 2026-11-14.**
 - multiracial, multicultural (closed); multi-ethnic (hyphenated) (approved ch01 "multiracial"; ch02).
 - Music genres lowercase and open as nouns: gospel, blues, jazz, soul, calypso, reggae, soca, hip hop, rock and roll; "rhythm and blues" at first use, R&B after. work-songs (Book Bible key term) (ch02).

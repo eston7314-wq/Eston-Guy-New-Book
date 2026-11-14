@@ -693,3 +693,23 @@ capitals; 'Two of those churches' vs Spiritual Baptist; reverse any row in the l
 Author (2026-11-14): Together Again rationale in his words; BeBe Winans 'has sung a new 
 rendition' (open-claims 54 settled); courage sentence reworded in his words; Afrobeat 
 confirmed; 'Liverpool Music Festival'. Sent to copy-editor. Voice check still to come.
+
+### 2026-11-14 · copy-editor · revision · ch02
+Author decisions of 2026-11-14 (relayed by the orchestrator) applied to 
+05-final/ch02-songs-for-sorrow.md only. I copied the file first and diffed after: lines 43, 55, 
+65 and 69 changed, nothing else. (1) After the Janet Jackson sentence, added his words: 
+'Although the pop song "Together Again" does not mention Jesus, Christians believe that God's 
+power works through Jesus, who triumphed over evil and sufferings to bring hope and deliverance 
+to the faithful. This song helps to strengthen one's faith.' I kept his 'sufferings' and added 
+an author's-words comment. (2) BeBe Winans 'has recorded a new version' became 'has sung a new 
+rendition'. The [UNVERIFIED] flag is removed, an author-decision comment is added and 
+open-claims 54 is resolved. (3) The courage sentence is replaced by his: 'People singing 
+together in a group or congregation can find a courage or strength that each might not 
+experience alone.' I added an author's-words comment. (4) 'Afrobeat' is confirmed, so 
+style-sheet.md and the Book Bible are updated. (5) The festival is now the Liverpool Music 
+Festival, recorded as a style rule. Byte-identical: the Gladesmore paragraphs, the 
+universal-language paragraph, the hook, every quotation, and all 43 prior comments in order. 
+Comments now 46. Flags 0 of every type. Words: body 2,778 -> 2,819, closer 374. Change log 
+status updated: only the voice check remains. Card and Book Bible status updated. No commit. 
+Optional for the author: 'sufferings' or 'suffering'; 'Two of those churches' (Spiritual 
+Baptist); the 'stage name' apposition.
