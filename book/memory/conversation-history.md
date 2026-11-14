@@ -607,3 +607,24 @@ story-pass notes added). Flags 0 of every type. Words body 2,675 to 2,736 (+2.3%
 unchanged. Cut list unchanged (nothing distinct removed). Not done: no lyric or spiritual words 
 quoted beyond the draft; no commit. Open for the author: whether the prayer story stays in ch02 
 or moves to ch05.
+
+### 2026-11-14 · developmental-editor · devedit · ch02
+Dev edit of 03-drafts/ch02-songs-for-sorrow.md into 04-edited/ch02-songs-for-sorrow.md; memo 
+04-edited/ch02-edit-memo.md. Verdict: ready for humanize and fact check. What was wrong: the 
+strongest counter-evidence was half met (forced hymns used, but not thesis 3966-3970, 
+Christianity as a tool of control); section 1 put Canada between the spirituals and 'This is 
+how the Exodus became song'; the purpose triad and the 'nothing measured' disclaimer repeated. 
+Done: section 1 reordered (spirituals, Exodus and Go Down, Moses, Canada, counterweight); 
+counterweight now meets the pacifier objection through Go Down, Moses as the author's reading, 
+referring back to ch01; duplicate disclaimer paragraph at the end of section 4 cut, its studies 
+sentence moved to the opening; 'the law called property' (ch01's image) and 'the songs say so 
+in their own words' removed; smaller logic fixes (It/That blend; 'I start from the church'; 
+Moreover; Marley paragraphs joined); songs paragraph now rests the Jesus claim on the two songs 
+that name him. Gladesmore paragraphs byte-identical and in ch02 (author decision 2026-11-14); 
+only the lead-in and the join after changed, the join drawing out prayer beside the work of the 
+people his story thanks. Did not: move or rewrite the story, quote any lyric or spiritual, 
+touch the author-decided items, add facts, or commit. Flags 0 of every type; 43 comments (41 
+kept, 2 new). Words body 2,736 to 2,757, closer 375. No cut-list rows added (note appended). 
+For the fact checker: open-claims 47-52 still marked open though the author settled them 
+2026-11-14. Question for the author (optional): one clause on why Together Again belongs among 
+the songs.
