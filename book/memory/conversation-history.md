@@ -688,3 +688,8 @@ Words body 2,757 -> 2,778, closer 375 -> 374. Did not: touch the BeBe Winans sen
 'drawn from ... the songs themselves', commit. Not final: 1 [UNVERIFIED] (row 54); voice check. 
 Optional for the author: Afrobeat vs Afrobeats (different genres); 'Liverpool Music festival' 
 capitals; 'Two of those churches' vs Spiritual Baptist; reverse any row in the log.
+
+### 2026-11-14 · book-orchestrator · decision · ch02
+Author (2026-11-14): Together Again rationale in his words; BeBe Winans 'has sung a new 
+rendition' (open-claims 54 settled); courage sentence reworded in his words; Afrobeat 
+confirmed; 'Liverpool Music Festival'. Sent to copy-editor. Voice check still to come.
