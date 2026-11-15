@@ -884,3 +884,26 @@ copy edit (8 points in the log): the hook's not-only shape; 'hope' twice in the 
 73); 'The first I want to open answers' garden path (line 35); 'that message' with no 
 antecedent (line 49, thesis says 'the message of the Kingdom of God'). For the author: 
 unchanged (row 6, the hope join, the reconciliation story, the story-pass sentences).
+
+### 2026-11-15 · book-researcher · factcheck · ch03
+Fact check of 04-edited/ch03-the-way-home.md under the author's 2026-11-11 rules; report 
+02-research/ch03-factcheck.md (format of ch01/ch02). 80 claims: thesis 26 (every thesis-sourced 
+sentence matched at its cited lines: 1738-1747, 1869-1915, 1952-1987, 3331-3338, 3611-3621, 
+3984-3985, 4012-4015), KJV verified 34, author-confirmed 2 (racism sentence, 1743-1747), 
+ch01/ch02 cross-references 3 (Henry and the Winthorps prayer meeting match 05-final/ch01 lines 
+53 and 63; the ch02 question line 80; the hope sentence line 73), framed views 15; unverified 
+0. KJV: gutenberg.org 403 again; the GITenberg mirror of #10 worked (2011 release file, md5 
+f14e91c9...). 54 of 54 quoted spans exact by script, 38 references checked by hand, incl. 1 
+Corinthians 15:55, 57 (15:56 left out at the ellipsis), John 4:6-10, Luke 23:33-34, Luke 17:3. 
+'Many African Christians also proclaim...' is reported testimony with no number (C12, rule 5). 
+0 corrections, 0 flags inserted: the edited file is byte-identical to its pre-check copy (cmp), 
+so the racism sentence, the 1743-1747 sentence, the [AUTHOR STORY NEEDED] slot and all 61 
+comments (md5 9c2613030145) are unchanged. No lookup service called (no book or study in 
+reader-facing text). Open-claims: no rows added (55-56 already resolved). sources.md 33 notes 
+the mirror file; Book Bible: KJV ch03 citation row amended (no duplicate), status row 03 and 
+bullet, a 'Ch03 fact check' block; glossary network note and index; ch03 card. Did not: change 
+any wording, edit comments, commit. Optional notes for the copy editor/author: N1 line 3 'Then 
+he told his followers' (the Sermon on the Mount precedes Mark 12 in Gospel order); N2 Leviticus 
+quoted without a verse reference; N3 'trespasses' as his observation; N4 a story-pass comment 
+says ch02's question is word for word but 'actually' is dropped; N5 the Henry/Luke 17:3 
+parallel; N6 ch02's 'I believe' frame not carried in the line 75 callback.
