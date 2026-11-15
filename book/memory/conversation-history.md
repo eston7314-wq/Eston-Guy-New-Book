@@ -816,3 +816,23 @@ row 03 (story pass: proposals only) and a section with the would-be example rows
 reserved for ch03 pending P3. Card updated. Did not: apply anything, add cut-list rows, commit. 
 Questions for the author: what 'keep everything as it was' means (skip the pass, or accept 
 chosen proposals, or other); which of P1-P5; the reconciliation story; cut-list rows 1-6.
+
+### 2026-11-15 · story-injector · story · ch03
+Story pass applied in place to 03-drafts/ch03-the-way-home.md after the author explained 'keep 
+everything in chapter 3 as it was' (relayed by the coordinator): nothing from the source is 
+cut, wording edits OK. This supersedes the proposals-only entry above. The pre-pass copy 
+ch03-the-way-home.pre-story.md was taken before any edit (identical, cmp). Changes, each with 
+original/revision/why in 02-research/ch03-stories.md: (1) the opening starts on Calvary (Luke 
+23:33-34 KJV) and ch02's question is still sentence three, word for word, plus one joining 
+sentence; (2) the Luke 23:34 quotation moved from section 1 to the opening, not cut, and 
+section 1 refers back; (3) the woman at Jacob's well (John 4:6-10 KJV) placed after the gloss 
+of internalised stereotypes; (4) the section 3 John 4:9 sentence calls back to her; (5) one 
+direct-address sentence before the forgiveness belief paragraph; (6) a story-pass bullet in the 
+notes. 0 composites; nothing invented; no idea, quotation, scripture or example removed; all 47 
+earlier comments kept in order (script check), 5 added; the racism sentence, 1743-1747 and the 
+[AUTHOR STORY NEEDED] slot byte-identical. KJV: the Gutenberg URL gave 403; the GITenberg 
+mirror worked (Mark 12:31 matches the pack). Words: body 2,552 to 2,747 (+7.6%), closer 396 
+unchanged; wc -w without comments or notes 3,065 to 3,260. Flags: 1 AUTHOR STORY NEEDED. Cut 
+list not edited (all six rows KEEP by the author, recorded by the orchestrator; none placed in 
+this pass). Book Bible status row, examples rows (Calvary amended, John 4:6-10 new) and card 
+updated. No commit. For the author: the four writer's sentences; the reconciliation story.
