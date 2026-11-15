@@ -41,6 +41,7 @@ Started 2026-11-11 by copy-editor at ch00. Each line gives its source.
 - Song titles in double quotation marks with their own capitals ("Go Down, Moses", "Redemption Song", "Oh Happy Day"); a television or radio series in italics (*My Life, My Religion*). In-copyright lyrics are paraphrased outside quotation marks with the song named (author 2026-11-13) (ch02).
 - Named festivals and events take capitals on every word of the name: the Liverpool Music Festival (author 2026-11-14, ch02).
 - Seasons are lower case: summer, the summer holidays (Hart's Rules). A season word in a proper name keeps its capital: Spring Gardens (ch01) (ch03, 2026-11-15, the author's lecturer story).
+- Named degrees and qualifications: the degree's own name is capitalised, the words "degree" and "honours" are lower case: a Bachelor of Education degree with honours; Certificates in Education (author 2026-11-15, ch03 lecturer story; was "Bachelor in Education Degree with Honours").
 - Music Director (a specific post) is capitalised. "the Headteacher" is capitalised where it names one person in the author's own story and the sentence joined to it; generic "headteacher" stays lowercase (ch02).
 
 ## Numbers and dates
@@ -55,6 +56,7 @@ Started 2026-11-11 by copy-editor at ch00. Each line gives its source.
 - Phone numbers are written as the service writes them: 116 123; 988; 9-8-8.
 - Proposed, not yet used: "per cent" in running text, % in tables and figures.
 - Round numbers in narrative follow the same rule: "20 African men", "more than 400 years", "more than 20 years" (ch02, 2026-11-14).
+- **Author exception (author 2026-11-15, ch03):** in the author's own story the numbers stay as he chooses, even where the rule above would give figures: "a group of seventeen", "the group of twenty-five" (ch03 lecturer story; "the top five" follows the rule anyway). The exception covers his story text only; the rule stands for all other prose, including the writer's joining sentences. Ask him before applying the figures rule to another of his stories.
 
 ## Scripture
 

@@ -970,3 +970,28 @@ Author 2026-11-15: lecturer story to say the copied essay was a test of the mark
 line 73 hope sentences; leave 'trespasses'; Henry/Luke 17:3 parallel does not read right, 
 reword; 'seventeen', 'twenty-five', 'Bachelor of Education degree with honours'; keep comma 
 after 'over the years'.
+
+### 2026-11-15 · copy-editor · revision · ch03
+Eston's second set of 2026-11-15 decisions (relayed by the orchestrator) applied to 
+05-final/ch03-the-way-home.md only, as the first set was. File copied first, compared by script 
+after. Only lines 29, 73, 78, 80, 84 changed; 116 lines, none moved. (1) Line 78: 'deliberately 
+copied' sentence rewritten as two: 'A fellow student was given a grade A* for an essay. As a 
+test of the marking, I resubmitted that essay, reworded, to see whether the same work would get 
+the same grade: I changed the beginnings of some sentences and adverbs, while presenting the 
+same content and style of writing.' His example wording and details kept; his other sentences 
+unchanged. (2) Line 73: 'Twice the father says that the son who left "was dead, and is alive 
+again" (Luke 15:24, 32). As I read it, those words carry the message of hope and redemption 
+that the New Testament narratives provide.' Hope once; KJV span exact; thesis 1903-1904 wording 
+kept. (3) 'trespasses' left, recorded only. (4) Line 29 Henry: 'was the one who had done wrong, 
+so he was on the "if he repent" side of the verse (Luke 17:3). He named his own wrong and 
+repented: he told the people around him how cruel he had been, and then he asked them, and God, 
+to forgive him.' ch01 line 63 facts only. (5) seventeen, twenty-five (author exception to the 
+figures rule, style-sheet Numbers), 'Bachelor of Education degree with honours' (new 
+capitalisation rule); comma after 'over the years' kept. Byte-identical: line 5, racism and 
+1743-1747 sentences, all 64 earlier comments in order (md5 d39e4130c504; oldest 61 still 
+9c2613030145), 52 earlier quoted spans (aa25ae42d316); 3 comments and 2 exact KJV spans added. 
+Flags 0 of every type. Words wc (no comments) 3,783 -> 3,820; body 3,296 -> 3,333, closer 396. 
+Change log 'second set' section, status line, style sheet, Book Bible (3 decisions, row 03, 
+bullet), card updated. Note: the orchestrator committed the chapter edit mid-run (08d8036); I 
+committed nothing. Not final: voice check only. Optional for Eston: a link after his story, 
+comma before 'today', 'sermons', the unclosed aside on line 84.
