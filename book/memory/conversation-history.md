@@ -796,3 +796,23 @@ statistics, studies or theologians; invent any story; commit. Questions for the 
 reconciliation story; cut-list row 6 (the meaning of 'might have been enslaved through 
 systematic discrimination', 1874-1875); rows 1-5. Book Bible status and ch03 block, card, voice 
 and source-map notes updated.
+
+### 2026-11-15 · story-injector · story · ch03
+Story pass on 03-drafts/ch03-the-way-home.md held at proposals only. Mid-run the author said 
+'Keep everything in chapter 3 as it was' (relayed by the coordinator), so the draft was left 
+UNCHANGED: no sentence added, reworded, reordered or deleted (sha256 4e0fdcda...6551 before and 
+after; I had not yet edited it). Byte-identical baseline saved as 
+ch03-the-way-home.pre-story.md (cmp). Five proposals, each with location, current text, 
+proposed text and justification, written to 02-research/ch03-stories.md: P1 open on Calvary 
+(Luke 23:33-34), with ch02's question as sentence three; P2 (goes with P1) refer back in 
+section 1 instead of quoting twice; P3 the woman at Jacob's well (John 4:6-10) to show 
+internalised stereotypes; P4 (goes with P3) call back in the section 3 John 4:9 sentence; P5 
+one direct-address sentence before the forgiveness belief paragraph. 0 composites, 0 invented 
+people, cases, numbers or quotations; slot [AUTHOR STORY NEEDED] untouched; the racism sentence 
+and 1743-1747 untouched. KJV: the Gutenberg URL gave HTTP 403; the GITenberg mirror 
+(knowledge-note route) worked, Mark 12:31 matched the pack; John 4:6-7, 4:10 newly read. If all 
+were applied: body 2,552 to 2,747 (+7.6%), closer 396; all 47 comments kept. Book Bible: status 
+row 03 (story pass: proposals only) and a section with the would-be example rows; John 4 
+reserved for ch03 pending P3. Card updated. Did not: apply anything, add cut-list rows, commit. 
+Questions for the author: what 'keep everything as it was' means (skip the pass, or accept 
+chosen proposals, or other); which of P1-P5; the reconciliation story; cut-list rows 1-6.
