@@ -938,3 +938,29 @@ sound like him; section 5 story supplied (University of London lecturer, prayer 
 degree, her congratulation letter), saved verbatim in 
 memory/author-stories/2026-11-15-lecturer-forgiveness.md. Still open: line 73 hope sentences, 
 'sermons', N3 trespasses source, N5 Henry parallel.
+
+### 2026-11-15 · copy-editor · revision · ch03
+Eston's decisions of 2026-11-15 (relayed by the orchestrator) applied to 
+05-final/ch03-the-way-home.md only, in the way the ch02 decisions were applied (6978e28). I 
+copied the file first and diffed it after by script. Only line 5 and line 77 changed; the slot 
+is now lines 77-86. (1) Line 5 now uses his words: 'Our ancestors were enslaved, and many of us 
+still experience discrimination and exclusion, today.' The comma is his. I added an 
+author-confirmed comment. 'sermons' is not restored. (2) The four story-pass sentences are 
+confirmed as his voice and left unchanged. (3) His University of London lecturer story 
+(memory/author-stories/2026-11-15-lecturer-forgiveness.md) replaces the [AUTHOR STORY NEEDED] 
+flag. I kept the slot's note and added an author-story comment. I made light edits only, each 
+logged: 7 double spaces; 'of that lecturer'; 'top five', '17', '25' (house numbers rule); 
+'Contemporary Religion' made 'Contemporary Religions' (style sheet, author 2026-11-10, so no 
+flag); 'summer' (new rule, seasons lower case, in style-sheet.md and the Book Bible). I added 
+one writer's joining sentence before the story ('As a student, I had to try to live Jesus's 
+teaching on forgiveness myself.') and none after, because every bridge I drafted gave a moral 
+or was a run-up. The lecturers and the student are still unnamed. Byte-identical: everything 
+else, including the racism and 1743-1747 sentences, all 61 earlier comments (9c2613030145) and 
+52 quoted spans (aa25ae42d316). Comments now 64. Flags 0 of every type. Words: wc -w without 
+comments 3,511 -> 3,783; body 2,998 -> 3,296; closer 396. I updated the change-log status line, 
+the Book Bible row and bullet, the card and the cut-list note. Open-claims was not changed, 
+because no ch03 row applies (the story is his testimony). No commit. For Eston: whether to keep 
+'deliberately copied' or say plainly that it was a test he set himself; the line 73 hope 
+sentences; N3; N5; optional: a link sentence after his story, the comma before 'today', 
+'sermons', and the subject-verb comma, the unclosed aside and 'Bachelor in Education Degree 
+with Honours' in his story.

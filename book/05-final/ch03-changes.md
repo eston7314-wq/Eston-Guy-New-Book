@@ -1,4 +1,4 @@
-**Not final**: AUTHOR STORY NEEDED 1 (section 5, the reconciliation story the author said he will supply; author decision 2026-11-15); every other flag type 0 (UNVERIFIED 0, AUTHOR TO CONFIRM 0, COPY EDIT 0, DEV EDIT 0, RESEARCH NEEDED 0). Cut list: 6 of 6 rows decided (all keep, all back in the chapter; `book/03-drafts/ch03-cut-list.md`). The chapter is not final until the author's story is in the slot and he has done the read-aloud voice check. Questions awaiting the author (not decided for him): (1) cut-list row 6: does "might have been enslaved through systematic discrimination or social exclusion" (thesis 1874-1875) mean our ancestors' slavery, discrimination today, or both (the chapter says both), and does he want "sermons" back; (2) the dev edit's joining sentences into the hope paragraphs (line 73, "Twice the father says ... As I read it, those words point to the hope at the centre of the New Testament, whose narratives provide a message of hope and redemption"; "hope" twice); (3) the four story-pass sentences ("Part of the answer is in that prayer, and it is the hardest part to live"; "He had not refused her, yet she spoke the refusal for him"; "Jesus did not take up the old line between their peoples"; "You may know the weight this teaching asks you to put down ..."); (4) fact check N3 ("trespasses": name the source of that form?) and N5 (the Henry / Luke 17:3 parallel); (5) the reconciliation story. (Copy edit 2026-11-15.)
+**Not final (voice check and questions only)**: flags in the text 0 of every type (UNVERIFIED 0, AUTHOR TO CONFIRM 0, AUTHOR STORY NEEDED 0, COPY EDIT 0, DEV EDIT 0, RESEARCH NEEDED 0) after Eston's decisions of 2026-11-15 (see "2026-11-15 author decisions" at the end: his line 5 wording, the four story-pass sentences confirmed, his lecturer story in the section 5 slot). Cut list: 6 of 6 rows decided (all keep, all back in the chapter; `book/03-drafts/ch03-cut-list.md`). Remaining: Eston reads the chapter aloud for voice. Still open, not decided for him: (1) "deliberately copied" in his story (keep as written, or say plainly it was a test he set himself); (2) line 73, the two hope sentences (writer's words, "hope" twice); (3) fact check N3 ("trespasses": name the source?); (4) fact check N5 (the Henry / Luke 17:3 parallel); optional: a link sentence after his story, the comma before "today", "sermons" (not restored). (Updated 2026-11-15. Before the decisions: AUTHOR STORY NEEDED 1, section 5.)
 
 # Ch03 change log: The Way Home: The Teachings and Parables of Jesus
 
@@ -102,3 +102,80 @@ Added at copy edit (not part of the original block): the fact check (book-resear
 ## Word count
 
 The method is the humanize log's, reproduced exactly (it gives 2,987 and 396 on the input): reader-facing prose, HTML comments, headings, the notes block and the bracketed flag text left out. **Body 2,998; closer 396; total 3,394** (input 2,987 + 396 = 3,383; the copy edit added 11, rows 1 to 9 in order: +1, +2, -1, +3, 0, +2, +2, +2, 0). Plain `wc -w` of the final file with HTML comments removed: **3,511** (input 3,500 by the same count with the notes block also removed). The budget for chapters is 3,500-4,600 (blueprint v2; ch03 4,200); ch03 is under it, as it was at the dev edit, and has not been padded. The reconciliation story will add to it.
+
+## 2026-11-15 author decisions
+
+Targeted revision by copy-editor, 2026-11-15, applying Eston's answers of 2026-11-15 (relayed by the orchestrator; recorded in `book/memory/user-profile.md`, Decisions log). This is not a full copy edit. The final file was copied before editing and diffed after (by script). Only line 5 and line 77 changed; line 77 (the slot) became lines 77-86, so every later line moves down by 9 (the closer heading is now line 92). Everything else is byte-identical: the racism sentence, the 1743-1747 sentence, the four story-pass sentences, the hope paragraphs (lines 73 and 75), the "If you are the one in the far country" paragraph, the ch04 hook and the closer. All 61 existing HTML comments are unchanged and in their original order (concatenated md5 still 9c2613030145), including the dev-edit note on line 5 and the slot's own note, which is kept at line 77. All 52 quoted spans are unchanged (concatenated md5 still aa25ae42d316). Three comments were added, so there are 64. To reverse everything, put back the "Original" text of rows 1 and 3 and delete the three new comments.
+
+### Line 5: cut-list row 6 (thesis 1874-1875)
+
+| # | Line | Original | Revision | Why |
+|---|---|---|---|---|
+| 1 | 5 | "Our ancestors were enslaved, and many of us still meet discrimination and exclusion in the countries we call home." | "Our ancestors were enslaved, and many of us still experience discrimination and exclusion, today." | Eston's own wording, applied exactly (decision 1). It keeps both meanings the draft gave (our ancestors' slavery, and discrimination now). **The comma before "today" is his** and is kept; house style would normally leave it out, so "exclusion today." is the alternative if he prefers. "in the countries we call home" goes, because his sentence does not have it. The sentences either side and both existing comments are byte-identical. A comment was added after the existing two: `<!-- author-confirmed 2026-11-15: cut-list row 6 sentence in his words (thesis 1874-1875; both meanings; the comma before "today" is his); "sermons" not restored -->`. "sermons" stays "teachings", because he did not ask for it back. To reverse, restore the original sentence and delete the new comment. |
+
+### The four story-pass sentences: confirmed, unchanged
+
+Eston said these four "sound like me" (decision 2), so they stay exactly as they are. No comment was added, so the lines stay byte-identical:
+- line 3: "Part of the answer is in that prayer, and it is the hardest part to live."
+- "He had not refused her, yet she spoke the refusal for him." (the woman at the well)
+- "Jesus did not take up the old line between their peoples."
+- "You may know the weight this teaching asks you to put down ..."
+
+### Section 5: the story slot (line 77, now lines 77-86)
+
+| # | Line | Original | Revision | Why |
+|---|---|---|---|---|
+| 2 | 77 | "[AUTHOR STORY NEEDED: a pupil or family, estranged and reconciled, for example a young person cut off by parents over pregnancy or drugs (thesis 1973-1976); anonymised]" followed by its note | The note stays at line 77, byte-identical. After it comes a new comment: `<!-- author story 2026-11-15, his testimony (fact-checking rule 3); verbatim source memory/author-stories/2026-11-15-lecturer-forgiveness.md; light edits only, each logged in 05-final/ch03-changes.md -->`. Eston's story follows on lines 78-86, in his five paragraphs, with the light edits in rows 3-9 below. | Decision 3: Eston supplied the story, saved word for word in `book/memory/author-stories/2026-11-15-lecturer-forgiveness.md`. It is his testimony, so it was not fact-checked and is not flagged (CLAUDE.md fact-checking rule 3). The flag is gone because the story has replaced it. The lecturers and the fellow student are still unnamed, and nothing was added to his events, feelings or words: no dialogue, no names, no outcome, no moral. A word-by-word diff against the author-story file shows only the changes in rows 3-9. The story ends on the lecturer's letter, as his does. To reverse, put the flag line back after the note and delete lines 78-86 and the two new comments. |
+| 3 | 78 | (no sentence) | "As a student, I had to try to live Jesus's teaching on forgiveness myself." followed by `<!-- note: copy edit 2026-11-15: writer's joining sentence, for the author's ear -->` | **Writer's sentence, not his; for his ear** (the brief allows one before the story). It joins the hope paragraph (line 75) to his story and points back to the opening ("it is the hardest part to live", line 3). It says nothing his story does not: "try to" matches his "I asked God to help me forgive". To reverse, delete the sentence and its comment, and the story then opens "I believe that one of my lecturers ...". |
+| 4 | 78, 82, 84 | seven double spaces ("beginnings  of some  sentences"; "the  unfairness of  lecturer.  At"; "that  my"; "studying  Contemporary") | single spaces | Drafting slips (permitted). No words changed. |
+| 5 | 82 | "to prove the unfairness of lecturer." | "to prove the unfairness of that lecturer." | A dropped word restored (permitted, as named in the brief). "that" rather than "the" because his own paragraph before it says "that Religious Studies lecturer". To reverse, delete "that". |
+| 6 | 80 | "among the top 5 undergraduates in a group of seventeen" | "among the top five undergraduates in a group of 17" | Numbers (style sheet, Numbers and dates: words for one to ten, figures for 11 and above; Book Bible "Numbers, applied", ch02). Both changes follow the same rule. If he would rather the two numbers in that sentence match, "the top five ... in a group of seventeen" is the one exception I would accept; tell me. To reverse, restore "5" and "seventeen". |
+| 7 | 84 | "from the group of twenty-five studying" | "from the group of 25 studying" | Same numbers rule as row 6. To reverse, restore "twenty-five". |
+| 8 | 84 | "studying Contemporary Religion achieved" | "studying Contemporary Religions achieved" | Consistency. His first paragraph says "my study of Contemporary Religions", and the style sheet already records the plural form as his (author 2026-11-10: "Contemporary Religions", the same subject at university and at school; ch00 line 15). Because his own text and his earlier decision settle it, no [AUTHOR TO CONFIRM] flag was needed. To reverse, delete the "s". |
+| 9 | 86 | "during the Summer holidays" | "during the summer holidays" | Capitalisation: seasons are lower case in British style (Hart's Rules). The style sheet had no rule on seasons, so this is a new decision (below). No earlier chapter uses a season as a common noun; ch01's "Spring Gardens" is a place name. To reverse, restore the capital S. |
+
+**The final text of the story section (lines 77-86, comments shown):**
+
+```
+<!-- note: the thesis holds no reconciliation story (ch03-evidence.md 1.4); author will supply it later (author decision 2026-11-15). Do not invent one --><!-- author story 2026-11-15, his testimony (fact-checking rule 3); verbatim source memory/author-stories/2026-11-15-lecturer-forgiveness.md; light edits only, each logged in 05-final/ch03-changes.md -->
+As a student, I had to try to live Jesus's teaching on forgiveness myself.<!-- note: copy edit 2026-11-15: writer's joining sentence, for the author's ear --> I believe that one of my lecturers at the University of London was unfair in marking me down in some of my essays in one area of my study of Contemporary Religions. When she gave me a grade B+ for a resubmitted essay, I knew then that my belief was justified. A fellow student was given a grade A* for an essay that I deliberately copied, but changed the beginnings of some sentences and adverbs, while presenting the same content and style of writing. I was given a B+ for the resubmitted essay.
+
+In order to disprove my suspicion, I asked my Philosophy lecturer for an assessment of the quality of my essays, and was told that I was among the top five undergraduates in a group of 17. I love to write essays because I have always researched the topics, yet no matter how hard I tried, that Religious Studies lecturer marked me down.
+
+The feedback from my Philosophy lecturer made me more determined to continue working smarter, not only to succeed, but also to prove the unfairness of that lecturer. At that time, I could not forget my feeling of being treated unfairly, but I asked God to help me forgive.
+
+I felt that my silent prayers were answered when at the end of my third year, only one other student and I, from the group of 25 studying Contemporary Religions achieved the required grades to go on to the final year and gained our Bachelor in Education Degree with Honours. The others achieved only their Certificates in Education.
+
+Surprisingly, the lecturer who had marked me down over the years, was the first to write to me during the summer holidays to congratulate me on my success.
+```
+
+**No joining sentence after the story.** The brief allowed one. I did not add it because every bridge I tried either told the reader what his story means (a moral he did not give) or announced the next paragraph (humanizer §4). The next paragraph, "If you are the one in the far country ...", follows after a paragraph break and is byte-identical. Question 2 below asks Eston whether he wants a link there, in his own words.
+
+**Left exactly as he wrote it, not within the permitted edits (for his read-aloud; none of these is a flag):**
+- "the lecturer who had marked me down over the years, was the first to write": house style would drop the comma between subject and verb.
+- "only one other student and I, from the group of 25 studying Contemporary Religions achieved": the aside has an opening comma but no closing one. House style would add one after "Religions" or remove the first.
+- "Bachelor in Education Degree with Honours": the usual name of the degree is "Bachelor of Education", and house style would lower-case "degree" and "honours" ("a Bachelor of Education degree with honours"). It is his qualification, so it is his call.
+- "one area of my study of Contemporary Religions" and later "that Religious Studies lecturer" both refer to the same lecturer. A reader may wonder whether these are two subjects. I left both.
+- "not only to succeed, but also to prove": a "not only ... but also" contrast (humanizer §1). It is his, and both halves carry information. Kept.
+- "Philosophy", "Religious Studies", "Contemporary Religions", "Certificates in Education": named courses and qualifications are capitalised (style sheet). No change.
+
+**Humanizer check (rule 11) on the new and changed text:** no dashes, no curly quotes, no stock AI words, no new triads, run-ups or one-line closers. The joining sentence is plain and adds no claim. "I believe" now appears 12 times in the prose (11 before; the new one is Eston's opening, "I believe that one of my lecturers"). Line 5 still has two sentences in a row beginning "For ..." (noted at the copy edit). His new sentence does not change that, and I left it.
+
+### Consistency decision (also recorded in the Book Bible and `book/style-sheet.md`)
+
+6. **Seasons are lower case** (summer, the summer holidays, winter), as in Hart's Rules. A season word inside a proper name keeps its capital (Spring Gardens, ch01), and named festivals keep theirs (the Liverpool Music Festival). Source: row 9 above; first use in ch03.
+
+(The numbers rule and "Contemporary Religions" were already in the style sheet and were applied, not changed.)
+
+### Still open, not decided (for Eston)
+
+1. **"deliberately copied" (line 78), for his attention.** His text says he "deliberately copied" a fellow student's A* essay, changing the openings of some sentences and some adverbs, as a test of the marking. A reader who does not know what he meant may take this as plagiarism. Does he want to keep the wording as it is, or say plainly that it was a test he set himself? For example, he could say that he resubmitted it to see whether the same work would get the same grade. The wording must be his, so I have not changed it.
+2. **A link after the story (optional).** Would he like one sentence, in his words, between the lecturer's letter and "If you are the one in the far country ..."? Or does the paragraph break do enough? I have not supplied one (see above).
+3. **Line 73, the two hope sentences** ("Twice the father says that the son who left was dead and is alive again. As I read it, those words point to the hope at the centre of the New Testament, whose narratives provide a message of hope and redemption."): these are the writer's words, and "hope" appears twice. Not changed.
+4. **Fact check N3:** whether "trespasses" should name its source, for example the prayer book his churches used (`book/02-research/ch03-factcheck.md` row 29). Not changed.
+5. **Fact check N5:** whether the parallel between Henry and Luke 17:3 reads as he wants (row 36). Not changed.
+6. **Optional, from rows 1 and 6:** the comma before "today"; "seventeen" or "17"; the four punctuation and wording points listed above; whether to restore "sermons" (not restored).
+
+**Counts after this revision:** flags of every type 0 (UNVERIFIED 0, AUTHOR TO CONFIRM 0, AUTHOR STORY NEEDED 0, COPY EDIT 0, DEV EDIT 0, RESEARCH NEEDED 0). HTML comments 64 (61 before, plus 1 author-confirmed, 1 author-story and 1 joining-sentence note). Cut list 6 of 6 decided (keep). Words, plain `wc -w` of the final file with HTML comments removed: **3,783** (3,511 before: minus 26 words of flag text, minus 5 in line 5, plus 289 words of Eston's story, plus 14 for the joining sentence). Words by the humanize-log method (flag text excluded): **body 3,296, closer 396, total 3,692** (body 2,998 before). That is within the 3,500-4,600 chapter budget (blueprint v2; ch03 4,200).
+
+**What Eston must still do to make ch03 final:** answer question 1 ("deliberately copied"); answer questions 3-5 or say "leave as is"; and read the chapter aloud for voice.

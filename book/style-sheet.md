@@ -40,6 +40,7 @@ Started 2026-11-11 by copy-editor at ch00. Each line gives its source.
 - Named periods and events are capitalised: the Great Migration, gospel's Golden Age, the Second World War (not World War II), the Windrush generation, the Covid-19 pandemic (Hart's form, not COVID-19) (ch02).
 - Song titles in double quotation marks with their own capitals ("Go Down, Moses", "Redemption Song", "Oh Happy Day"); a television or radio series in italics (*My Life, My Religion*). In-copyright lyrics are paraphrased outside quotation marks with the song named (author 2026-11-13) (ch02).
 - Named festivals and events take capitals on every word of the name: the Liverpool Music Festival (author 2026-11-14, ch02).
+- Seasons are lower case: summer, the summer holidays (Hart's Rules). A season word in a proper name keeps its capital: Spring Gardens (ch01) (ch03, 2026-11-15, the author's lecturer story).
 - Music Director (a specific post) is capitalised. "the Headteacher" is capitalised where it names one person in the author's own story and the sentence joined to it; generic "headteacher" stays lowercase (ch02).
 
 ## Numbers and dates

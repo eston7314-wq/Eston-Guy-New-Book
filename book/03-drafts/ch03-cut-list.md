@@ -37,3 +37,5 @@ Not listed:
   named. The unnamed attribution has been removed. (open-claims 56)
 
 Dev edit (developmental-editor, 2026-11-15): all six kept rows are back in the chapter (`book/04-edited/ch03-the-way-home.md`; original / revision / why in `book/04-edited/ch03-edit-memo.md`, table A). Rows 1-4: section 5, two paragraphs after the elder brother and before the story slot (row 3 as a refer-back to ch02, not repeated word for word; row 4 without "Above all"). Row 5: the opening of section 3, as the author reading the Gospels. Row 6: wording held as drafted; "enslaved" and "sermons" are questions for the author. No rows added: nothing was removed in this pass.
+
+Author decisions applied (copy-editor, 2026-11-15, `book/05-final/ch03-changes.md`, "2026-11-15 author decisions"): row 6 is now in the author's words in 05-final/ch03, line 5: "Our ancestors were enslaved, and many of us still experience discrimination and exclusion, today." (both meanings; his comma). "sermons" is not restored. Nothing from the source is cut.
