@@ -81,7 +81,7 @@ In order to disprove my suspicion, I asked my Philosophy lecturer for an assessm
 
 The feedback from my Philosophy lecturer made me more determined to continue working smarter, not only to succeed, but also to prove the unfairness of that lecturer. At that time, I could not forget my feeling of being treated unfairly, but I asked God to help me forgive.
 
-I felt that my silent prayers were answered when at the end of my third year, only one other student and I, from the group of twenty-five studying Contemporary Religions achieved the required grades to go on to the final year and gained our Bachelor of Education degree with honours. The others achieved only their Certificates in Education.
+I felt that my silent prayers were answered when at the end of my third year, only one other student and I, from the group of twenty-five studying Contemporary Religions, achieved the required grades to go on to the final year and gained our Bachelor of Education degree with honours. The others achieved only their Certificates in Education.
 
 Surprisingly, the lecturer who had marked me down over the years, was the first to write to me during the summer holidays to congratulate me on my success.
 

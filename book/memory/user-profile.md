@@ -102,3 +102,4 @@ infers goes under "Proposed" until the author confirms it.
 | 2026-11-15 | ch03 Henry and Luke 17:3 parallel: "does not read right"; reword (fact-check N5) | 05-final/ch03 |
 | 2026-11-15 | ch03 story: "seventeen" and "twenty-five" in words (author's choice over the style sheet's figures rule); "Bachelor of Education degree with honours"; keep the comma after "over the years" | 05-final/ch03 |
 | 2026-11-15 | ch03 story: "twenty-five" with the hyphen (confirmed) | 05-final/ch03 |
+| 2026-11-15 | ch03 story line 84: add a comma after "Contemporary Religions" to close the aside | 05-final/ch03 |

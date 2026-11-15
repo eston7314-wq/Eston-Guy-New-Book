@@ -995,3 +995,8 @@ Change log 'second set' section, status line, style sheet, Book Bible (3 decisio
 bullet), card updated. Note: the orchestrator committed the chapter edit mid-run (08d8036); I 
 committed nothing. Not final: voice check only. Optional for Eston: a link after his story, 
 comma before 'today', 'sermons', the unclosed aside on line 84.
+
+### 2026-11-15 · book-orchestrator · copyedit · ch03
+Author asked for a comma after 'Contemporary Religions' (line 84), closing the aside after 'and 
+I,'. Applied in 05-final/ch03 and logged in ch03-changes.md; no other change. Ch03 awaits only 
+the read-aloud voice check.

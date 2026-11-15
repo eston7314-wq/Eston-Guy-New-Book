@@ -229,3 +229,9 @@ Lines 80 and 84 (his story): "... among the top five undergraduates in a group o
 **Counts after this revision:** flags of every type 0 (status.sh regex, plus AUTHOR TO CONFIRM). HTML comments 67 (64 before, plus 3 author-decision notes). Quoted spans 54 (52 before, plus 2 exact KJV). Cut list 6 of 6 decided (keep). Words, plain `wc -w` of the final file with HTML comments removed: **3,820** (3,783 before; +23 line 29, -4 line 73, +18 line 78, 0 lines 80 and 84). By the humanize-log method: **body 3,333, closer 396, total 3,729** (body 3,296 before; all changes are in the body). That is within the 3,500-4,600 budget (ch03 4,200).
 
 **What Eston must still do to make ch03 final:** read the chapter aloud for voice and say whether it sounds like him.
+
+## 2026-11-15 author decision (third): closing comma in his story
+
+| # | Line | Original | Revision | Why | To reverse |
+|---|---|---|---|---|---|
+| 1 | 84 | "...from the group of twenty-five studying Contemporary Religions achieved the required grades..." | "...from the group of twenty-five studying Contemporary Religions, achieved the required grades..." | Author's instruction ("Yes, add a comma after 'contemporary religions'"). Closes the aside opened by "and I," (second-set note 5). Capitals kept as elsewhere in the chapter (course name). Applied by the orchestrator; no other change | Delete the comma after "Religions" |
