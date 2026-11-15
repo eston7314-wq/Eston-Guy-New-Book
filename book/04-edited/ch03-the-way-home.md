@@ -113,3 +113,4 @@ Bring to mind one person you find it hard to forgive, or one person you fear wil
 - Byte-identical to the draft (checked by script): the racism sentence and its comment; the 1743-1747 sentence and its comments; the [AUTHOR STORY NEEDED] slot and its comment; every quotation in the draft. All 52 draft comments kept (one moved with its sentence); 9 dev-edit notes added.
 - Flags in prose: [AUTHOR STORY NEEDED] 1; every other type 0.
 - For the humanize pass: "I believe" 10 times, "In my view" 3, "As I read it" 2, by design (config rule 5). The source triads ("anger, resentment and bitterness"; "racial injustices, intimidation and rejection"; "challenges, obstacles and setbacks") and "foster" (twice, the author's) are his. "Jesus did not only teach. He healed" is the blueprint's ch04 hook.
+- Humanize pass done 2026-11-15; see ch03-humanize-log.md (0 prose changes).

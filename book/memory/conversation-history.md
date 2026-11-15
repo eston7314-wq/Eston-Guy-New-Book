@@ -860,3 +860,27 @@ and a 'Ch03 dev edit' block (ch04 must call back 1903-1915, not repeat it); cut 
 appended; card updated. Did not: fill the story slot, add any fact, touch story-pass sentences, 
 edit the ch04 card, commit. Questions for the author: row 6 meaning of 'enslaved' and 
 'sermons'; the hope-paragraph join; the reconciliation story; the four story-pass sentences.
+
+### 2026-11-15 · copy-editor · humanize · ch03
+Humanize pass on 04-edited/ch03-the-way-home.md (pre-pass copy 
+ch03-the-way-home.pre-humanize.md, cmp identical before the pass; log 
+04-edited/ch03-humanize-log.md with line, original, revision, humanizer section and why, plus 
+every pattern checked and left alone). Result: 0 prose changes; only the traceability line 
+added to Notes for the editor. Author rule 2026-11-15 applied: nothing cut, no idea, quotation, 
+scripture, example or passage removed, nothing added. Every candidate traced: the author's 
+thesis benefit sentences by line (1886-1888 foster/thus contributing; 1898-1901 powerful tool; 
+1958-1960 promoting resilience; 1962-1976 Prodigal paragraph incl. second foster; 1982-1987 
+receptive and resilient heart, empowering, providing; 1904-1915; 3611-3621), kept in his voice 
+as the brief asks even where several tells meet (line 53); the ch04 hook 'Jesus did not only 
+teach. He healed' is blueprint v2 line 252, kept; 'Two thoughts can follow.' weighed against 
+the ch00/ch01 §4 precedent and kept (plain count, delivered at once, no colon join possible). 
+Byte-identical by md5: racism sentence, 1743-1747 sentence, the [AUTHOR STORY NEEDED] slot, all 
+61 HTML comments (9c2613030145), 52 quoted spans, 38 scripture references. Flags: 1 AUTHOR 
+STORY NEEDED, 0 others, unchanged. 'I believe' 10, unchanged. No dashes, curly quotes or serial 
+commas; British spelling. Words: body 2,987, closer 396; wc -w without comments or notes 3,500, 
+unchanged. No consistency decisions. Card and Book Bible status updated. Did not: rewrite 
+thesis sentences, touch story-pass or dev-edit sentences awaiting the author, commit. For the 
+copy edit (8 points in the log): the hook's not-only shape; 'hope' twice in the dev join (line 
+73); 'The first I want to open answers' garden path (line 35); 'that message' with no 
+antecedent (line 49, thesis says 'the message of the Kingdom of God'). For the author: 
+unchanged (row 6, the hope join, the reconciliation story, the story-pass sentences).
