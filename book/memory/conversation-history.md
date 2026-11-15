@@ -773,3 +773,8 @@ reconciliation story, so [AUTHOR STORY NEEDED] stands. No statistics. Book Bible
 and a 'Ch03 research' section appended; glossary and index updated; ch03 card created. Did not: 
 open any study, use any other site, write a draft or commit. Questions for the author: the 
 racism wording, the theologians, a reconciliation story, Luke 17:3.
+
+### 2026-11-15 · book-orchestrator · decision · ch03
+Author (2026-11-15): 'eliminates racism' -> option B, his belief ('can help to break down 
+racism'); unnamed theologians -> his own view; reconciliation story later (slot stays flagged); 
+include Luke 17:3. Sent to chapter-writer for the consolidated draft.

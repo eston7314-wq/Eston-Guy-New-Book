@@ -88,3 +88,7 @@ infers goes under "Proposed" until the author confirms it.
 | 2026-11-14 | ch02 approved after the read-aloud voice check: "It sounds like me." | ch02 card; book-bible status; approved-documents.md |
 | 2026-11-14 | ch02 family sentence (after approval): "some hymns of four of these churches, Moravian, Anglican, Pentecostal and later Spiritual Baptists ..." run through his family story; ch01 wording unchanged | 05-final/ch02 |
 | 2026-11-14 | ch02 family sentence, final: "Four of the churches, the Moravian, Anglican, Pentecostal and later the Spiritual Baptist, run through my family's story, which I told in chapter 1." | 05-final/ch02 |
+| 2026-11-15 | ch03 "eliminates racism" (thesis 1884-1885) becomes: "I believe this attitude of compassion and forgiveness can help to break down racism and lead to inclusion and dignity." (option B; open-claims 55) | ch03 |
+| 2026-11-15 | ch03 "Theologians remind Christians..." (1743-1747) becomes the author's own view; no theologian named (open-claims 56) | ch03 |
+| 2026-11-15 | ch03 story slot: author will supply a reconciliation story later; leave [AUTHOR STORY NEEDED] | ch03 |
+| 2026-11-15 | ch03: include Luke 17:3 (KJV) to support "forgiving is not excusing the wrong" | ch03 |
