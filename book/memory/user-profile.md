@@ -92,3 +92,4 @@ infers goes under "Proposed" until the author confirms it.
 | 2026-11-15 | ch03 "Theologians remind Christians..." (1743-1747) becomes the author's own view; no theologian named (open-claims 56) | ch03 |
 | 2026-11-15 | ch03 story slot: author will supply a reconciliation story later; leave [AUTHOR STORY NEEDED] | ch03 |
 | 2026-11-15 | ch03: include Luke 17:3 (KJV) to support "forgiving is not excusing the wrong" | ch03 |
+| 2026-11-15 | ch03: "Keep everything in chapter 3 as it was" = nothing from the source is cut from ch03 (cut-list rows 1-6 keep, in ch03, incl. rows 1-4 that were proposed for ch04); wording edits allowed, every change justified in the logs as for ch00-ch02. Ch03 work continues in session on branch claude/gallant-faraday-dultib | 03-drafts/ch03-cut-list.md |
