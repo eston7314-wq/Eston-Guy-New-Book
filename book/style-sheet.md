@@ -11,6 +11,7 @@ Started 2026-11-11 by copy-editor at ch00. Each line gives its source.
 - practise (verb), practice (noun). licence (noun), license (verb).
 - Proper names keep their own spelling: World Health Organization; US Centers for Disease Control and Prevention. British spelling applies to our paraphrase of them.
 - Quotations keep their own spelling, capitalisation and hyphenation (Douglass's "recognize" and "class-leaders"; KJV "baptizing"; Prince's "the Moravian church"). House style applies only to our narration and paraphrase ("class leaders") (copy-editor 2026-11-11, ch01; Hart's Rules).
+- Possessive of Jesus: "Jesus's" (Hart's Rules, as for any name ending in s); "Christ's". The thesis writes "Jesus'"; quotations keep their own form (ch03, 2026-11-15).
 
 ## Punctuation
 
@@ -60,6 +61,10 @@ Started 2026-11-11 by copy-editor at ch00. Each line gives its source.
 - Reference form: book name in full, chapter:verse, translation after a comma, all in one pair of parentheses after the quotation: "thy faith hath made thee whole" (Luke 8:48). No abbreviated book names (Hebrews, not Heb.; 1 Corinthians, not 1 Cor.).
 - One translation is now chosen (KJV, 2026-11-13): the copyright page names it, KJV quotations carry no translation tag ("thy faith hath made thee whole" (Luke 8:48)), and only a quotation from another version is marked.
 - "The writer to the Hebrews", not "Paul", for Hebrews (Book Bible 2026-11-07).
+- Every quotation in the body has a reference, including a verse whose book the prose names ("(Leviticus 19:18)") and a verse that follows one just cited ("(Luke 15:18)" after 15:17). A run of quotations from one passage under a named Gospel may share one reference after its last quotation ("(Mark 12:31)", "(Luke 23:33-34)"). Quotations repeated in the closer from the body need none. If the verse goes on past the quoted words, the full stop follows the reference: `thy people" (Leviticus 19:18).` (ch03, 2026-11-15; fact check N2).
+- Parables are named with capitals and "parable" is lower case: the Good Samaritan, the Sower, the Prodigal Son, the Lost Son; "the parable of the Sower". People in a parable are lower case (the father, the elder brother, a priest, a Levite, the lawyer); "the Samaritan" is capitalised as the name of a people (ch03).
+- Named teachings and texts are capitalised: the Sermon on the Mount, the Lord's Prayer, the Law of Moses, the Gospels, Mark's Gospel (ch01 "Matthew's Gospel"). gospel music and gospel hymns stay lower case (ch02). A letter is described in lower case in narration ("the first letter to the Corinthians") and given in full in references (1 Corinthians 15:55, 57) (ch03).
+- Kingdom of God: capitalised in narration, and its short form too ("the message of the Kingdom"); the KJV's lower case inside quotations ("the kingdom of God", "the kingdom of heaven") (thesis 1738-1740; author 2026-11-13; ch03).
 
 ## Names
 

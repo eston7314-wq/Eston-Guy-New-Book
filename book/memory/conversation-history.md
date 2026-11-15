@@ -907,3 +907,26 @@ he told his followers' (the Sermon on the Mount precedes Mark 12 in Gospel order
 quoted without a verse reference; N3 'trespasses' as his observation; N4 a story-pass comment 
 says ch02's question is word for word but 'actually' is dropped; N5 the Henry/Luke 17:3 
 parallel; N6 ch02's 'I believe' frame not carried in the line 75 callback.
+
+### 2026-11-15 · copy-editor · copyedit · ch03
+Copy edit (Mode A) of 04-edited/ch03-the-way-home.md (unchanged, md5 ce0128ec8731) into 
+05-final/ch03-the-way-home.md; log 05-final/ch03-changes.md in the ch02 format (line, original, 
+revision, why, how to reverse; checked and deliberately left alone). Author rule 2026-11-15 
+applied: nothing cut. 9 prose changes: line 35 'The first parable I want to open' (read-aloud 
+trip); line 29 'In the same breath, the wrong is named before it is forgiven' (was 'as 
+forgiveness'); line 3 'Then' dropped (N1, Gospel order); line 49 'that message' -> 'the message 
+of the Kingdom' (thesis 1980-1981); line 51 comma after 'In Matthew's telling'; line 61 'heard 
+badly' -> 'heard the wrong way'; '(Leviticus 19:18)' (N2) and '(Luke 15:18)' added by the 
+style-sheet reference rule; line 75 refer-back now 'I wrote that I believe this hope is so 
+strong' (N6, ch02's frame; 'I believe' 10 -> 11). Notes block moved to the change log word for 
+word (diff-checked). Byte-identical by script: racism sentence, 1743-1747 sentence, the [AUTHOR 
+STORY NEEDED] slot, all 61 comments (9c2613030145), 52 quoted spans (aa25ae42d316). Humanizer 
+check clean. Decisions recorded in style-sheet.md and the Book Bible: 'Jesus's'; parable names 
+capitalised; named teachings and texts; Kingdom of God short form; every body quotation 
+referenced, shared reference for a run. Words body 2,987 -> 2,998, closer 396; wc -w without 
+comments 3,511. Did not: touch row 6's sentence, the hope join, the four story-pass sentences, 
+the ch04 hook, '(Mark 12:31)' (pinned by 'this same verse'), 'Two thoughts can follow.', 
+commit. Note: book/01-outline/author-guidelines.md and editorial-diagnostic-notebooklm.md (read 
+order step 8) do not exist; blueprint-v2 used. Not final: AUTHOR STORY NEEDED 1; voice check. 
+For the author: row 6; the hope join; the four story-pass sentences; N3; N5; the reconciliation 
+story.
