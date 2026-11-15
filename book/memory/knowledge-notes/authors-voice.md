@@ -25,3 +25,9 @@ Stub. State the source and date of anything you add. Undated entries are untrust
 - "when their days were dark and dreary" (2466): his image, kept.
 
 - (chapter-writer, 2026-11-14, from his Gladesmore story, memory/author-stories/2026-11-14-gladesmore-prayer.md) In testimony he writes long, formal sentences that list everyone who helped ("the teaching staff, their voluntary Academic Mentors, the school's ancillary staff, the support of their parents and the leadership of..."), opens with "Furthermore", gives God thanks before results, and ends on a short credo ("Like others, I believed in God's rewards."). Keep those endings; do not smooth his lists.
+
+## Observed in ch03 source (chapter-writer, 2026-11-15; thesis 1738-1747, 1863-1988, 3611-3621)
+
+- States what scripture offers, then names who it helps with "For those with African heritage who..." or "For individuals like those of African heritage facing...", then closes on a benefit ("promoting psychological resilience", "thus contributing to better mental health for some African Christians"). The draft keeps his sentences and adds an "I believe" frame (config rule 5). About 13 frames in a 2,600-word body are as many as the prose will carry; vary them with "In my view" and "As I read it".
+- Paragraph-opening connectives "Above all", "Furthermore", "Accordingly" (one each in ch03).
+- Cites scripture from memory in modern wording (Luke 23:34, Matthew 6:25 and 6:31); check every verse against the KJV.

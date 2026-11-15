@@ -62,3 +62,7 @@ charted; 20 interviewees (Fig.26 is the only source).
 
 - ch02 spine: 2428-2606 is a single version (no duplicates inside it); 3781-3786 duplicates 2458-2462 and adds only the purpose phrase. 2402-2427 (sections 3.6.1.3-3.6.1.4, the gospel section's introduction) falls between ch05 (to 2400) and ch02 (from 2428) in blueprint v2 and was unassigned; ch02 draft uses it, pending the orchestrator.
 - ch02 source is about 1,500 words for a 4,000-word budget; without added facts the draft reaches about 2,750 reader-facing words.
+
+## Added by chapter-writer, 2026-11-15 (ch03 draft)
+
+- ch03 spine: 1863-1988 has one version only, with no duplicates inside it. Without 1917-1948 (ch06) and 1903-1915 (ch04) it is about 700 words; 1738-1747 and 3611-3621 add about 200. Retelling the parables from the KJV brings the draft to about 2,600 body words plus a 390-word closer, against a 4,200 budget. The gap can only close with the author's story or new material from him.

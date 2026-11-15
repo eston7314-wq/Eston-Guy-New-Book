@@ -778,3 +778,21 @@ racism wording, the theologians, a reconciliation story, Luke 17:3.
 Author (2026-11-15): 'eliminates racism' -> option B, his belief ('can help to break down 
 racism'); unnamed theologians -> his own view; reconciliation story later (slot stays flagged); 
 include Luke 17:3. Sent to chapter-writer for the consolidated draft.
+
+### 2026-11-15 · chapter-writer · consolidate · ch03
+Consolidated draft written to book/03-drafts/ch03-the-way-home.md from thesis 1863-1988 (less 
+1917-1948 for ch06; 1903-1915 put on the cut list as moved to ch04), 1738-1747, 3611-3621 and 
+4014-4015 (Mark 12:31, ch01 row 25). Opens on ch02's closing question. Five H2 sections: love; 
+forgiveness; Good Samaritan; Sower, Kingdom and Matthew 6; Prodigal Son (moved last so the 
+chapter lands on the father who runs). Closes with the ch04 hook (Luke 8:45) and the ch01/ch02 
+closer format. The author's decisions of 2026-11-15 are applied: the racism sentence in his 
+words and 1743-1747 as his view, each with an author-decision comment (open-claims 55-56 marked 
+resolved); Luke 17:3; KJV corrections (Luke 23:34, Matthew 6:12 debts, 6:25, 6:31, lower-case 
+kingdom, heaven/God in the Sower); stony-ground seed withers; guardrail in two sentences citing 
+3331-3338, pointing to ch09, with Brittney not mentioned. Reader-facing body 2,585 and closer 
+392, about 1,220 under the 4,200 budget, not padded. Flags: 0 UNVERIFIED, 0 AUTHOR TO CONFIRM, 
+1 AUTHOR STORY NEEDED (reconciliation). Cut list: 6 rows, all undecided. Did not: use 
+statistics, studies or theologians; invent any story; commit. Questions for the author: the 
+reconciliation story; cut-list row 6 (the meaning of 'might have been enslaved through 
+systematic discrimination', 1874-1875); rows 1-5. Book Bible status and ch03 block, card, voice 
+and source-map notes updated.
