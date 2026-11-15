@@ -753,3 +753,23 @@ Not committed.
 Drive sync: 'Four of the churches...' version uploaded 
 https://docs.google.com/document/d/1dICR04zgAnEpHUXcmmkb1DGMPtuFSBdpXk3t7oP4lok/edit; previous 
 copy renamed SUPERSEDED; register updated.
+
+### 2026-11-15 · book-researcher · research · ch03
+Mode A evidence pack written to book/02-research/ch03-evidence.md under the author's 2026-11-11 
+fact-checking rules (thesis first; Crossref, doi.org and Open Library for existence only; 
+OpenAlex gave 429 and was not used; no web search). Lines: thesis 1863-1988 (less 1917-1948, 
+left to ch06), 1738-1747, 3609-3621, 4014-4015. Inventory of 30 items: 26 thesis-supported 
+(author's statements; none cited in the thesis), 2 unconfirmed: 'eliminates racism' 1884-1885, 
+contradicted by thesis 3984-3985 and 4017-4021, with two softer wordings offered (open-claims 
+55), and the unnamed 'theologians' at 1743-1747 (open-claims 56). 12 outside works on 
+forgiveness, internalised racism, religious worry and forgiveness in abuse confirmed to exist 
+(sources.md 21-32); findings not checked. KJV wording for every verse taken from Project 
+Gutenberg #10 (sources.md 33). The thesis misquotes Luke 23:34 (modern wording), Matthew 6:25 
+('you' for 'ye') and Matthew 6:31 (missing 'or,'); Matthew 6:12 says 'debts'; the Sower in 
+Matthew says 'kingdom of heaven'; the blueprint's 'faith that grows in stony ground' misreads 
+the parable (the seed withers). Guardrail: no support inside the ch03 lines; the thesis 
+supports it at 3331-3338 and 3463-3480 (ch09 owns). Story slot: the thesis has no 
+reconciliation story, so [AUTHOR STORY NEEDED] stands. No statistics. Book Bible rows, status 
+and a 'Ch03 research' section appended; glossary and index updated; ch03 card created. Did not: 
+open any study, use any other site, write a draft or commit. Questions for the author: the 
+racism wording, the theologians, a reconciliation story, Luke 17:3.
