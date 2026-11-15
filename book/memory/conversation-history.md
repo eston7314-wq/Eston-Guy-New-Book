@@ -964,3 +964,9 @@ because no ch03 row applies (the story is his testimony). No commit. For Eston: 
 sentences; N3; N5; optional: a link sentence after his story, the comma before 'today', 
 'sermons', and the subject-verb comma, the unclosed aside and 'Bachelor in Education Degree 
 with Honours' in his story.
+
+### 2026-11-15 · book-orchestrator · decision · ch03
+Author 2026-11-15: lecturer story to say the copied essay was a test of the marking; reword 
+line 73 hope sentences; leave 'trespasses'; Henry/Luke 17:3 parallel does not read right, 
+reword; 'seventeen', 'twenty-five', 'Bachelor of Education degree with honours'; keep comma 
+after 'over the years'.

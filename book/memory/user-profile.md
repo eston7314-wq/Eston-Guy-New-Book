@@ -96,3 +96,8 @@ infers goes under "Proposed" until the author confirms it.
 | 2026-11-15 | ch03 thesis 1874-1875 (cut-list row 6): "Our ancestors were enslaved, and many of us still experience discrimination and exclusion, today." (his words; both meanings) | 05-final/ch03 |
 | 2026-11-15 | ch03: the four story-pass sentences "sound like me" (prayer / "spoke the refusal for him" / "the old line between their peoples" / "the weight this teaching asks you to put down") | 05-final/ch03 |
 | 2026-11-15 | ch03 section 5 story: the University of London lecturer who marked him down, his prayer to forgive, the degree and her letter; saved verbatim in memory/author-stories/2026-11-15-lecturer-forgiveness.md | 05-final/ch03 |
+| 2026-11-15 | ch03 lecturer story: say plainly the copied essay was a test of the marking, e.g. "resubmitted it, reworded, to see whether the same work would get the same grade" | 05-final/ch03 |
+| 2026-11-15 | ch03 line 73 (writer's hope sentences, "hope" twice): reword | 05-final/ch03 |
+| 2026-11-15 | ch03 "trespasses": leave as it is, no source named (fact-check N3) | 05-final/ch03 |
+| 2026-11-15 | ch03 Henry and Luke 17:3 parallel: "does not read right"; reword (fact-check N5) | 05-final/ch03 |
+| 2026-11-15 | ch03 story: "seventeen" and "twenty-five" in words (author's choice over the style sheet's figures rule); "Bachelor of Education degree with honours"; keep the comma after "over the years" | 05-final/ch03 |
