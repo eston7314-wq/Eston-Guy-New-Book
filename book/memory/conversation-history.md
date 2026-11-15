@@ -836,3 +836,27 @@ unchanged; wc -w without comments or notes 3,065 to 3,260. Flags: 1 AUTHOR STORY
 list not edited (all six rows KEEP by the author, recorded by the orchestrator; none placed in 
 this pass). Book Bible status row, examples rows (Calvary amended, John 4:6-10 new) and card 
 updated. No commit. For the author: the four writer's sentences; the reconciliation story.
+
+### 2026-11-15 · developmental-editor · devedit · ch03
+Dev edit of 03-drafts/ch03-the-way-home.md (left unchanged) into 
+04-edited/ch03-the-way-home.md; memo 04-edited/ch03-edit-memo.md with original/revision/why 
+tables (A: kept rows; B: other changes) so the author can reverse any one. Verdict: ready for 
+humanize and fact check. Author rule 2026-11-15 applied: nothing removed. All six kept cut-list 
+rows back in: rows 1-4 (thesis 1903-1915, hope and redemption, 1 Corinthians 15:55, 57 KJV from 
+the pack) as two paragraphs in section 5 after the elder brother and before the story slot, 
+joined by my sentence from Luke 15:24/32 (for the author's ear); row 3 refers back to approved 
+ch02 in paraphrase, not verbatim; row 4 drops 'Above all' (the Kingdom paragraph keeps the 
+chapter's one) and 'crucial'; row 5 opens section 3 as the author reading the Gospels, not a 
+survey finding; row 6 prose held as drafted with a note, 'sermons' not restored (only Matthew 
+5:44 is a sermon), question for the author on 'enslaved'. Other edits: 'Yet' and 'Accordingly' 
+restored to the joins they have in the thesis; the 3984-3985 sentence moved to close section 1 
+as 'The church has not always followed Jesus in this' (was 'has had to learn it too'); 'these 
+two commandments' disambiguated; 'went further' used once; section 1 paragraph split. 
+Byte-identical (script): racism sentence, 1743-1747 sentence, the [AUTHOR STORY NEEDED] slot, 
+every quotation; all 52 comments kept (one moved with its sentence), 9 added. Flags: 1 AUTHOR 
+STORY NEEDED, 0 others; no open-claims rows added. Words: body 2,747 to 2,987, closer 396; wc 
+-w (no comments/notes) 3,260 to 3,500, 700 under budget, not padded. Book Bible v2 status row 
+and a 'Ch03 dev edit' block (ch04 must call back 1903-1915, not repeat it); cut list note 
+appended; card updated. Did not: fill the story slot, add any fact, touch story-pass sentences, 
+edit the ch04 card, commit. Questions for the author: row 6 meaning of 'enslaved' and 
+'sermons'; the hope-paragraph join; the reconciliation story; the four story-pass sentences.

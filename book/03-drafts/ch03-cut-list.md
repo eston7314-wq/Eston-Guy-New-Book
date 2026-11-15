@@ -35,3 +35,5 @@ Not listed:
 - Thesis 1743-1747, "Theologians remind Christians that Jesus's teachings ...", is now his own view
   ("I believe that Jesus's teachings, though often viewed figuratively, require ..."), with no theologian
   named. The unnamed attribution has been removed. (open-claims 56)
+
+Dev edit (developmental-editor, 2026-11-15): all six kept rows are back in the chapter (`book/04-edited/ch03-the-way-home.md`; original / revision / why in `book/04-edited/ch03-edit-memo.md`, table A). Rows 1-4: section 5, two paragraphs after the elder brother and before the story slot (row 3 as a refer-back to ch02, not repeated word for word; row 4 without "Above all"). Row 5: the opening of section 3, as the author reading the Gospels. Row 6: wording held as drafted; "enslaved" and "sermons" are questions for the author. No rows added: nothing was removed in this pass.
