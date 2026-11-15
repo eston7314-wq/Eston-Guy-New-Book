@@ -93,3 +93,6 @@ infers goes under "Proposed" until the author confirms it.
 | 2026-11-15 | ch03 story slot: author will supply a reconciliation story later; leave [AUTHOR STORY NEEDED] | ch03 |
 | 2026-11-15 | ch03: include Luke 17:3 (KJV) to support "forgiving is not excusing the wrong" | ch03 |
 | 2026-11-15 | ch03: "Keep everything in chapter 3 as it was" = nothing from the source is cut from ch03 (cut-list rows 1-6 keep, in ch03, incl. rows 1-4 that were proposed for ch04); wording edits allowed, every change justified in the logs as for ch00-ch02. Ch03 work continues in session on branch claude/gallant-faraday-dultib | 03-drafts/ch03-cut-list.md |
+| 2026-11-15 | ch03 thesis 1874-1875 (cut-list row 6): "Our ancestors were enslaved, and many of us still experience discrimination and exclusion, today." (his words; both meanings) | 05-final/ch03 |
+| 2026-11-15 | ch03: the four story-pass sentences "sound like me" (prayer / "spoke the refusal for him" / "the old line between their peoples" / "the weight this teaching asks you to put down") | 05-final/ch03 |
+| 2026-11-15 | ch03 section 5 story: the University of London lecturer who marked him down, his prayer to forgive, the degree and her letter; saved verbatim in memory/author-stories/2026-11-15-lecturer-forgiveness.md | 05-final/ch03 |

@@ -930,3 +930,11 @@ commit. Note: book/01-outline/author-guidelines.md and editorial-diagnostic-note
 order step 8) do not exist; blueprint-v2 used. Not final: AUTHOR STORY NEEDED 1; voice check. 
 For the author: row 6; the hope join; the four story-pass sentences; N3; N5; the reconciliation 
 story.
+
+### 2026-11-15 · book-orchestrator · decision · ch03
+Author answers 2026-11-15: row 6 wording in his words ('Our ancestors were enslaved, and many 
+of us still experience discrimination and exclusion, today.'); the four story-pass sentences 
+sound like him; section 5 story supplied (University of London lecturer, prayer to forgive, 
+degree, her congratulation letter), saved verbatim in 
+memory/author-stories/2026-11-15-lecturer-forgiveness.md. Still open: line 73 hope sentences, 
+'sermons', N3 trespasses source, N5 Henry parallel.
