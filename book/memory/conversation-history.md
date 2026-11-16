@@ -1326,3 +1326,42 @@ markdown-smart, HTML comments stripped), read back and checked:
 https://docs.google.com/document/d/1O8kIaU8koBVAQ02BDwu4fpunE3ND7uBPXXVaf2BuGOs/edit. The 
 2026-11-15 'draft for review' Drive copy (1GRydd2G...) renamed SUPERSEDED. Register, card, Book 
 Bible updated. When the story arrives: insert, re-sync Drive, rename this copy SUPERSEDED.
+
+### 2026-11-16 · book-researcher · research · 05
+Mode A evidence pack for ch05 written to book/02-research/ch05-evidence.md under the author's 
+2026-11-11 fact-checking rules, blueprint v2 (ch05 block, ch04 and ch06 Owns lines), ch04 pack 
+format (ten sections, no 'What changed' table: first ch05 pack). Inventory of 2166-2292, 
+2339-2400, 1528-1540, 1559-1564, 1587-1591, 906-928, 970-978: 48 items, 37 thesis-supported, 9 
+unconfirmed (open-claims 66-74: 'Research shows' 2174 and 2197 (the eight practices of argument 
+1), 'Numerous studies' 2372, 'has been linked' 975, Smith et al 2003, Larcom citation, 'Reports 
+indicate' 1537, Koenig 2009, Ali and Thompson 2019), 2 corrected (Hebrews 11:1 to Paul; Polanyi 
+Personal Knowledge 1958 not 1966). Argument 5: Smith, McCullough and Poll 2003 exists 
+(Crossref) but is not tied to the thesis by any title; Larcom's UK study is Iyer, Larcom, Shah 
+and She 2025, JEBO 237:107136 (year, lead author, fourth author differ), USA study and the 2024 
+working paper not found, '60%' thesis-supported but not checked; Koenig 2009 has no 
+bibliography entry, two candidates (Can J Psychiatry review; Faith and Mental Health 2009 
+edition), bibliography 69 credits that book to Koenig, King and Carson, OUP 2012, not matched; 
+Ali and Thompson 2019 not in Crossref and the cited issue 11(2) pp. 92-102 holds other 
+articles. 11 works existence-confirmed (sources.md 49-59, incl. counter-evidence Benson 2006 
+STEP, Roberts 2009 Cochrane, Li 2016), 7 rows reused (33, 34, 35, 39, 43, 44, 47; chapter 
+column amended). KJV from the GITenberg mirror of #10 (md5 f14e91c9); gutenberg.org 503, no 
+cross-check. Thesis slips: Philippians 4:6 'request be known'; forty days 'prayed' (Luke 4:2 
+tempted, Matthew 4:2 fasted); Luke 22:39 for 22:41-44; 'Mark 13:32' for 14:32; Hebrews 11:1 
+'Now' dropped, unclosed, to Paul; Matthew 25:35 'an hungered', 'you gave'. Title verse 1 Peter 
+5:7 'Casting all your care' (singular). OpenAlex 429 twice. Book Bible: 4 citation rows (05 
+pack), v2 row 05 Research column, 'Ch05 research' block; open-claims row 14 updated; glossary 
+(4 rows, network note), source-map, index; new ch05 card. Not done: no draft, no outside 
+finding described, no survey figure, no case (none checkable), no commit. For the author: which 
+works are Smith 2003, Koenig 2009, Ali and Thompson 2019; the Larcom USA study and the 60% 
+figure; Polanyi 1958 or 1966; his own prayer or scripture story for the slot; whether the eight 
+practices are his observation.
+
+### 2026-11-16 · book-researcher · research · 05
+Correction to the entry above: the author's ch05 story 
+(memory/author-stories/2026-11-16-psalm-23-prayer.md, saved by the orchestrator during this 
+run: he prays diligently for guidance and repeats Psalm 23 several times in challenging times) 
+is now in the pack (sections 1.5, 3.3, 7, 10), the card and the Book Bible row 05 and block. 
+His testimony, not checked or flagged (rule 3); Psalm 23:1-6 KJV read in the GITenberg mirror 
+('LORD' in quotations). The slot still lacks what the practice did for him: writer to leave 
+[AUTHOR STORY NEEDED: what praying and repeating Psalm 23 does for you]. Note: the WIP commit 
+6a27735 (pack and open-claims) was not made by the researcher; nothing committed by this run.

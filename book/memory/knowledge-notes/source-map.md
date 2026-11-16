@@ -78,3 +78,12 @@ charted; 20 interviewees (Fig.26 is the only source).
 ## Added by chapter-writer, 2026-11-16 (ch04 draft)
 
 - ch04 spine: every ch04 range has one version only, with no duplicates inside it. Usable thesis text is about 2,900 words, the largest of Part Two, so ch04 is the first chapter to come in over budget rather than under: 4,684 words (budget 4,300) with the eschatology (1007-1063) and Revelation (1113-1135) passages kept at about 333 and 246 words against v2's 150 and 100. Blueprint v2's epistemology table also gives 1067-1070 (Hebrews 11:1) to ch04, which source/README.md's line list leaves out; the draft uses it.
+
+## Added by book-researcher, 2026-11-16 (ch05 research)
+
+- ch05 lines cite four studies and one philosopher: Smith et al (2003) (2385-2387; **not in the bibliography**); Larcom et al (2020, 2021) (1528-1537; bibliography 70 gives Larcom, Iyer and She (2024), a Cambridge working paper; the UK study is in Crossref as Iyer, Larcom, Shah and She 2025, *JEBO* 237: 107136; no USA paper found); Koenig (2009) (1559-1564; **no 2009 entry**: bibliography has 67 (2018), 68 (2012), 69 (2012)); Ali and Thompson (2019) (1587-1591; bibliography 2; **not in Crossref**, and the cited issue 11 (2) pp. 92-102 belongs to other articles); Polanyi, *Personal Knowledge* "(1966)" (908; first published 1958; bibliography 101 is the 1974 edition). Open-claims 66-74.
+- Bibliography 69 credits *Faith and Mental Health: Religious Resources for Healing* to "Koenig, King & Carson (2012), Oxford University Press"; Open Library has it by Koenig alone, Templeton Foundation Press 2005 and Templeton Press 2009.
+- Unnamed attributions in the ch05 lines: "Research shows" (2174, 2197), "Numerous studies have shown" (2372), "has been linked" (975), "Reports indicate" (1537).
+- KJV slips in the ch05 lines: Philippians 4:6 "request be known" (2229; the author quotes it correctly at 2801-2803); "prayed alone in the wilderness for forty days" (2233; Luke 4:2 tempted, Matthew 4:2 fasted); Luke 22:39 for the prayer at 22:41-44 (2234); "Mark 13: 32" for 14:32 (2236); Hebrews 11:1 to "the Apostle, Paul", "Now" dropped, quotation unclosed (2218-2219); Matthew 25:35 "an hungered", "you gave" (2288-2290).
+- Ownership inside ch05's ranges: 2216-2224 (Hebrews 11:1, faith) ch04; 2243-2248 (Acts) ch06; 2293-2338 (clergy) ch06; 2349-2351 shared with ch11 (blueprint v2 line 119); 1528 opens "However" against 1524-1526, which is not ch05's.
+
