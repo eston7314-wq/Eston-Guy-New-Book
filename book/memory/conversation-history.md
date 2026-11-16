@@ -1291,3 +1291,24 @@ Author's ch04 follow-ups recorded (user-profile 2026-11-16): row 14 'I believe';
 intended; line 77 sentence cut (row 5); flags 57 and 58 cut; 63 'one acceptable definition of 
 faith'; 15, 16 and 17 reframed as 'I believe'. Open: triune (59), creed wording (60), flags 64, 
 65, story slot, voice check.
+
+### 2026-11-16 · copy-editor · copyedit · 04
+Author's ch04 follow-up decisions (2026-11-16, relayed by the orchestrator in two messages) 
+applied to 05-final/ch04 lines 17, 41, 69, 71, 77, 79, 93, 97, 110 only; log subsection 
+'Author's follow-up decisions (orchestrator, 2026-11-16)' in 05-final/ch04-changes.md, rows 
+7-15 with old/new; status line updated. Row 14 'I believe Christians are reassessing their 
+faith in times of extreme stress, as they could infer from Jesus's teachings.' ('are' the one 
+word added). Row 5: line 77 'Christians live within that tension...' cut. Row 3: no change (cut 
+intended). Cut: open-claims 57 (Scholars attest), 58 (Mark dating; next sentence becomes 'Those 
+themes also speak to ...', for Eston to confirm; orchestrator's 'Mark's Gospel speaks of 
+persecution' alternative offered, KJV Mark 4:17, 10:30 checked), 65 (closer thorn clause). His 
+wording: 63 'one acceptable definition of faith'; 64 'a favourite verse'; 15 and 16 'I believe 
+...' (Brown and Hughes 2017, Harris and Young 2018, 'UK scholars', 'Canadian theologians' 
+removed; one-sentence alternative offered); 17 'Above all, I believe that Christians 
+accept...'. Script vs committed state: only those 9 lines changed; H1, 71 earlier comments, 77 
+spans, remaining flags byte-identical; 9 comments added (80). Open-claims 15, 16, 17, 57, 58, 
+63, 64, 65 resolved (author 2026-11-16), old status kept after 'Was:'. wc all comments stripped 
+4,760 -> 4,607 (sed command 4,899 -> 4,746). Flags now: 1 [UNVERIFIED] (creed wording, 
+open-claims 60), 1 [AUTHOR STORY NEEDED]. No new consistency decision (ch04 no longer uses an 
+era date). Did not: touch 'triune' (59), flag 60, the slot, commit or push. Book Bible ch04 
+status and card updated.
