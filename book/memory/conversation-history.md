@@ -1021,3 +1021,16 @@ feeling'; line 84 split (twenty-five, degree name, comma kept); 'later'; 'To my 
 and the current text side by side. Meaning questions for Eston: are the two B+ the same essay; 
 what 'disprove' means; 'because'; when the degree came. Book Bible row 03, a consistency note 
 and a status bullet; card updated. Did not: apply any proposal, commit, sync Drive.
+
+### 2026-11-16 · copy-editor · final · ch03
+Applied Eston's 2026-11-16 decision on 05-final/ch03-story-proposals.md ("Take all suggestions, 
+especially for suggestion 5 which was 'to test my suspicion'"): rows 1-15 as proposed, row 5 
+with the alternative "To test my suspicion,". Meaning questions settled by his "take all": the 
+two B+ are the same reworded essay (row 3), "and" not "because" (row 8), "later gained" (row 
+13). Script checks against a pre-edit copy: only lines 78, 80, 82, 84, 86, 88 changed; 68 
+earlier comments and 54 quoted spans byte-identical; one author-decision comment added (69); 0 
+flags; no dashes; no Oxford comma. wc -w (comments removed) 3,820 to 3,815; story 321 to 312. 
+Logged in ch03-changes.md "2026-11-16 author decisions (story proposals)"; status line now: 
+approved for voice, all proposals taken, 0 flags. Proposals file marked decided; card, Book 
+Bible 03 row and user-profile Decisions log updated. No new consistency decision (row 15 uses 
+the existing parable-name rule). Not done: commit, push, Drive sync (orchestrator).

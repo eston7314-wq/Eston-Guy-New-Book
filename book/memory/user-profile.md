@@ -107,3 +107,4 @@ infers goes under "Proposed" until the author confirms it.
 | 2026-11-16 | ch03 voice check: "Chapter 03 sounds like me" (approval to follow once the story-flow proposals are settled) | ch03 card |
 | 2026-11-16 | ch03 line 75: "In chapter 2 I wrote that..." sounds awkward; change to "I wrote in chapter 2 that I believe this hope is so strong..." | 05-final/ch03 |
 | 2026-11-16 | ch03 lecturer story: "on this occasion only", copy editor to offer flow changes to match the chapter's language; proposals only, author to choose | 05-final/ch03-story-proposals.md |
+| 2026-11-16 | ch03 lecturer story proposals: "Take all suggestions, especially for suggestion 5 which was 'to test my suspicion'": rows 1-15 taken, row 5 as "To test my suspicion,"; meaning questions settled as proposed (the two B+ are the same reworded essay; "and" not "because"; "later gained") | 05-final/ch03; 05-final/ch03-story-proposals.md |

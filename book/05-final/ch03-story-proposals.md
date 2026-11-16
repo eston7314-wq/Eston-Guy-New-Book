@@ -1,3 +1,5 @@
+Decided 2026-11-16: all rows taken; row 5 as 'To test my suspicion,'.
+
 # Ch03: proposals for the lecturer story (for Eston, not applied)
 
 Copy-editor, 2026-11-16. Eston asked, on this occasion only, for changes that would help his recollection of the unfair lecturer read more smoothly in the language of the rest of the chapter. **Nothing here has been applied.** The chapter file `book/05-final/ch03-the-way-home.md` is unchanged by this proposal; it changed only at line 75 (Task A, see `ch03-changes.md`, "2026-11-16 author decisions").
