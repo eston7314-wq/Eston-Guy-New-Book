@@ -1241,3 +1241,10 @@ rows or the runs' length, apply humanize point 1 or 4 or N7 (offered), commit or
 Eston: 10 flags; story; rows 1-14; run length; Fig.15; N1, N2, N4, N5 (N6 optional); B2, B3, 
 'any sinner'; three story-pass sentences; optional 'In the preface I ...' word order (lines 9, 
 43); read aloud.
+
+### 2026-11-16 · book-orchestrator · decision · 04
+Author decided ch04 cut-list rows 1-9 and 11-14 (1 keep; 2-8 cut; 9 keep as 'I find these 
+creeds profound'; 11 cut; 12 keep Romans 6:4, cut 'the Holy Spirit'; 13 keep; 14 keep in his 
+words 'Christians reassessing their faith in times of extreme stress, as they could infer from 
+Jesus's teachings.'). Row 10 still open. Recorded in the cut list and user-profile; copy-editor 
+to apply the kept rows to 05-final.
