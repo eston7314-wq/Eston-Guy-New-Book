@@ -1270,3 +1270,18 @@ within that tension' (row 5 question), touch row 10, 'triune God' (line 59) or a
 flag, the slot, commit or push. No new consistency decision. For Eston: confirm 'I see' (row 
 14); go-ahead on row 11 removal; row 5 scope; 'triune God' after the Holy Spirit cut; row 10; 
 rest as on the card.
+
+### 2026-11-16 · copy-editor · copyedit · 04
+Follow-up (orchestrator, 2026-11-16): cut-list row 11 applied in 05-final/ch04 line 83 only: 
+the sentence 'Some nineteenth-century scholars dated the book earlier, to the years between 
+Nero's persecution in AD 64 and the fall of Jerusalem in AD 70 [UNVERIFIED: no scholars named; 
+open-claims 59].' deleted and 'Either way, it is generally seen' -> 'It is generally seen', 
+exactly as proposed; one comment added. Script check vs committed 90f9630: only line 83 
+changed; H1, 70 earlier comments, the other 10 flags, 77 spans byte-identical. Open-claims 59 
+marked 'resolved: cut by the author 2026-11-16 (cut-list row 11)' (old status kept in the 
+cell). Row 10 cut by the author (never in the text); cut list 14 of 14 decided. Change log: row 
+6 added under 'Row 11 applied', status line updated; Book Bible ch04 Final cell and status 
+bullet; card updated. wc -w all comments stripped 4,792 -> 4,760 (sed command 4,931 -> 4,899). 
+Flags now 9 [UNVERIFIED] (open-claims 15, 16, 17, 57, 58, 60, 63, 64, 65), 1 [AUTHOR STORY 
+NEEDED]. Did not: touch row 5 (line 77; orchestrator asking Eston), any other text, commit or 
+push.
