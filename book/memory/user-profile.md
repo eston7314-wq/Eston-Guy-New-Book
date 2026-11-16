@@ -116,3 +116,4 @@ infers goes under "Proposed" until the author confirms it.
 | 2026-11-16 | ch04 flag 64 (line 93): say "a favourite verse"; flag 65 (line 110, "Paul's thorn stayed"): cut | 05-final/ch04-changes.md |
 | 2026-11-16 | ch04: line 59 "triune God" keep; line 79 creed wording keep (flag 60 author-confirmed); line 47 story slot left for later | 05-final/ch04-changes.md |
 | 2026-11-16 | ch04 approved: "Chapter 04 sounds like me"; line 97 approved; line 71 reworded sentence acceptable; line 69 single sentence acceptable; author's story (line 47) "to come shortly" | approved-documents.md; 05-final/ch04-changes.md |
+| 2026-11-16 | ch05 story slot: "During challenging times, I pray diligently for guidance, and repeat the Psalm 23: 'The Lord is my shepherd...the Lord for ever,' several times." (verbatim) | memory/author-stories/2026-11-16-psalm-23-prayer.md |
