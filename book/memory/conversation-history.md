@@ -1428,3 +1428,31 @@ for it, much as Polanyi describes.' so the unchanged next sentence ('I believe t
 not 4,073; change 2 is 71 words. Flags, comments, spans and the author's story block unchanged 
 by this correction. Draft notes bullet, ch05-stories.md, Book Bible row 05 and block, and card 
 carry the corrected figures.
+
+### 2026-11-16 · developmental-editor · devedit · 05
+Dev edit of 03-drafts/ch05-casting-your-cares.md (draft left unchanged) to 
+04-edited/ch05-casting-your-cares.md, memo 04-edited/ch05-edit-memo.md (verdict first; tables A 
+moves, B changes B1-B13 with original/revision/why). Verdict: ready for humanize and fact 
+check. Nothing from the author's source removed; cut list untouched (9 undecided), no row 
+added; one writer's sentence removed ('A hymn can be sung under the breath at home as well as 
+in a full church.' and ', with one turn'), listed in the memo for Eston. Main edits: (1) the 
+'Prayer is wishful thinking' half of blueprint v2's shift, named nowhere in the draft, now met 
+in a new paragraph after the umbrella picture (B12, 101 words, from Gethsemane and Hannah 
+already in the chapter; no new fact, name, number or span); (2) the flag-66 'scholarly 
+attention' paragraph moved from section 1 to open section 5, and the church-based-care 
+sentences plus the ch11 pointer (2349-2351) moved from the end of section 4 to the landing 
+before the shift line, so each heading is proved and the shift line is prepared on both halves; 
+(3) promise 'Prayer is not always enough on its own, and I will be honest about when it is 
+not.' now its own sentence, with ch08 named as where it is paid. Also: section 3 heading 
+widened (Polanyi); ch04 callback corrected to what ch04 says (lines 43, 61) and the second 
+varied; 'as I use the term' joined to the preface callback; Polanyi 'and so is good for' stated 
+as his reasoning; three paragraphs split. Script checks vs the draft: H1, 9 flags, 53 spans, 
+every reference, 41 comments (one moved with its paragraph) and the author's story block 
+byte-identical; 12 dev-edit notes; 'I believe' 12; 0 dashes, curly quotes, serial commas. wc -w 
+(comments and notes removed, closer excluded) 4,077 -> 4,180, 220 under 4,400; closer 415. Book 
+Bible v2 row 05 Dev edit and a 'Ch05 dev edit' block; card updated. Did not: touch flagged 
+sentences, the story block, the closer or the cut list; add a survey number; commit. For Eston: 
+B12 for his ear; the removed hymn sentence; whether his Polanyi account ('language or models', 
+'groups and organisations') is from Personal Knowledge itself, and 1958 or 1966; the two 
+resilience sentences; 'speaking with God is itself a kind of therapy' after James 5:16; 
+open-claims 66-74; rows 1-9; story smoothing; Hannah.
