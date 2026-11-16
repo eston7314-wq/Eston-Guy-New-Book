@@ -1052,3 +1052,8 @@ sync: new justified copies for ch01 (1vVUaQy...), ch02 (1eP__PK...), ch03 (18w-5
 previous ch01, ch02 and ch03 copies renamed SUPERSEDED; register updated. Preface and Afterword 
 keep their labels. Drive-only 'draft for review' docs for ch03-ch11 and the Afterword (made by 
 another session, not in this repo) were not changed.
+
+### 2026-11-16 · book-orchestrator · archive · ch03
+Author 2026-11-16: renamed the two Drive-only ch03 'draft for review' docs (1ONPag46..., 
+1f0vEyoh...) to 'SUPERSEDED - ...'. The current ch03 Drive copy is 18w-5Sl... (approved, 
+justified, 'Chapter 3:' heading).
