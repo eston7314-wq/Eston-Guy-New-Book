@@ -1,23 +1,19 @@
 # Context card: the book
 
-**Title:** Thy Faith Hath Made Thee Whole (working, not locked; the strategist ranks "A Fortress, Not a Prison" first)   **Author:** Eston T. B. Guy
-**State (2026-11-07):** blueprint written (01-outline/blueprint.md); awaiting the author's approval of structural changes
-**Length target:** main text 50,400 words: preface, 10 chapters in four parts, afterword; plus about 2,000 in appendices
-**Mode:** consolidate from book/source/ (the author's PhD thesis)
+**Title:** Thy Faith Hath Made Thee Whole (working, not locked; the strategist ranks "A Fortress, Not a Prison" first)   **Author:** Eston T. B. Guy (he/him)
+**State (2026-11-10):** blueprint v2 written (01-outline/blueprint-v2.md) for the author's review; v1 (blueprint.md) kept for comparison. Neither is approved.
+**Length target:** main text about 50,000-52,000 words; v2 budgets 51,700 plus about 2,300 in appendices
 
 **Structural decisions in force**
 - Reader: the general public. Tone: warm and pastoral. Launch: May 2027.
-- Methodology goes to Appendix A; the literature review is spread through the chapters.
-- Proposed parts: Roots (01-02) / What the New Testament Offers (03-06) / When Faith Hurts (07-09) / The Way Forward (10, 99). The old "What 50 Voices Told Me" part is withdrawn pending the data question.
-
-**Rules from the author**
-- British spelling (proposed).
+- 11 chapters (author, 2026-11-10). v2 proposes ch10 "What Fifty People Told Me" and ch11 "The Church and the Clinic", in four parts; Part Four is "Listening and the Way Forward" (10, 11, 99).
+- Survey: 50 real participants; overall numbers only (config rule 10). The only source for numbers is 02-research/survey-aggregate.md. Never use Fig.27.
+- Methodology to Appendix A; literature review spread through chapters.
 
 **Outstanding for the author**
-- ~~Line 4624: were the 50 responses real?~~ **Answered 2026-11-10: yes, 50 real replies** ("generated" meant collected). The 26 survey charts are now in book/source/images/ with their numbers. Survey figures may be used once consent is confirmed.
-- ~~Consent~~ **Decided 2026-11-10:** overall survey numbers only, no individual answers (config hard rule 10).
-- Approve the 10 structural changes in the blueprint; choose a title; choose a Bible translation.
-- Supply the story slots marked [AUTHOR STORY NEEDED] (9 of 12 slots).
-- Publishing route.
+- Approve v2 (structure, parts, ch10 title); choose a title. (Bible translation: KJV throughout, author 2026-11-13.)
+- Survey: the form's scale anchors (Fig.5/7/8), the yes/no help-seeking counts, the SPSS output, whether he conducted the interviews.
+- 11 author story slots; heritage and years in teaching for the bio; publishing route; a clinician for ch08-09.
 
-**For every agent:** read `book/memory/README.md` for the read order, and log your run. Researcher: more than 40 in-text citations are missing from the bibliography (knowledge-notes/source-map.md).
+**Charts (author, 2026-11-11):** Fig.1-26 go back in (key ones in ch10, all in Appendix A, redrawn with answer words; Fig.5/7/8 scale problem footnoted). This amends blueprint-v2's "3 or 4 redrawn charts". Fig.27 included in Appendix A only, by the author's explicit decision after the consent risk was explained (config rule 10 exception).
+

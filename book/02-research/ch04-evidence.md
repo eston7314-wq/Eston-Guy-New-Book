@@ -1,280 +1,402 @@
 # Ch04 evidence pack: Thy Faith Hath Made Thee Whole: Miracles, Letters and Hope
 
-**Mode A.** book-researcher, 2026-11-10. Chicago author-date. `[first name]` marks a first name the search did not show; fill from the paper in Mode B (never from memory).
+**Mode A.** book-researcher, 2026-11-16. Chicago author-date. Rebuilt under the author's fact-checking rules of 2026-11-11; the pack of 2026-11-10 is kept unchanged as `book/02-research/ch04-evidence.pre-2026-11-11.md` (md5 4745c3ce2c89a24ecaec5079f1f84e2e). Brief: `book/01-outline/blueprint-v2.md`, section "04. Thy Faith Hath Made Thee Whole". Source lines (book/source/README.md and the brief): thesis **1989-2165** (3.3-3.4), **1256-1277** (2.6.4), **1414-1442** (2.6.6), **1007-1063** (2.3.1), **1113-1135** (2.3.3) and **1706-1736** (2.8.2). Thesis **2154-2164** (3.4.3 Community Support: 1 Corinthians and Galatians 6:2) **belongs to ch06** (source/README.md) and is checked here only for the reference the ch04 card asks about. Thesis **1738-1747** went to ch03. **1903-1915** is now in ch03 (author decision 2026-11-15; section 1.2).
 
-**How this was verified (read first).** In this session the network allowed web search but blocked
-direct page fetches (WebFetch failed on every host tried; only GitHub was reachable). So every study
-below was checked through search results drawn from the publisher, PubMed/PMC, university
-repository or index record: authors, year, venue, DOI, sample and headline finding. That is
-**abstract-level** verification. No full text was opened. Before any number goes to print, the
-fact-checker (Mode B) should open the DOI or PMC link given and confirm the figure in the paper.
-Scripture was checked word for word against two independent public-domain KJV (1769) text files
-from GitHub (thiagobodruk/bible `en_kjv.json` and scrollmapper/bible_databases `KJV.json`). The two
-agree on every verse below.
+## How this was checked (read first)
 
-**What the chapter argues (blueprint, lines 186-212):** faith works *alongside* medical treatment,
-not instead of it (thesis 2014-2018); faith is intentional reaching; resurrection hope guards
-against despair; the letters teach perseverance, and doubt can belong inside faith.
+This pack follows the author's fact-checking rules of 2026-11-11 (CLAUDE.md), which override the researcher's defaults. Three statuses, and no fourth:
 
----
+| Status | Meaning |
+|---|---|
+| **Thesis-supported (T)** | The thesis states it at the line given. **None of the claims in the ch04 lines carries a checkable source in the thesis** (the only two citations, Brown and Hughes 2017 and Harris and Young 2018, cannot be found), so T means "the author's own statement", not "checked outside". Claims about what faith does for mental health must be written as the author's belief or what Christians hold (config rule 5). |
+| **Existence confirmed (E)** | A book or article was found in Crossref, doi.org or Open Library with title, author(s) and year. That shows only that it exists. **What it says has not been checked** and must not be described in the chapter until the author has read it. |
+| **Unconfirmed (U)** | Neither rule 1 nor rule 2 can confirm it. It goes to `open-claims.md` and stays flagged `[UNVERIFIED: ...]` for the writer. |
 
-## 1. Studies
+**Scripture** is a separate matter. The KJV is a public-domain primary text, not a source whose claims I am checking. As the brief asks, I read every verse in the **GITenberg mirror of Project Gutenberg eBook #10**, `https://raw.githubusercontent.com/GITenberg/The-King-James-Version-of-the-Bible_10/master/10.txt` (downloaded 2026-11-16, HTTP 200, 4,452,097 bytes, md5 f14e91c9a490e60941d2dcb81246e904, the 2011 release file, ASCII), and parsed it into 31,102 verses (the full KJV count). This time `https://www.gutenberg.org/cache/epub/10/pg10.txt` also answered (HTTP 200, 4,455,950 bytes, md5 d906ea218672f02696417f9a669a9011, the same file as sources.md 33), so I parsed it too and compared the two verse by verse for every reference below: **they agree word for word**; the only difference is that the gutenberg.org file prints curly apostrophes ("synagogue’s"). Results are "exact" or "corrected" (section 3).
 
-### Core (use these to carry the argument)
+**Lookup services this session (2026-11-16).**
 
-**S1. Positive and negative religious coping track positive and negative mental health.**
-Ano, Gene G., and Erin B. Vasconcelles. 2005. "Religious Coping and Psychological Adjustment to
-Stress: A Meta-Analysis." *Journal of Clinical Psychology* 61 (4): 461-480.
-https://doi.org/10.1002/jclp.20049
-- Plain English: across 49 studies (105 effect sizes), people who cope by trusting a loving God and
-  seeking God's help tend to adjust better; people who feel punished or abandoned by God tend to
-  adjust worse. It is the same faith, used two ways.
-- Why it matters for ch04: it supports the chapter's hope theme *and* gives the honest counterweight
-  in one source.
+| Service | Result |
+|---|---|
+| api.crossref.org | **Worked** (HTTP 200 throughout; one-second pauses between calls) |
+| doi.org | **Worked**: handle API `https://doi.org/api/handles/<doi>` gave responseCode 1 (registered) for all 15 DOIs in section 4. Plain doi.org redirects to publishers were not followed |
+| openlibrary.org | **Worked** (`/search.json` by title and author) |
+| api.openalex.org | **Worked for one search, then HTTP 429** ("Rate limit exceeded", shared no-key daily budget, as in ch02 and ch03). Used for one Harris and Young search only; no key requested |
 
-**S2. Black Americans and Black Caribbeans in the US lean on religious coping more than White Americans.**
-Chatters, Linda M., Robert Joseph Taylor, James S. Jackson, and Karen D. Lincoln. 2008. "Religious
-Coping among African Americans, Caribbean Blacks and Non-Hispanic Whites." *Journal of Community
-Psychology* 36 (3): 371-386. https://doi.org/10.1002/jcop.20202 (full text: PMC2967036)
-- Plain English: in the National Survey of American Life, African Americans and Black Caribbeans
-  endorsed religious coping (for example prayer under stress) more than White Americans. Women more
-  than men. Among Black Caribbeans, Haitian-born respondents more than Jamaican-born.
-- Note: this shows faith is *used*; it does not show faith *works*. Do not write it as an outcome study.
+No web search, publisher site, Wikipedia, news site or other website was used. Gutenberg and its GitHub mirror were used for the KJV text only, as the brief allows. Nothing below comes from memory.
 
-**S3. Belief in life after death goes with fewer psychiatric symptoms (resurrection hope).**
-Flannelly, [first name], [first name] Koenig, [first name] Ellison, [first name] Galek, and [first name] Krause. 2006.
-"Belief in Life after Death and Mental Health: Findings from a National Survey." *Journal of
-Nervous and Mental Disease* 194 (7): 524-529. https://doi.org/10.1097/01.nmd.0000224876.63035.23
-- Plain English: in a US national sample of 1,403 adults, stronger belief in an afterlife was linked
-  with lower symptoms in all six symptom groups measured (including anxiety and depression), after
-  allowing for age, stress and social support. Church attendance on its own was not linked.
-- Caution: cross-sectional (one point in time), so association only. A 2008 follow-up by several of
-  the same authors (Journal of Psychology and Theology) reported that *pleasant* afterlife beliefs
-  went with better mental health and *unpleasant* ones with worse. Not separately verified; see
-  "Could not verify". This matters: a hope built on fear of hell (the Athanasian Creed line the
-  thesis quotes at 1043-1046) may not help.
+**Files the memory README asks for that do not exist:** `book/01-outline/author-guidelines.md` and `book/01-outline/editorial-diagnostic-notebooklm.md` (as in ch03). The blueprint-v2 ch04 section was used as the brief.
 
-**S4. Eschatological hope as a measurable thing, inversely related to depression and anxiety.**
-Witvliet, Charlotte V. O., M. Elizabeth Lewis Hall, Julie J. Exline, David C. Wang, Lindsey M. Root
-Luna, Daryl R. Van Tongeren, David G. Myers, Alexis D. Abernethy, and John D. Witvliet. 2022. "The
-Eschatological Hope Scale: Construct Development and Measurement of Theistic Eschatological Hope."
-*Journal of Psychology and Christianity* 41 (1): 16-35. Record:
-https://digitalcommons.hope.edu/faculty_publications/1521
-- Plain English: across three studies (1,466 participants), hope that "God will make all things new"
-  could be measured reliably, and higher scores went with lower depressive and anxious symptoms and
-  less negative religious coping, and with more gratitude and patience under hardship.
-- Caution: a scale-development paper, correlational; samples not drawn from African-heritage
-  congregations.
+**Open-claims numbering.** The ch04 card says the pack's could-not-verify items are "open-claims rows 5-12". That was their numbering on the branch where the first pack was made; after the merge they were renumbered after ch00's (history, 2026-11-10 merge entry). **In the current `open-claims.md` the ch04 rows are 15-22.** This pack uses the current numbers.
 
-**S5. Faith-integrated therapy works as well as standard therapy, and slightly better for the devout.**
-Koenig, Harold G., et al. 2015. "Religious vs. Conventional Cognitive Behavioral Therapy for Major Depression in
-Persons with Chronic Medical Illness: A Pilot Randomized Trial." *Journal of Nervous and Mental
-Disease* 203 (4): 243-251. https://doi.org/10.1097/NMD.0000000000000273 (DOI confirmed by search; co-authors
-to be listed from the paper in Mode B)
-- Plain English: 132 adults with depression and a chronic illness got 10 sessions of either
-  ordinary CBT or CBT that drew on their own faith. Both did about equally well at 12 weeks; the
-  faith-based version did slightly better among the more religious (interaction p = 0.048).
-- Why it matters: this is the nearest thing to direct evidence for "faith **alongside** treatment".
-  It is treatment that includes faith, not faith instead of treatment. It is a pilot, and not an
-  African-heritage sample.
+## What changed from the pack of 2026-11-10 (and why)
 
-### Supporting (UK and Canada, where the core studies are US-heavy)
+The first pack was built on blueprint v1, before the author's rules of 2026-11-11, in a session where only web search worked. It described what thirteen studies found from search-result summaries. Under the new rules that is no longer allowed: outside the thesis I may confirm only that a work exists. Every change below follows from that or from the 2026-11-15 ownership change.
 
-**S6. Canada.** Beagan, [first name], [first name] Etowa, and [first name] Bernard. 2012. "'With God in
-Our Lives He Gives Us the Strength to Carry On': African Nova Scotian Women, Spirituality, and
-Racism-Related Stress." *Mental Health, Religion & Culture* 15 (2): 103-120.
-https://doi.org/10.1080/13674676.2011.560145
-- 50 mid-life African-heritage women in Nova Scotia; mixed methods. Spirituality was a central way of
-  coping with racism: church community, faith, a personal relationship with God, meaning. Some
-  reframed hardship as trials to get through with God's help (close to Romans 5:3-5). The authors
-  urge mental-health workers to partner with churches. The title is itself a usable quotation
-  (verified as the published title).
-
-**S7. UK.** Mantovani, Nadia, [first name] Pizzolati, and [first name] Edge. 2017. "Exploring the Relationship
-between Stigma and Help-Seeking for Mental Illness in African-Descended Faith Communities in the UK."
-*Health Expectations* 20 (3): 373-384. https://doi.org/10.1111/hex.12464 (open access, PMC5433535)
-- Qualitative interviews in south London faith groups (faith leaders, active members, regular
-  attendees). Beliefs about what causes mental illness, and a "silencing" of the subject driven by
-  stigma, shaped whether people sought help. Sample size reported in the search as 6 + 13 + 7 = 26;
-  confirm in Mode B (search results mixed this paper with a companion study).
-
-**S8. UK clergy.** Leavey, Gerard, Kate Loewenthal, and Michael King. 2017. "Pastoral Care of Mental
-Illness and the Accommodation of African Christian Beliefs and Practices by UK Clergy."
-*Transcultural Psychiatry* 54 (1): 86-106. https://doi.org/10.1177/1363461516689016
-- Clergy are often the first called on, but have little mental-health training and little
-  collaboration with health services. Better placed in ch06/ch10; listed so they do not re-search it.
-
-**S9. The evidence base for church-run mental-health programmes is thin.** Hankerson, [first name], and
-[first name] Weissman. 2012. "Church-Based Health Programs for Mental Disorders among African Americans:
-A Review." *Psychiatric Services* 63 (3): 243-249. PMID 22388529; PMC3952019.
-- Church programmes have narrowed racial gaps for several physical conditions, but the literature for
-  mental disorders was "extremely limited" (only 8 studies qualified, one with depression as the main
-  outcome, per a secondary summary). Use in the synthesis, not as a claim of benefit.
-
----
-
-## 2. Statistics (primary sources; overall figures only)
-
-| # | Figure | Source | Note |
+| # | Old pack (2026-11-10) | This pack (2026-11-16) | Why |
 |---|---|---|---|
-| T1 | 97% of Black American adults say they believe in God or a higher power. Survey of 8,660 Black adults, Nov 2019 to Jun 2020 | Pew Research Center. 2021. "Faith Among Black Americans." 16 February 2021. https://www.pewresearch.org/religion/2021/02/16/faith-among-black-americans/ (and "10 New Findings about Faith among Black Americans", same date) | Verified via Pew's own pages in search results |
-| T2 | 68.8% of Black people in Canada reported a Christian religion in the 2021 Census (18.0% no religion; 11.9% Muslim) | Statistics Canada. 2024. Table released in *The Daily*, 25 October 2024 (Black populations, 2021 Census). https://www150.statcan.gc.ca/n1/daily-quotidien/241025/t002b-eng.htm | Verified via StatCan table and StatCan Black History Month page |
-| T3 | 172 children died in the US, 1975-1995, where parents relied on faith healing instead of medical care; 140 of them from conditions where survival with medical care would have exceeded 90% | Asser, Seth M., and Rita Swan. 1998. "Child Fatalities from Religion-Motivated Medical Neglect." *Pediatrics* 101 (4): 625-629. https://doi.org/10.1542/peds.101.4.625 | Counter-evidence. Cases gathered informally, so a floor, not a rate. US data; the paper is not about African-heritage churches, so do not imply that it is |
+| W1 | 13 studies with their findings and numbers (S1-S9, C1-C4: e.g. "49 studies, 105 effect sizes", "n = 1,403", "interaction p = 0.048", "AOR 2.90") | The same works kept, **existence only** (section 4). All findings and numbers removed from use. Author lists now complete from Crossref (every `[first name]` gap filled) | Rule 2: "Do not try to confirm what a source says beyond the fact that it exists." The old findings came from search summaries, which the rules no longer allow |
+| W2 | 14 of the works existence-confirmed by search only | **14 of 15 now confirmed in Crossref and registered at doi.org** (sources.md 34-47). Witvliet et al. 2022: only the scale's PsycTESTS record (doi 10.1037/t93628-000) was found, not the *Journal of Psychology and Christianity* article | Rule 2 names Crossref, OpenAlex, doi.org and Open Library as the only ways to confirm. Hankerson and Weissman 2012 now has its DOI (10.1176/appi.ps.201100216) in place of a PMID |
+| W3 | Statistics T1-T3: Pew 2021 (97% believe in God), Statistics Canada 2021 Census (68.8% Christian), Asser and Swan 1998 (172 child deaths) | **No statistics** (section 5). Asser and Swan kept as existence only | Pew and Statistics Canada are not indexed by the four services; a figure is what a source says, which rule 2 forbids me to confirm. Listed for the author in open-claims 62 |
+| W4 | Survey: suggested Fig.1 (faith importance, 3/8/6/14/19) if a figure was wanted | **No survey number in ch04** (section 5) | Ch10 owns the findings and blueprint v2 gives ch04 none; ch00 has already previewed two. Fallback given in section 5 if the author wants one |
+| W5 | King, "Shattered Dreams": draft wording "accept the finite disappointment and yet cling to the infinite hope", verified on the Stanford King Papers page | *Strength to Love* (1963) **existence confirmed** in Open Library (OL1945959W); **the wording is unconfirmed** (open-claims 19 stays open) | Stanford is not one of the four services, and the wording of a quotation is content |
+| W6 | Case: Rev. Michael A. Walrond, Harlem (NPR, 23 March 2025) | **Withdrawn as the pack's case**; listed for the author to check himself (open-claims 61). The thesis has no named case for ch04 (section 1.5) | NPR is not one of the four services. Never guess (rule 4) |
+| W7 | KJV checked against two GitHub JSON files (thiagobodruk; scrollmapper) | KJV re-read from the GITenberg mirror of #10 (the brief's route) and cross-checked against gutenberg.org #10. **Every verse the old pack checked still holds**; 40 more verses added (section 3) | Brief; book-wide KJV source (sources.md 33) |
+| W8 | Several thesis line numbers in the old KJV table were off by up to six lines (e.g. Hebrews paraphrase "2113-2114", Luke 17:19 "2111", Philippians 4:8 "2147-2151") | Corrected to the lines in `thesis-2025.md` (2107-2108, 2104-2105, 2144-2149, etc.) | Agents cite lines from this file (source/README.md) |
+| W9 | Hebrews 11:1 paraphrase (2107-2108) "matches modern (NIV) wording" | Only "**not KJV wording**" kept | I cannot check the NIV under the rules; the KJV comparison stands |
+| W10 | Mark dated "65-75 CE", Revelation "c. 95 CE, resting chiefly on Irenaeus" (search-level scholarship) | **Withdrawn.** "B.C.E." corrected to CE on the thesis's own authority (1127 puts Nero's persecution at "AD 64"); who the "scholars" are, and the dates, are unconfirmed (open-claims 58, 59) | Outside scholarship cannot be confirmed beyond existence; the thesis can correct its own slip |
+| W11 | "The Apostle Luke" flag, from search | Flag kept, **now on the KJV text**: Luke 6:13-16 names the twelve apostles and no Luke is among them | Primary text instead of search |
+| W12 | Greek *sōzō* gloss for "made thee whole" (glossary, from Bible-study sites) | **Not usable.** The KJV itself shows the two English forms (section 3.1) | No lexicon is reachable under the rules; the thesis says nothing about the Greek |
+| W13 | 1903-1915 and 1 Corinthians 15:55-57 assumed to be ch04's | **Now ch03's** (author, 2026-11-15). Ch04 calls them back, does not repeat them (section 1.2) | Author decision; Book Bible "Ch03 dev edit" and "Ch03 fact check" |
+| W14 | Opening not specified | **Ch04 opens on ch03's hook**: "Who touched me?" (Luke 8:45) and the woman who reached for him (section 1.1) | 05-final/ch03 line 90 |
+| W15 | Counter-evidence C1-C4 described from studies | Counter-evidence now from **the thesis itself** (2689-2704, 3651-3655, 3973-3976, 4899-4903) and from **the scripture**; the four studies kept as existence-only titles (section 8) | Rule 2 |
+| W16 | Brown and Hughes (2017), Harris and Young (2018): "web search x2, nothing" | **Re-searched under the rules**: bibliography (absent), Crossref (2 queries each), Open Library (2 each), OpenAlex (1, then rate-limited). Still not found | Rules 1-2 |
 
-Author's own survey (hard rule 10): if ch04 uses a survey figure, use only an overall count from the
-charts in `book/source/images/` (for example the faith-importance chart, 1-5: 3/8/6/14/19, n = 50),
-state n = 50, and do not claim it represents all people of African heritage. No individual answers.
-
----
-
-## 3. Quotations
-
-**Q1. Martin Luther King Jr., "Shattered Dreams".** Verified source: the draft sermon "Shattered
-Dreams" (Draft of Chapter X of *Strength to Love*), King Papers Project, Martin Luther King, Jr.
-Research and Education Institute, Stanford University, dated 1 July 1962 to 31 March 1963 (date
-queried by the archive). https://kinginstitute.stanford.edu/king-papers/documents/draft-chapter-x-shattered-dreams
-- Draft wording (as shown by the archive): "accept the finite disappointment and yet cling to the
-  infinite hope".
-- The popular form, "We must accept finite disappointment, but we must never lose infinite hope", is
-  attributed to the published sermon in *Strength to Love* (1963; Fortress Press edition 2010,
-  p. 94 per secondary citations). Published wording **could not be verified**; check a print copy.
-- Fit: King builds the sermon on Paul's unfulfilled plan to go to Spain (Romans 15:24), so it sits
-  naturally beside the letters on perseverance.
-
-**Q2. Pastor Michael A. Walrond (see Case).** A line attributed to him in one search summary, "You can
-trust God and go see a doctor to get medication for high blood pressure", **could not be verified**
-in a second search. Do not use until the NPR transcript is checked.
+**Kept from the old pack because it still holds under the new rules:** every KJV wording and every misquotation it found (Luke 8:43 "had spent all her living upon physicians"; Luke 17:19 "Arise,"; Luke 17:13 "Jesus,"; Romans 8:28 "the called"; 1 Corinthians 15:19 "of all men"; Philippians 4:8 typo and semicolon; Romans 5:2-5 compressed; Romans 6:4 does not mention the Holy Spirit; 1 Corinthians 1:12, with "I am of Paul", rebukes division; "thy faith hath saved thee" at Luke 7:50 and 18:42); the open questions to the author (Brown and Hughes; Harris and Young; 1 Corinthians 12:12-27 at 2156); the advice to write every benefit as belief, never as a finding; the advice to name the harm and point to ch07; the Samaritans guideline for any suicide reference; the "Faith as intentional reaching" framework and the shift line.
 
 ---
 
-## 4. Case (real, named, dated)
+## 1. The brief's specific points
 
-**Rev. Michael A. Walrond, First Corinthian Baptist Church, Harlem, New York.**
-Riddle, Katia. 2025. "This Harlem Pastor Fights Mental Health Stigma, and Shares His Own Struggles."
-NPR, *Shots*, 23 March 2025 (earlier broadcast 22 February 2025).
-https://www.npr.org/sections/shots-health-news/2025/03/23/nx-s1-5336793/mental-health-harlem-black-church-pastor
-Transcript: https://www.npr.org/transcripts/nx-s1-5336793
-- Verified (NPR and member stations): after suicidal thoughts in his late thirties he went into
-  therapy and credits it with saving his life; he preaches that mental-health care matters as much
-  as physical care; the church set up a separate nonprofit, the H.O.P.E. Center, that employs
-  therapists, directed by Dr Lena Green.
-- Fit: a pastor of African heritage who reached for God **and** a therapist. It answers the chapter's
-  shift exactly ("reaching out can include a doctor").
-- Cautions: it involves suicide, so follow the Samaritans guidelines in the Book Bible (no method,
-  help line nearby). US only. The H.O.P.E. Center may belong to ch10 (church and clinic); the
-  orchestrator should give ch04 the personal story and ch10 the centre, or choose one.
-- This does not fill the `[AUTHOR STORY NEEDED]` slot; the author's own story is still needed.
+### 1.1 The opening: ch03's hook must be met
 
----
+Approved ch03 ends (05-final/ch03-the-way-home.md, line 90): "Jesus did not only teach. He healed, and once, with a crowd pressing round him, he stopped and asked, "Who touched me?" (Luke 8:45). The next chapter follows that question to the woman who reached for him, and to what her faith had to do with her healing."
 
-## 5. Synthesis
+So ch04 owes the reader two things at once: **the woman** and **what her faith had to do with her healing**. Thesis 2084-2094 gives exactly that (C24, C25), and the KJV supports every step (section 3.1):
 
-The research supports ch04's main position, and it supports it most when the claim is kept modest.
-African-heritage Christians in the US (S2) and in Canada (S6, T2) lean on faith to cope, and the
-form of faith matters. Trust in a loving God and hope of renewal go with less depression and
-anxiety (S1, S3, S4). Fear of punishment, or feeling abandoned by God, goes with more (S1, C1). The
-best direct evidence for "faith **alongside** treatment" is S5. There, therapy that drew on
-patients' faith did as well as standard therapy, and a little better for the devout. That is faith
-inside care, which is the chapter's point exactly.
+- Her twelve years and the physicians: "a woman having an issue of blood twelve years, which had spent all her living upon physicians, neither could be healed of any" (Luke 8:43). Mark is harder: she "had suffered many things of many physicians, and had spent all that she had, and was nothing bettered, but rather grew worse" (Mark 5:26).
+- Her reaching: "Came behind him, and touched the border of his garment" (Luke 8:44); her thought is given in Mark 5:28 ("If I may touch but his clothes, I shall be whole") and Matthew 9:21, **not in Luke**. The thesis's "in the belief that she would be healed if only she touched" (2086-2087) should carry Mark 5:28, not Luke 8.
+- The question: "Who touched me? When all denied, Peter and they that were with him said, Master, the multitude throng thee and press thee" (Luke 8:45). The thesis says "most of His followers denied" (2088); **the KJV says "all"**.
+- Her coming forward: "she came trembling, and falling down before him, she declared unto him before all the people for what cause she had touched him, and how she was healed immediately" (Luke 8:47).
+- The word: "Daughter, be of good comfort: thy faith hath made thee whole; go in peace" (Luke 8:48).
 
-**Where the evidence is weaker than the outline assumes:**
-- Almost everything is correlational. Hope and belief are *associated* with better mental health;
-  no study here shows that believing in the resurrection *causes* less despair. Write "is linked
-  with", never "reduces" (the thesis says "can reduce anxiety", 2018-2019, and "alleviating", 2042).
-- Most quantitative studies are American, and S3-S5 do not sample African-heritage believers. UK
-  evidence (S7, S8) is qualitative and is mostly about stigma and help-seeking, not about hope.
-- The church-programme evidence base for mental disorders is "extremely limited" (S9).
-- The thesis's "research shows that Christians accept the basic eschatology" (1035) has no source;
-  and the two scholars it cites for ch04 (Brown and Hughes 2017; Harris and Young 2018) could not be
-  found (see below).
+**For the writer.** ch03 has already quoted "Who touched me?" with its reference. Open on the woman herself (the twelve years, the doctors, the crowd), not by quoting 8:45 again as the first line; the blueprint warns against opening three chapters running on a Bible quotation, and ch04's engine is "a single dramatic healing". Ch00 has already spent the Luke 8:48 line (with the Pope Francis moment, acknowledgements 90-96); ch04 tells the whole story, and the 8:48 line lands at its close.
 
-## 6. Strongest counter-evidence
+**A join the text offers (optional).** In both Luke and Mark her story is told inside another: Jairus's "one only daughter, about twelve years of age ... lay a dying" (Luke 8:42), and while Jesus is still speaking to the woman, word comes "Thy daughter is dead" (8:49). Jesus answers, "Fear not: believe only, and she shall be made whole" (8:50), and raises the girl (8:54-55). Twelve years of illness and a girl of twelve; the same "made whole". The raising of Jairus's daughter is one of the three resurrection miracles the thesis names (2044-2045), so this passage can carry argument 2 into argument 4 without a new source.
 
-1. **C1. Religious struggle predicts death in medically ill older patients.** Pargament, K. I.,
-   H. G. Koenig, N. Tarakeshwar, and J. Hahn. 2001. "Religious Struggle as a Predictor of
-   Mortality among Medically Ill Elderly Patients: A 2-Year Longitudinal Study." *Archives of
-   Internal Medicine* 161 (15): 1881-1885. https://doi.org/10.1001/archinte.161.15.1881
-   About 596 patients aged 55+ at Duke and the Durham VA. After adjusting for health and mood, more
-   religious struggle at baseline predicted higher risk of death over two years (risk ratio about
-   1.06 per unit of the struggle score; press summaries turned this into "28% more likely", which is
-   not the paper's figure). Key items: feeling abandoned or punished by God, believing the devil
-   caused the illness. **This is the harm side of "if I had enough faith I would be healed".** If
-   illness is read as God's punishment or a sign of weak faith, faith can become a burden. Ch07
-   owns guilt and demons; ch04 should name it in a sentence and point forward.
-2. **C2. Faith healing instead of treatment kills.** Asser and Swan 1998 (T3): 172 child deaths.
-   UK, African-heritage context: in October 2011 BBC London reported at least three people with HIV
-   in London who died after stopping antiretroviral drugs on the advice of evangelical pastors
-   (reported by PinkNews, 18 October 2011, and the National Secular Society, citing the BBC; BBC
-   original not opened). The church BBC reporting linked to the claims denied telling anyone to stop
-   medication. **Ch07 owns how healing stories are used to replace treatment** (blueprint promise
-   04 -> 07). Ch04 should only promise to return to it. Legal caution: do not name a church or
-   pastor in connection with deaths without the original report and a libel read.
-3. **C3. Hope can push people towards more aggressive, not wiser, care.** Phelps, Andrea C., Paul K.
-   Maciejewski, Matthew Nilsson, Tracy A. Balboni, Alexi A. Wright, et al. 2009. "Religious Coping and Use of Intensive Life-Prolonging
-   Care near Death in Patients with Advanced Cancer." *JAMA* 301 (11): 1140-1147.
-   https://doi.org/10.1001/jama.2009.341
-   345 patients: high positive religious coping was linked with more mechanical ventilation or
-   resuscitation in the last week of life (adjusted odds ratio 2.90, 95% CI 1.14-7.35, adjusted for age and race). A miracle-centred hope can
-   work against a peaceful death. Relevant if the chapter speaks of hope at the end of life.
-4. **C4. Spiritual struggle and doubt are common and distressing.** Exline, Julie J., Kenneth I.
-   Pargament, [first name] Grubbs, and [first name] Yali. 2014. "The Religious and Spiritual Struggles
-   Scale: Development and Initial Validation." *Psychology of Religion and Spirituality* 6 (3):
-   208-222. https://doi.org/10.1037/a0036465
-   Six kinds of struggle: divine, demonic, interpersonal, moral, ultimate meaning, doubt. The wider
-   literature links struggle with distress. This both supports and complicates the "doubt can
-   belong inside faith" argument (Mark 15:34): doubt is normal, but unsupported struggle hurts.
-   Point to pastoral company, not to "more faith".
+### 1.2 What ch04 calls back but does not repeat (author decision, 2026-11-15)
 
----
+Ch03 (approved 2026-11-16) now carries thesis **1903-1915** and **1 Corinthians 15:55, 57**. In 05-final/ch03, lines 73-75:
 
-## 7. Scripture check (KJV 1769, two independent texts)
-
-| Ref | Verified KJV wording | Thesis line and difference |
+| Spent in ch03 | ch03 wording (line) | Ch04 may |
 |---|---|---|
-| Luke 8:43-48 | 43 "And a woman having an issue of blood twelve years, which had spent all her living upon physicians, neither could be healed of any," 44 "Came behind him, and touched the border of his garment: and immediately her issue of blood stanched." 45 "And Jesus said, Who touched me? When all denied, Peter and they that were with him said, Master, the multitude throng thee and press thee, and sayest thou, Who touched me?" 46 "And Jesus said, Somebody hath touched me: for I perceive that virtue is gone out of me." 47 "And when the woman saw that she was not hid, she came trembling, and falling down before him, she declared unto him before all the people for what cause she had touched him, and how she was healed immediately." 48 "And he said unto her, Daughter, be of good comfort: thy faith hath made thee whole; go in peace." | 2088-2097: v.48 exact. **Note for ch04:** v.43 says she "had spent all her living upon physicians" (Mark 5:26 likewise). She had already sought doctors; the text does not set faith against medicine. The thesis's "most of His followers denied" is a paraphrase of "When all denied" |
-| Mark 5:34 | "And he said unto her, Daughter, thy faith hath made thee whole; go in peace, and be whole of thy plague." | not quoted in the thesis; book title phrase verified |
-| Luke 17:19 | "And he said unto him, Arise, go thy way: thy faith hath made thee whole." | 2111: "Go thy way: thy faith hath made thee whole": omits "Arise," |
-| Luke 17:13 (extra) | "...Jesus, Master, have mercy on us." | 2105: "Master, have mercy on us" omits "Jesus," |
-| Hebrews 11:1 | "Now faith is the substance of things hoped for, the evidence of things not seen." | 2113-2114 paraphrase "confidence in what we hope for and assurance about what we do not see" matches **modern (NIV) wording, not KJV**, and is attributed to "Apostle Paul"; write "the writer to the Hebrews" (Book Bible rule) |
-| Romans 5:3-5 | 3 "And not only so, but we glory in tribulations also: knowing that tribulation worketh patience;" 4 "And patience, experience; and experience, hope:" 5 "And hope maketh not ashamed; because the love of God is shed abroad in our hearts by the Holy Ghost which is given unto us." | 2129-2133 (cited as 5:2-5): compressed; "Stand and rejoice" is a paraphrase of 5:2 ("wherein we stand, and rejoice in hope of the glory of God"); ends before "which is given unto us"; closing quotation mark missing |
-| Romans 8:18 | "For I reckon that the sufferings of this present time are not worthy to be compared with the glory which shall be revealed in us." | 1710-1711 paraphrase only; fine |
-| Romans 8:28 | "And we know that all things work together for good to them that love God, to them who are the called according to his purpose." | 1417-1418: "to them who are called": **missing "the"** |
-| Philippians 4:8 | "Finally, brethren, whatsoever things are true, whatsoever things are honest, whatsoever things are just, whatsoever things are pure, whatsoever things are lovely, whatsoever things are of good report; if there be any virtue, and if there be any praise, think on these things." | 2147-2151: typo "whatsoever things are is honest"; "of good report," should be "of good report;" |
-| Philippians 4:13 | "I can do all things through Christ which strengtheneth me." | 1260-1261: exact |
-| Mark 15:34 | "And at the ninth hour Jesus cried with a loud voice, saying, Eloi, Eloi, lama sabachthani? which is, being interpreted, My God, my God, why hast thou forsaken me?" | 1271-1273: exact for the quoted parts |
-| 1 Corinthians 1:12 | "Now this I say, that every one of you saith, I am of Paul; and I of Apollos; and I of Cephas; and I of Christ." | 2156-2158: **confirmed: the words are 1 Cor 1:12, not "1 Corinthians 12"**. Also "I am Paul" should be "I am of Paul". **Bigger problem:** in context (1:10-13) Paul is rebuking *division* in the church ("Is Christ divided?"), so the verse argues against the point the thesis uses it for ("communal bonds"). The author may have meant 1 Cor 12:12-27 (one body, many members). Author to decide; the passage belongs to ch06 in any case |
-| 1 Corinthians 15:19 (extra) | "If in this life only we have hope in Christ, we are of all men most miserable." | 2054-2055: "We are all men most miserable": should be "we are of all men most miserable" |
-| Romans 6:4 (extra) | "...like as Christ was raised up from the dead by the glory of the Father, even so we also should walk in newness of life." | 2061-2063: the verse does not mention the Holy Spirit; "the Holy Spirit" after the quotation is the author's addition |
-| "Thy faith hath saved thee" (2006) | Luke 7:50 and Luke 18:42 | verified; the Luke 8 / Mark 5 / Luke 17 stories use "made thee whole" (Greek *sōzō* covers both) |
+| 1905-1907 resurrection "the cornerstone" of the faith, "victory over death and sin" | "Christians hold that Jesus's resurrection is the cornerstone of their faith, symbolising victory over death and sin." (73) | Call back in a clause ("As I wrote in chapter 3, ...") |
+| 1 Corinthians 15:55, 57 | "O death, where is thy sting? O grave, where is thy victory? ... But thanks be to God, which giveth us the victory through our Lord Jesus Christ" (73) | **Not quote again.** 1 Corinthians 15:18 and 15:19 (same chapter, ch04 lines 1031, 2053-2054) remain ch04's |
+| 1907-1909 hope "resonant" for people of African heritage | "In my view, this message of hope can be particularly resonant ..." (75) | Not restate |
+| 1909-1912 hymns, prayers, gospel music | ch02 owns the wording; ch03 refers back (75) | Not restate |
+| 1912-1915 "Many African Christians also proclaim ..." redemption, purpose, optimism | (75) | Not restate. The Book Bible limit stands: reported testimony, no number |
 
-Also checked and exact: John 16:32-33 (ellipsis fine), Hebrews 12:2 phrase, 1 Peter 1:13 phrase,
-Romans 10:17, James 2:24, Psalm 46:11 (omits "Selah"), John 10:38, Mark 8:34, Mark 11:22-24
-(compressed with ellipsis), Galatians 6:2.
+**What ch04 still owns on hope** (blueprint v2, argument 4): resurrection hope **as a way of coping**: Lazarus and the other raisings (2040-2064), Revelation as comfort to the persecuted (1113-1135), Romans 8:18 and 8:28 (1414-1442, 1706-1720), 1 Corinthians 15:19, and the creeds-and-eschatology paragraph cut to about 150 words (1007-1063, no millennial views). The difference from ch03 is the angle: ch03 used the resurrection as the hope behind "was dead, and is alive again"; ch04 uses it as a hope people hold while ill, grieving or persecuted. 1 Thessalonians 4:13 KJV ("that ye sorrow not, even as others which have no hope") and Revelation 21:4 are available for that angle (section 3.4; not in the thesis, the writer's or author's choice).
 
-**Other factual points in the ch04 passages**
-- "The Apostle Luke" (2098): Luke is not one of the apostles; tradition holds him a companion of Paul. Blueprint flag stands.
-- Mark "about 64 B.C.E." (1725): should be CE. Scholars place Mark between about 65 and 75 CE; some link it to Nero's persecution after the fire of Rome (64 CE). Write "written, many scholars think, around the time of Nero's persecution in the 60s CE, or soon after".
-- Revelation dating (1127-1129, garbled "between AD 64"): the majority view is late in Domitian's reign (c. 95 CE), resting chiefly on Irenaeus, *Against Heresies* 5.30.3; a minority dates it to Nero's reign (60s). Write as "most scholars" / "some scholars". Search-level verification only.
-- Millennial views (1010-1026): present as what traditions hold (hard rule 5); the thesis's "will not be a literal one" (1019-1020) states one view as fact.
+### 1.3 The open questions on the ch04 card
+
+| Question | Finding under the rules | Status |
+|---|---|---|
+| Brown and Hughes (2017), "UK scholars" (thesis 1712-1714) | Rule 1: not in the bibliography (5000-5483; grep for Brown and Hughes finds only 1348, 1364, 1712-1713). Rule 2: Crossref author search "Brown Hughes", 2017, with "suffering hope faith" and with "theology suffering Christian": no work by both names; Open Library, two searches: 0 results; OpenAlex: rate-limited before this search. **Not found** | U, open-claims 15 (updated). Author to give the full reference, or the sentence is reframed as his view (rule 9: the sentence stays, flagged, until he decides) |
+| Harris and Young (2018), "Canadian theologians" (1715-1717) | Rule 1: not in the bibliography (the only Harris is Michael W. Harris 1992, gospel blues, entry 52 at 5188). Rule 2: Crossref, 2018, "Harris Young" with "eternal life divine justice hope" and with "eschatology psychological comfort Christian": no joint work; Open Library, two searches: nothing relevant; OpenAlex, one search (2017-2018): no joint work. **Not found** | U, open-claims 16 (updated) |
+| 1 Corinthians 12:12-27 meant at 2156? | The words quoted at 2156-2158 are **1 Corinthians 1:12** (KJV: "Now this I say, that every one of you saith, I am of Paul; and I of Apollos; and I of Cephas; and I of Christ."). In context (1:10-13: "that there be no divisions among you ... Is Christ divided?") Paul rebukes division, so the verse argues against "communal bonds". 1 Corinthians 12:12 ("For as the body is one, and hath many members ...: so also is Christ"), 12:26 ("whether one member suffer, all the members suffer with it") and 12:27 ("Now ye are the body of Christ") fit the thesis's point. Which passage he meant is his to say | Question for the author. **ch06 owns 2154-2164**; ch04 should not use either |
+
+### 1.4 The blueprint's flags
+
+| Flag | Thesis | Finding | For the writer |
+|---|---|---|---|
+| "The Apostle Luke" | 2098 | The KJV names the twelve apostles at Luke 6:13-16: Simon Peter, Andrew, James, John, Philip, Bartholomew, Matthew, Thomas, James the son of Alphaeus, Simon called Zelotes, Judas the brother of James, Judas Iscariot. No Luke. The Gospel names no author in its text (Luke 1:1-3 addresses "most excellent Theophilus"); the KJV heading is "The Gospel According to Saint Luke" | Write "Luke tells us" or "In Luke's Gospel". Do not add "Luke the physician" (Colossians 4:14 has "Luke, the beloved physician", but that this Luke wrote the Gospel is tradition and the thesis does not say it; it would need a source) |
+| Hebrews attributed to Paul | 2107 (and 2218, ch05's) | Book Bible rule (author, 2026-11-13): "the writer to the Hebrews". **For the author's information:** the KJV's own heading is "The Epistle of Paul the Apostle to the Hebrews", but the letter's text never names its writer (no verse of Hebrews contains "Paul"; script check). The rule stands | "The writer to the Hebrews" |
+| "1 Corinthians 12" for 1:12 | 2156-2158 | Section 1.3 | ch06 |
+| Millennial views | 1017-1026 | Cut in v2 | Cut-list row (config rule 8): 1017-1026 (Revelation 20:1-6; amillennial and postmillennial views) |
+| New, from the KJV: James's audience | 2112-2113 "Apostle James in his letters to the believers in Jerusalem" | James 1:1: "James, a servant of God and of the Lord Jesus Christ, to the twelve tribes which are scattered abroad". One letter, to the scattered, not to Jerusalem; it does not call James an apostle | "In the letter of James" (James 2:24). The "scattered abroad" audience may suit a diaspora reader, if the author wants it |
+| New, from the KJV: "day or hour" | 1036-1037, cited to 1 Thessalonians 4:13-18 | Not in 1 Thessalonians 4:13-18. "Of that day and hour knoweth no man" is Matthew 24:36 (Mark 13:32 "that day and that hour"); the nearest in 1 Thessalonians is 5:2 ("as a thief in the night") | Likely cut in the 150-word condensation; if kept, cite Matthew 24:36 |
+| New, from the thesis: Mark "about 64 B.C.E." | 1725 | The thesis itself puts Nero's persecution at "AD 64" (1127) and Domitian later (1117), so "B.C.E." is a slip for CE. That "scholars believe" Mark was written then is U (open-claims 58) | "in the 60s AD" only if the author keeps the scholars' view, flagged |
+
+### 1.5 The story slot and the case
+
+The blueprint's slot: [AUTHOR STORY NEEDED: a time you or someone close "pushed through the crowd", acting in faith while ill or grieving, including going for medical help]. **The thesis contains no such story.** What it holds:
+
+| Lines | What is there | Use |
+|---|---|---|
+| 90-96 | The author hears of Pope Francis's death and remembers "Thy faith hath made thee whole" | **Spent in ch00**; refer back in a clause at most |
+| 2029-2035 | People of African heritage who sought help from church groups and food banks in the Covid-19 years; "Some of those Christians in need, proclaimed, 'God works in mysterious ways'" | General, no person or event; good for argument 3, not a story |
+| 3463-3480 | Brittney Guary | ch09's |
+| `memory/author-stories/` | Gladesmore prayer (ch02, spent); lecturer forgiveness (ch03, spent) | Neither is about illness or reaching for help |
+
+**The slot stays `[AUTHOR STORY NEEDED: ...]`.** Do not invent one.
+
+**Real case.** The thesis names no person for ch04. The old pack's case (Rev. Michael A. Walrond, NPR 2025) cannot be confirmed under the rules and is open-claims 61, for the author to read himself if he wants it. The woman in Luke 8 is the chapter's case in the sense the blueprint means ("a single dramatic healing"), and she is scripture, written as what the text says.
 
 ---
 
-## 8. Could not verify
+## 2. Every named person, work, figure and claim in the ch04 lines
 
-| Item | Searched | Found instead |
+T = thesis-supported (author's statement); E = existence confirmed; U = unconfirmed; "corrected" = a claim about a biblical text that the KJV contradicts. Line numbers are thesis lines. Scripture wording is in section 3.
+
+### People, works and figures
+
+| # | Item | Lines | Status | Note |
+|---|---|---|---|---|
+| N1 | Jesus as healer and miracle worker | 1991-2064 | T | As the figure of the Gospel texts; words checked in section 3 |
+| N2 | "Scholars attest to Jesus' teaching that only those who first trusted God and the power of His kingdom could understand the meaning of the miracles" | 2002-2004 | **U** | No scholar named, no citation (open-claims 57). Recast as the author's reading, or flag |
+| N3 | Christian Aid, the Salvation Army: their work "viewed as acts of God" | 2025-2029 | T | Author's statement. Organisations are not books or studies; rule 2 does not reach them. Name them only as he does |
+| N4 | Covid-19 food banks, 2020-2021 | 2029-2034 | T | Author's observation; no number |
+| N5 | "God works in mysterious ways", said by "Some of those Christians in need" | 2034-2035 | T | Reported saying. **Not in the KJV** (no verse contains "mysterious"). The writer must not present it as scripture; its source beyond that is not checked |
+| N6 | "The Apostle Luke" | 2098 | corrected | Section 1.4 |
+| N7 | "Apostle Paul" for Hebrews 11:1 | 2107 | corrected | Book Bible rule; section 1.4 |
+| N8 | "Apostle James in his letters to the believers in Jerusalem" | 2112-2113 | corrected | James 1:1; section 1.4 |
+| N9 | Brown and Hughes (2017), "UK scholars" | 1712-1714 | **U** | Open-claims 15 |
+| N10 | Harris and Young (2018), "Canadian theologians" | 1715-1717 | **U** | Open-claims 16 |
+| N11 | "Scholars believe that Mark's Gospel was written when the Church of Rome was suffering severe persecution under emperor Nero about 64 B.C.E." | 1723-1725 | **U** | Era corrected to CE from thesis 1127; scholars unnamed (open-claims 58) |
+| N12 | John on Patmos "towards the end of the reign of Emperor Domitian"; John as "one of the last of the closest followers of Jesus" | 1115-1119 | T | Patmos is in the text: "I John ... was in the isle that is called Patmos" (Revelation 1:9). That this John is the apostle, and the Domitian date, are the author's statements; write as what tradition holds or what he believes (rule 5) |
+| N13 | "some 19th Century scholars state that the Book of Revelation was written between AD 64, because of persecution under Emperor Nero and the fall of Jerusalem in AD 70" | 1126-1128 | **U** | Garbled ("between AD 64") and unnamed; it also sits uneasily with 1117 (Domitian). Open-claims 59. In 100 words, the writer can leave the dating out |
+| N14 | Anglicans, Quakers, Pentecostals, Baptists and Roman Catholics who "feel that our world is in turmoil" | 1119-1122 | T | Author's observation |
+| N15 | The Apostles', Nicene and Athanasian Creeds, quoted | 1044-1054 | **U** (wording) | That the creeds say these things is the thesis's statement (T). The exact wording cannot be checked under the rules (no creed text in the four services), the thesis does not say which version it quotes, and the Athanasian lines open with no quotation mark and close with one. Open-claims 60. **Paraphrase** in the 150-word paragraph |
+| N16 | "research shows that Christians accept the basic eschatology" | 1041 | **U** | No source (open-claims 17). "The creeds say" is the safe form |
+| N17 | "Many amillennial thinkers argue ... postmillennial thinkers claim ..." | 1019-1026 | not checked | Cut by blueprint v2; needs a cut-list row |
+| N18 | Mark's narrative themes (Kingdom of God, Discipleship, Christ, Faith, Glory, Judgment, Love, Satan) | 1722-1723 | T | Author's list |
+| N19 | Studies and statistics cited in the ch04 lines | only N9, N10 | n/a | **The thesis cites no other study, report or statistic in any ch04 range.** Dates only: 2017, 2018, AD 64, AD 70, "64 B.C.E.", 2020-2021 |
+
+### Claims
+
+| # | Claim | Lines | Status | Note for the writer |
+|---|---|---|---|---|
+| C1 | All four Gospels record Jesus's "mighty works", "the term used for miracles in the Synoptics" | 1991-1992 | T | KJV agrees: "mighty works" occurs in Matthew (6 verses), Mark (3) and Luke (2) and not in John, which speaks of "miracles" and "signs" (John 2:11; 20:30) |
+| C2 | "Even the Jewish opponents of Jesus acknowledged his unique power (Mark 3:22)" | 1993-1994 | T | The verse has "the scribes which came down from Jerusalem" saying "He hath Beelzebub, and by the prince of the devils casteth he out devils". They grant the power and give it a hostile source. Say so if the verse is used; "the scribes", not "the Jewish opponents" |
+| C3 | Four types of miracle: exorcisms, healings, raising the dead, nature miracles | 1994-1996 | T | Author's classification |
+| C4 | In Mark, the mighty works made "a profound impression on the people of Galilee" | 1996-1998 | T | Mark 1:27-28 ("his fame spread abroad throughout all the region round about Galilee") |
+| C5 | The miracles manifest the power of God; "not ends in themselves; they were signs of the kingdom's power" | 1998-2002 | T | What Christians hold (rule 5); blueprint argument 1 |
+| C6 | Faith is "the basis of healing"; "Thy faith hath saved thee" is a common theme | 2004-2007 | T | KJV: "thy faith hath saved thee" at Luke 7:50 and 18:42; "thy faith hath made thee whole" at Matthew 9:22, Mark 5:34, Mark 10:52, Luke 8:48 and Luke 17:19. Seven sayings in all (script count) |
+| C7 | "Christians are expected to demonstrate their faith in God's power, to benefit from His divine interventions" | 2007-2008 | T | Author's statement. **Caution:** read alone, it implies that someone not healed lacked faith, which is the burden ch07 names. Pair it in the same paragraph with the shift line and the counterweights in section 8 |
+| C8 | Healing the blind (John 9:1-12) and the lepers (Luke 17:11-19) shows compassion and the power to restore health | 2012-2014 | T | John 9:2-3 is worth the writer's eye: "who did sin, this man, or his parents ...? Jesus answered, Neither hath this man sinned, nor his parents". Ch07 owns "illness is not moral failure"; ch04 may plant it in a clause |
+| C9 | **"For believers, like those of African heritage, these narratives affirm the possibility of divine healing and encourage the personal search for spiritual support alongside medical treatment."** | 2014-2016 | T | **The source sentence for the book's position** (blueprint). Quote or keep close to it, on the author's authority. Scripture that sits with it: Luke 8:43 and Mark 5:26 (she had gone to physicians); Luke 5:31 ("They that are whole need not a physician; but they that are sick", Jesus's own saying) |
+| C10 | "The belief in a compassionate and healing God can reduce anxiety and promote peace of mind" | 2016-2018 | T | Author's belief. Write it as belief ("I believe ... can ease anxiety"), never as a finding |
+| C11 | The feeding of the five thousand (Matthew 14:13-21) emphasises God's care; such narratives "can instil a sense of security, and reduce worries about material needs" for people facing economic hardship | 2022-2025 | T | Author's belief. KJV 14:21: "about five thousand men, beside women and children"; 14:14: "moved with compassion toward them, and he healed their sick" (healing and feeding in one scene) |
+| C12 | Charities' work is viewed as acts of God, inspiring people to help the needy "as Jesus did" | 2025-2029 | T | = N3 |
+| C13 | Many people of African heritage had anxiety from poverty, hunger and homelessness and sought help from church and community groups and Covid-era food banks | 2029-2034 | T | Author's observation; no number; ch03 already used 3611-3615 (economic hardship) in one clause, so ch04 should not restate that |
+| C14 | Lazarus (John 11:1-44) and Jesus's resurrection are central to Christian hope in life after death and "the ultimate triumph over suffering" | 2040-2042 | T | What Christians hold. Ch03 spent "cornerstone" (section 1.2); use Lazarus, not 1 Corinthians 15:55-57 |
+| C15 | Eschatological hope "can provide a profound sense of peace and purpose, alleviating existential anxiety and despair" | 2042-2043 | T | Author's belief |
+| C16 | The Gospels record three resurrection miracles: a widow's son, Jairus's daughter, Lazarus | 2044-2045 | T | KJV: Luke 7:11-15; Mark 5:35-43, Luke 8:49-56, Matthew 9:18-26; John 11:1-44. All three present. "Three" is the thesis's count |
+| C17 | "This shows that God, through Christ, can save any sinner regardless of age, period of sinfulness or the seriousness of the sin" | 2045-2047 | T | Author's inference (rule 5). The texts do not describe the three as sinners; write "I read in these three ..." |
+| C18 | The miracles were signs that he "was approved by God (Acts 2:22)"; the resurrection "sealed the fact that His people are accepted by God (Romans 1:4; 4:25; 1 Peter 1:21)" | 2049-2052 | T | Acts 2:22 "approved of God among you by miracles and wonders and signs": matches. The other three are about the resurrection; "accepted" is the author's reading of Romans 4:25 ("raised again for our justification") |
+| C19 | Without the resurrection, "We are all men most miserable" (1 Corinthians 15:19) | 2053-2054 | T | **Misquoted**, section 3.4 |
+| C20 | The Father raised him (Acts 2:24; 3:15; 10:40; Ephesians 1:20); Romans 6:4 "...", "the Holy Spirit" | 2056-2061 | T | All four references say God raised him: match. Romans 6:4 does not mention the Holy Spirit; the thesis's "the Holy Spirit" after the quotation is the author's addition and must sit outside the quotation marks, as his |
+| C21 | The resurrection miracles teach "that there is life after death, besides victory over pain; they give hope and inspiration to overcome suffering" | 2061-2064 | T | What Christians believe (the thesis frames it so) |
+| C22 | The letters are foundational; written by Paul, Peter, John "and other notable individuals"; themes of faith, community, perseverance and hope resonate with the diaspora | 2068-2076 | T | |
+| C23 | The letters present faith as "a resolve of staying steadfast during trials (Romans 5:3-5)" | 2082-2084 | T | |
+| C24 | The woman with the issue of blood: pushing through the crowd, touching the border, "Who touched me?", "most of His followers denied", her explanation, "Daughter, be of good comfort ..." | 2084-2092 | T | **Corrected detail:** "all denied" (Luke 8:45), not "most". Her belief that touching would heal her is Mark 5:28 / Matthew 9:21. "Pushing through the crowd" matches Mark 5:27 ("came in the press behind"). Section 1.1 |
+| C25 | "A sign of faith is being intentional. Faith is having a clear goal in mind that leads one to concentrate all one's energy on achieving it." | 2092-2094 | T | The author's teaching; Book Bible framework "Faith as intentional reaching" rests here |
+| C26 | The ten lepers showed faith by going to the priests "before they had visual evidence"; the priests "had the authority to declare them fit to re-engage in their community" | 2096-2103 | T | KJV: "as they went, they were cleansed" (Luke 17:14). The priests' role is in the Law: the leper "shall dwell alone; without the camp shall his habitation be" (Leviticus 13:46); in the day of his cleansing "He shall be brought unto the priest ... and the priest shall look" (Leviticus 14:2-3). Scripture supports the thesis here |
+| C27 | The one who returned to thank him: "Go thy way: thy faith hath made thee whole" (Luke 17:19) | 2103-2105 | T | KJV begins "Arise, go thy way". **The one who returned "was a Samaritan"** (17:16), "this stranger" (17:18): a join back to ch03's Good Samaritan |
+| C28 | "Apostle Paul taught that faith is confidence in what we hope for and assurance about what we do not see" | 2107-2108 | T (author's paraphrase) | **Not KJV wording.** KJV Hebrews 11:1: "Now faith is the substance of things hoped for, the evidence of things not seen." Quote the KJV; "the writer to the Hebrews" |
+| C29 | Living faith is shown by service and obedience; James 2:24 "by works a man is justified, and not by faith only" | 2110-2114 | T | Quotation exact. James 2:17 ("faith, if it hath not works, is dead, being alone") is the same thought, if the writer wants a plainer line |
+| C30 | Mark 11:22-24 resonates with Christians of African heritage who pray with confidence | 2116-2120 | T | Quotation exact (ellipsis fine). **Caution:** 11:24 ("believe that ye receive them, and ye shall have them") is the verse most often used to tell the unhealed they did not believe enough (section 8) |
+| C31 | "these Christians have strong personal belief in God's power, and in Jesus as God incarnate" | 2121-2122 | T | Author's inference ("One can infer") |
+| C32 | John 10:38: knowledge as an essential element of faith | 2122-2126 | T | Quotation exact apart from the capital "Though" (KJV "though", mid-verse). Context 10:31-33 (the Jews "took up stones again to stone him") supports "who challenged His authority" |
+| C33 | Romans 5:2-5 quoted | 2128-2133 | T | **Misquoted**, section 3.3 |
+| C34 | **The author's definition of faith:** "a strong personal belief in God's power and in Jesus incarnate. It is having confidence in what is hoped for with the assurance that hopes will be realised" | 2135-2140 | T | Book Bible key term, first given in full in 04 (ch00 previewed it). It is his own wording, not a quotation of Hebrews; set Hebrews 11:1 KJV beside it as scripture |
+| C35 | Philippians 4:8 "encourages believers to focus on positive outcomes"; hope "can be particularly therapeutic, offering a counter-narrative to the trauma experienced by many in the diaspora" | 2144-2152 | T | Author's belief. **Misquoted**, section 3.3. The verse says "think on these things"; "dwell on" is the thesis's word, outside the quotation |
+| C36 | 1 Corinthians "12" and Galatians 6:2 on communal bonds | 2154-2164 | T (ch06's) | Section 1.3 |
+| C37 | Knowledge of scripture fosters resilience; Philippians 4:13 | 1258-1261 | T | Quotation exact |
+| C38 | Jesus encourages resilience before the crucifixion (John 16:32-33) | 1262-1265 | T | Quotation exact with ellipses. 16:32 goes on "and yet I am not alone, because the Father is with me", which may suit the chapter |
+| C39 | Hebrews 12:2: Jesus persevered, focused on "the joy that was set before him" | 1267-1271 | T | Phrase exact |
+| C40 | "Some Christians point to the weakening of Jesus's resilience" at Mark 15:34; "it is argued that like Jesus, many Christians go through a form of self-assessment of their faith, implying a form of reaffirmation at times of extreme stress" | 1271-1277 | T | Reported view with no one named ("it is argued"). Write as the author's view (blueprint argument 5: doubt can belong inside faith). Mark 15:34 exact |
+| C41 | Romans 8:28 instils hope and purpose, "crucial for maintaining mental well-being" | 1416-1420 | T | Belief. **Misquoted** ("the called"), section 3.4 |
+| C42 | Christians' purpose is to glorify God, share the gospel and love others | 1420-1424 | T | What Christians hold |
+| C43 | For many people of African heritage anxious about jobs, housing and their children's education, hope in God's promises helps | 1426-1429 | T | Author's observation; no number |
+| C44 | 1 Peter 1:13; Romans 10:17; "Hope is not wishful thinking; it is part of faith" | 1429-1435 | T | Quotations exact (1 Peter 1:13 begins mid-verse with lower-case "hope"; KJV goes on "...revelation of Jesus Christ;") |
+| C45 | Jeremiah 29:11; Psalm 46:2-3; "The Lord of hosts is with us; the God of Jacob is our refuge" (Psalm 46:11) | 1435-1442 | T | Jeremiah 29:11 is paraphrased; **its audience** is "all that are carried away captives ... from Jerusalem unto Babylon" (29:4), the exiles, not "the righteous". The exile setting may suit a diaspora reader. Psalm 46:11 KJV prints "LORD" (quotations keep their form) and ends "Selah" |
+| C46 | Romans 8:18 gives "a framework for understanding personal and collective struggles" | 1710-1712 | T | Paraphrase accurate |
+| C47 | Brown and Hughes "argue that these teachings help believers make sense of their suffering" | 1712-1714 | **U** | = N9 |
+| C48 | Harris and Young: "the promise of eternal life and divine justice provides great psychological comfort" | 1715-1717 | **U** | = N10 |
+| C49 | At times of struggle, many Christians reflect on Gospel themes for hope, perseverance and peace of mind | 1717-1720 | T | Author's observation |
+| C50 | Mark's context of persecution resonates with the experiences of people of African heritage | 1726-1728 | T | Author's view |
+| C51 | Mark is "a call to faithful discipleship in the face of suffering"; Mark 8:34 | 1730-1733 | T | Quotation exact |
+| C52 | The feeding of the five thousand and the healing of "the despised Syrophoenician woman's daughter" inspire many to work for justice and bring communities together | 1733-1736 | T | Author's view. KJV spells "Syrophenician" (Mark 7:26); narration may keep the thesis's spelling. "Despised" is the author's reading of Mark 7:27 ("the dogs") |
+| C53 | Eschatology is key to a believer's satisfaction, "more so" for people of African heritage | 1007-1009 | T | Author's view |
+| C54 | The Church's eschatology: the Second Coming, a thousand-year Kingdom, the defeat of evil and death | 1009-1013 | T | What traditions hold. The thousand years is v2's cut |
+| C55 | "eschatological beliefs appear to be associated with an individual's religiosity" | 1013-1016 | T | Sounds like a finding but cites nothing; write as the author's view or leave out (it falls in the condensed section) |
+| C56 | Paul's "fallen asleep" (1 Corinthians 15:18); the Kingdom "here, now" yet Christ "yet to come" (15:24); readiness, "day or hour" (1 Thessalonians 4:13-18); the temple in the believer's heart (Ephesians 2:22) | 1028-1039 | T | "fallen asleep" exact ("fallen asleep in Christ"). 15:24 speaks of "the end, when he shall have delivered up the kingdom to God": "here, now" is the author's reading. "Day or hour": wrong reference (section 1.4). Ephesians 2:22 has "an habitation of God through the Spirit" (2:21 "an holy temple in the Lord"); "in the heart" is the author's reading |
+| C57 | "research shows" and the three creeds | 1041-1054 | **U** | = N15, N16 |
+| C58 | **"Believers accept that Christian eschatology is in itself a form of coping mechanism"**, giving people of African heritage "mental strength and resilience when faced with injustice, prejudice, racism, uncertainty or other forms of suffering" | 1056-1063 | T | The core of v2's 150-word paragraph. What believers hold and the author believes; not a finding |
+| C59 | Revelation "was meant as a comfort to the early church, in a time when evil seemed rampant" | 1113-1119 | T | What "New Testament-inspired Christians believe" (the thesis frames it so) |
+| C60 | Revelation is "a book of hope and a book of warning" that resonates with people facing injustice | 1128-1135 | T | Author's view. Revelation 21:4 ("God shall wipe away all tears from their eyes ...") is the plainest KJV line for comfort, if the writer wants one (not in the thesis) |
+
+**Counts (ch04 inventory, 79 rows: N1-N19 and C1-C60; N19 is a note, and C47, C48 and C57 repeat N9, N10, N15-N16, so 75 distinct items):** thesis-supported **64** (N1, N3-N5, N12, N14, N18; C1-C46, C49-C56, C58-C60); unconfirmed **7** (N2, N9, N10, N11, N13, N15, N16); corrected from the KJV **3** (N6, N7, N8); not checked, cut by v2 **1** (N17). Existence confirmed: **0** inside the thesis lines (the two works cited cannot be found); **15** outside works (section 4; one only as a dataset record). Scripture: section 3.
+
+---
+
+## 3. Scripture: exact KJV wording for the writer
+
+Source: GITenberg mirror of Gutenberg #10, cross-checked against gutenberg.org #10 (details above). Quotations keep the KJV's own spelling and capitals ("shew", "LORD", "Syrophenician", lower-case "kingdom"), per the style sheet. No translation tag (style sheet, author 2026-11-13).
+
+### 3.1 The woman with the issue of blood (argument 2; the opening)
+
+| Ref | KJV wording | Thesis line and difference |
 |---|---|---|
-| Brown and Hughes (2017), UK scholars on suffering and hope (thesis 1711-1713) | Web search x2: names + 2017 + theology/suffering/Black Christians/UK/Romans 8:18 | Nothing. Not in the bibliography. Nearest real work: Leavey, Loewenthal and King 2017 (S8) |
-| Harris and Young (2018), Canadian theologians on eternal life and divine justice (1713-1716) | Web search x2: names + 2018 + Canada/eschatology/Black church | Nothing. Not in the bibliography (Harris, M. W. 1992 is a different, gospel-blues book) |
-| "Research shows that Christians accept the basic eschatology" (1035) | No source given in thesis | Nothing to check; rephrase as what the creeds say |
-| ONS Census 2021: share of Black people in England and Wales who are Christian | Search x2 | ONS table RM031 exists but its figures did not show; Wikipedia gives about 67% (secondary). Fetch RM031 directly in Mode B |
-| Pew 2021: share of Black Americans who pray daily | Search | 63% and 64% both reported, partly by secondary sources; not used |
-| SAMHSA NSDUH: share of Black adults with mental illness who got treatment | Search | Conflicting secondary figures (15-40%); not used |
-| King, *Strength to Love* published wording "We must accept finite disappointment, but we must never lose infinite hope" | Search x3 | Draft wording verified at Stanford (Q1); published wording not seen |
-| Walrond quotation (Q2) | Search x2 | Not confirmed |
-| Asser and Swan abstract wording (quotable conclusion) | Search | Seen only as a search summary; 172 figure verified |
-| Flannelly et al. 2008 pleasant/unpleasant afterlife beliefs | Search (incidental) | Title and finding seen in an index record only |
-| BBC London report, October 2011, HIV deaths | Search | Contemporaneous reports citing BBC verified; BBC article not opened |
-| Full texts of every study above | WebFetch blocked (DNS) for all non-GitHub hosts | Abstract-level only |
+| **Luke 8:43** | "And a woman having an issue of blood twelve years, which had spent all her living upon physicians, neither could be healed of any," | 2084-2085 reference only. **She had already gone to physicians**: the text does not set faith against medicine |
+| **Luke 8:44** | "Came behind him, and touched the border of his garment: and immediately her issue of blood stanched." | 2086-2087 "the border of Jesus' garment": matches |
+| **Luke 8:45** | "And Jesus said, Who touched me? When all denied, Peter and they that were with him said, Master, the multitude throng thee and press thee, and sayest thou, Who touched me?" | 2088 "Who touched me?": exact. "most of His followers denied": **KJV "all denied"**. Quoted in ch03 line 90 (hook) |
+| Luke 8:46 | "And Jesus said, Somebody hath touched me: for I perceive that virtue is gone out of me." | Not in the thesis |
+| **Luke 8:47** | "And when the woman saw that she was not hid, she came trembling, and falling down before him, she declared unto him before all the people for what cause she had touched him, and how she was healed immediately." | 2089-2090 paraphrase: accurate |
+| **Luke 8:48** | "And he said unto her, Daughter, be of good comfort: thy faith hath made thee whole; go in peace." | 2091-2092: **exact**. Used in ch00 (line only) |
+| Luke 8:41-42, 8:49-50, 8:54-55 (frame) | 42 "For he had one only daughter, about twelve years of age, and she lay a dying. But as he went the people thronged him." 49 "While he yet spake, there cometh one from the ruler of the synagogue's house, saying to him, Thy daughter is dead; trouble not the Master." 50 "But when Jesus heard it, he answered him, saying, Fear not: believe only, and she shall be made whole." 54 "...took her by the hand, and called, saying, Maid, arise." 55 "And her spirit came again, and she arose straightway: and he commanded to give her meat." | Not quoted; Jairus's daughter is named at 2045. Join in 1.1 |
+| **Mark 5:25-34** (parallel) | 25 "And a certain woman, which had an issue of blood twelve years," 26 "And had suffered many things of many physicians, and had spent all that she had, and was nothing bettered, but rather grew worse," 27 "When she had heard of Jesus, came in the press behind, and touched his garment." 28 "For she said, If I may touch but his clothes, I shall be whole." 29 "And straightway the fountain of her blood was dried up; and she felt in her body that she was healed of that plague." 30 "...turned him about in the press, and said, Who touched my clothes?" 33 "But the woman fearing and trembling, knowing what was done in her, came and fell down before him, and told him all the truth." 34 "And he said unto her, Daughter, thy faith hath made thee whole; go in peace, and be whole of thy plague." | 5:34 not quoted in the ch04 lines (ch07's 3654-3655 misquotes it, "made the whole"). **5:26 cuts both ways** (section 8) |
+| Matthew 9:20-22 (parallel) | 20 "...a woman, which was diseased with an issue of blood twelve years, came behind him, and touched the hem of his garment:" 21 "For she said within herself, If I may but touch his garment, I shall be whole." 22 "But Jesus turned him about, and when he saw her, he said, Daughter, be of good comfort; thy faith hath made thee whole. And the woman was made whole from that hour." | Not in the thesis. Matthew has "hem"; Luke "border" |
+| Leviticus 15:25 (background, optional) | "And if a woman have an issue of her blood many days out of the time of her separation, or if it run beyond the time of her separation; all the days of the issue of her uncleanness shall be as the days of her separation: she shall be unclean." | Not in the thesis. The Law counted her unclean, and 15:27 says "whosoever toucheth those things shall be unclean". That this explains why she came from behind and trembled is **a reading, not stated in the Gospels**; if used, write it as such |
+| "Thy faith hath saved thee" | Luke 7:50 "And he said to the woman, Thy faith hath saved thee; go in peace." Luke 18:42 "And Jesus said unto him, Receive thy sight: thy faith hath saved thee." | 2006: phrase exact. The five "made thee whole" sayings are listed at C6 |
+| Luke 5:31 (optional) | "And Jesus answering said unto them, They that are whole need not a physician; but they that are sick." | Not in the thesis. Jesus's own saying uses the physician as the picture of help for the sick (Matthew 9:12, Mark 2:17 alike). It can support "reaching out can include a doctor" as the author's reading |
 
-**Paywall / access note for the next pass:** in this environment only GitHub resolves. Use GitHub-hosted
-public-domain texts for scripture; everything else needs search, or a session with more network access.
+### 3.2 The ten lepers, other healings and provision (arguments 1-3)
+
+| Ref | KJV wording | Thesis line and difference |
+|---|---|---|
+| **Luke 17:12-19** | 12 "...there met him ten men that were lepers, which stood afar off:" 13 "And they lifted up their voices, and said, Jesus, Master, have mercy on us." 14 "And when he saw them, he said unto them, Go shew yourselves unto the priests. And it came to pass, that, as they went, they were cleansed." 15 "And one of them, when he saw that he was healed, turned back, and with a loud voice glorified God," 16 "And fell down on his face at his feet, giving him thanks: and he was a Samaritan." 17 "...Were there not ten cleansed? but where are the nine?" 18 "There are not found that returned to give glory to God, save this stranger." 19 "And he said unto him, Arise, go thy way: thy faith hath made thee whole." | 2099-2100 "Master, have mercy on us": exact excerpt; the verse has "Jesus, Master". 2100-2101 "Go shew yourselves unto the priests": exact. 2104-2105 "Go thy way: thy faith hath made thee whole": verse begins "Arise,". Quote 17:19 whole |
+| Leviticus 13:46; 14:2-3 (background) | 13:46 "...he is unclean: he shall dwell alone; without the camp shall his habitation be." 14:2 "This shall be the law of the leper in the day of his cleansing: He shall be brought unto the priest:" 14:3 "And the priest shall go forth out of the camp; and the priest shall look, and, behold, if the plague of leprosy be healed in the leper;" | Supports 2102-2103 (the priests' authority) |
+| John 9:1-7 | 2 "...Master, who did sin, this man, or his parents, that he was born blind?" 3 "Jesus answered, Neither hath this man sinned, nor his parents: but that the works of God should be made manifest in him." 6-7 clay, "Go, wash in the pool of Siloam ... and came seeing." | 2012 reference only; correct |
+| Mark 3:22 | "And the scribes which came down from Jerusalem said, He hath Beelzebub, and by the prince of the devils casteth he out devils." | 1993-1994; see C2 |
+| Mark 1:27-28 | 27 "...for with authority commandeth he even the unclean spirits, and they do obey him." 28 "And immediately his fame spread abroad throughout all the region round about Galilee." | Supports 1996-1998 |
+| Matthew 14:13-21 | 14 "And Jesus went forth, and saw a great multitude, and was moved with compassion toward them, and he healed their sick." 19 "...took the five loaves, and the two fishes, and looking up to heaven, he blessed, and brake, and gave the loaves to his disciples, and the disciples to the multitude." 20 "And they did all eat, and were filled: and they took up of the fragments that remained twelve baskets full." 21 "And they that had eaten were about five thousand men, beside women and children." | 2022-2023 reference only; correct |
+| Mark 7:25-30 | 26 "The woman was a Greek, a Syrophenician by nation; and she besought him that he would cast forth the devil out of her daughter." 27 "...it is not meet to take the children's bread, and to cast it unto the dogs." 28 "...Yes, Lord: yet the dogs under the table eat of the children's crumbs." 29 "...For this saying go thy way; the devil is gone out of thy daughter." | 1734 reference only. Spelling "Syrophenician" in quotations |
+| Acts 2:22 | "...Jesus of Nazareth, a man approved of God among you by miracles and wonders and signs, which God did by him in the midst of you..." | 2051: matches |
+| "God works in mysterious ways" | Not in the KJV | 2035; N5 |
+
+### 3.3 The letters: faith and perseverance (arguments 2 and 5)
+
+| Ref | KJV wording | Thesis line and difference |
+|---|---|---|
+| **Hebrews 11:1** | "Now faith is the substance of things hoped for, the evidence of things not seen." | 2107-2108 paraphrase is **not KJV** and credits Paul. Quote the KJV; "the writer to the Hebrews" |
+| James 2:24 | "Ye see then how that by works a man is justified, and not by faith only." | 2113-2114: exact excerpt |
+| James 2:17 (optional) | "Even so faith, if it hath not works, is dead, being alone." | Not in the thesis |
+| James 1:1 | "James, a servant of God and of the Lord Jesus Christ, to the twelve tribes which are scattered abroad, greeting." | Corrects 2112-2113 (section 1.4) |
+| Mark 11:22-24 | 22 "And Jesus answering saith unto them, Have faith in God." 23 "...and shall not doubt in his heart, but shall believe that those things which he saith shall come to pass; he shall have whatsoever he saith." 24 "Therefore I say unto you, What things soever ye desire, when ye pray, believe that ye receive them, and ye shall have them." | 2116-2118: exact with ellipsis |
+| John 10:38 | "But if I do, though ye believe not me, believe the works: that ye may know, and believe, that the Father is in me, and I in him." | 2123-2125: exact excerpt (capital "Though" is the thesis's) |
+| **Romans 5:2-5** | 2 "By whom also we have access by faith into this grace wherein we stand, and rejoice in hope of the glory of God." 3 "And not only so, but we glory in tribulations also: knowing that tribulation worketh patience;" 4 "And patience, experience; and experience, hope:" 5 "And hope maketh not ashamed; because the love of God is shed abroad in our hearts by the Holy Ghost which is given unto us." | 2129-2133 **misquoted**: "Stand and rejoice in hope" is a paraphrase of 5:2; "We glory in tribulations also, knowing" should be "we glory in tribulations also: knowing"; "patience, experience and experience, hope;" should be "patience, experience; and experience, hope:"; ends at "Holy Ghost," without "which is given unto us" and without a closing mark. Write: "we glory in tribulations also: knowing that tribulation worketh patience; And patience, experience; and experience, hope: And hope maketh not ashamed" (Romans 5:3-5), or quote the verses whole |
+| **Philippians 4:8** | "Finally, brethren, whatsoever things are true, whatsoever things are honest, whatsoever things are just, whatsoever things are pure, whatsoever things are lovely, whatsoever things are of good report; if there be any virtue, and if there be any praise, think on these things." | 2144-2149 **misquoted**: "whatsoever things are is honest" (typo); "of good report," should be "of good report;". "dwell on" is the thesis's verb |
+| **Philippians 4:13** | "I can do all things through Christ which strengtheneth me." | 1259-1260: **exact** |
+| Philippians 4:11-12 (context, optional) | 11 "...for I have learned, in whatsoever state I am, therewith to be content." 12 "...both to be full and to be hungry, both to abound and to suffer need." | Not in the thesis. 4:13 follows Paul's account of hunger and need; it is a verse about enduring, not about getting whatever one asks |
+| John 16:32-33 | 32 "Behold, the hour cometh, yea, is now come, that ye shall be scattered, every man to his own, and shall leave me alone: and yet I am not alone, because the Father is with me." 33 "These things I have spoken unto you, that in me ye might have peace. In the world ye shall have tribulation: but be of good cheer; I have overcome the world." | 1263-1265: exact with ellipses |
+| Hebrews 12:2 | "Looking unto Jesus the author and finisher of our faith; who for the joy that was set before him endured the cross, despising the shame, and is set down at the right hand of the throne of God." | 1268: phrase exact |
+| **Mark 15:34** | "And at the ninth hour Jesus cried with a loud voice, saying, Eloi, Eloi, lama sabachthani? which is, being interpreted, My God, my God, why hast thou forsaken me?" | 1272-1274: **exact** for both quoted parts |
+| 2 Corinthians 12:7-9 (optional, argument 5) | 7 "...there was given to me a thorn in the flesh, the messenger of Satan to buffet me..." 8 "For this thing I besought the Lord thrice, that it might depart from me." 9 "And he said unto me, My grace is sufficient for thee: for my strength is made perfect in weakness..." | Not in the thesis. Paul prayed three times and the thorn stayed. **The text does not say what the thorn was**; do not call it an illness |
+| John 11:33, 35 (optional, argument 5) | 33 "...he groaned in the spirit, and was troubled." 35 "Jesus wept." | Not in the thesis. Grief and trouble in Jesus himself, beside Mark 15:34 |
+
+### 3.4 Resurrection and hope (argument 4)
+
+| Ref | KJV wording | Thesis line and difference |
+|---|---|---|
+| John 11:25-26, 43-44 (Lazarus) | 25 "Jesus said unto her, I am the resurrection, and the life: he that believeth in me, though he were dead, yet shall he live:" 26 "And whosoever liveth and believeth in me shall never die. Believest thou this?" 43 "...he cried with a loud voice, Lazarus, come forth." 44 "And he that was dead came forth, bound hand and foot with graveclothes... Jesus saith unto them, Loose him, and let him go." | 2040 reference only; correct |
+| Luke 7:12-15 (widow's son) | 12 "...a dead man carried out, the only son of his mother, and she was a widow..." 13 "And when the Lord saw her, he had compassion on her, and said unto her, Weep not." 14 "...Young man, I say unto thee, Arise." 15 "And he that was dead sat up, and began to speak. And he delivered him to his mother." | 2045 named only |
+| **1 Corinthians 15:19** | "If in this life only we have hope in Christ, we are of all men most miserable." | 2053-2054 "We are all men most miserable": **misquoted**, missing "of" (and the capital is the thesis's). Write "we are of all men most miserable" |
+| 1 Corinthians 15:18 | "Then they also which are fallen asleep in Christ are perished." | 1031 "fallen asleep": exact |
+| 1 Corinthians 15:24 | "Then cometh the end, when he shall have delivered up the kingdom to God, even the Father; when he shall have put down all rule and all authority and power." | 1033-1034; see C56 |
+| 1 Corinthians 15:55, 57 | (ch03's; see 1.2) | **Do not quote again** |
+| Romans 6:4 | "Therefore we are buried with him by baptism into death: that like as Christ was raised up from the dead by the glory of the Father, even so we also should walk in newness of life." | 2060-2061 "Christ was raised up from the dead by the glory of the Father…": exact excerpt; no mention of the Holy Spirit |
+| Acts 2:24; 3:15; 10:40; Ephesians 1:20 | 2:24 "Whom God hath raised up, having loosed the pains of death..." 3:15 "...whom God hath raised from the dead; whereof we are witnesses." 10:40 "Him God raised up the third day, and shewed him openly;" Eph 1:20 "...when he raised him from the dead, and set him at his own right hand in the heavenly places," | 2057-2058: references correct |
+| Romans 1:4; 4:25; 1 Peter 1:21 | 1:4 "...declared to be the Son of God with power ... by the resurrection from the dead:" 4:25 "Who was delivered for our offences, and was raised again for our justification." 1 Pet 1:21 "...that raised him up from the dead, and gave him glory; that your faith and hope might be in God." | 2052: references correct |
+| **Romans 8:18** | "For I reckon that the sufferings of this present time are not worthy to be compared with the glory which shall be revealed in us." | 1710-1711 paraphrase: accurate |
+| **Romans 8:28** | "And we know that all things work together for good to them that love God, to them who are the called according to his purpose." | 1416-1418 "to them who are called": **misquoted**, missing "the" |
+| 1 Peter 1:13 | "Wherefore gird up the loins of your mind, be sober, and hope to the end for the grace that is to be brought unto you at the revelation of Jesus Christ;" | 1429-1431: exact excerpt (lower-case "hope" in the KJV) |
+| Romans 10:17 | "So then faith cometh by hearing, and hearing by the word of God." | 1432-1433: exact excerpt |
+| Jeremiah 29:11 (with 29:4) | 11 "For I know the thoughts that I think toward you, saith the LORD, thoughts of peace, and not of evil, to give you an expected end." 4 "...unto all that are carried away captives, whom I have caused to be carried away from Jerusalem unto Babylon;" | 1436-1438 paraphrase; see C45 |
+| Psalm 46:1-3, 11 | 1 "God is our refuge and strength, a very present help in trouble." 2 "Therefore will not we fear, though the earth be removed..." 3 "...though the mountains shake with the swelling thereof. Selah." 11 "The LORD of hosts is with us; the God of Jacob is our refuge. Selah." | 1440-1441: "The Lord of hosts": KJV "LORD"; "Selah" left out (fine at a full stop) |
+| Mark 8:34 | "...Whosoever will come after me, let him deny himself, and take up his cross, and follow me." | 1732-1733: exact excerpt |
+| Revelation 1:9 | "I John, who also am your brother, and companion in tribulation, and in the kingdom and patience of Jesus Christ, was in the isle that is called Patmos, for the word of God, and for the testimony of Jesus Christ." | Supports 1117 (Patmos) |
+| Revelation 21:4-5 (optional) | 4 "And God shall wipe away all tears from their eyes; and there shall be no more death, neither sorrow, nor crying, neither shall there be any more pain: for the former things are passed away." 5 "...Behold, I make all things new..." | Not in the thesis. The plainest KJV words for "comfort to the persecuted" (1113-1135) |
+| 1 Thessalonians 4:13, 18 (optional) | 13 "But I would not have you to be ignorant, brethren, concerning them which are asleep, that ye sorrow not, even as others which have no hope." 18 "Wherefore comfort one another with these words." | 1037 cites 4:13-18. 4:13 does not forbid grief; it speaks of grieving with hope. Useful for hope while grieving |
+| Matthew 24:36; Mark 13:32 | Matthew "But of that day and hour knoweth no man, no, not the angels of heaven, but my Father only." Mark "But of that day and that hour knoweth no man..." | The real home of 1036-1037 "day or hour" |
+| Ephesians 2:21-22 | 21 "...groweth unto an holy temple in the Lord:" 22 "In whom ye also are builded together for an habitation of God through the Spirit." | 1038-1039; see C56 |
+
+### 3.5 ch06's verses (for the card's question only)
+
+| Ref | KJV wording | Note |
+|---|---|---|
+| 1 Corinthians 1:10-13 | 10 "...that there be no divisions among you..." 12 "Now this I say, that every one of you saith, I am of Paul; and I of Apollos; and I of Cephas; and I of Christ." 13 "Is Christ divided?..." | 2156-2158 **misquoted** ("I am Paul"; commas for semicolons) and miscited ("1 Corinthians 12") |
+| 1 Corinthians 12:12, 26-27 | 12 "For as the body is one, and hath many members, and all the members of that one body, being many, are one body: so also is Christ." 26 "And whether one member suffer, all the members suffer with it; or one member be honoured, all the members rejoice with it." 27 "Now ye are the body of Christ, and members in particular." | The passage that fits "communal bonds"; author to say if he meant it |
+| Galatians 6:2 | "Bear ye one another's burdens, and so fulfil the law of Christ." | 2159-2160: exact. ch06 |
+
+**Thesis misquotations in the ch04 lines (summary):** Romans 5:2-5 (2129-2133); Philippians 4:8 (2144-2149); Romans 8:28 (1416-1418); 1 Corinthians 15:19 (2053-2054); 1 Corinthians 1:12 (2156-2158, ch06's). Not KJV: Hebrews 11:1 (2107-2108, paraphrase). Excerpts that cut the verse's opening word: Luke 17:13 ("Jesus,"), Luke 17:19 ("Arise,"). Wrong reference: "day or hour" (1037). Narrative slips against the text: "most" for "all denied" (2088); "Apostle Luke" (2098); James "to the believers in Jerusalem" (2112-2113). **Exact:** Luke 8:48, Philippians 4:13, Mark 15:34, John 16:32-33, Mark 11:22-24, James 2:24, John 10:38, Romans 6:4, Romans 10:17, 1 Peter 1:13, Psalm 46:11 (bar "LORD"), Hebrews 12:2, Mark 8:34, Galatians 6:2, 1 Corinthians 15:18, Acts 2:22, "Thy faith hath saved thee". Every curly-quoted span in the ch04 lines was tested by script as a substring of the full KJV text (30 spans: 27 scripture, 2 creed, and "God works in mysterious ways", which is not in the KJV). Romans 5:2-5 has no closing mark, so the script ran it into Philippians 4:8; both, and the Athanasian lines (no opening mark), were then checked by hand. Every parenthetical reference was checked by hand.
+
+---
+
+## 4. Studies and books (outside the thesis): existence confirmed only
+
+The thesis cites no findable study for any ch04 claim. Under rule 2 I can only show that relevant works exist. **Their findings are not described here and must not be described in the chapter until the author has read them.** These are the works of the 2026-11-10 pack (W1-W2), re-confirmed; the titles show they are on the topic, nothing more. Author names and details are as the Crossref record gives them. All 15 DOIs are registered at doi.org (handle API, responseCode 1). Added to sources.md as rows 34-48.
+
+| # | Work (as the record gives it) | ID | Confirmed by | Why it may matter (title only) |
+|---|---|---|---|---|
+| R1 | Ano, Gene G., and Erin B. Vasconcelles. 2005. "Religious Coping and Psychological Adjustment to Stress: A Meta-Analysis." *Journal of Clinical Psychology* 61 (4): 461-480 | doi 10.1002/jclp.20049 | Crossref; doi.org | Religious coping and adjustment: the helping and the harming sides (C9, C10; section 8). Also open-claims 14 (00, 05, 07) |
+| R2 | Chatters, Linda M., Robert Joseph Taylor, James S. Jackson and Karen D. Lincoln. 2008. "Religious Coping among African Americans, Caribbean Blacks and Non-Hispanic Whites." *Journal of Community Psychology* 36 (3): 371-386 | doi 10.1002/jcop.20202 | Crossref; doi.org | Religious coping among Black Americans and Black Caribbeans (C30, C43) |
+| R3 | Flannelly, Kevin J., Harold G. Koenig, Christopher G. Ellison, Kathleen Galek and Neal Krause. 2006. "Belief in Life after Death and Mental Health." *Journal of Nervous and Mental Disease* 194 (7): 524-529 | doi 10.1097/01.nmd.0000224876.63035.23 | Crossref; doi.org | Afterlife belief and mental health (C15, C58) |
+| R4 | Flannelly, Kevin J., Christopher G. Ellison, Kathleen Galek and Harold G. Koenig. 2008. "Beliefs about Life-After-Death, Psychiatric Symptomology and Cognitive Theories of Psychopathology." *Journal of Psychology and Theology* 36 (2): 94-103 | doi 10.1177/009164710803600202 | Crossref; doi.org | The old pack's search-level note said this paper splits pleasant from unpleasant afterlife beliefs; **that is not confirmed** and must not be written. Title only: afterlife beliefs and symptoms |
+| R5 | Witvliet, Charlotte V. O., M. Elizabeth Lewis Hall, Julie J. Exline, David C. Wang, Lindsey M. Root Luna, Daryl R. Van Tongeren, David G. Myers, Alexis D. Abernethy and John D. Witvliet. 2022. "Eschatological Hope Scale." PsycTESTS Dataset | doi 10.1037/t93628-000 | Crossref; doi.org | **Only the scale's dataset record was found.** The article the old pack cited (*Journal of Psychology and Christianity* 41 (1): 16-35) is not in Crossref; OpenAlex was rate-limited. A measure of eschatological hope (C58) |
+| R6 | Koenig, Harold G., Michelle J. Pearce, Bruce Nelson, Sally F. Shaw, Clive J. Robins, Noha S. Daher, Harvey Jay Cohen, Lee S. Berk, Denise L. Bellinger, Kenneth I. Pargament, David H. Rosmarin, Sasan Vasegh, Jean Kristeller, Nalini Juthani, Douglas Nies and Michael B. King. 2015. "Religious vs. Conventional Cognitive Behavioral Therapy for Major Depression in Persons with Chronic Medical Illness." *Journal of Nervous and Mental Disease* 203 (4): 243-251 | doi 10.1097/NMD.0000000000000273 | Crossref; doi.org | **The closest title to C9** ("alongside medical treatment"): a comparison of faith-integrated and standard therapy. Read before any use |
+| R7 | Beagan, Brenda Lorraine, Josephine Etowa and Wanda Thomas Bernard. 2012. "'With God in Our Lives He Gives Us the Strength to Carry On': African Nova Scotian Women, Spirituality, and Racism-Related Stress." *Mental Health, Religion & Culture* 15 (2): 103-120 | doi 10.1080/13674676.2011.560145 | Crossref; doi.org | Canada; African heritage women; faith and racism-related stress (C23, C58) |
+| R8 | Mantovani, Nadia, Micol Pizzolati and Dawn Edge. 2017 (online 2016). "Exploring the Relationship between Stigma and Help-Seeking for Mental Illness in African-Descended Faith Communities in the UK." *Health Expectations* 20 (3): 373-384 | doi 10.1111/hex.12464 | Crossref; doi.org | UK; stigma and help-seeking (better for ch07 and ch11; listed so it is not re-searched) |
+| R9 | Leavey, Gerard, Kate Loewenthal and Michael King. 2017. "Pastoral Care of Mental Illness and the Accommodation of African Christian Beliefs and Practices by UK Clergy." *Transcultural Psychiatry* 54 (1): 86-106 | doi 10.1177/1363461516689016 | Crossref; doi.org | UK clergy (ch06, ch11) |
+| R10 | Hankerson, Sidney H., and Myrna M. Weissman. 2012. "Church-Based Health Programs for Mental Disorders among African Americans: A Review." *Psychiatric Services* 63 (3): 243-249 | doi 10.1176/appi.ps.201100216 | Crossref; doi.org | Church-based programmes (ch11). Crossref also holds an early-view record, doi 10.1176/appi.ps.2011000216 (18 January 2012); cite the issue DOI |
+| R11 | Pargament, Kenneth I., Harold G. Koenig, Nalini Tarakeshwar and June Hahn. 2001. "Religious Struggle as a Predictor of Mortality among Medically Ill Elderly Patients." *Archives of Internal Medicine* 161 (15): 1881 | doi 10.1001/archinte.161.15.1881 | Crossref; doi.org | Counter-evidence by title (section 8) |
+| R12 | Asser, Seth M., and Rita Swan. 1998. "Child Fatalities from Religion-Motivated Medical Neglect." *Pediatrics* 101 (4): 625-629 | doi 10.1542/peds.101.4.625 | Crossref; doi.org | Counter-evidence by title (section 8). Its figures are **not** usable (W3) |
+| R13 | Phelps, Andrea C., et al. 2009. "Religious Coping and Use of Intensive Life-Prolonging Care near Death in Patients with Advanced Cancer." *JAMA* 301 (11): 1140 | doi 10.1001/jama.2009.341 | Crossref; doi.org | Counter-evidence by title (section 8). Crossref lists only the first author |
+| R14 | Exline, Julie J., Kenneth I. Pargament, Joshua B. Grubbs and Ann Marie Yali. 2014. "The Religious and Spiritual Struggles Scale: Development and Initial Validation." *Psychology of Religion and Spirituality* 6 (3): 208-222 | doi 10.1037/a0036465 | Crossref; doi.org | Doubt and struggle (argument 5; section 8) |
+| R15 | King, Martin Luther, Jr. 1963. *Strength to Love*. Harper & Row (later editions Fortress Press and others) | Open Library work OL1945959W (first published 1963; 10 editions) | Open Library | Source of the "finite disappointment ... infinite hope" line the old pack proposed; **wording unconfirmed** (section 6) |
+
+## 5. Statistics
+
+**None available under the rules.** The thesis gives no statistic in any ch04 range. The old pack's three figures (W3) came from sources outside the four services, and a figure is what a source says. They are listed for the author in open-claims 62 in case he wants to check them himself.
+
+**Survey (config rule 10).** Blueprint v2 gives ch04 no survey finding: ch10 reports the interview theme of hope (4696-4699) and refers back to ch04 in one clause, and ch00 has already previewed Fig.13 (38 of 50) and Fig.19 (23 of 50). **Recommendation: no survey number in ch04.** If the author wants one, the only fitting overall figure is Fig.15, "Does your faith have a positive impact on your mental health?": 33 of the 50 agree or strongly agree (survey-aggregate.md; 3/8/6/15/18), stated with the sample size and without any claim that it represents all people of African heritage. The old pack's Fig.1 (also 33 of 50) asks about well-being rather than mental health, so Fig.15 fits the chapter better. Never an individual answer.
+
+## 6. Quotations
+
+No quotation from a named authority appears in the ch04 lines apart from scripture and the creeds. The attributions that name no one ("Scholars attest", 2002; "Scholars believe", 1723; "some 19th Century scholars", 1126; "research shows", 1041) and the two that cannot be found (Brown and Hughes; Harris and Young) are U and listed in open-claims.
+
+The creeds (1044-1054): what they say may be written in paraphrase as what the creeds affirm (T); **their exact wording is not checkable under the rules** (open-claims 60). With the v2 cut to about 150 words, paraphrase is the natural form anyway.
+
+King, "We must accept finite disappointment, but we must never lose infinite hope": *Strength to Love* exists (R15); **the wording is unconfirmed** (open-claims 19). If the author wants it, it stays marked `[UNVERIFIED: attribution]` until he checks a printed copy (config rule 9). The writer should not add any other quotation.
+
+## 7. Synthesis (and where the evidence is weaker than the outline assumes)
+
+The scripture carries this chapter further than any other source can under the rules, and it carries it well. The woman in Luke 8 "had spent all her living upon physicians" (8:43) before she reached for Jesus; in Mark the doctors left her "nothing bettered, but rather grew worse" (5:26). She reaches anyway, comes forward "trembling" when he asks who touched him, and is told "thy faith hath made thee whole" (8:48). The ten lepers are cleansed "as they went" (Luke 17:14), before they could see it. That is the author's "intentional" faith (2092-2094) in the text's own words. The thesis's position sentence, that these stories "encourage the personal search for spiritual support alongside medical treatment" (2014-2016), is his, and the chapter can rest its shift on it ("Faith is reaching out, and reaching out can include a doctor") on his authority, supported by what the texts show: she had gone to doctors; Jesus himself used the physician as the picture of help for the sick (Luke 5:31). The resurrection accounts (Lazarus, the widow's son, Jairus's daughter), Romans 8:18 and 8:28, Revelation and the letters on perseverance give the hope section its scripture, and Mark 15:34 gives argument 5 its centre.
+
+The evidence is weaker than the outline assumes in six places. **First**, every mental-health benefit in these lines (C10, C11, C15, C35, C41, C58) is the author's statement with no checkable source. The thesis cites only two works, and neither can be found. These must be written as what the author believes and what Christians hold, never as findings. Section 4 shows that research on religious coping, afterlife belief and faith-integrated therapy exists; I have not read it and cannot say what it found. **Second**, the outline's "faith alongside treatment" is the author's reading. The texts are consistent with it but do not state it. Mark 5:26 can also be read the other way, as doctors failing where Jesus succeeds (section 8). **Third**, the thesis's own sentences can tip into "if I had enough faith" (C7, C30). The chapter has to guard them. **Fourth**, the hope section has to avoid ch03's ground (1903-1915; 1 Corinthians 15:55-57) and still stand on its own, so its weight shifts to hope as coping in illness, grief and persecution. **Fifth**, the scholarly framing in the eschatology and Mark/Revelation passages (dates, "scholars", "research", the creeds' wording) cannot be checked. The v2 cut to about 150 and 100 words lets most of it go to the cut list or into paraphrase. **Sixth**, there is no checkable real case and no author story for the slot. The chapter has the woman and the lepers, and the author must supply the rest.
+
+## 8. Strongest counter-evidence
+
+Under the rules I cannot report what outside studies found, so the strongest counterweights come from the thesis itself and from the scripture:
+
+1. **The same healing story is used to keep people from treatment, and the thesis says so.** "Customarily, faith leaders often address mental distress through prayer and deliverance, drawing upon New Testament accounts of Jesus' healing miracles like that of the woman with the issue of blood" (3651-3655). In some communities "seeking professional help is an indication of weak faith or lack of trust in God's power to heal" (2702-2704), and treatment "may undermine the believer's relationship with God, which is often seen as the ultimate source of healing" (2689-2692). This is the exact harm side of the chapter's shift, in the author's own work. Ch07 owns it (Book Bible promise 04 to 07). Ch04 should name it in a sentence and promise to return to it.
+2. **The text can be read against doctors.** Mark 5:26 says the physicians made her "rather grew worse", and the healing came from Jesus, not from them. A reader inclined to the "prayer or the doctor" view will hear that. The chapter should face it. Luke 8:43 and Mark 5:26 show she tried doctors first, not that she was wrong to. Nothing in the passage tells anyone to stop treatment, and Jesus himself used the physician as the picture of help for the sick (Luke 5:31).
+3. **Faith-as-condition language can blame the unhealed.** "Christians are expected to demonstrate their faith in God's power, to benefit from His divine interventions" (2007-2008) and Mark 11:24 ("believe that ye receive them, and ye shall have them"), read without care, tell the person who is still ill that they did not believe enough. The scripture itself answers this: Paul "besought the Lord thrice" and the thorn stayed (2 Corinthians 12:8-9); Jesus cried "why hast thou forsaken me?" (Mark 15:34); the nine lepers who did not return were cleansed too (Luke 17:14, 17); and John 9:3 refuses to blame the blind man or his parents.
+4. **Hope of the life to come was once used to keep our ancestors quiet.** The thesis: "Missionaries spoke of the caring afterlife as a reward for suffering, but ignored the immediate trauma of enslavement that often led to people of African heritage feeling helpless and hopeless" (3973-3976; told in ch01, 05-final line 65). Resurrection hope in ch04 must not read as "endure now, it will be better later". The thesis's own counter is the hope that inspires people "to fight for change and social justice" (1733-1736), and the Book Bible's "double-edged inheritance" (ch01) can be called back by name.
+5. **The faith can deepen guilt.** The thesis's conclusion names the "duality": when separated from understanding and empathy, the faith can "inhibit help-seeking, thus promoting internalised shame, guilt or blame" (4899-4903; ch07 and 99 own the sentence; refer, do not quote).
+6. **Outside works whose titles point the other way (existence only; findings not checked).** The author should read them before the chapter makes any general claim that hope or faith helps: Pargament, Koenig, Tarakeshwar and Hahn 2001 (religious struggle and mortality, R11); Asser and Swan 1998 (child deaths and religion-motivated medical neglect, R12); Phelps et al. 2009 (religious coping and intensive care near death, R13); Exline et al. 2014 (religious and spiritual struggles, R14); Ano and Vasconcelles 2005 (R1). The 2011 BBC London report on HIV deaths (open-claims 21) belongs to ch07 and is not checkable under the rules.
+
+## 9. Could not verify (with what was tried)
+
+| Item | What was tried | Result |
+|---|---|---|
+| Brown and Hughes (2017) (1712-1714) | Bibliography grep; Crossref x2; Open Library x2 | Not found. U; open-claims 15 |
+| Harris and Young (2018) (1715-1717) | Bibliography grep; Crossref x2; Open Library x2; OpenAlex x1 | Not found. U; open-claims 16 |
+| "Scholars attest ..." (2002-2004) | Thesis read 1989-2008 for a name or citation | None. U; open-claims 57 |
+| "Scholars believe ... Mark ... Nero about 64 B.C.E." (1723-1725) | Thesis read 1706-1736 and 1113-1135 | Era corrected from 1127; scholars unnamed. U; open-claims 58 |
+| Revelation dating (1116-1117, 1126-1128) | Thesis read 1113-1135 | Two datings, scholars unnamed, sentence garbled. U; open-claims 59 |
+| Creed wording (1044-1054) | Thesis read for the version (none given); creeds are not in the four services | Wording U; open-claims 60. Paraphrase |
+| "research shows" (1041) | Thesis read 1007-1063 | No source. U; open-claims 17 (updated) |
+| Witvliet et al. 2022 journal article | Crossref x2 (author + title; title only); OpenAlex x1 (HTTP 429) | Only the PsycTESTS record (R5) |
+| King, *Strength to Love* wording | Open Library (book found, OL1945959W); wording is content | Open-claims 19 (updated) |
+| Walrond case (old pack) | Not attempted: NPR is outside the four services | Open-claims 61 |
+| Pew 2021, Statistics Canada 2021, Asser and Swan figures; ONS Census 2021 (old pack) | Pew: Crossref title search, no record. Others not attempted (outside the four services; figures are content) | Open-claims 62 and 18 (updated) |
+| Greek *sōzō* gloss (glossary, 2026-11-10) | No lexicon among the four services; thesis silent | Not usable; glossary row annotated |
+| Full texts of R1-R15 | Not attempted: rule 2 forbids checking content | Existence only; open-claims 22 (updated) |
+| OpenAlex | Two calls: one answered (Harris and Young), one HTTP 429 | Crossref and Open Library covered every other lookup |
+
+## 10. Notes for the writer and the next agent
+
+- **Open on the woman** (section 1.1), meeting ch03's hook: the twelve years, the physicians, the crowd, her reach, "Who touched me?", her trembling, the word to her. Do not re-quote Luke 8:45 as the first line. Land the Luke 8:48 line in full, without the ", KJV" tag ch00 carries.
+- **Use:** 1989-2152 (except 2154-2164, ch06's), 1256-1277, 1414-1442, 1706-1736, and 1007-1063 condensed to about 150 words (1056-1063 is its core) and 1113-1135 to about 100 words. **Cut-list rows needed** (config rule 8): 1017-1026 (millennial views, v2 cut); whatever of 1007-1016, 1028-1054 and 1126-1128 the condensation leaves out. **Do not use:** 1903-1915 and 1 Corinthians 15:55-57 (ch03, call back only); 2154-2164 (ch06); 3651-3655 and 2689-2704 (ch07, name and point forward).
+- **Position sentence:** carry 2014-2016 close to his wording, as his ("I believe these narratives ... encourage the personal search for spiritual support alongside medical treatment"). Give the full definition of faith (2135-2140) as his, beside Hebrews 11:1 KJV.
+- **Scripture:** quote only the KJV wording in section 3. Correct in place: Romans 5:3-5, Philippians 4:8, Romans 8:28 ("the called"), 1 Corinthians 15:19 ("of all men"), Luke 17:19 (with "Arise,"), "all denied", "the writer to the Hebrews", "Luke tells us", "the letter of James". Hebrews 11:1 in KJV, not the paraphrase.
+- **Flags for the draft (rule 4):** `[UNVERIFIED: ...]` on Brown and Hughes (15), Harris and Young (16), "Scholars attest" (57), "Scholars believe" Mark (58) and Revelation dating (59) if kept, creed wording (60) if quoted, "research shows" (17) if kept. Rule 9: none is dropped by the writer; the author decides.
+- **No numbers, no outside study described, no outside quotation.** Every mental-health benefit as belief. No survey figure unless the author asks (section 5: Fig.15 then).
+- **Guard the shift** in the same paragraph as C7/C30 (section 8.3); name the harm once and promise ch07 (Book Bible promise). Hope must not read as "endure now" (8.4).
+- **Story slot:** `[AUTHOR STORY NEEDED: a time you or someone close "pushed through the crowd", acting in faith while ill or grieving, including going for medical help]`. Nothing in the thesis fills it (1.5). Ch00's hypothetical woman (the hospital appointment) is not to be reused.
+- **Joins the texts offer:** Jairus's daughter around the woman (Luke 8:41-56); the returning leper "was a Samaritan" (17:16), back to ch03; the lepers living "without the camp" (Leviticus 13:46) and her uncleanness (Leviticus 15:25) as the cost of reaching, written as a reading; Philippians 4:11-12 before 4:13 (endurance, not getting).
+- **Hook into ch05** (blueprint): "She reached for the edge of a garment; most of us reach for God in prayer." Luke 8:44 has "the border of his garment" (Matthew 9:20 "hem"); if the hook quotes, use "border".
+- **Suicide:** none in the ch04 lines. If any later draft brings in a suicide reference (e.g. the Walrond case, if the author checks and wants it), follow the Samaritans guideline in the Book Bible.

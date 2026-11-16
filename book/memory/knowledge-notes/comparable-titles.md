@@ -37,3 +37,12 @@ using them in marketing copy. Nothing here is invented; where a detail could not
 - The search results for Black church and mental health are dominated by US titles and small self-published
   books. No UK lay-reader book on faith and mental health for people of African heritage was found.
 - None of the comparables covers the UK, the USA and Canada together.
+
+## Re-check, 2026-11-10 (book-strategist)
+
+- Search "A Fortress, Not a Prison" book: still no exact match. The results list a blog review headed
+  "book review not a prison but a fortress" (thecausalobserver.substack.com), apparently of a political
+  book. The page could not be fetched from this session (host not allowed), so the title, author and
+  publisher are **unverified**. Different subject, words reversed; the marketer should re-check.
+- The restored survey (50 participants) does not change the comparables. *Troubled Minds* also uses a
+  survey (of 500 churches), so "has a survey" is not a differentiator; the three-country frame is.

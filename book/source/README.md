@@ -49,7 +49,7 @@ There is one version of each section, so the "Versions" column is always 1.
 | Ch 3.7 Socioeconomic, cultural and systemic factors | 3592-3725 | |
 | Ch 4 Colonisation, missionaries, resistance (British Empire, Caribbean, USA, Canada, today) | 3726-4077 | |
 | Ch 5 Methodology: survey sections, pilot, administration, ethics, interviews | 4078-4615 | Goes to an appendix |
-| Ch 6 Findings: survey (4630-4674), interviews (4675-4833), participant breakdown (4834-4858) | 4616-4858 | Line 4624 says the fifty responses "were generated"; check with the author (see the book card) |
+| Ch 6 Findings: survey (4630-4674), interviews (4675-4833), participant breakdown (4834-4858) | 4616-4858 | Line 4624: author confirmed 2026-11-10 that the 50 replies are real ("generated" meant collected). Charts in `images/`; counts transcribed in `book/02-research/survey-aggregate.md`. Overall numbers only (config rule 10) |
 | Ch 7 Integration, limitations, implications, recommendations | 4859-4999 | |
 | Bibliography | 5000-5483 | Use as a pool of sources for the researcher |
 
@@ -84,3 +84,16 @@ Epistemology (680-1167) is condensed to about 900 words, spread over ch04, ch05,
 1. The line ranges for the chapter in hand, as listed above.
 2. The acknowledgements (lines 1-124), for the author's own voice and any true stories.
 3. The bibliography (5000-5483), to match citations.
+
+## Blueprint v2 proposal (book-strategist, 2026-11-10; awaiting author approval)
+
+`book/01-outline/blueprint-v2.md` restores the survey chapter as ch10 and renumbers the Church and the Clinic to ch11. If approved, these rows replace the 10, 99 and App. A rows above (other chapters keep their lines):
+
+| Ch | File | Lines | Heading as written |
+|---|---|---|---|
+| 10 What Fifty People Told Me | thesis-2025.md + `book/02-research/survey-aggregate.md` | 4616-4721, 4872-4877, 4907-4912, 4456-4463, 4505-4510 | 6.1-6.3; 7.1 (part); 7.2 (part); 5.1.3; 5.1.5.1 |
+| 11 The Church and the Clinic | thesis-2025.md | 1763-1806, 4931-4967, 2339-2351, 1071-1091, 1684-1693, 4033-4038 | 2.9; 7.3-7.4; 3.5.5; 2.3.2; 2.8.1; 4.4 |
+| 99 Afterword | thesis-2025.md | 4859-4871, 4878-4903, 4913-4930, 4968-4996, 998-1005, 116-121 | 7.1-7.2 (part); 7.5; 2.3.1; acknowledgements |
+| App. A Research | thesis-2025.md | 4078-4615, 4616-4654, 4822-4858 | Chapters 5-6 (condensed); overall survey table from survey-aggregate.md; Fig.27 never reproduced |
+
+The v1 statement above that the App. A row uses "no survey figure ... until the author confirms line 4624" is superseded: the author confirmed it on 2026-11-10.

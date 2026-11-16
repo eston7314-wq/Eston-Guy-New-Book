@@ -5,9 +5,10 @@ states its source and date. Add a row when you add a note.
 
 | Note | What it holds | Added |
 |---|---|---|
-| `source-map.md` | Where each chapter's raw text lives; findings and consent gaps; citations missing from the bibliography; factual slips | 2026-11-07 |
-| `authors-voice.md` | Observed patterns in the author's prose, for writers and editors | |
-| `terms-glossary.md` | Verified glosses of the book's key terms; the researcher fills rows | |
+| `source-map.md` | Where each chapter's raw text lives; findings and consent gaps (corrected 2026-11-10: charts recovered); citations missing from the bibliography; factual slips; best spine per chapter; ch02 bibliography problems; ch04 citations, corrected line numbers and slips (2026-11-16); ch04 spine and length (chapter-writer, 2026-11-16) | 2026-11-07, 2026-11-10, 2026-11-13, 2026-11-16 |
+| `authors-voice.md` | Observed patterns in the author's prose, for writers and editors (ch00-ch04) | 2026-11-10, 2026-11-16 |
+| `terms-glossary.md` | Verified glosses of the book's key terms (WHO and CDC mental health, Wittgenstein meaning-as-use, Luke 8:48; ch01: invisible institution, Great Commission, Slave Bible, Black/liberation theology, Moravians, historical trauma); network note, incl. the GITenberg route to public-domain texts; which of the four lookup services work (ch02; updated 2026-11-14: all four reachable, OpenAlex rate-limited); ch03: Kingdom of God/heaven, Good Samaritan background, Prodigal Son, Lord's Prayer wording, Gutenberg #10 KJV route (2026-11-15); ch03 fact check: gutenberg.org 403 again, GITenberg #10 mirror works, quotation-check method (2026-11-15); ch04: faith sayings (sōzō gloss withdrawn), woman with the issue of blood, apostles, both KJV copies reachable and agreeing (2026-11-16); ch04 fact check: thorn in the flesh (text does not say it stayed), faith-saying parallels, mighty-works count (2026-11-16) | 2026-11-10, 2026-11-11, 2026-11-13, 2026-11-14, 2026-11-15, 2026-11-16 |
 | `kdp-rules.md` | Current, dated Amazon KDP rules that affect this book; the launch strategist fills it | |
-| `comparable-titles.md` | Verified comparable titles, title collisions, category observations (for book-marketer) | 2026-11-07 |
+| `comparable-titles.md` | Verified comparable titles, title collisions, category observations (for book-marketer); lead-title re-check | 2026-11-07, 2026-11-10 |
 - `approved-documents.md`: register of author-approved documents and their Google Drive copies; standing rule to upload each newly approved document.
+- `book/02-research/survey-aggregate.md` (not a note, but the reference): every survey chart's counts, totals checks and cautions; the only source for survey numbers (2026-11-10).

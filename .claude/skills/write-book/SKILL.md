@@ -78,8 +78,11 @@ the writer which source files and line ranges hold the chapter.
 ## `chapter <N>` sequencing
 
 Run in this exact order, waiting for each: `book-researcher` (evidence) -> `chapter-writer` ->
-`story-injector` -> `developmental-editor` -> `book-researcher` (fact check on the edited file)
--> `copy-editor`. If the developmental editor's memo verdict says "needs another draft", run
+`story-injector` -> `developmental-editor` -> **humanize** (`copy-editor` applying
+`.claude/skills/humanizer/SKILL.md` in place in `book/04-edited/`, logging to
+`chNN-humanize-log.md`) -> `book-researcher` (fact check on the edited file) -> `copy-editor`.
+Tell every writing and editing agent to read `.claude/skills/humanizer/SKILL.md` first
+(config hard rule 11, author decision 2026-11-10). If the developmental editor's memo verdict says "needs another draft", run
 `chapter-writer` again with the memo as instruction before continuing. Do not skip the fact
 check because the draft "looks fine": the story pass is where fabricated examples enter.
 

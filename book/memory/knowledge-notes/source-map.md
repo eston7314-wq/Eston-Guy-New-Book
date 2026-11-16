@@ -25,6 +25,18 @@ Added by book-strategist, 2026-11-07, from a full read of book/source/thesis-202
   "suicide is a crime" in the UK and Canada (3074-3079); Mark "64 B.C.E." (1725); "1 Corinthians 12" quote
   is 1:12 (2156); Elevation Worship is a US band (2510); "Wittgenstein (1889)" is his birth year (68).
 
+## Correction, 2026-11-10 (book-strategist)
+
+The bullet above saying "Findings (4616-4858) hold no data" is **superseded**. The Drive master's
+images are now in `book/source/images/`: 26 charts (image2-image27) for Fig.1-21 and Fig.23-27, and
+Fig.22 is a text table. All counts are transcribed in `book/02-research/survey-aggregate.md`. Every
+chart totals 50 (or UK 20 / USA 16 / Canada 14). Eight Fig.27 columns were re-tallied and match the
+charts exactly. Line 4624: the author confirmed the 50 replies are real. Consent: overall numbers
+only (config hard rule 10). There are still no verbatim interview quotations, and none may be used.
+Fig.27 is participant-level and must never be reproduced. Known weaknesses: out-of-order answer options
+in Fig.5, 7 and 8; SPSS results not reported; yes/no help-seeking, age and denomination questions not
+charted; 20 interviewees (Fig.26 is the only source).
+
 ## Added by book-researcher, 2026-11-10 (ch04 research)
 
 - Network in research sessions: web search works; direct page fetch failed on every host except GitHub.
@@ -35,3 +47,34 @@ Added by book-strategist, 2026-11-07, from a full read of book/source/thesis-202
   Phil 4:8 "things are is honest" (2148); 1 Cor 1:12 "I am Paul" (KJV "I am of Paul") and miscited as
   "1 Corinthians 12" (2158); Hebrews 11:1 paraphrase at 2113 is NIV wording, not KJV.
 - Not found by search: Brown and Hughes (2017); Harris and Young (2018) (thesis 1711-1716).
+
+## Best spine per chapter (chapter-writer)
+
+- ch00 (2026-11-10): only one version exists. Spine order used: acknowledgements 90-96 (hook), 82-121 (standing), 506-515 (why), 66-78, 1172-1188, 2135-2137, 2772-2781 (definitions and lens), survey-aggregate Fig.13/19/22/23/26 (research), 4907-4910 (one limit sentence), 4921-4923 (title line). Line ranges in ch00-evidence.md 1.3 are off by two for Fava (82-84 in the source, not 84-85).
+- ch01 (2026-11-11, chapter-writer): one version only. Spine: author's family testimony (2026-11-11) as opening; 3749-3770, 3772-3786, 3686-3690, 4029-4031 (empire and reclaiming); 3828-3853, 3906-3916, 3855-3921 condensed (missions); 3930-3976, 3672-3677, 1749-1761, 3692-3701 (mental cost); 1284-1295, 3703-3709, 4000-4046, 1564-1583, 4063-4067 (Black Church). 3711-3724 and 4048-4076 are conclusions that restate; only 4063-4067 is lifted. Tobago appears in the source only at 3846 (the unverified 13,000 sentence).
+
+## Added by book-researcher, 2026-11-13 (ch02 research)
+
+- ch02 lines 2428-2606 carry **no in-text citation**. The thesis's gospel sources sit only in the bibliography (Darden 34, Davis 35, Harris 52, Hitchcock and Sadie 56, Hyman 58, Journal of Gospel Music 61, Kearney 62-63, Koskoff 64, Phillips 98-99, Rempel 104, LCGC 117, Toronto Mass Choir 118). Davis 2003 is not in JAAH 88(1); Hyman 2019 and Kearney 2012 not in Crossref; Rempel is really "Country, Folk and Gospel" (1981), doi 10.3138/CRAS-012-03-06. Detail: 02-research/ch02-evidence.md section 4; open-claims 53.
+- Slips in ch02 lines: "1930s–960s" (2486; 2484 has 1960s); "World War 11" (2498); "Aretha Franklyn" (2588); choir named two ways (2515, 2523-2524).
+
+## Added by chapter-writer, 2026-11-13 (ch02 draft)
+
+- ch02 spine: 2428-2606 is a single version (no duplicates inside it); 3781-3786 duplicates 2458-2462 and adds only the purpose phrase. 2402-2427 (sections 3.6.1.3-3.6.1.4, the gospel section's introduction) falls between ch05 (to 2400) and ch02 (from 2428) in blueprint v2 and was unassigned; ch02 draft uses it, pending the orchestrator.
+- ch02 source is about 1,500 words for a 4,000-word budget; without added facts the draft reaches about 2,750 reader-facing words.
+
+## Added by chapter-writer, 2026-11-15 (ch03 draft)
+
+- ch03 spine: 1863-1988 has one version only, with no duplicates inside it. Without 1917-1948 (ch06) and 1903-1915 (ch04) it is about 700 words; 1738-1747 and 3611-3621 add about 200. Retelling the parables from the KJV brings the draft to about 2,600 body words plus a 390-word closer, against a 4,200 budget. The gap can only close with the author's story or new material from him.
+
+## Added by book-researcher, 2026-11-16 (ch04 research, rebuilt pack)
+
+- ch04 lines cite only two works, Brown and Hughes (2017) and Harris and Young (2018) (1712-1717); neither is in the bibliography, Crossref, Open Library or OpenAlex (open-claims 15-16). Unnamed attributions: "Scholars attest" (2002), "research shows" (1041), "Scholars believe" (1723), "some 19th Century scholars" (1126) (open-claims 17, 57-59).
+- Corrected line numbers for ch04 quotations (the 2026-11-10 pack was off by up to six lines): Luke 8:43-48 at 2084-2092; Luke 17:13 at 2099-2100; Luke 17:19 at 2104-2105; Hebrews 11:1 paraphrase at 2107-2108; James 2:24 at 2113-2114; Romans 5:2-5 at 2129-2133; definition of faith 2135-2140; Philippians 4:8 at 2144-2149; 1 Corinthians 1:12 at 2156-2158 (ch06); 1 Corinthians 15:19 at 2053-2054; Romans 6:4 at 2060-2061; Romans 8:28 at 1416-1418.
+- Slips in the ch04 lines: "Apostle Luke" (2098); Hebrews to Paul (2107); James "to the believers in Jerusalem" (2112-2113; James 1:1 says the scattered twelve tribes); "most of His followers denied" (2088; KJV "all"); "day or hour" cited to 1 Thessalonians 4:13-18 (1037; it is Matthew 24:36); "64 B.C.E." (1725; thesis 1127 has AD 64); Romans 5:2-5 quotation never closed (2133); Athanasian Creed quotation never opened (1052).
+- Ownership: 1903-1915 is now ch03's (author 2026-11-15); 2154-2164 is ch06's; ch04's position sentence is 2014-2016.
+
+
+## Added by chapter-writer, 2026-11-16 (ch04 draft)
+
+- ch04 spine: every ch04 range has one version only, with no duplicates inside it. Usable thesis text is about 2,900 words, the largest of Part Two, so ch04 is the first chapter to come in over budget rather than under: 4,684 words (budget 4,300) with the eschatology (1007-1063) and Revelation (1113-1135) passages kept at about 333 and 246 words against v2's 150 and 100. Blueprint v2's epistemology table also gives 1067-1070 (Hebrews 11:1) to ch04, which source/README.md's line list leaves out; the draft uses it.

@@ -14,8 +14,8 @@ must lock them. Mark any row an agent inferred rather than you stated as **Infer
 | Positioning angle | **Inferred:** combines New Testament reading, the colonial and missionary history, gospel music, and original survey and interview research from 50 participants across three countries (real participants, confirmed 2026-11-10; overall numbers only, see hard rule 10); speaks honestly about both the healing and the harmful sides of faith. None of the five verified comparables covers the UK, the USA and Canada together |
 | Tone | Warm and pastoral (author decision 2026-11-07); evidence stays in the background; reverent, never jokey |
 | Point of view | **Inferred:** first person singular (the author's own voice and experience); reader addressed as "you" |
-| Chapter count | **Inferred:** 10 chapters in four parts (Roots 01-02; What the New Testament Offers 03-06; When Faith Hurts 07-09; The Way Forward 10, 99), plus preface (00), afterword (99) and two short appendices. Proposed in book/01-outline/blueprint.md, 2026-11-07; awaiting author approval |
-| Words per chapter | **Inferred:** 4,000-6,000; whole book about 50,000 (source thesis is about 38,600 words). Blueprint budgets: main text 50,400 (preface 3,000; chapters 4,000-5,200; afterword 2,500) plus appendices about 2,000 |
+| Chapter count | **11 chapters (author decision 2026-11-10).** Part structure **Inferred**, proposed in book/01-outline/blueprint-v2.md and awaiting approval: four parts (Roots 01-02; What the New Testament Offers 03-06; When Faith Hurts 07-09; Listening and the Way Forward 10, 11, 99), plus preface (00), afterword (99) and two short appendices. Ch10 = What Fifty People Told Me; ch11 = The Church and the Clinic |
+| Words per chapter | **Inferred:** 4,000-6,000 (ch10 proposed at 3,500 as an exception, awaiting the author); main text about 50,000-52,000 (author, 2026-11-10); source thesis is about 38,600 words. Blueprint v2 budgets: main text 51,700 (preface 2,800; chapters 3,500-4,600; afterword 2,000) plus appendices about 2,300 |
 | Chapter closer | **Inferred:** a short reflection, then "For church leaders / For families / For clinicians" points and two or three discussion questions for small groups |
 | Author name | Eston T. B. Guy |
 | Author credibility (2 lines) | PhD in Religion (Selinus University, 2025). Former Head of Religious Studies, Head of Year and Assistant Headteacher in North London secondary schools. |
@@ -53,4 +53,18 @@ must lock them. Mark any row an agent inferred rather than you stated as **Infer
     `book/source/images/`. Never an individual participant's answer, quotation, story or any detail
     that could identify someone. Describe findings with the sample size (50) and do not claim they
     represent all people of African heritage.
+11. **Humanizer (author decision 2026-11-10, applies to every chapter, 00 to 99).** All prose is
+    written and edited against `.claude/skills/humanizer/SKILL.md` (the humanizer skill, based on
+    Wikipedia's "Signs of AI writing"). Every writing and editing agent reads it before working.
+    Each chapter also gets a dedicated **humanize** pass after the developmental edit and before
+    the fact check: the pass rewrites AI-sounding patterns in place in `book/04-edited/`, keeps
+    the meaning, the author's voice and every flag, adds nothing new, and logs each change in
+    `book/04-edited/chNN-humanize-log.md`. The copy editor checks the humanizer patterns again
+    at the end.
+    **Exception (author decision 2026-11-11):** Fig.27, the participant-level survey table, is
+    reproduced in Appendix A at the author's explicit instruction ("include it anyway"), after he
+    was told it shows each participant's answers, that consent covered academic use only, and that
+    an ethics/data-protection check was advised. The exception covers Fig.27 in Appendix A only.
+    Running text still uses overall numbers only, and no participant's words, story or identity
+    appear anywhere.
 
