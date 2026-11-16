@@ -1116,3 +1116,25 @@ the over-budget eschatology and Revelation should come down to v2's figures.
 Correction to the entry above: the final draft has 75 quoted spans, 71 of them KJV and exact by 
 script (not 81; 81 was the count before trimming to length); the 4 others are the 'mysterious 
 ways' saying and three creed lines, flagged. Book Bible row 04 and the ch04 card corrected.
+
+### 2026-11-16 · story-injector · story · ch04
+Story pass (Mode A) on 03-drafts/ch04-thy-faith-hath-made-thee-whole.md, run on the ch03 rule 
+(nothing cut; wording edits and additions only). Pre-pass copy 
+ch04-thy-faith-hath-made-thee-whole.pre-story.md saved first (cmp identical, sha256 
+a3b19089...). Four additions, nothing removed or moved: (1) line 5 'She had heard of Jesus' 
+(Mark 5:27; ref now 5:27-28; 'had said' to 'said'), paying the reflection's 'what she did when 
+she heard of Jesus'; (2) line 9 direct address 'You may have heard it said to you, or said it 
+to yourself.' after the 'hard conclusion' (ch03 hook still answered in the same paragraph); (3) 
+line 83 Revelation 21:4 KJV (pack 3.4), showing the comfort the eschatology/Revelation run only 
+asserts; (4) line 97 direct address 'If you have ever asked God why he has left you, you have 
+asked what Jesus asked.' 0 composites, no new person, fact or statistic. Script checks vs the 
+pre-pass copy: 45 comments byte-identical and in order (4 story-pass comments added); 8 prose 
+flags (7 UNVERIFIED, 1 AUTHOR STORY NEEDED) byte-identical; 76 quoted spans byte-identical, 1 
+new span exact in the GITenberg mirror of #10 (md5 f14e91c9); H1 unchanged; 0 dashes, 0 curly 
+quotes; 'I believe' 17 and question marks 13 unchanged. wc -w (comments and notes removed) 
+4,684 to 4,754 (+70, +1.5%), about 450 over the 4,300 budget. Log 02-research/ch04-stories.md 
+(line, original, revision, why per change). Book Bible v2 row 04 Story pass and a 'Ch04 story 
+pass' block; card updated. Did not: write Eston's story, touch the slot, edit the cut list, cut 
+toward budget, use John 11:21 (considered, held for budget) or Leviticus 15:27 (rejected), 
+commit or push. For Eston: three writer's sentences (lines 9, 83 lead-in, 97); his story; 
+whether the over-budget eschatology/Revelation passages should come down at the dev edit.
