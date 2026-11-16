@@ -128,3 +128,9 @@ One-sentence revision by copy-editor, 2026-11-14, after the author approved ch02
 **Counts after this revision:** flags of every type 0. HTML comments 47 (46 plus 1). Reader-facing words: body 2,825 (2,819 + 6), closer 374, total 3,199. After row 2: flags 0, HTML comments 47 (unchanged), body 2,822 (2,825 - 3), closer 374, total 3,196. The optional question "Two of those churches or three (Spiritual Baptist)" is settled by this revision.
 
 **For his ear (optional, not a flag):** "these churches" points back to the previous sentence, which names Pentecostal, Moravian and Baptist churches but not Anglican. Left as he wrote it. (After row 2 the sentence reads "Four of the churches"; "the churches" still follows a sentence that does not name Anglican. Left as he wrote it.)
+
+## 2026-11-16 author decision: chapter number in the title
+
+| # | Line | Original | Revision | Why | To reverse |
+|---|---|---|---|---|---|
+| 1 | 1 (H1) | "# Songs for Sorrow" | "# Chapter 2: Songs for Sorrow" | Author (2026-11-16): insert the word Chapter and the chapter number before every chapter title, e.g. "Chapter 1: A Faith Handed Down in Chains". Style sheet, Headings, updated. Applied by the orchestrator; no other change. Drive copy replaced | Remove "Chapter 2: " from line 1 |

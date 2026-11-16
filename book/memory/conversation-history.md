@@ -1043,3 +1043,12 @@ back and checked:
 https://docs.google.com/document/d/1a6_KFNjjmey_GJgOBVAbgMWXaYkOm2dRkZH2dMH3R2g/edit. Method: 
 pandoc -f markdown-smart to HTML, style text-align: justify on every p/li, uploaded as 
 text/html. Register, card, Book Bible updated.
+
+### 2026-11-16 · book-orchestrator · archive · book
+Author 2026-11-16: every numbered chapter title starts 'Chapter N: ' (e.g. 'Chapter 1: A Faith 
+Handed Down in Chains'). Applied to the ch01, ch02 and ch03 finals (line 1 only), logged in 
+each chNN-changes.md; style sheet Headings rule, Book Bible note, user-profile decision. Drive 
+sync: new justified copies for ch01 (1vVUaQy...), ch02 (1eP__PK...), ch03 (18w-5Sl...); 
+previous ch01, ch02 and ch03 copies renamed SUPERSEDED; register updated. Preface and Afterword 
+keep their labels. Drive-only 'draft for review' docs for ch03-ch11 and the Afterword (made by 
+another session, not in this repo) were not changed.

@@ -279,3 +279,9 @@ Checks by script against a copy taken before editing: only lines 78, 80, 82, 84,
 Added comment (end of line 78): `<!-- author-decision 2026-11-16: story proposals rows 1-15 all taken ("Take all suggestions"); row 5 as "To test my suspicion,"; rows 3, 8 and 13 settled by his "take all" (same reworded essay; "and"; "later gained"); logged in 05-final/ch03-changes.md -->`. To reverse everything, reverse rows 1-15 and delete this comment.
 
 **Consistency decision:** none new. Row 15 applies the existing rule (parables named with capitals, "parable" lower case; Book Bible and style sheet, copy-editor 2026-11-15).
+
+## 2026-11-16 author decision: chapter number in the title
+
+| # | Line | Original | Revision | Why | To reverse |
+|---|---|---|---|---|---|
+| 1 | 1 (H1) | "# The Way Home: The Teachings and Parables of Jesus" | "# Chapter 3: The Way Home: The Teachings and Parables of Jesus" | Author (2026-11-16): insert the word Chapter and the chapter number before every chapter title, e.g. "Chapter 1: A Faith Handed Down in Chains". Style sheet, Headings, updated. Applied by the orchestrator; no other change. Drive copy replaced | Remove "Chapter 3: " from line 1 |

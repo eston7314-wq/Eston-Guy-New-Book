@@ -1,4 +1,4 @@
-# Songs for Sorrow
+# Chapter 2: Songs for Sorrow
 
 What the enslaved could not say aloud, they sang. On the plantations of the American South, the people who owned them sang Christian hymns in small churches. The people they owned took some of those hymns, blended them with the songs of Africa and sang them as their own, for comfort and for protest. This chapter asks what that singing has done for the minds of the people who carried it. I follow the song from the plantations into the churches, then outwards to Britain, the Caribbean and Canada. Wherever our people went, they took it with them, and they used it to carry sorrow and to keep going.<!-- note: story pass 2026-11-14: the plantation hymns (thesis 2456-2462, 3781-3786) moved up from section 1 to open the chapter; ch01's last line kept as the first sentence -->
 

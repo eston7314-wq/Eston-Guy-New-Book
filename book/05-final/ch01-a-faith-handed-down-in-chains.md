@@ -1,4 +1,4 @@
-# A Faith Handed Down in Chains
+# Chapter 1: A Faith Handed Down in Chains
 
 The question I left at the end of the preface begins, for me, in my own family. Christianity came into my family line from my paternal grandparents who embraced Christianity through the Moravian Church in the Caribbean island of Tobago, while my maternal grandparents followed Christianity through the Anglican Church. My wife, children and I also embraced the Church of England practices while paying homage also to the Pentecostal and Spiritual Baptist practices. <!-- author-confirmed 2026-11-11 -->
 

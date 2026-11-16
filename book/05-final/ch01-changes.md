@@ -185,3 +185,9 @@ The six moved rows are listed in `book/book-bible.md` under "Carried forward fro
 **Counts after this revision:** flags of every type 0. HTML comments 44 (42 before, plus the two author-decision comments). Reader-facing words 4,451 (`wc -w` with comments removed; 4,446 before).
 
 **What the author must still do to make ch01 final:** read the chapter aloud for voice. Optional points (unchanged): "Indigenous" or "indigenous"; "Mary" or "Prince" after first mention; "principles" back in the King paragraph if he prefers; ", today" restored on line 91 if he wants his own punctuation.
+
+## 2026-11-16 author decision: chapter number in the title
+
+| # | Line | Original | Revision | Why | To reverse |
+|---|---|---|---|---|---|
+| 1 | 1 (H1) | "# A Faith Handed Down in Chains" | "# Chapter 1: A Faith Handed Down in Chains" | Author (2026-11-16): insert the word Chapter and the chapter number before every chapter title, e.g. "Chapter 1: A Faith Handed Down in Chains". Style sheet, Headings, updated. Applied by the orchestrator; no other change. Drive copy replaced | Remove "Chapter 1: " from line 1 |
