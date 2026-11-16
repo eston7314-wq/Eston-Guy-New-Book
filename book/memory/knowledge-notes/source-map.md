@@ -74,3 +74,7 @@ charted; 20 interviewees (Fig.26 is the only source).
 - Slips in the ch04 lines: "Apostle Luke" (2098); Hebrews to Paul (2107); James "to the believers in Jerusalem" (2112-2113; James 1:1 says the scattered twelve tribes); "most of His followers denied" (2088; KJV "all"); "day or hour" cited to 1 Thessalonians 4:13-18 (1037; it is Matthew 24:36); "64 B.C.E." (1725; thesis 1127 has AD 64); Romans 5:2-5 quotation never closed (2133); Athanasian Creed quotation never opened (1052).
 - Ownership: 1903-1915 is now ch03's (author 2026-11-15); 2154-2164 is ch06's; ch04's position sentence is 2014-2016.
 
+
+## Added by chapter-writer, 2026-11-16 (ch04 draft)
+
+- ch04 spine: every ch04 range has one version only, with no duplicates inside it. Usable thesis text is about 2,900 words, the largest of Part Two, so ch04 is the first chapter to come in over budget rather than under: 4,684 words (budget 4,300) with the eschatology (1007-1063) and Revelation (1113-1135) passages kept at about 333 and 246 words against v2's 150 and 100. Blueprint v2's epistemology table also gives 1067-1070 (Hebrews 11:1) to ch04, which source/README.md's line list leaves out; the draft uses it.

@@ -1083,3 +1083,36 @@ Note: the card's 'open-claims 5-12' are rows 15-22 in the current file. Not done
 commit, OpenAlex key not requested. For the author: Brown and Hughes; Harris and Young; 1 
 Corinthians 12:12-27 at 2156; his story for the slot; creed version; Walrond case and the old 
 statistics if he wants them.
+
+### 2026-11-16 · chapter-writer · consolidate · ch04
+Consolidated draft written to book/03-drafts/ch04-thy-faith-hath-made-thee-whole.md from thesis 
+1989-2152 (less 2154-2164, ch06), 1256-1277, 1414-1442, 1706-1736, 1007-1063 (condensed per 
+blueprint v2), 1113-1135 and 1067-1070 (Hebrews 11:1, v2 epistemology table). H1 'Chapter 4: 
+Thy Faith Hath Made Thee Whole: Miracles, Letters and Hope' (author 2026-11-16). Opens on the 
+woman (Luke 8:43-48 with Mark 5:26, 5:28), meeting ch03's 'Who touched me?' hook and its 
+question; five H2s (miracles as signs and provision; faith acts before the evidence; 
+resurrection hope in grief; hope under injustice; perseverance ending on Mark 15:34); ch05 
+hook. Ch03's 1903-1915 and 1 Corinthians 15:55-57 called back in one sentence, not repeated. 
+Position sentence 2014-2016 kept close to his words as his belief. KJV: 81 quoted spans exact 
+by script against the GITenberg mirror of #10 (md5 f14e91c9); thesis misquotations corrected 
+(Romans 5:2-5, Philippians 4:8, Romans 8:28, 1 Corinthians 15:19, Hebrews 11:1 paraphrase, Luke 
+17:13, 17:19, John 10:38, Psalm 46:11) and slips ('all denied', Apostle Luke, Paul for Hebrews, 
+James to Jerusalem, 'Jewish opponents', 'day or hour', B.C.E.). Flags: 7 UNVERIFIED 
+(open-claims 15, 16, 17, 57, 58, 59, 60), 0 AUTHOR TO CONFIRM, 1 AUTHOR STORY NEEDED (end of 
+section 2). No statistics, no survey figure (Fig.15 left as a question). wc -w without comments 
+or notes 4,684 (body 4,286, closer 398), about 380 over the 4,300 budget; not padded; the 
+excess is his eschatology and Revelation text kept (about 333 and 246 words vs v2's 150 and 
+100) on the ch03 keep-everything precedent. 45 source comments; every body paragraph traced. 
+Cut list 14 rows, all undecided (10 condensed out of 1007-1063 and 1113-1135, incl. millennial 
+views, Athanasian Creed, temple in the heart; 4 changed in substance: Revelation dating 
+reading, the Holy Spirit outside Romans 6:4, Jeremiah's exiles for 'the righteous', 'it is 
+argued' as his belief). Book Bible v2 row 04 Draft and a 'Ch04 draft additions' block; card; 
+authors-voice and source-map notes. Did not: invent a story, add statistics or studies, use a 
+survey number, commit. Questions for the author: his story for the slot; rows 1-14; the seven 
+flags (incl. creed version, Brown and Hughes, Harris and Young); Fig.15 or no number; whether 
+the over-budget eschatology and Revelation should come down to v2's figures.
+
+### 2026-11-16 · chapter-writer · consolidate · ch04
+Correction to the entry above: the final draft has 75 quoted spans, 71 of them KJV and exact by 
+script (not 81; 81 was the count before trimming to length); the 4 others are the 'mysterious 
+ways' saying and three creed lines, flagged. Book Bible row 04 and the ch04 card corrected.

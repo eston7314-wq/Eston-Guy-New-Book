@@ -31,3 +31,10 @@ Stub. State the source and date of anything you add. Undated entries are untrust
 - States what scripture offers, then names who it helps with "For those with African heritage who..." or "For individuals like those of African heritage facing...", then closes on a benefit ("promoting psychological resilience", "thus contributing to better mental health for some African Christians"). The draft keeps his sentences and adds an "I believe" frame (config rule 5). About 13 frames in a 2,600-word body are as many as the prose will carry; vary them with "In my view" and "As I read it".
 - Paragraph-opening connectives "Above all", "Furthermore", "Accordingly" (one each in ch03).
 - Cites scripture from memory in modern wording (Luke 23:34, Matthew 6:25 and 6:31); check every verse against the KJV.
+
+## Observed in ch04 source (chapter-writer, 2026-11-16; thesis 1989-2152, 1256-1277, 1414-1442, 1706-1736, 1007-1063, 1113-1135)
+
+- Defines by teaching: "a sign of faith is being intentional. Faith is having a clear goal in mind that leads one to concentrate all one's energy on achieving it" (2092-2094). Kept verbatim; his definitions are among his best lines.
+- Short credal lines at the end of a run of argument, sometimes with an exclamation: "Hope is not wishful thinking; it is part of faith" (1431); "Christian eschatology gives them hope!" (1063); "Let us examine the scripture!" (2082, signposting, not kept). Keep the credal ones.
+- Attributes views to unnamed groups ("Scholars attest", "Scholars believe", "it is argued", "research shows"). The draft keeps the scholarly ones flagged and turns "it is argued" into his belief, on the cut list; ask him which views are his own.
+- Uses "resonates with" for scripture meeting the community's experience (about eight times in these lines). Kept in most places; vary at the dev edit.
