@@ -12,7 +12,7 @@ Notes for agents:
 - The psalm is to be quoted in KJV wording (author decision: KJV throughout). Psalm 23:1 "The LORD
   is my shepherd; I shall not want." to 23:6 "... and I will dwell in the house of the LORD for ever."
   The author's ellipsis means the whole psalm; quote as much as the chapter needs, checked against KJV.
-- He has said what he did (prays diligently for guidance; repeats Psalm 23 several times). He has
-  not yet said what it did for him; the writer must not invent that. If the slot needs it, ask him
-  via a short [AUTHOR STORY NEEDED: what praying and repeating Psalm 23 does for you] note.
+- The slot is complete: what he does (prays diligently for guidance; repeats Psalm 23 several times)
+  and what it does for him (peace; clearer thinking, especially for important decisions). Do not add
+  to either part.
 - Psalm 23 is Old Testament; the blueprint's owned verses are New Testament. Using it is his choice.
