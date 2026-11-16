@@ -1248,3 +1248,25 @@ creeds profound'; 11 cut; 12 keep Romans 6:4, cut 'the Holy Spirit'; 13 keep; 14
 words 'Christians reassessing their faith in times of extreme stress, as they could infer from 
 Jesus's teachings.'). Row 10 still open. Recorded in the cut list and user-profile; copy-editor 
 to apply the kept rows to 05-final.
+
+### 2026-11-16 · copy-editor · copyedit · 04
+Author's ch04 cut-list decisions (2026-11-16) applied to 
+05-final/ch04-thy-faith-hath-made-thee-whole.md; log section 'Author's cut-list decisions, 
+2026-11-16' in 05-final/ch04-changes.md (old/new per row; status line updated). Five lines 
+changed: 75 row 1 'that will last for a thousand years (a long time)' back in, thesis words, 
+under 'For the Christian Church, eschatology involves' (rule 5); 79 row 9 'I find these creeds 
+profound.' after the creed lines and flag (thesis 1056 place; his 'profound' kept); 59 row 12 
+Romans 6:4 kept, 'I believe the Holy Spirit was at work in it too.' cut; 65 row 13 'to the 
+exiles carried away to Babylon and, as I read them, to the righteous:' (Jeremiah 29:11 and the 
+exiles kept; 29:4 KJV checked); 97 row 14 his words exactly with 'I see' added: 'I see 
+Christians reassessing their faith in times of extreme stress, as they could infer from Jesus's 
+teachings.' (alternatives 'I believe in' / 'I know of' offered). KJV Romans 6:4, Jeremiah 29:4, 
+29:11 exact in two public-domain 1769 files. Script checks vs a pre-edit copy (md5 
+a03152187cef): 65 earlier comments, 11 flags, 77 spans, H1 byte-identical; 5 comments added. wc 
+(all comments removed) 4,797 -> 4,792; orchestrator's sed command 4,936 -> 4,931 (it leaves 
+comments containing '>'). Did not: delete the row 11 sentence still at line 83 (Nero/AD 64-70 
+dating, open-claims 59; exact removal proposed in the log), delete line 77 'Christians live 
+within that tension' (row 5 question), touch row 10, 'triune God' (line 59) or any other text, 
+flag, the slot, commit or push. No new consistency decision. For Eston: confirm 'I see' (row 
+14); go-ahead on row 11 removal; row 5 scope; 'triune God' after the Holy Spirit cut; row 10; 
+rest as on the card.
