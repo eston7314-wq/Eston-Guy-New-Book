@@ -1365,3 +1365,32 @@ His testimony, not checked or flagged (rule 3); Psalm 23:1-6 KJV read in the GIT
 ('LORD' in quotations). The slot still lacks what the practice did for him: writer to leave 
 [AUTHOR STORY NEEDED: what praying and repeating Psalm 23 does for you]. Note: the WIP commit 
 6a27735 (pack and open-claims) was not made by the researcher; nothing committed by this run.
+
+### 2026-11-16 · chapter-writer · consolidate · 05
+Consolidated ch05 from thesis 2166-2292, 2339-2400, 1528-1540, 1559-1564, 1587-1591, 906-928 
+and 970-978 (one version each; 2668-2671 and 2736-2739 once for the guardrail) to 
+book/03-drafts/ch05-casting-your-cares.md, H1 'Chapter 5: Casting Your Cares: Prayer, Scripture 
+and Worship'. Opens on ch04's prayer hook at Gethsemane (Mark 14:32-35; Luke 22:39, 42-44), 
+title verse 1 Peter 5:7 KJV (singular 'care'); sections: spiritual practices and the eight; 
+prayer; scripture, meditation, Psalm 23 and Polanyi (one paragraph, Personal Knowledge 1958 per 
+the pack); worship, singing and service; the studies as association, with the honest limits; 
+landing on the shift line; bridge into ch06 word for word. Closer with ch04's five labels. 
+Author's story: both of his sentences as his testimony, not flagged, Psalm 23:1-6 KJV ('LORD') 
+as a block quotation between them; smoothing for his sign-off ('repeat Psalm 23', 'LORD' inside 
+the quoted psalm words, comma outside the mark); no [AUTHOR STORY NEEDED]. All nine unconfirmed 
+claims kept in place and flagged (open-claims 66-74); Larcom paragraph has a new lead-in; '60 
+per cent' kept as the thesis reports it; Smith 'thus reducing' and Ali and Thompson 
+'demonstrating effectiveness' written as association (cut-list rows 5, 6). KJV slips corrected 
+(Philippians 4:6, forty days, Luke 22:39, Mark 14:32, Matthew 25:35, James 5:16 capital). 45 
+quoted spans, 43 scripture, all exact by script in the GITenberg mirror of #10 (md5 f14e91c9), 
+each reference checked. wc -w with comments and notes removed: main text 3,796 (about 600 under 
+the 4,400 budget; source is about 2,300 words; nothing padded, scripture added from the pack's 
+optional verses and a few more), closer 415. 0 dashes, 0 curly quotes, no serial comma. Cut 
+list 03-drafts/ch05-cut-list.md, 9 rows, all undecided. Book Bible: v2 row 05 Draft done; 'Ch05 
+draft additions' block (terms, examples, statistic, promises, spent lines). Card, source-map 
+and authors-voice notes updated. Did not: add a survey number, describe any outside study's 
+content, drop or soften a flagged claim beyond the brief's 'associated' rule, commit or push. 
+For the author: sign-off on the three smoothing changes; the four citations and the 60 per cent 
+(open-claims 70-74); Polanyi 1958 or 1966 (row 4); whether the eight practices are his 
+observation (67); rows 1-9; whether he can give more of his own material to reach the 4,400 
+budget.

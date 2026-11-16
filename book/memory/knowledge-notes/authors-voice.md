@@ -38,3 +38,9 @@ Stub. State the source and date of anything you add. Undated entries are untrust
 - Short credal lines at the end of a run of argument, sometimes with an exclamation: "Hope is not wishful thinking; it is part of faith" (1431); "Christian eschatology gives them hope!" (1063); "Let us examine the scripture!" (2082, signposting, not kept). Keep the credal ones.
 - Attributes views to unnamed groups ("Scholars attest", "Scholars believe", "it is argued", "research shows"). The draft keeps the scholarly ones flagged and turns "it is argued" into his belief, on the cut list; ask him which views are his own.
 - Uses "resonates with" for scripture meeting the community's experience (about eight times in these lines). Kept in most places; vary at the dev edit.
+
+## Observed in the ch05 story and source (chapter-writer, 2026-11-16; memory/author-stories/2026-11-16-psalm-23-prayer.md; thesis 2166-2400)
+
+- His testimony here is two plain sentences, a practice then its effect: "During challenging times, I pray diligently for guidance ..."; "It gives me peace and enables me to think more clearly, especially when making important decisions." No list, no thanks formula. Keep them as two sentences; do not join or gloss them.
+- He writes "the Psalm 23" (article before a psalm's number); smoothed to "Psalm 23" for his sign-off.
+- In the ch05 source he names practices in long inventories (sixteen practices at 2188-2192; eight at 2199-2202) and attributes selections to "Research shows". The inventories are kept whole; the attributions are flagged.

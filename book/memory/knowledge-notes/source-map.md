@@ -87,3 +87,7 @@ charted; 20 interviewees (Fig.26 is the only source).
 - KJV slips in the ch05 lines: Philippians 4:6 "request be known" (2229; the author quotes it correctly at 2801-2803); "prayed alone in the wilderness for forty days" (2233; Luke 4:2 tempted, Matthew 4:2 fasted); Luke 22:39 for the prayer at 22:41-44 (2234); "Mark 13: 32" for 14:32 (2236); Hebrews 11:1 to "the Apostle, Paul", "Now" dropped, quotation unclosed (2218-2219); Matthew 25:35 "an hungered", "you gave" (2288-2290).
 - Ownership inside ch05's ranges: 2216-2224 (Hebrews 11:1, faith) ch04; 2243-2248 (Acts) ch06; 2293-2338 (clergy) ch06; 2349-2351 shared with ch11 (blueprint v2 line 119); 1528 opens "However" against 1524-1526, which is not ch05's.
 
+
+## Added by chapter-writer, 2026-11-16 (ch05 draft)
+
+- ch05 spine: every ch05 range has one version only (no duplicates inside them, apart from James 5:16 and "Christians follow in Jesus' footsteps", each twice, at 2261-2262 and 2393-2395). Usable thesis text is about 2,300 words, less than ch04's, so the draft comes in about 600 under the 4,400 budget (main text 3,796) after adding KJV verses that carry the chapter's own arguments. Thesis 2668-2671 and 2736-2739 (prayer used in place of treatment) are the guardrail lines; ch07 and ch08 own them in full.
