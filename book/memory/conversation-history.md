@@ -1000,3 +1000,24 @@ comma before 'today', 'sermons', the unclosed aside on line 84.
 Author asked for a comma after 'Contemporary Religions' (line 84), closing the aside after 'and 
 I,'. Applied in 05-final/ch03 and logged in ch03-changes.md; no other change. Ch03 awaits only 
 the read-aloud voice check.
+
+### 2026-11-16 · copy-editor · revision · ch03
+Eston's requests of 2026-11-16 (relayed by the orchestrator, after his voice check 'Chapter 03 
+sounds like me'). Task A applied to 05-final/ch03-the-way-home.md line 75 only (file copied 
+first, compared by script): 'In chapter 2 I wrote that I believe...' became 'I wrote in chapter 
+2 that I believe this hope is so strong among most Africans that they turn...'. His order; 'so' 
+kept although he typed 'is strong', because 'so ... that' needs it; 'chapter 2' lower case by 
+the existing house rule (style sheet Cross-references; every mid-sentence reference in 
+ch00-ch02 finals is lower case), though he typed 'Chapter 2'. One author-decision comment added 
+(68); 54 quoted spans and 116 lines unchanged; 0 flags; wc 3,820 unchanged. Logged in 
+ch03-changes.md '2026-11-16 author decisions' (line, original, revision, why, how to reverse); 
+status line now Final with a pointer to the proposals file. Task B, proposals only, NOT 
+applied: 05-final/ch03-story-proposals.md, 15 independent rows for the lecturer story (lines 
+77-88): joining sentence; preposition chain; B+ and 'I knew then' moved after the test and 
+merged; colon split in the test sentence (meaning kept); 'disprove'; 'to assess'; tense of 'I 
+love'; 'because'; 'keep working'; 'prove that the Religious Studies lecturer was unfair'; 'the 
+feeling'; line 84 split (twenty-five, degree name, comma kept); 'later'; 'To my surprise' 
+(over-the-years comma kept); naming the Prodigal Son in the next paragraph. Full proposed text 
+and the current text side by side. Meaning questions for Eston: are the two B+ the same essay; 
+what 'disprove' means; 'because'; when the degree came. Book Bible row 03, a consistency note 
+and a status bullet; card updated. Did not: apply any proposal, commit, sync Drive.

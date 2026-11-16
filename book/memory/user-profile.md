@@ -23,6 +23,7 @@ infers goes under "Proposed" until the author confirms it.
 - (book-strategist, 2026-11-10, relayed by the coordinator) Author asked for 11 chapters, restoring the survey chapter as ch10 before the Church and the Clinic; main text about 50,000-52,000 words. Not yet in the decisions log below; supersedes the 2026-11-07 ten-chapter proposal above.
 - (book-strategist, 2026-11-10, inferred) Wants the author's own research visible in the book as a chapter, not only in an appendix, within the aggregate-only consent limit.
 - (book-strategist, 2026-11-10, inferred) Reviews by comparing versions side by side; keep earlier versions intact and lead with a "what changed" list.
+- (copy-editor, 2026-11-16, relayed) ch03 voice check passed: "Chapter 03 sounds like me". ch03 line 75 in his word order, "I wrote in chapter 2 that I believe this hope is so strong ..." ("so" kept for "so ... that"; lower-case "chapter" by house style, though he typed a capital). He asked, "on this occasion only", for flow proposals on his lecturer story: book/05-final/ch03-story-proposals.md, not applied. Observed: he prefers the reporting verb first ("I wrote in chapter 2 that"), not the chapter reference first.
 
 ## Decisions log (author decisions, dated)
 
