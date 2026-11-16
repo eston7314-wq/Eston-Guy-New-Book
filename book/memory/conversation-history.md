@@ -1189,3 +1189,30 @@ push. For the copy edit (10 points): 'cuts both ways' and 'double-edged' two sen
 2 Corinthians 12:8-9 (110, also for the fact checker); 'one of the most loved verses' (93); 
 'prayer' twice in the ch05 hook (101); the protected-run items once Eston decides. For Eston: 
 unchanged (length of the runs, B2, B3, any sinner, story, rows 1-14, seven flags, Fig.15).
+
+### 2026-11-16 · book-researcher · factcheck · ch04
+Fact check (Mode B) of 04-edited/ch04-thy-faith-hath-made-thee-whole.md under the author's 
+2026-11-11 rules; report 02-research/ch04-factcheck.md in the ch03 format. 144 claims: thesis 
+57 (every thesis-cited sentence matched at 1007-1063, 1067-1070, 1113-1135, 1256-1277, 
+1414-1442, 1706-1736, 1989-2152, 2700-2704, 3651-3655), KJV verified 60, cross-references 7 
+(ch00 lines 3, 7, 47; ch01 7, 65; ch03 37, 73, 90; all consistent), framed views 10, unverified 
+10. KJV: GITenberg mirror of #10 (md5 f14e91c9) parsed to 31,102 verses; 72 of 77 quoted spans 
+exact by script, the other 5 not scripture (mysterious-ways saying, confirmed absent from the 
+KJV; story-slot brief; three flagged creed lines); every reference checked by hand. Dev-edit B2 
+verified (Luke 7:47-50 forgiven woman, no healing; the five made-thee-whole verses are exactly 
+Matthew 9:22, Mark 5:34, Mark 10:52, Luke 8:48, Luke 17:19, three being one saying to the woman 
+in three Gospels); B3 verified (Mark 5:26; no verse blames her or forbids doctors). 0 
+corrections. 3 flags inserted, each kept word for word: line 41 'best-known definition' 
+(open-claims 63), line 93 'one of the most loved verses' (64), line 110 closer 'Paul's thorn 
+stayed after he prayed three times' (65: 2 Corinthians 12:7-10 gives the prayer and the answer, 
+not that it stayed; body line 37 is exact and not flagged). Byte checks vs a start copy: only 
+lines 41, 93, 110 changed plus one line in Notes for the editor; 65 comments (8a06ae142ee2) and 
+77 spans (6107e43caae5) identical; 7 earlier flags and the story slot identical. No lookup 
+service called (Brown and Hughes, Harris and Young searched for the pack today; flags 15, 16 
+kept). sources.md 33 amended; Book Bible KJV row amended, 04 row Research column, 'Ch04 fact 
+check' block; glossary rows (thorn; faith-saying parallels; mighty-works count) and index; 
+card. Did not: change any wording, edit comments, commit or push. For Eston: open-claims 63-65 
+(keep as his view, give a source, or reword); notes N1 'five times he says' counts verses not 
+occasions; N2 letters of John name no writer; N4 'nature of her suffering' vs Luke 8:47; N5 
+'same road'; N6 1 Corinthians 15:18 context; for the copy editor N3, N7, N8 (line 115 full stop 
+inside 'Fear not: believe only.').
