@@ -103,3 +103,6 @@ infers goes under "Proposed" until the author confirms it.
 | 2026-11-15 | ch03 story: "seventeen" and "twenty-five" in words (author's choice over the style sheet's figures rule); "Bachelor of Education degree with honours"; keep the comma after "over the years" | 05-final/ch03 |
 | 2026-11-15 | ch03 story: "twenty-five" with the hyphen (confirmed) | 05-final/ch03 |
 | 2026-11-15 | ch03 story line 84: add a comma after "Contemporary Religions" to close the aside | 05-final/ch03 |
+| 2026-11-16 | ch03 voice check: "Chapter 03 sounds like me" (approval to follow once the story-flow proposals are settled) | ch03 card |
+| 2026-11-16 | ch03 line 75: "In chapter 2 I wrote that..." sounds awkward; change to "I wrote in chapter 2 that I believe this hope is so strong..." | 05-final/ch03 |
+| 2026-11-16 | ch03 lecturer story: "on this occasion only", copy editor to offer flow changes to match the chapter's language; proposals only, author to choose | 05-final/ch03-story-proposals.md |
