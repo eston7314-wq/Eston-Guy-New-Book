@@ -1285,3 +1285,9 @@ bullet; card updated. wc -w all comments stripped 4,792 -> 4,760 (sed command 4,
 Flags now 9 [UNVERIFIED] (open-claims 15, 16, 17, 57, 58, 60, 63, 64, 65), 1 [AUTHOR STORY 
 NEEDED]. Did not: touch row 5 (line 77; orchestrator asking Eston), any other text, commit or 
 push.
+
+### 2026-11-16 · book-orchestrator · decision · 04
+Author's ch04 follow-ups recorded (user-profile 2026-11-16): row 14 'I believe'; row 3 cut 
+intended; line 77 sentence cut (row 5); flags 57 and 58 cut; 63 'one acceptable definition of 
+faith'; 15, 16 and 17 reframed as 'I believe'. Open: triune (59), creed wording (60), flags 64, 
+65, story slot, voice check.
