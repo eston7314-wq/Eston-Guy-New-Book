@@ -1162,3 +1162,30 @@ over v2's 150 and 100). Book Bible row 04 and a 'Ch04 dev edit' block; card upda
 cut or restore any row, touch the slot, add a survey number, commit or push. For Eston: length 
 of the two runs (cheapest cuts named in the memo); B2 and B3 for his ear; the 'any sinner' 
 reading of the three raisings; his story; rows 1-14; seven flags; Fig.15.
+
+### 2026-11-16 · copy-editor · humanize · ch04
+Humanize pass on 04-edited/ch04-thy-faith-hath-made-thee-whole.md, done the ch03 way (pre-pass 
+copy ch04-thy-faith-hath-made-thee-whole.pre-humanize.md, cmp identical before the pass, md5 
+53e31dd6bfa8; log 04-edited/ch04-humanize-log.md with line, original, revision, humanizer 
+section and why, every pattern checked, deliberately left alone and points for the copy edit). 
+Result: 0 prose changes; only the traceability line added to Notes for the editor. Brief 
+applied: nothing removed or added; the eschatology and Revelation runs not shortened or edited; 
+flagged sentences and cut-list rows 11-14 untouched; Eston's thesis sentences kept in his 
+voice. Every candidate traced: thesis lines (resonates 2118 and 2074; offering a 
+counter-narrative 2150-2152; easing existential anxiety 2042-2043; the faith definition 
+2135-2140; not ends in themselves 2001; Hope is not wishful thinking 1431; charities 
+2025-2035), protected text, or writer's and dev-edit sentences already put to Eston for his 
+ear. Line 73 'This hope has a history among us that cuts both ways' weighed against the ch01 
+'two edges' fix and kept (the paragraph delivers both edges; a colon join would deliver one). 
+Byte-identical by md5 script: H1, 8 flags in order, the [AUTHOR STORY NEEDED] slot, 77 quoted 
+spans, 69 references, 65 comments (3d27c2a7009c), both runs. Flags: 7 UNVERIFIED, 1 AUTHOR 
+STORY NEEDED. 'I believe' 12 plus 1 creed, unchanged. 0 dashes, 0 curly quotes, no serial comma 
+outside KJV, British spelling. wc -w without comments or notes 4,765 -> 4,765 (body 4,366, 
+closer 399). No consistency decisions. Card and Book Bible row 04 and Humanize status updated. 
+Did not: shorten or edit the two runs, touch any flag, rewrite thesis sentences, commit or 
+push. For the copy edit (10 points): 'cuts both ways' and 'double-edged' two sentences apart 
+(73); 'resonates' in consecutive paragraphs (37, 39); two 'I believe' in lines 59 and 97 (rows 
+12, 14); double hedge 'As I read it, that may be why' (3); closer 'Paul's thorn stayed' not in 
+2 Corinthians 12:8-9 (110, also for the fact checker); 'one of the most loved verses' (93); 
+'prayer' twice in the ch05 hook (101); the protected-run items once Eston decides. For Eston: 
+unchanged (length of the runs, B2, B3, any sinner, story, rows 1-14, seven flags, Fig.15).
