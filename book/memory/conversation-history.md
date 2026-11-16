@@ -1034,3 +1034,12 @@ Logged in ch03-changes.md "2026-11-16 author decisions (story proposals)"; statu
 approved for voice, all proposals taken, 0 flags. Proposals file marked decided; card, Book 
 Bible 03 row and user-profile Decisions log updated. No new consistency decision (row 15 uses 
 the existing parable-name rule). Not done: commit, push, Drive sync (orchestrator).
+
+### 2026-11-16 · book-orchestrator · archive · ch03
+Author approved ch03 (2026-11-16): 'Chapter 03 sounds like me' and 'Take all suggestions' 
+(story proposals, row 5 as 'To test my suspicion'). Uploaded to Drive 'Approved Documents' as a 
+Google Doc with justified paragraphs (HTML comments stripped, straight quotes), content read 
+back and checked: 
+https://docs.google.com/document/d/1a6_KFNjjmey_GJgOBVAbgMWXaYkOm2dRkZH2dMH3R2g/edit. Method: 
+pandoc -f markdown-smart to HTML, style text-align: justify on every p/li, uploaded as 
+text/html. Register, card, Book Bible updated.
