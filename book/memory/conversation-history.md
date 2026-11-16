@@ -1138,3 +1138,27 @@ pass' block; card updated. Did not: write Eston's story, touch the slot, edit th
 toward budget, use John 11:21 (considered, held for budget) or Leviticus 15:27 (rejected), 
 commit or push. For Eston: three writer's sentences (lines 9, 83 lead-in, 97); his story; 
 whether the over-budget eschatology/Revelation passages should come down at the dev edit.
+
+### 2026-11-16 · developmental-editor · devedit · ch04
+Dev edit of 03-drafts/ch04-thy-faith-hath-made-thee-whole.md (draft left unchanged) to 
+04-edited/ch04-thy-faith-hath-made-thee-whole.md, memo 04-edited/ch04-edit-memo.md in the ch03 
+format (tables A moves, B changes B1-B20 with original/revision/why, C cut-list placements). 
+Verdict: ready for humanize and fact check. Run on the ch03 rule as briefed: nothing removed; 
+cut list untouched (14 undecided; memo table C says where each row could go); eschatology (333 
+words) and Revelation (281) runs, every flagged sentence and the sentences of rows 11-14 
+untouched. Main edits: (1) Mark 5:26 'rather grew worse' objection met in the position 
+paragraph ('Mark says they left her worse, yet nothing in her story blames her for going or 
+tells anyone to stop seeing a doctor'); (2) Luke 7:50 is said to a woman whose sins he forgave, 
+not at a healing, and three of the five 'thy faith hath made thee whole' references are to the 
+woman (from the cited KJV only); (3) John 10:38 'believe the works' moved from section 2 (it 
+contradicted 'Faith acts before the evidence arrives') to section 1; section 3 heading widened 
+to 'Hope in the resurrection and in God's promises can hold a grieving or anxious heart'. Also: 
+'I believe' 16 to 12 in prose (plus the creed), 'resonates' 4 to 2, five repetitions tightened, 
+the diaspora sentence back to its thesis place. Script checks vs the draft: H1, 8 flags in 
+order, 77 quoted spans (same set), 49 comments (same set; one paragraph moved) byte-identical; 
+16 dev-edit notes; 0 new spans; no dashes, curly quotes or serial commas. wc -w (comments and 
+notes removed) 4,754 to 4,765, 465 over budget; the excess is the two protected runs (about 364 
+over v2's 150 and 100). Book Bible row 04 and a 'Ch04 dev edit' block; card updated. Did not: 
+cut or restore any row, touch the slot, add a survey number, commit or push. For Eston: length 
+of the two runs (cheapest cuts named in the memo); B2 and B3 for his ear; the 'any sinner' 
+reading of the three raisings; his story; rows 1-14; seven flags; Fig.15.
