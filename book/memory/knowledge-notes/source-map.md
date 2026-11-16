@@ -66,3 +66,11 @@ charted; 20 interviewees (Fig.26 is the only source).
 ## Added by chapter-writer, 2026-11-15 (ch03 draft)
 
 - ch03 spine: 1863-1988 has one version only, with no duplicates inside it. Without 1917-1948 (ch06) and 1903-1915 (ch04) it is about 700 words; 1738-1747 and 3611-3621 add about 200. Retelling the parables from the KJV brings the draft to about 2,600 body words plus a 390-word closer, against a 4,200 budget. The gap can only close with the author's story or new material from him.
+
+## Added by book-researcher, 2026-11-16 (ch04 research, rebuilt pack)
+
+- ch04 lines cite only two works, Brown and Hughes (2017) and Harris and Young (2018) (1712-1717); neither is in the bibliography, Crossref, Open Library or OpenAlex (open-claims 15-16). Unnamed attributions: "Scholars attest" (2002), "research shows" (1041), "Scholars believe" (1723), "some 19th Century scholars" (1126) (open-claims 17, 57-59).
+- Corrected line numbers for ch04 quotations (the 2026-11-10 pack was off by up to six lines): Luke 8:43-48 at 2084-2092; Luke 17:13 at 2099-2100; Luke 17:19 at 2104-2105; Hebrews 11:1 paraphrase at 2107-2108; James 2:24 at 2113-2114; Romans 5:2-5 at 2129-2133; definition of faith 2135-2140; Philippians 4:8 at 2144-2149; 1 Corinthians 1:12 at 2156-2158 (ch06); 1 Corinthians 15:19 at 2053-2054; Romans 6:4 at 2060-2061; Romans 8:28 at 1416-1418.
+- Slips in the ch04 lines: "Apostle Luke" (2098); Hebrews to Paul (2107); James "to the believers in Jerusalem" (2112-2113; James 1:1 says the scattered twelve tribes); "most of His followers denied" (2088; KJV "all"); "day or hour" cited to 1 Thessalonians 4:13-18 (1037; it is Matthew 24:36); "64 B.C.E." (1725; thesis 1127 has AD 64); Romans 5:2-5 quotation never closed (2133); Athanasian Creed quotation never opened (1052).
+- Ownership: 1903-1915 is now ch03's (author 2026-11-15); 2154-2164 is ch06's; ch04's position sentence is 2014-2016.
+

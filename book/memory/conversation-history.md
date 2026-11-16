@@ -1057,3 +1057,29 @@ another session, not in this repo) were not changed.
 Author 2026-11-16: renamed the two Drive-only ch03 'draft for review' docs (1ONPag46..., 
 1f0vEyoh...) to 'SUPERSEDED - ...'. The current ch03 Drive copy is 18w-5Sl... (approved, 
 justified, 'Chapter 3:' heading).
+
+### 2026-11-16 · book-researcher · research · ch04
+Mode A evidence pack for ch04 rebuilt under the author's 2026-11-11 fact-checking rules on 
+blueprint v2; the 2026-11-10 pack saved unchanged as 
+book/02-research/ch04-evidence.pre-2026-11-11.md (md5 4745c3ce...), and the new pack's 'What 
+changed' table (W1-W16) justifies each change. Format of ch03-evidence.md (ten sections). 
+Inventory of 1989-2152, 1256-1277, 1414-1442, 1706-1736, 1007-1063, 1113-1135: 75 items, 64 
+thesis-supported, 7 unconfirmed (Brown and Hughes 2017, Harris and Young 2018, 'research 
+shows', 'Scholars attest', Mark's date, Revelation's date, creed wording), 3 corrected from the 
+KJV (Apostle Luke; Hebrews to Paul; James 'to the believers in Jerusalem'), 1 cut by v2 
+(millennial views). KJV read from the GITenberg mirror of #10 (md5 f14e91c9) and cross-checked 
+with gutenberg.org #10, which answered 200 again (md5 d906ea21); both agree. 5 thesis 
+misquotations (Romans 5:2-5, Philippians 4:8, Romans 8:28, 1 Corinthians 15:19, 1 Corinthians 
+1:12) plus 'most' for 'all denied', 'day or hour' miscited. Old pack's 13 studies kept as 
+existence only (Crossref, doi.org; author lists completed; Witvliet only as a PsycTESTS 
+record), findings withdrawn; old statistics (Pew, StatCan, Asser and Swan), King's Stanford 
+wording and the Walrond case withdrawn (outside the four services). No statistics, no survey 
+figure (Fig.15 offered as fallback). Opening meets ch03's Luke 8:45 hook; 1903-1915 and 1 
+Corinthians 15:55-57 called back only. open-claims: status updates on rows 14-22; new rows 
+57-62. sources.md 34-48 added, 33 amended. Book Bible: 17 old 04 (pack) rows marked superseded 
+(no duplicates), one consolidated existence row, status rows, 'Ch04 research' block. Glossary 
+(sozo gloss withdrawn; woman; apostles; network), source-map and index updated; card rewritten. 
+Note: the card's 'open-claims 5-12' are rows 15-22 in the current file. Not done: no draft, no 
+commit, OpenAlex key not requested. For the author: Brown and Hughes; Harris and Young; 1 
+Corinthians 12:12-27 at 2156; his story for the slot; creed version; Walrond case and the old 
+statistics if he wants them.
