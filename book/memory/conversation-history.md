@@ -1216,3 +1216,28 @@ card. Did not: change any wording, edit comments, commit or push. For Eston: ope
 occasions; N2 letters of John name no writer; N4 'nature of her suffering' vs Luke 8:47; N5 
 'same road'; N6 1 Corinthians 15:18 context; for the copy editor N3, N7, N8 (line 115 full stop 
 inside 'Fear not: believe only.').
+
+### 2026-11-16 · copy-editor · copyedit · ch04
+Copy edit (Mode A) of 04-edited/ch04-thy-faith-hath-made-thee-whole.md (left unchanged, md5 
+c7ca5fabf110 before and after) to 05-final/ch04-thy-faith-hath-made-thee-whole.md, log 
+05-final/ch04-changes.md in the ch03 format (status line, three-line summary, table with line, 
+original, revision, why, to reverse; humanize points 1-10 and fact-check N3, N7, N8 settled; 
+checked and deliberately left alone; notes block moved out word for word). 8 prose changes: 
+line 13 'in Jesus's early ministry' (antecedent); line 17 reference form '(Matthew 9:22; Mark 
+5:34; 10:52; Luke 8:48; 17:19)' to match lines 57, 59; line 33 Luke 17:14 lead-in 'His answer 
+and what happened next are in one verse:' (the old 'He said to them' put Luke's narration in 
+Jesus's mouth; span untouched); line 51 'I wrote in chapter 3 that' (Eston's ch03 decision on 
+the same shape); line 55 'At Nain, Jesus'; line 83 'the early Church'; line 101 ch05 hook split 
+into two sentences; line 115 full stop outside 'Fear not: believe only' (N8). Script checks: 
+H1, 65 comments (3d27c2a7009c), 10 UNVERIFIED flags, the story slot byte-identical; 76 of 77 
+quoted spans identical, the 77th differs only by the stop moved outside (now matches the KJV). 
+Eschatology and Revelation runs not shortened (one capital only). 0 dashes, 0 curly quotes, no 
+serial comma, British spelling; final humanizer check clean. wc -w (comments removed) 4,794 -> 
+4,797. Consistency decisions in style-sheet.md and Book Bible: Bible-narrative numbers in words 
+as the KJV has them; 'AD 64'; several references in one parenthesis with the book named once; 
+apostle lower case as common noun, capital as title. Book Bible row 04 Copy edit done, Final 
+'flags open'; status bullet; card updated. Did not: resolve any flag, touch the slot, cut-list 
+rows or the runs' length, apply humanize point 1 or 4 or N7 (offered), commit or push. For 
+Eston: 10 flags; story; rows 1-14; run length; Fig.15; N1, N2, N4, N5 (N6 optional); B2, B3, 
+'any sinner'; three story-pass sentences; optional 'In the preface I ...' word order (lines 9, 
+43); read aloud.

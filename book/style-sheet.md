@@ -57,6 +57,8 @@ Started 2026-11-11 by copy-editor at ch00. Each line gives its source.
 - Proposed, not yet used: "per cent" in running text, % in tables and figures.
 - Round numbers in narrative follow the same rule: "20 African men", "more than 400 years", "more than 20 years" (ch02, 2026-11-14).
 - **Author exception (author 2026-11-15, ch03):** in the author's own story the numbers stay as he chooses, even where the rule above would give figures: "a group of seventeen", "the group of twenty-five" (ch03 lecturer story; "the top five" follows the rule anyway). The exception covers his story text only; the rule stands for all other prose, including the writer's joining sentences. Ask him before applying the figures rule to another of his stories.
+- Numbers from a Bible narrative stay in words, as the KJV has them, where the narration retells the passage: "for twelve years", "a girl of twelve", "the ten lepers", "the nine", "the feeding of the five thousand", "five loaves and two fishes", "prayed three times". Source: the KJV verses quoted beside them, and ch03's "the sixth hour" (John 4:6). The figures rule stands for all other prose and for every count or survey figure (copy-editor 2026-11-16, ch04).
+- Era dates: "AD 64", "AD 70" (AD before the figure, no full stops; Hart's Rules); BC after the figure if ever needed ("64 BC"). Never "B.C.E." (ch04).
 
 ## Scripture
 
@@ -68,6 +70,8 @@ Started 2026-11-11 by copy-editor at ch00. Each line gives its source.
 - Parables are named with capitals and "parable" is lower case: the Good Samaritan, the Sower, the Prodigal Son, the Lost Son; "the parable of the Sower". People in a parable are lower case (the father, the elder brother, a priest, a Levite, the lawyer); "the Samaritan" is capitalised as the name of a people (ch03).
 - Named teachings and texts are capitalised: the Sermon on the Mount, the Lord's Prayer, the Law of Moses, the Gospels, Mark's Gospel (ch01 "Matthew's Gospel"). gospel music and gospel hymns stay lower case (ch02). A letter is described in lower case in narration ("the first letter to the Corinthians") and given in full in references (1 Corinthians 15:55, 57) (ch03).
 - Kingdom of God: capitalised in narration, and its short form too ("the message of the Kingdom"); the KJV's lower case inside quotations ("the kingdom of God", "the kingdom of heaven") (thesis 1738-1740; author 2026-11-13; ch03).
+- Several references in one parenthesis are separated by semicolons, and a book is named once for the references from it that follow: "(Matthew 9:22; Mark 5:34; 10:52; Luke 8:48; 17:19)", "(Romans 1:4; 4:25; 1 Peter 1:21)", "(Acts 2:24; 3:15; 10:40; Ephesians 1:20)". Verses in one chapter keep the comma form "(Luke 15:24, 32)". Book names are never abbreviated (copy-editor 2026-11-16, ch04).
+- apostle: lower case as a common noun ("the letters of the apostles"); capitalised as a title before a name or standing for one ("the Apostles Paul, Peter and John"; "this John was the Apostle"). "the Apostles' Creed" is a proper name. "the early Church" takes the capital (the institution as a whole, ch01 Church rule) (ch04).
 
 ## Names
 
