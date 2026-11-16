@@ -1312,3 +1312,8 @@ spans, remaining flags byte-identical; 9 comments added (80). Open-claims 15, 16
 open-claims 60), 1 [AUTHOR STORY NEEDED]. No new consistency decision (ch04 no longer uses an 
 era date). Did not: touch 'triune' (59), flag 60, the slot, commit or push. Book Bible ch04 
 status and card updated.
+
+### 2026-11-16 · book-orchestrator · decision · 04
+Author: line 59 keep; creed wording (open-claims 60) keep, flag replaced by author-confirmed 
+comment; story slot at line 47 left for later. Ch04 now has 0 [UNVERIFIED] and 1 [AUTHOR STORY 
+NEEDED]. Not yet approved: voice check, line 71 join and line 69 run still to confirm.

@@ -187,3 +187,9 @@ After this pass: words with every comment stripped **4,760 -> 4,607 (-153)**; by
 - Flags in the text: UNVERIFIED 10 (unchanged: open-claims 57, 63, 15, 16, 58, 17, 60, 59, 64, 65), AUTHOR STORY NEEDED 1 (line 47), COPY EDIT 0. HTML comments 70 (65 earlier, byte-identical and in order, plus 5 new). Quoted spans 77, byte-identical. 0 dashes, 0 curly quotes, no serial comma; British spelling.
 - Cut list: 13 of 14 rows decided; row 10 open. Row 11 is decided (cut) but its sentence is still in the text pending his go-ahead.
 - Consistency decisions: none new. Rule applied: the author's own words are kept even where they contain a word the humanizer lists (as with "profound"), the same treatment as his thesis sentences under the ch03 rule.
+
+### Author's decisions, 2026-11-16 (orchestrator)
+
+- Line 59 "the whole triune God was at work": keep (no change).
+- Line 79 creed wording (open-claims 60): keep. `[UNVERIFIED: creed wording, version not given; open-claims 60]` replaced by `<!-- author-confirmed 2026-11-16 -->` (config rule 9).
+- Line 47 story slot: the author will supply it later; the `[AUTHOR STORY NEEDED]` flag stays.
