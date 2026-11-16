@@ -1394,3 +1394,37 @@ For the author: sign-off on the three smoothing changes; the four citations and 
 (open-claims 70-74); Polanyi 1958 or 1966 (row 4); whether the eight practices are his 
 observation (67); rows 1-9; whether he can give more of his own material to reach the 4,400 
 budget.
+
+### 2026-11-16 · story-injector · story · 05
+Story pass (Mode A) on 03-drafts/ch05-casting-your-cares.md, in place, on the ch03/ch04 rule 
+(nothing cut; additions only). Pre-pass copy ch05-casting-your-cares.pre-story.md saved first 
+(cmp identical, sha256 abe082fb...). Three additions, nothing removed, moved or reworded: (1) 
+line 21, new paragraph before 'Faith and spiritual practices are bound up': Hannah at Shiloh (1 
+Samuel 1:6-7, 10, 13, 15, 18, 20 KJV; 179 words), the section's first scene, her face changed 
+before her situation did (pack 8.3 guard); Eli's misreading and blessing (1:13-14, 17) 
+deliberately left out as ch06/ch07 ground; (2) line 49, Polanyi paragraph: Luke 11:1 'Lord, 
+teach us to pray', learned by watching then given words; Lord's Prayer referenced (Luke 
+11:2-4), not quoted (ch03's); (3) line 57, one direct-address sentence on the 'cycle of 
+support'. 0 composites; no new person, fact or statistic; pack has no real case. Script checks 
+vs the pre-pass copy: 38 comments, 9 [UNVERIFIED] flags (open-claims 66-74) and 45 spans 
+byte-identical and in order; 3 comments and 8 KJV spans added, all exact in the GITenberg 
+mirror of #10 (md5 f14e91c9); author's story block (lead-in, both his sentences, Psalm 23) 
+byte-identical; H1 unchanged; 0 dashes, 0 curly quotes; 'I believe' 12 and question marks 6 
+unchanged. wc -w (comments and notes removed, closer excluded) 3,796 to 4,073 (+277, +7.3%), 
+about 330 under the 4,400 budget; closer 415. Log 02-research/ch05-stories.md; Book Bible v2 
+row 05 Story pass and a 'Ch05 story pass' block; card updated. Did not: touch the opening, 
+closer, studies section, flags, his story or the cut list; use a composite, the candles and 
+incense as a scene, Eli, or Acts 12:5 (ch06); add any survey figure; commit or push. For Eston: 
+whether an Old Testament scene (Hannah) is welcome; four writer's sentences (Hannah lead-in and 
+close; 'The disciples learned prayer in both of these ways' / 'They had seen the practice 
+before they were given the language for it'; the line 57 sentence); plus the open draft 
+questions (story smoothing, open-claims 66-74, Polanyi 1958 or 1966, cut-list rows 1-9).
+
+### 2026-11-16 · story-injector · story · 05
+Correction to the entry above: after a read-through, the Luke 11:1 sentence in the Polanyi 
+paragraph (line 49) now ends 'They had seen the practice before they were given the language 
+for it, much as Polanyi describes.' so the unchanged next sentence ('I believe that view fits 
+...') still points to Polanyi, not to the disciples. Main text is 3,796 to 4,077 (+281, +7.4%), 
+not 4,073; change 2 is 71 words. Flags, comments, spans and the author's story block unchanged 
+by this correction. Draft notes bullet, ch05-stories.md, Book Bible row 05 and block, and card 
+carry the corrected figures.
