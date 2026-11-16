@@ -1456,3 +1456,23 @@ B12 for his ear; the removed hymn sentence; whether his Polanyi account ('langua
 'groups and organisations') is from Personal Knowledge itself, and 1958 or 1966; the two 
 resilience sentences; 'speaking with God is itself a kind of therapy' after James 5:16; 
 open-claims 66-74; rows 1-9; story smoothing; Hannah.
+
+### 2026-11-16 · copy-editor · humanize · 05
+Humanize pass on 04-edited/ch05-casting-your-cares.md, ch04 conventions (pre-pass copy 
+ch05-casting-your-cares.pre-humanize.md, cmp identical before the pass, md5 6dcdc0e1fa1e; log 
+04-edited/ch05-humanize-log.md with line, original, revision, humanizer section, why, 
+everything left alone and points for the copy edit). Result: 1 prose change, line 77 (§4 
+staged candor): 'I must also be honest about the other side. My research found church leaders 
+...' -> 'My research also found the other side: church leaders ...' (writer's draft sentence; 
+the promise 'I will be honest about when it is not', 05 -> 08, untouched); plus the 
+traceability line in Notes for the editor. Kept: Eston's thesis sentences traced by line 
+(2180-2186, 2188-2197, 975-978, 2208-2214, 2226-2227, 2258-2261, 2236-2241, 2391-2393, 906-928, 
+2355-2361), the story block, flagged sentences, B12, the ch06 hook, the writer's sentences 
+already listed for his ear. Byte-identical by script: H1, 53 comments (879d86264fa9), 9 
+[UNVERIFIED] in order (open-claims 67, 69, 66, 68, 70-74), 53 quoted spans, 46 references, 
+story block. 'I believe' 12. 0 dashes, 0 curly quotes, no serial comma. wc -w without comments 
+or notes: main text 4,180 -> 4,175, closer 415. No consistency decision. Book Bible row 05, 
+Humanize status bullet and ch05 block; card updated. Did not: touch flags, the story, cut list, 
+commit. For the copy edit (5 points): line 17 signpost; Hannah told at 19 and recalled at 75; 
+'offer' at 25 and 33 (his); line 77 'the other side' wording; 'still went to the cross' echo. 
+For Eston: line 77 change for his ear, plus the open list on the card.
