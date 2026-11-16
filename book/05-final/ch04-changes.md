@@ -193,3 +193,9 @@ After this pass: words with every comment stripped **4,760 -> 4,607 (-153)**; by
 - Line 59 "the whole triune God was at work": keep (no change).
 - Line 79 creed wording (open-claims 60): keep. `[UNVERIFIED: creed wording, version not given; open-claims 60]` replaced by `<!-- author-confirmed 2026-11-16 -->` (config rule 9).
 - Line 47 story slot: the author will supply it later; the `[AUTHOR STORY NEEDED]` flag stays.
+
+### Approval, 2026-11-16 (orchestrator)
+
+- Line 69, author: "Yes, single sentence acceptable": "I believe these teachings help believers make sense of their suffering while finding hope in their faith. I believe, too, that the promise of eternal life and divine justice gives great psychological comfort." -> "I believe these teachings help believers make sense of their suffering while finding hope in their faith, and that the promise of eternal life and divine justice gives great psychological comfort." (the copy editor's proposed form, verbatim).
+- Line 97 approved; line 71 ("Those themes also speak to ...") accepted.
+- Voice check: "Chapter 04 sounds like me". **Approved 2026-11-16.** The [AUTHOR STORY NEEDED] slot at line 47 stays until the author sends his story ("to come shortly").

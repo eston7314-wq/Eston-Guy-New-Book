@@ -1317,3 +1317,12 @@ status and card updated.
 Author: line 59 keep; creed wording (open-claims 60) keep, flag replaced by author-confirmed 
 comment; story slot at line 47 left for later. Ch04 now has 0 [UNVERIFIED] and 1 [AUTHOR STORY 
 NEEDED]. Not yet approved: voice check, line 71 join and line 69 run still to confirm.
+
+### 2026-11-16 · book-orchestrator · archive · 04
+Author approved ch04 (2026-11-16): 'Chapter 04 sounds like me'; line 97 approved; line 71 
+accepted; line 69 one-sentence form applied. 0 [UNVERIFIED]; story slot at line 47 left open, 
+story to come. Uploaded to Drive 'Approved Documents' as a justified Google Doc (pandoc -f 
+markdown-smart, HTML comments stripped), read back and checked: 
+https://docs.google.com/document/d/1O8kIaU8koBVAQ02BDwu4fpunE3ND7uBPXXVaf2BuGOs/edit. The 
+2026-11-15 'draft for review' Drive copy (1GRydd2G...) renamed SUPERSEDED. Register, card, Book 
+Bible updated. When the story arrives: insert, re-sync Drive, rename this copy SUPERSEDED.
