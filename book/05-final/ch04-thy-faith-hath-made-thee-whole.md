@@ -49,7 +49,7 @@ I saw faith and works go together, as they did for the woman who pushed through 
 
 Our main aim was to give our sons, Nigel and Duane, the type of primary education that my wife, Myrtle, and I had. Secondly, I wanted to research for my PhD in Religions at the University of the West Indies, St Augustine Campus, Trinidad.
 
-Unfortunately, circumstances changed and I took a temporary position as Lecturer in Education at the Catholic Women Teachers' College before moving to the permanent position of Training Officer 11 (Senior Training Officer) at the Ministry of Health, Port-of-Spain. Myrtle worked as a staff nurse in the same Ministry, while Nigel and Duane attended Rosary Boys Primary School. Nigel then went on to St Mary's College, and Duane studied at Tranquility Boys Secondary School in Port-of-Spain.
+Unfortunately, circumstances changed and I took a temporary position as Lecturer in Education at the Catholic Women Teachers' College before moving to the permanent position of Training Officer 11 (Senior Training Officer) at the Ministry of Health, Port of Spain. Myrtle worked as a staff nurse in the same Ministry, while Nigel and Duane attended Rosary Boys Primary School. Nigel then went on to St Mary's College, and Duane studied at Tranquility Boys Secondary School in Port of Spain.
 
 While I was at the Ministry, a close relative, who had lost her husband in a tragic vehicular accident, developed a serious medical condition that did not respond effectively to her doctor's treatment. As a practising Christian, she prayed to God for help and relief of severe pain.
 

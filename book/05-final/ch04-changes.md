@@ -280,4 +280,7 @@ Kept as he wrote them, though a style or humanizer rule could have touched them:
 
 - Question 1: "Training Officer 11 is right". Line 52 restored from "Training Officer II" to his "Training Officer 11"; change row 5 above is reversed. The Roman-numeral rule for grades in the style sheet does not apply to this post.
 - Question 3: "keep the names". Myrtle, Nigel, Duane and the school names stay.
-- Questions 2 (joining sentence), 4-7 and the read-aloud sign-off: still open.
+- Question 2: "Keep the joining sentences". The editor's joining sentence (line 48) stays, author-approved.
+- Question 4: Alexandra Park School is the North London school where he rose to Head of Religious Studies; the Preface does not name it. The two accounts agree; no change.
+- Question 5 (spellings): "Use 'Tranquility' and Port of Spain". "Tranquility" kept; "Port-of-Spain" becomes "Port of Spain" (2 places, line 52).
+- Questions 6 (National Health Service) and 7 (UWI PhD) and the read-aloud sign-off: still open.

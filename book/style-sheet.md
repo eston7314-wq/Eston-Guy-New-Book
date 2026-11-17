@@ -97,3 +97,4 @@ Started 2026-11-11 by copy-editor at ch00. Each line gives its source.
 - Afrobeat: one word, capital A, no hyphen, no s, throughout (thesis majority "Afro-beat", 2537, 2603; once "Afro-beats", 2524). **Confirmed by the author 2026-11-14.**
 - multiracial, multicultural (closed); multi-ethnic (hyphenated) (approved ch01 "multiracial"; ch02).
 - Music genres lowercase and open as nouns: gospel, blues, jazz, soul, calypso, reggae, soca, hip hop, rock and roll; "rhythm and blues" at first use, R&B after. work-songs (Book Bible key term) (ch02).
+- Place names in the author's stories (author 2026-11-17): "Port of Spain" (no hyphens); "Tranquility Boys Secondary School" (his spelling).

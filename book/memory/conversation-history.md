@@ -1599,3 +1599,8 @@ spellings; 'National Health Service' reads as UK NHS; UWI PhD vs Selinus. Approv
 Author 2026-11-17: 'Training Officer 11 is right' (line 52 restored from II to 11); 'keep the 
 names'. Open: joining sentence, questions 4-7, read-aloud; Drive re-sync after his sign-off 
 (proposed to him).
+
+### 2026-11-17 · orchestrator · author-answers · ch04
+Author 2026-11-17: keep the joining sentence; Alexandra Park School = the North London school 
+of the Preface (unnamed there), no conflict; 'Tranquility' kept; 'Port of Spain' (2 places). 
+Open: NHS capitals, UWI PhD mention, read-aloud, then Drive re-sync.
