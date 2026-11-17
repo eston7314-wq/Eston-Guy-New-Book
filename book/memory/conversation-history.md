@@ -1632,3 +1632,20 @@ Ch04 story read aloud and approved by the author 2026-11-17 ('It sounds like me'
 justified Google Doc 1fWPN9Ojxyv3sbKUW8lXVdGZutDyB53BOMLgOkrnTe7c in Approved Documents (pandoc 
 -f markdown-smart, comments stripped, read back and checked); 2026-11-16 copy renamed 
 SUPERSEDED; register and card updated.
+
+### 2026-11-17 · copy-editor · copyedit · ch05
+Applied the author's answers (2026-11-17) on open-claims 66-75 to 
+book/05-final/ch05-casting-your-cares.md. 66, 67, 68, 72 recast as his view or observation ('I 
+believe ... people of African heritage in the Diaspora'; 'I have observed that'; 'As I see 
+it,'; 'In my opinion,'); 70 named as Smith, McCullough and Poll (2003), 71 as Iyer, Larcom, 
+Shah and She (2025), Cambridge dropped, 73 as 'In *Faith and Mental Health* (2009), as I 
+understand it, Harold G. Koenig', all three author-confirmed comments (rule 9); 69, 74 (Ali and 
+Thompson), the USA clause (author: 'Yes, drop the US part') and 'around 60 per cent' cut, 
+cut-list rows 10-13 added, row 6 superseded; 75 'bread and the cup'. Line 49 comment reworded 
+so the build grep passes. 0 flags (build grep clean); 60 of 61 earlier comments, 53 quoted 
+spans, 46 references and the story block byte-identical; lines 15, 17, 49, 65, 67, 69, 71 only. 
+wc -w 4,663 -> 4,471. Open-claims 66-75 resolved; sources.md 49, 50, 52 annotated; style sheet 
+and Book Bible: in-text study naming rule, 'diaspora' lower case (line 65 exception pending). 
+Not done: the 'worse on average' sentence kept without the figure; no commit, no Drive. 
+Questions 21-25 for him (Diaspora capital; that sentence; Cambridge; Koenig framing; 'these 
+studies'). Final awaits his read-aloud.

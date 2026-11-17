@@ -58,7 +58,7 @@ Started 2026-11-11 by copy-editor at ch00. Each line gives its source.
 - School years: Year 11. Dates: 21 April 2025 (day month year, no comma, no ordinal).
 - Centuries in words, lowercase: the sixteenth century, early in the seventeenth century. Hyphenate before a noun: eighteenth-century missions. Decades in figures with no apostrophe: the 1830s. Not "the 1700s" for a century (ch01).
 - Phone numbers are written as the service writes them: 116 123; 988; 9-8-8.
-- "per cent" in running text, "%" only in tables and figures: "around 60 per cent worse on average" (first used ch05, the thesis's Larcom figure; Hart's Rules). Was "proposed, not yet used" (copy-editor 2026-11-17, ch05).
+- "per cent" in running text, "%" only in tables and figures: "around 60 per cent worse on average" (first used ch05, the thesis's Larcom figure; Hart's Rules). Was "proposed, not yet used" (copy-editor 2026-11-17, ch05). **Note 2026-11-17:** the 60 per cent example was cut by the author (open-claims 71, ch05 cut-list row 12); the rule stands, and the book has no "per cent" in running text yet.
 - Round numbers in narrative follow the same rule: "20 African men", "more than 400 years", "more than 20 years" (ch02, 2026-11-14).
 - **Author exception (author 2026-11-15, ch03):** in the author's own story the numbers stay as he chooses, even where the rule above would give figures: "a group of seventeen", "the group of twenty-five" (ch03 lecturer story; "the top five" follows the rule anyway). The exception covers his story text only; the rule stands for all other prose, including the writer's joining sentences. Ask him before applying the figures rule to another of his stories.
 - Numbers from a Bible narrative stay in words, as the KJV has them, where the narration retells the passage: "for twelve years", "a girl of twelve", "the ten lepers", "the nine", "the feeding of the five thousand", "five loaves and two fishes", "prayed three times". Source: the KJV verses quoted beside them, and ch03's "the sixth hour" (John 4:6). The figures rule stands for all other prose and for every count or survey figure (copy-editor 2026-11-16, ch04).
@@ -83,6 +83,7 @@ Started 2026-11-11 by copy-editor at ch00. Each line gives its source.
 - Initials are spaced, with full stops: Eston T. B. Guy; Father F. W. G. Perkins; H. Gould; T. Hartney. Professor Salvatore Fava; Pope Francis.
 - Accents and other diacritics in names are kept, in prose and in notes: Junípero Serra, Medellín, Gustavo Gutiérrez, Bécares, González (Hart's Rules). Names that have a common English form stay without the accent (Quebec) (ch01).
 - Ludwig Wittgenstein, *Philosophical Investigations* (1953; 2009 ed.), never "(1889)" (Book Bible v2).
+- Studies and books named in running text (copy-editor 2026-11-17, ch05; author's answer on open-claims 70, "Smith, McCullough and Poll"): a study is "A study by" plus every author's surname, up to four, joined with commas and "and", then the year in parentheses: "Smith, McCullough and Poll (2003)", "Iyer, Larcom, Shah and She (2025)". No "et al", "and colleagues" or "&" in prose (no serial comma). A book: short title in italics, year in parentheses, author by the name the thesis uses: "In *Faith and Mental Health* (2009), as I understand it, Harold G. Koenig ...", as "*Personal Knowledge* (1958)" (ch05 line 51). Journal, volume, publisher and DOI go in the notes and `book/02-research/sources.md`, not the prose.
 - Samaritans (no "the" before it in the help-line note); 988 Suicide & Crisis Lifeline; 9-8-8 Suicide Crisis Helpline.
 
 ## Terms and hyphenation
@@ -93,6 +94,7 @@ Started 2026-11-11 by copy-editor at ch00. Each line gives its source.
 - well-being (always hyphenated). daughter-in-law. headteacher (one word).
 - health care (noun), health-care (before a noun). class leader (open, in narration). large-scale, all-powerful, non-violent, African-initiated before a noun (ch01).
 - Survey wording: "50 participants", "overall numbers" (config rule 10).
+- diaspora: lower case in narration ("the African diaspora", "the diaspora", "Christians in the African diaspora"), as ch01 89, ch02 9, 61, 71, ch04 39, 100, 104, ch05 79 (practice across the finals, written down 2026-11-17, copy-editor, ch05; Hart's Rules, generic noun). **One exception pending the author:** ch05 line 65, his own wording of 2026-11-17, "people of African heritage in the Diaspora", keeps his capital until he answers ch05-changes question 21.
 - "the three strands" (awareness, knowledge, practice): defined in 00, referred to by name afterwards.
 - Afrobeat: one word, capital A, no hyphen, no s, throughout (thesis majority "Afro-beat", 2537, 2603; once "Afro-beats", 2524). **Confirmed by the author 2026-11-14.**
 - multiracial, multicultural (closed); multi-ethnic (hyphenated) (approved ch01 "multiracial"; ch02).
