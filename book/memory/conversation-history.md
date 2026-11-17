@@ -1609,3 +1609,26 @@ Open: NHS capitals, UWI PhD mention, read-aloud, then Drive re-sync.
 Author 2026-11-17: Training Officer 11 stays (= grade 2); 'a better national health service'; 
 UWI PhD plan shelved, text unchanged. All story questions answered; only his read-aloud and the 
 Drive re-sync remain.
+
+### 2026-11-17 · copy-editor · copyedit · ch05
+Applied the author's second set of ch05 decisions (2026-11-17, questions 17-19) to 
+book/05-final/ch05-casting-your-cares.md. (1) Option (a) for open-claims 76: line 73's 'None of 
+these studies shows ... causes ... the two go together' became 'As I read them, these studies 
+show that prayer and worship go together with better mental health, with less anxiety and fewer 
+feelings of depression.'; the section 5 heading became 'Studies report that faith goes with 
+better mental health and less anxiety and depression'; the 76 flag was removed and replaced by 
+an author-decision comment; open-claims row 76 was marked resolved. (2) Line 25: 'I believe' 
+added in front of his row 1 sentence. (3) Line 21: the first of three 'I believe' frames ('they 
+can be seen as therapeutic interventions') became 'in my opinion'. Byte-checked: the other 10 
+flags (open-claims 66-75), 58 earlier comments, 53 quoted spans, 46 references and the story 
+block are unchanged. wc -w 4,693 -> 4,663. Logged in ch05-changes.md under 'Author's decisions 
+2026-11-17, second set', with questions 17-19 marked answered; Book Bible row and card updated. 
+Deliberately not done: the umbrella and reverse-direction sentences after line 73 were kept 
+(noted for his ear); the line 67 and 71 notes that mention 76 were left as history; no commit, 
+ch04 and Drive not touched. Open: the 10 flags, then the read-aloud.
+
+### 2026-11-17 · orchestrator · drive-sync · ch04
+Ch04 story read aloud and approved by the author 2026-11-17 ('It sounds like me'). New 
+justified Google Doc 1fWPN9Ojxyv3sbKUW8lXVdGZutDyB53BOMLgOkrnTe7c in Approved Documents (pandoc 
+-f markdown-smart, comments stripped, read back and checked); 2026-11-16 copy renamed 
+SUPERSEDED; register and card updated.
