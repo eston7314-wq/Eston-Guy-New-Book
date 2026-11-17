@@ -1594,3 +1594,8 @@ postgraduate). Did not: commit, touch Drive, change any other ch04 line. Questio
 sons'; is Alexandra Park School the ch00 North London school; Tranquility/Port-of-Spain 
 spellings; 'National Health Service' reads as UK NHS; UWI PhD vs Selinus. Approval of 
 2026-11-16 stands; Drive re-sync is the orchestrator's.
+
+### 2026-11-17 · orchestrator · author-answers · ch04
+Author 2026-11-17: 'Training Officer 11 is right' (line 52 restored from II to 11); 'keep the 
+names'. Open: joining sentence, questions 4-7, read-aloud; Drive re-sync after his sign-off 
+(proposed to him).

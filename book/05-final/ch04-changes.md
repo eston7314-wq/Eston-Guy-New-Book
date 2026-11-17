@@ -261,7 +261,7 @@ Kept as he wrote them, though a style or humanizer rule could have touched them:
 
 ### Questions for Eston
 
-1. "Training Officer 11 (Senior Training Officer)": written as "Training Officer II". Is that right?
+1. "Training Officer 11 (Senior Training Officer)": written as "Training Officer II". Is that right? **Answered 2026-11-17: "Training Officer 11 is right"; restored to "Training Officer 11".**
 2. The joining sentence (line 48), "I saw faith and works go together, as they did for the woman who pushed through the crowd, when someone close to me was seriously ill.", is the editor's, not his. Keep, reword, or delete?
 3. The blueprint asked for no names or identifying details in this slot. Your relative stays unnamed. Your wife and sons are named (Myrtle, Nigel, Duane), and so are the schools. Keep the names, or write "my wife" and "our two sons"?
 4. Is Alexandra Park School the North London school of your probationary year under H. Gould (preface)? If not, the preface's "in five years" and the story's "five years" need a look.
@@ -274,3 +274,10 @@ Kept as he wrote them, though a style or humanizer rule could have touched them:
 - Words, all HTML comments removed (python, non-greedy): **4,597 -> 4,908 (+311)**: minus 38 words of slot text, plus 349 of story (323 his, tidied, from 318; 26 the joining sentence). By `sed 's/<!--[^>]*-->//g' | wc -w`: 5,047 (that command leaves in comments containing ">", so reads higher).
 - Flags in the text, comments included (`grep -E '\[(UNVERIFIED|AUTHOR STORY NEEDED|DEV EDIT|RESEARCH NEEDED|COPY EDIT|AUTHOR TO CONFIRM)'`): **0**.
 - HTML comments 82 (80 earlier unchanged, 2 added). Quoted spans 76. Lines 126 -> 135 (plus the final line without newline, as before).
+
+
+## Author's answers on the story, 2026-11-17 (orchestrator)
+
+- Question 1: "Training Officer 11 is right". Line 52 restored from "Training Officer II" to his "Training Officer 11"; change row 5 above is reversed. The Roman-numeral rule for grades in the style sheet does not apply to this post.
+- Question 3: "keep the names". Myrtle, Nigel, Duane and the school names stay.
+- Questions 2 (joining sentence), 4-7 and the read-aloud sign-off: still open.
