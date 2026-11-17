@@ -1476,3 +1476,30 @@ Humanize status bullet and ch05 block; card updated. Did not: touch flags, the s
 commit. For the copy edit (5 points): line 17 signpost; Hannah told at 19 and recalled at 75; 
 'offer' at 25 and 33 (his); line 77 'the other side' wording; 'still went to the cross' echo. 
 For Eston: line 77 change for his ear, plus the open list on the card.
+
+### 2026-11-17 · book-researcher · factcheck · 05
+Fact check (Mode B) of 04-edited/ch05-casting-your-cares.md under the author's 2026-11-11 
+rules, ch04 conventions; report 02-research/ch05-factcheck.md. 170 claims: thesis 55 (906-928, 
+970-978, 1528-1540, 1559-1564, 1587-1591, 2166-2292, 2339-2400, 2668-2671, 2735-2739), KJV 
+verified 60, corrected 1, unverified 12 (9 existing flags, 2 new, 1 heading covered by a new 
+flag), author testimony 1 (Psalm 23 story, not checked), cross-references 9 (ch00 49; ch02; 
+ch03 25; ch04 43, 61, 101, 110; blueprint v2 ch06-ch11; all consistent), framed views 32. KJV: 
+GITenberg mirror of #10 (md5 f14e91c9); gutenberg.org 503, so cross-checked against the two 
+JSON files named in source-map.md (thiagobodruk, scrollmapper): 51 of 53 spans and the Psalm 23 
+block exact in all three (other 2 not scripture: 'Careful' gloss word, closer's hypothetical 
+sentence). Story-pass Hannah and Luke 11:1, dev-edit B12 and humanize line 77 all checked. 
+Correction: line 27 Matthew 14:23 sat under 'Luke says', now 'and Matthew that after feeding 
+the crowds'. Flags inserted, wording unchanged: line 17 'bread and wine' (thesis and KJV supper 
+texts have no 'wine'; open-claims 75); line 73 'None of these studies shows that prayer or 
+worship causes ... the two go together' (rule 2, and the thesis reports Smith 2386-2387 and Ali 
+and Thompson 1590-1591 as causal; also the section 5 heading; open-claims 76). Existing 66-74 
+unchanged; OpenAlex answered today (200), 4 searches, Larcom USA and Ali and Thompson still not 
+found (rows 71, 74 amended). Byte checks: only lines 17, 27, 73 changed plus one notes line; 53 
+comments, 53 spans, 46 references, 9 old flags, H1 and story block identical. wc -w main 4,175 
+-> 4,231 (prose 4,177 before flags), closer 415. Now 11 [UNVERIFIED], 0 [AUTHOR STORY NEEDED]. 
+Book Bible: ch05 KJV citations row, v2 row 05 Research, 'Ch05 fact check' block; sources.md 33; 
+glossary 2 rows, network note, index; card. Did not: change any other wording, edit comments, 
+look up Olayiwola 2020 (not named in the chapter), register an OpenAlex key, commit. For Eston: 
+open-claims 66-76; N2 Hannah 1:17 and 1:27 against B12; N3 'My research also found' is credited 
+to Olayiwola 2020 in the thesis; N4 'chapter 10 tells what they said'; N5 'bread and the cup' 
+option; copy editor N1.
