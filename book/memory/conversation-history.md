@@ -1567,3 +1567,30 @@ resolve or reword any flag; add a consistency decision; commit. For Eston: 17 ro
 (rule 5); 19 three 'I believe' in line 21's paragraph; 20 the comment after the Psalm 23 story 
 contains the text '[AUTHOR STORY NEEDED]', which the build script's grep will catch. Final: 
 flags open (11 [UNVERIFIED], then the voice check).
+
+### 2026-11-17 · orchestrator · author-story · ch04
+Author supplied the ch04 line 47 story 2026-11-17 (saved verbatim in 
+book/source/author-stories/), with one-time permission to soften and tidy his words to the 
+book's language and format. Ch04 is APPROVED (2026-11-16) with this slot open; after insertion 
+the Drive copy must be re-synced (approved-documents sync rule). Dispatched copy-editor.
+
+### 2026-11-17 · copy-editor · author-story · ch04
+Inserted Eston's ch04 story (source 
+book/source/author-stories/ch04-pushing-through-the-crowd-2026-11-17.md) into the story slot of 
+05-final/ch04-thy-faith-hath-made-thee-whole.md: line 47 (slot and its note) became lines 47-56 
+(a source/permission comment line, then five paragraphs). Tidied under his one-time permission 
+of 2026-11-17 only: 15 logged rows (typing slips: top->to, immediately, After->. After, 
+christian, four double spaces; style: master's degree, staff nurse, consultants, St, 
+postgraduate, School; Training Officer 11->II; 'While I was at the Ministry' for the dangling 
+modifier; 'our sons' and 'my wife' identify the names; 'rose to' from ch00; 'had the surgery 
+she needed'). One editor's joining sentence (line 48, faith and works / the woman who pushed 
+through the crowd), noted for his sign-off. No fact added or dropped; relative unnamed; not 
+fact-checked (rule 3). Script byte-check: every other line, all 80 other comments 
+(eaf4e7a43384) and 76 quoted spans unchanged; md5 f67affaef258 -> 81861fa15d9c. Flags in ch04 
+now 0 (comments included). wc -w comments removed 4,597 -> 4,908. Six consistency decisions 
+added to the Book Bible and style sheet (degrees, posts, the Ministry, school names, St, 
+postgraduate). Did not: commit, touch Drive, change any other ch04 line. Questions for Eston 
+(ch04-changes.md): Training Officer II; joining sentence; keep names or 'my wife'/'our two 
+sons'; is Alexandra Park School the ch00 North London school; Tranquility/Port-of-Spain 
+spellings; 'National Health Service' reads as UK NHS; UWI PhD vs Selinus. Approval of 
+2026-11-16 stands; Drive re-sync is the orchestrator's.

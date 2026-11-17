@@ -23,7 +23,7 @@ Started 2026-11-11 by copy-editor at ch00. Each line gives its source.
 - No em or en dashes in prose (humanizer §8). Number ranges take a hyphen (Luke 8:43-48; 3,500-4,600).
 - Abbreviations have no full stops: UK, USA, US, CDC, WHO, PhD, GCSE, KJV, ROI.
 - "the USA" and "the UK" take the article as nouns in narration, also inside a list: "in Britain, the USA and Canada". Bare forms only in labels and data shorthand ("UK 20, USA 16") (ch01, 2026-11-13). In a country list that also names Canada, write "the USA", not "America" (which can read as the continent); "America" stays where it stands alone (ch02).
-- Titles and contractions have no full stops in narration: Dr, Jr, St, Mr, Mrs (the Reverend Dr Martin Luther King Jr; St Thomas; St George's Methodist Church). Quotations keep theirs (ch01).
+- Titles and contractions have no full stops in narration: Dr, Jr, St, Mr, Mrs (the Reverend Dr Martin Luther King Jr; St Thomas; St George's Methodist Church). Quotations keep theirs (ch01). St has no full stop in place and institution names either: St Augustine Campus, St Mary's College (ch04 story, 2026-11-17).
 
 ## Capitalisation
 
@@ -44,6 +44,8 @@ Started 2026-11-11 by copy-editor at ch00. Each line gives its source.
 - Named festivals and events take capitals on every word of the name: the Liverpool Music Festival (author 2026-11-14, ch02).
 - Seasons are lower case: summer, the summer holidays (Hart's Rules). A season word in a proper name keeps its capital: Spring Gardens (ch01) (ch03, 2026-11-15, the author's lecturer story).
 - Named degrees and qualifications: the degree's own name is capitalised, the words "degree" and "honours" are lower case: a Bachelor of Education degree with honours; Certificates in Education (author 2026-11-15, ch03 lecturer story; was "Bachelor in Education Degree with Honours").
+- Degrees and posts in the author's stories (copy-editor 2026-11-17, ch04 story; his one-time tidy permission of 2026-11-17): a generic degree is lower case with the apostrophe, "a master's degree" (was "Masters Degree"; as the named-degrees rule above). A specific post named by its title is capitalised: Head of Religious Studies, Lecturer in Education, Training Officer II (Senior Training Officer). A grade or role after "a" or "one of our" is lower case: a staff nurse, one of our consultants. Grade numerals are Roman (Training Officer II).
+- "the Ministry" is capitalised as the short form of a named body (the Ministry of Health), as "the Kingdom". Names of schools and colleges capitalise every word, "School" included: Alexandra Park School, Rosary Boys Primary School, Tranquility Boys Secondary School, St Mary's College; "primary education" is lower case (ch04 story, 2026-11-17).
 - Music Director (a specific post) is capitalised. "the Headteacher" is capitalised where it names one person in the author's own story and the sentence joined to it; generic "headteacher" stays lowercase (ch02).
 
 ## Numbers and dates
@@ -87,6 +89,7 @@ Started 2026-11-11 by copy-editor at ch00. Each line gives its source.
 
 - African heritage (umbrella term). Before a noun it is open, never hyphenated: "African heritage Christians" (like African American; thesis 3983, 4063). Prefer "of African heritage" after the noun where it reads naturally, but do not rewrite the attributive form (copy-editor 2026-11-11, ch01). African American, African British, African Canadian: no hyphen, as noun or adjective. Afro-Caribbean and mixed-race: hyphenated.
 - mental health (noun); mental-health (before a noun: mental-health services). Likewise public-health bodies, long-term physical illness.
+- postgraduate (closed); post-registration (hyphenated) (ch04 story, 2026-11-17).
 - well-being (always hyphenated). daughter-in-law. headteacher (one word).
 - health care (noun), health-care (before a noun). class leader (open, in narration). large-scale, all-powerful, non-violent, African-initiated before a noun (ch01).
 - Survey wording: "50 participants", "overall numbers" (config rule 10).

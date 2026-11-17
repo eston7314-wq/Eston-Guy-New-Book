@@ -1,4 +1,6 @@
-**Not final** (updated 2026-11-16, after the author's cut-list and follow-up decisions): flags in the text: UNVERIFIED 1 (line 79, creed wording, open-claims 60), AUTHOR STORY NEEDED 1 (line 47), COPY EDIT 0, DEV EDIT 0, RESEARCH NEEDED 0, AUTHOR TO CONFIRM 0. Cut list: 14 of 14 rows decided and applied (`book/03-drafts/ch04-cut-list.md`). Open-claims 15, 16, 17, 57, 58, 59, 63, 64, 65 resolved by the author. For him to confirm: the line 71 join ("Those themes also speak to ...") after the Mark dating cut; optional one-sentence form of line 69. Still open for Eston, none decided here: the creed wording (open-claims 60); his story for the slot; "the whole triune God" (line 59); the length of the eschatology run (lines 75-81) and the Revelation run (lines 83-85); Fig.15 or no survey number; fact check N1, N2, N4, N5 (N6 optional); dev edit B2 (line 17), B3 (line 21) and the "any sinner" reading (line 55); the three story-pass sentences (lines 9, 83, 97). Then his read-aloud voice check. Approval record and Drive sync are the orchestrator's.
+**Final** (updated 2026-11-17, author's story in): approved by the author 2026-11-16, and that approval stands. His story now fills the story slot at line 47 (lines 47-56). Flags in the text: 0 of every type (UNVERIFIED 0, AUTHOR STORY NEEDED 0, COPY EDIT 0, DEV EDIT 0, RESEARCH NEEDED 0, AUTHOR TO CONFIRM 0). Cut list 14 of 14 decided. Still with Eston, not blocking the build: read the story aloud and sign it off (including the editor's joining sentence), and answer questions 1-7 in "Author's story, line 47, 2026-11-17" at the end. Drive re-sync is the orchestrator's.
+
+Earlier status (2026-11-16, kept for the record): **Not final** (updated 2026-11-16, after the author's cut-list and follow-up decisions): flags in the text: UNVERIFIED 1 (line 79, creed wording, open-claims 60), AUTHOR STORY NEEDED 1 (line 47), COPY EDIT 0, DEV EDIT 0, RESEARCH NEEDED 0, AUTHOR TO CONFIRM 0. Cut list: 14 of 14 rows decided and applied (`book/03-drafts/ch04-cut-list.md`). Open-claims 15, 16, 17, 57, 58, 59, 63, 64, 65 resolved by the author. For him to confirm: the line 71 join ("Those themes also speak to ...") after the Mark dating cut; optional one-sentence form of line 69. Still open for Eston, none decided here: the creed wording (open-claims 60); his story for the slot; "the whole triune God" (line 59); the length of the eschatology run (lines 75-81) and the Revelation run (lines 83-85); Fig.15 or no survey number; fact check N1, N2, N4, N5 (N6 optional); dev edit B2 (line 17), B3 (line 21) and the "any sinner" reading (line 55); the three story-pass sentences (lines 9, 83, 97). Then his read-aloud voice check. Approval record and Drive sync are the orchestrator's.
 
 # Ch04 change log: Thy Faith Hath Made Thee Whole: Miracles, Letters and Hope
 
@@ -199,3 +201,76 @@ After this pass: words with every comment stripped **4,760 -> 4,607 (-153)**; by
 - Line 69, author: "Yes, single sentence acceptable": "I believe these teachings help believers make sense of their suffering while finding hope in their faith. I believe, too, that the promise of eternal life and divine justice gives great psychological comfort." -> "I believe these teachings help believers make sense of their suffering while finding hope in their faith, and that the promise of eternal life and divine justice gives great psychological comfort." (the copy editor's proposed form, verbatim).
 - Line 97 approved; line 71 ("Those themes also speak to ...") accepted.
 - Voice check: "Chapter 04 sounds like me". **Approved 2026-11-16.** The [AUTHOR STORY NEEDED] slot at line 47 stays until the author sends his story ("to come shortly").
+
+## Author's story, line 47, 2026-11-17
+
+Targeted revision by copy-editor, 2026-11-17. Not a full copy edit. Source: `book/source/author-stories/ch04-pushing-through-the-crowd-2026-11-17.md` (his words, verbatim, 318 words). His one-time permission, 2026-11-17: "on this occasion, only, you may soften or tidy my own words to suit previously used language [and] our format". It is not a standing permission. The story is his testimony (CLAUDE.md fact-checking rule 3), so it was not fact-checked and carries no flag.
+
+**What changed in the file.** Line 47 (the story-slot flag and its note) became lines 47-56: one comment line recording the source and his permission, then the story in five paragraphs. Every later line moves down by 9. Checked by script against a copy taken before editing (md5 f67affaef258 before, 81861fa15d9c after): lines 1-46 and every line after the slot are byte-identical. All 80 other HTML comments are unchanged and in order (concatenated md5 eaf4e7a43384); 2 comments were added, so there are 82. All 76 other quoted spans are unchanged and in order; the 77th, "pushed through the crowd", was inside the slot's brief and went with it. The story adds no quotation. 0 dashes, 0 curly quotes, no serial comma. To reverse everything, delete lines 47-56 and put back the original line 47, which was, byte for byte:
+
+`[AUTHOR STORY NEEDED: a time you or someone close "pushed through the crowd", acting in faith while ill or grieving, including going for medical help; no names or identifying details, and no one from the survey or interviews]<!-- note: slot as blueprint v2 ch04 gives it; the thesis holds no such story (pack 1.5). The preface's acknowledgements story (90-96) and its hypothetical woman before a hospital appointment (05-final/ch00 line 31) are not reused. Do not invent a story -->`
+
+**The slot's note** ("slot as blueprint v2 ch04 gives it; the thesis holds no such story (pack 1.5). The preface's acknowledgements story (90-96) and its hypothetical woman before a hospital appointment (05-final/ch00 line 31) are not reused. Do not invent a story") was removed with the slot, as briefed. It is kept here, word for word, for the record.
+
+**Added comments:**
+- Line 47: `<!-- author story 2026-11-17, his testimony (fact-checking rule 3); verbatim source book/source/author-stories/ch04-pushing-through-the-crowd-2026-11-17.md; replaces the story slot and its note; tidied under his one-time permission of 2026-11-17 ("on this occasion, only, you may soften or tidy my own words to suit previously used language [and] our format"); each change logged in 05-final/ch04-changes.md -->`
+- Line 48, after the first sentence: `<!-- note: copy edit 2026-11-17: editor's joining sentence, not the author's words; for his sign-off -->`
+
+### Changes to his words
+
+Every change, checked by a word-by-word diff of the story against the source file. His facts, his order of events and the first person are kept. No fact, feeling, dialogue or scripture is added and none is dropped. The relative stays unnamed.
+
+| # | Line | Original (his words) | Tidied | Why |
+|---|---|---|---|---|
+| 1 | 48 | (no sentence) | "I saw faith and works go together, as they did for the woman who pushed through the crowd, when someone close to me was seriously ill." | **Editor's joining sentence, not his; for his sign-off** (the one sentence the brief allows). It links his story to James 2:24 just before ("by works a man is justified, and not by faith only") and to the woman of the opening ("She pushed through the crowd", line 5). No new fact: "seriously ill" rests on his "a serious medical condition". To reverse, delete it and its note; the story then opens "After five years ...". |
+| 2 | 48 | "After spending five years at Alexandra Park School where I attained the position of Head of Religious Studies, and a Masters Degree from the University of London (part-time), I resigned" | "After five years at Alexandra Park School, where I rose to Head of Religious Studies, and a part-time master's degree from the University of London, I resigned" | "spending" governed both the five years and the degree ("spending ... a Masters Degree"); without it the sentence reads "After five years ... and a ... degree". Comma before "where" (an aside about the school). "rose to Head of Religious Studies" is his own wording in the preface (ch00, "I rose to Head of Religious Studies in five years"). "master's degree" lower case with the apostrophe (style sheet, named degrees; ch03 "Bachelor of Education degree"). "part-time" moved beside the degree it describes, out of the parenthesis. |
+| 3 | 50 | "to give Nigel and Duane the type of Primary Education that Myrtle and I had." | "to give our sons, Nigel and Duane, the type of primary education that my wife, Myrtle, and I had." | "primary education" is generic, lower case. "our sons" and "my wife" tell a reader who meets the names here for the first time who they are; the relationships are his own (preface: "My wife, my sons"). See question 3: if he prefers no names, this becomes "our two sons" and "my wife". To reverse, delete "our sons," and "my wife,". |
+| 4 | 50 | "St. Augustine Campus" | "St Augustine Campus" | Style sheet: St without a full stop. |
+| 5 | 52 | "Training Officer 11 (Senior Training Officer)" | "Training Officer II (Senior Training Officer)" | Almost certainly a grade numeral typed as "11". Question 1. |
+| 6 | 52 | "worked as a Staff Nurse in the same Ministry" | "worked as a staff nurse in the same Ministry" | A grade after "a" is lower case (style sheet, posts). "Ministry" keeps its capital as the short form of the Ministry of Health. "Lecturer in Education" and "Training Officer II" keep their capitals as named posts. |
+| 7 | 52 | "St. Mary's College", "Tranquility Boys Secondary school" | "St Mary's College", "Tranquility Boys Secondary School" | St without a full stop; "School" is part of the name, as in "Rosary Boys Primary School" in the sentence before. Spelling "Tranquility" kept (question 5). |
+| 8 | 54 | "While at the Ministry, a close relative who had lost her husband in a tragic vehicular accident, developed" | "While I was at the Ministry, a close relative, who had lost her husband in a tragic vehicular accident, developed" | "While at the Ministry" attached to the relative, not to him; "I was" puts him back as the one at the Ministry. The comma after "relative" closes the aside his comma before "developed" opened. |
+| 9 | 54 | "As a practising christian" | "As a practising Christian" | Capital (typing slip). |
+| 10 | 56 | "post-graduate" | "postgraduate" | British closed form (style sheet). "post-registration" kept. |
+| 11 | 56 | "one of our Consultants who took up the case immediately, After" | "one of our consultants, who took up the case immediately. After" | A role after "one of our" is lower case; comma before "who" (aside); "immediately, After" was a typing slip for a full stop. |
+| 12 | 56 | "my relative received the necessary surgery that brought relief and an end to her suffering that enveloped her life" | "my relative had the surgery she needed, which brought relief and an end to the suffering that had enveloped her life" | Softened (his permission): "necessary" was in the clause before ("After the necessary examinations"); "had ... she needed" says the same without the repeat. "the suffering" for "her suffering" avoids "her ... her" in one clause. "had enveloped": the two years came before the surgery. |
+| 13 | 56 | "God's power top help" | "God's power to help" | Typing slip. |
+| 14 | 50, 56 | four double spaces ("had.  Secondly"; "had  secured"; "help  provide"; "obtained  my") | single spaces | Typing slips. |
+| 15 | 48-56 | one paragraph each for the career, the aim, the posts, and the illness and surgery | five paragraphs: the illness and the surgery are now two (break before "When she explained her condition to me") | His paragraphs kept; the long last one split where the story turns from her prayer to his action. |
+
+Kept as he wrote them, though a style or humanizer rule could have touched them: "Unfortunately, circumstances changed"; "Secondly"; "the type of"; "research for my PhD in Religions"; "a tragic vehicular accident"; "did not respond effectively"; "relief of severe pain"; "National Health Service" (question 6); "Port-of-Spain" (question 5); "physical and mental healing to the family"; "about two years" (in words, as the author exception for his stories and the figures rule both give); the order of every event.
+
+**Humanizer check (rule 11) on the new text:** no dashes, no curly quotes, no stock AI words, no not-X-but-Y, no triads added, no run-up or one-line closer. The joining sentence states a link and adds no claim. The story ends on his own last sentence, "We reaffirmed our faith in God's power to help those in need."; no moral added after it. The next heading follows.
+
+### Consistency decisions (also in the Book Bible and `book/style-sheet.md`)
+
+1. Degrees: "a master's degree" (lower case, apostrophe). Source: style sheet named-degrees rule; ch03 lecturer story.
+2. Posts: a specific post named by its title is capitalised (Lecturer in Education, Training Officer II (Senior Training Officer), Head of Religious Studies); a grade or role after "a" or "one of our" is lower case (a staff nurse, one of our consultants). Grade numerals Roman. Source: style sheet posts rule (ch00), extended.
+3. "the Ministry" capitalised as the short form of a named body (the Ministry of Health), as "the Kingdom".
+4. School and college names capitalise every word, "School" included; "primary education" lower case.
+5. "St" with no full stop in place and institution names too (St Augustine Campus, St Mary's College).
+6. postgraduate (closed); post-registration (hyphenated).
+
+### Consistency with earlier finals (checked, nothing changed)
+
+- Ch00 (acknowledgements, line 15): "H. Gould was the headteacher who supervised my probationary year as a newly qualified teacher in North London. In that school I introduced the teaching of Contemporary Religions ... and under her leadership I rose to Head of Religious Studies in five years." His story: "five years at Alexandra Park School, where I rose to Head of Religious Studies". These agree if Alexandra Park School is that North London school (question 4). No other final names Alexandra Park School.
+- Ch00 and ch03: the University of London (his first degree, Bachelor of Education with honours, ch03; Father F. W. G. Perkins his supervisor there, ch00). The master's degree from the same university is new information, not a conflict.
+- Ch00: "My wife, my sons": two sons in the story agrees.
+- Config and ch00: PhD in Religion, Selinus University, 2025. The story's PhD in Religions at the University of the West Indies was the plan that "circumstances changed"; it does not say he took it there. Not a conflict, but a reader may ask (question 7).
+- Ch00: Head of Year 11 in 2004 and Assistant Headteacher at his last school, so he returned to school service in London after Trinidad. The story does not say so; no conflict.
+
+### Questions for Eston
+
+1. "Training Officer 11 (Senior Training Officer)": written as "Training Officer II". Is that right?
+2. The joining sentence (line 48), "I saw faith and works go together, as they did for the woman who pushed through the crowd, when someone close to me was seriously ill.", is the editor's, not his. Keep, reword, or delete?
+3. The blueprint asked for no names or identifying details in this slot. Your relative stays unnamed. Your wife and sons are named (Myrtle, Nigel, Duane), and so are the schools. Keep the names, or write "my wife" and "our two sons"?
+4. Is Alexandra Park School the North London school of your probationary year under H. Gould (preface)? If not, the preface's "in five years" and the story's "five years" need a look.
+5. Spellings: "Tranquility Boys Secondary School" (the school is often written "Tranquillity", double l) and "Port-of-Spain" (often "Port of Spain"). Kept as you wrote them; please confirm.
+6. "a better National Health Service": British readers will read this as the UK's NHS. Was that the Trinidad and Tobago service's name, or would "a better national health service" (lower case) say what you mean?
+7. Optional: a reader who knows your PhD is from Selinus (preface) may wonder about the University of the West Indies plan. Leave as is, or add a few words of your own?
+
+### Counts after this revision
+
+- Words, all HTML comments removed (python, non-greedy): **4,597 -> 4,908 (+311)**: minus 38 words of slot text, plus 349 of story (323 his, tidied, from 318; 26 the joining sentence). By `sed 's/<!--[^>]*-->//g' | wc -w`: 5,047 (that command leaves in comments containing ">", so reads higher).
+- Flags in the text, comments included (`grep -E '\[(UNVERIFIED|AUTHOR STORY NEEDED|DEV EDIT|RESEARCH NEEDED|COPY EDIT|AUTHOR TO CONFIRM)'`): **0**.
+- HTML comments 82 (80 earlier unchanged, 2 added). Quoted spans 76. Lines 126 -> 135 (plus the final line without newline, as before).
