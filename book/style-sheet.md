@@ -18,6 +18,8 @@ Started 2026-11-11 by copy-editor at ch00. Each line gives its source.
 - No serial (Oxford) comma (config rule 4). If a list becomes ambiguous without it, recast the sentence. A comma before "and" joining two clauses, or before the second of two items, is allowed.
 - Quotations keep their own serial commas ("the pure, peaceable, and impartial Christianity of Christ", Douglass). Config rule 4 governs our prose only (ch01).
 - Quotation marks: double for quotations and scare quotes, single inside them. The files use straight marks, which are curled at typesetting (the build does not do this yet). Punctuation goes inside the closing mark only if it belongs to the quotation. The citation follows the closing mark. If the source sentence goes on after the quoted words, the full stop goes outside: "...pulled it down twice". (ch01 fact check row 65; source text checked).
+- Reported speech and quoted first person: where a quotation is reported in the third person ("she said that she ..."), the quoted span may not switch to the first person ("my soul"). Paraphrase that part outside the marks and keep the KJV words that fit: "she said that she was "a woman of a sorrowful spirit" and had poured out her soul "before the LORD"" (1 Samuel 1:15); or quote the speech directly with its own lead-in (Hart's Rules; copy-editor 2026-11-17, ch05).
+- A comma introduces a quotation after a speaking or praying verb: "Jesus prayed, "Father ..."", "Jesus cried, "My God ..."". No comma where the quotation runs on as the object of the sentence ("the verse asks for "prayer and supplication with thanksgiving"") (ch04 and ch05 finals; copy-editor 2026-11-17).
 - No em or en dashes in prose (humanizer §8). Number ranges take a hyphen (Luke 8:43-48; 3,500-4,600).
 - Abbreviations have no full stops: UK, USA, US, CDC, WHO, PhD, GCSE, KJV, ROI.
 - "the USA" and "the UK" take the article as nouns in narration, also inside a list: "in Britain, the USA and Canada". Bare forms only in labels and data shorthand ("UK 20, USA 16") (ch01, 2026-11-13). In a country list that also names Canada, write "the USA", not "America" (which can read as the continent); "America" stays where it stands alone (ch02).
@@ -54,11 +56,12 @@ Started 2026-11-11 by copy-editor at ch00. Each line gives its source.
 - School years: Year 11. Dates: 21 April 2025 (day month year, no comma, no ordinal).
 - Centuries in words, lowercase: the sixteenth century, early in the seventeenth century. Hyphenate before a noun: eighteenth-century missions. Decades in figures with no apostrophe: the 1830s. Not "the 1700s" for a century (ch01).
 - Phone numbers are written as the service writes them: 116 123; 988; 9-8-8.
-- Proposed, not yet used: "per cent" in running text, % in tables and figures.
+- "per cent" in running text, "%" only in tables and figures: "around 60 per cent worse on average" (first used ch05, the thesis's Larcom figure; Hart's Rules). Was "proposed, not yet used" (copy-editor 2026-11-17, ch05).
 - Round numbers in narrative follow the same rule: "20 African men", "more than 400 years", "more than 20 years" (ch02, 2026-11-14).
 - **Author exception (author 2026-11-15, ch03):** in the author's own story the numbers stay as he chooses, even where the rule above would give figures: "a group of seventeen", "the group of twenty-five" (ch03 lecturer story; "the top five" follows the rule anyway). The exception covers his story text only; the rule stands for all other prose, including the writer's joining sentences. Ask him before applying the figures rule to another of his stories.
 - Numbers from a Bible narrative stay in words, as the KJV has them, where the narration retells the passage: "for twelve years", "a girl of twelve", "the ten lepers", "the nine", "the feeding of the five thousand", "five loaves and two fishes", "prayed three times". Source: the KJV verses quoted beside them, and ch03's "the sixth hour" (John 4:6). The figures rule stands for all other prose and for every count or survey figure (copy-editor 2026-11-16, ch04).
 - Era dates: "AD 64", "AD 70" (AD before the figure, no full stops; Hart's Rules); BC after the figure if ever needed ("64 BC"). Never "B.C.E." (ch04).
+- "the twelve" (the disciples Jesus chose, Luke 6:13) is lower case and in words in narration, as the KJV has it ("of them he chose twelve"); never "the Twelve". Applies the Bible-narrative numbers rule (copy-editor 2026-11-17, ch05).
 
 ## Scripture
 

@@ -118,3 +118,4 @@ infers goes under "Proposed" until the author confirms it.
 | 2026-11-16 | ch04 approved: "Chapter 04 sounds like me"; line 97 approved; line 71 reworded sentence acceptable; line 69 single sentence acceptable; author's story (line 47) "to come shortly" | approved-documents.md; 05-final/ch04-changes.md |
 | 2026-11-16 | ch05 story slot: "During challenging times, I pray diligently for guidance, and repeat the Psalm 23: 'The Lord is my shepherd...the Lord for ever,' several times." (verbatim) | memory/author-stories/2026-11-16-psalm-23-prayer.md |
 | 2026-11-16 | ch05 story, what it does for him: "It gives me peace and enables me to think more clearly, especially when making important decisions." (verbatim) | memory/author-stories/2026-11-16-psalm-23-prayer.md |
+| 2026-11-17 | Ch05 is worked in the claudeskills repo, continuing from the branch that produced ch02 onward (claude/jolly-ride-12gkg1), not the Eston-Guy-New-Book copy | Book chapter 05 session; this log |

@@ -1503,3 +1503,37 @@ look up Olayiwola 2020 (not named in the chapter), register an OpenAlex key, com
 open-claims 66-76; N2 Hannah 1:17 and 1:27 against B12; N3 'My research also found' is credited 
 to Olayiwola 2020 in the thesis; N4 'chapter 10 tells what they said'; N5 'bread and the cup' 
 option; copy editor N1.
+
+### 2026-11-17 · copy-editor · copyedit · ch05
+Copy edit (Mode A) of 04-edited/ch05-casting-your-cares.md (left unchanged, md5 a7a56920401e) 
+to 05-final/ch05-casting-your-cares.md, log 05-final/ch05-changes.md in the ch04 format (status 
+line, summary, table with line, original, revision, why, to reverse; humanize points 1-5 and 
+fact-check N1 settled; checked and left alone; questions for the author; notes block moved out 
+word for word). 8 prose changes: line 15 'aid' for 'help' (his thesis verb, 975-978); line 19 
+Hannah reported speech 'had poured out her soul "before the LORD"' (span shortened from 'poured 
+out my soul before the LORD', still exact KJV, GITenberg #10 md5 f14e91c9); line 27 'and 
+Matthew says that' (N1; the fact checker's correction kept); line 29 'Mark keeps the word Jesus 
+used in Gethsemane'; line 51 Polanyi sentence split at the semicolon; line 55 'collective 
+identity' (his word; 'shared' twice); line 77 'That framework can keep people' (thesis 
+2736-2739; 'It' had no antecedent); closer Q1 'Jesus prayed, "Father'. Script checks: H1, 53 
+comments (3c36a39d81ef), 11 [UNVERIFIED] (cbf4461f8304), 52 references, story block 
+byte-identical; 52 of 53 spans. 0 dashes, curly quotes, serial commas; 'I believe' 12. wc -w 
+comments removed 4,646 -> 4,648 (main 4,233, closer 415; 4,492 without flag text). New 
+decisions in style-sheet.md and Book Bible: 'per cent' (from proposed to rule), 'the twelve' 
+lower case, reported speech may not switch to quoted first person, comma before a quotation 
+after a speaking verb. Book Bible v2 row 05 Copy edit done, Final 'flags open'; status bullet; 
+card. Did not: touch flagged sentences, the section 5 heading, the story block, cut-list rows, 
+N2-N5, B12, humanize point 1 or 4; add any flag; commit or push. Read-order step 8 files 
+(01-outline/author-guidelines.md, editorial-diagnostic-notebooklm.md) do not exist in this 
+repo; used blueprint-v2 section 05 instead. For Eston: 11 flags (66-76); rows 1-9; N2, N3, N4, 
+N5; B12; B9 hymn sentence; Polanyi source and year; two resilience sentences; James 5:16 
+'therapy'; story smoothing; Hannah; writer's sentences; new: line 59 'The King's answer 
+follows:' (reader not told who the King is or the question, Matthew 25:34, 37-39); rows 1, 2, 6 
+for his ear; then read aloud.
+
+### 2026-11-17 · orchestrator · copyedit · ch05
+Author decision 2026-11-17: ch05 continues in this repo from claude/jolly-ride-12gkg1 (the 
+branch that carried ch02-ch05), on branch claude/gifted-planck-rolja3. Copy edit run by 
+copy-editor; outputs checked: 05-final/ch05-casting-your-cares.md (4,648 words, comments 
+removed), ch05-changes.md, 8 prose changes, 11 [UNVERIFIED] remain (open-claims 66-76), cut 
+list 0 of 9 decided. Final: flags open. Not synced to Drive (not approved).
