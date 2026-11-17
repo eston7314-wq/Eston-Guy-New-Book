@@ -1,4 +1,4 @@
-**Not final** (2026-11-17): flags in the text: UNVERIFIED 11 (open-claims 66-76; text order 67, 69, 75, 66, 68, 70, 71, 72, 73, 74, 76), AUTHOR STORY NEEDED 0, COPY EDIT 0, DEV EDIT 0, RESEARCH NEEDED 0, AUTHOR TO CONFIRM 0. Cut list: 0 of 9 rows decided (`book/03-drafts/ch05-cut-list.md`, rows 1-9, untouched by this pass). Then the author's read-aloud voice check. Approval record and Drive sync are the orchestrator's.
+**Not final** (2026-11-17): flags in the text: UNVERIFIED 11 (open-claims 66-76; text order 67, 69, 75, 66, 68, 70, 71, 72, 73, 74, 76), AUTHOR STORY NEEDED 0, COPY EDIT 0, DEV EDIT 0, RESEARCH NEEDED 0, AUTHOR TO CONFIRM 0. Cut list: 9 of 9 rows decided by the author 2026-11-17 (keep 1, 2, 5, 6, 8, applied; cut 3, 4, 7, 9, no change), see "Author's cut-list decisions 2026-11-17" below. Then the author's read-aloud voice check. Updated 2026-11-17. Approval record and Drive sync are the orchestrator's.
 
 # Ch05 change log: Casting Your Cares: Prayer, Scripture and Worship
 
@@ -67,7 +67,8 @@ The final humanizer check (rule 11) is clean: no dashes, no curly quotes, no ser
 | `[UNVERIFIED]` | 11 | line 15 "Research shows ... only a few feature commonly" (open-claims 67); 15 "has been linked to better mental health outcomes" (69); 17 "bread and wine" (75); 65 "Research shows ... Africans in the diaspora" (66); 67 "Numerous studies have shown" (68); 67 Smith and colleagues 2003 (70); 69 Larcom and colleagues 2020, 2021, as cited (71); 69 "Reports indicate" (72); 71 Koenig 2009 (73); 71 Ali and Thompson 2019 (74); 73 "None of these studies shows ... causes", and the section 5 heading (76) | Eston: keep as his view, give a source, reword or cut (config rule 9); the researcher for any source he names |
 | `[AUTHOR STORY NEEDED]`, `[COPY EDIT]`, `[DEV EDIT]`, `[RESEARCH NEEDED]`, `[AUTHOR TO CONFIRM]` | 0 | n/a | n/a |
 | HTML comments | 53 | as in the input, unchanged | build: citation notes to endnotes |
-| Cut list | 0 of 9 decided | `book/03-drafts/ch05-cut-list.md`, rows 1-9 | Eston |
+| Cut list | 9 of 9 decided (2026-11-17); kept rows applied | `book/03-drafts/ch05-cut-list.md` | done |
+| HTML comments added 2026-11-17 | 5 | lines 21, 25, 27, 67, 71 (cut-list notes); 58 in all | build: as above |
 
 ## Questions for the author
 
@@ -90,7 +91,32 @@ None of these was decided here; none is written into the prose.
 15. **New from this pass, rows 1, 2 and 6 for his ear:** "aid" (his thesis verb) for "help" (line 15); Hannah's "poured out her soul "before the LORD"" (line 19); "collective identity" (his thesis word, line 55).
 16. **Optional, not blocking:** the line 17 signpost (humanize point 1); then his read-aloud voice check.
 
-**What Eston must do to make ch05 final:** answer questions 1 and 2 (every flag and every cut-list row; kept rows go back in), then read the chapter aloud. Questions 3-16 can each be answered "leave as is".
+**What Eston must do to make ch05 final:** answer question 1 (every flag; question 17 bears on open-claims 76), then read the chapter aloud. Question 2 is settled (cut list 9 of 9, 2026-11-17). Questions 3-16 can each be answered "leave as is".
+
+## Author's cut-list decisions 2026-11-17
+
+Applied by copy-editor, 2026-11-17, from the last column of `book/03-drafts/ch05-cut-list.md` (author 2026-11-17). Kept rows 1, 2, 5, 6 and 8 go back in; cut rows 3, 4, 7 and 9 need no change (the draft already has the version he chose). Pre-pass copy: md5 fd0841be8476. Line numbers are unchanged (107 lines); each change carries a note comment beginning "copy edit 2026-11-17, author's cut-list decisions".
+
+| # | Row | Line | Original | Revision | Why | To reverse |
+|---|---|---|---|---|---|---|
+| 10 | 1 KEEP | 25 | "... give hope and purpose for living.<!-- B3 note --> Faith also offers comfort in distress, ..." | "... give hope and purpose for living.<!-- B3 note --> Faith as assurance and conviction can build resilience and help people cope with stress and adversity. Faith also offers comfort ..." | His sentence word for word, after the ch04 callback, Hebrews 11:1 not quoted (thesis 2222-2224). +16 words | Delete the sentence and its note |
+| 11 | 2 KEEP | 27 | "fasting and "tempted of the devil" (Luke 4:2). Later, Mark says, ..." | "fasting and "tempted of the devil" (Luke 4:2). I believe those forty days were also days of prayer. Later, Mark says, ..." | His sentence word for word, framed as his belief (config rule 5); the KJV account before it unchanged. +10 words | Delete the sentence and its note |
+| 12 | 5 KEEP | 67 | "found that people who frequently attend religious services report better mental health than those who do not [UNVERIFIED: ...; open-claims 70]." | "found that frequent attendance at religious services is linked with better mental health that reduces anxiety and feelings of depression [UNVERIFIED: ...; open-claims 70]." | His phrase ("linked with better mental health that reduces anxiety and feelings of depression") fitted to the sentence: the subject becomes "frequent attendance at religious services" so "is linked with" has something to attach to; "than those who do not" is absorbed by "linked with better". Flag unchanged and in place. Prose around the flag changed with his authority. +3 words | Restore the original clause |
+| 13 | 6 KEEP | 71 | "and it associates them with fewer symptoms of depression and anxiety [UNVERIFIED: ...; open-claims 74]." | "and it links them with better mental health that reduces anxiety and feelings of depression [UNVERIFIED: ...; open-claims 74]." | As row 12: "associates them with" becomes "links them with" so his phrase follows. Flag unchanged and in place. +4 words | Restore the original clause |
+| 14 | 8 KEEP | 21 | "... and they draw believers and their faith leaders or clergy closer together. Believers turn to these practices ..." | "... closer together. I believe faith and practice together help mental, emotional and spiritual health. Believers turn to these practices ..." | His sentence word for word, after the framework sentence where thesis 2210-2211 was folded in, framed as his belief. +12 words | Delete the sentence and its note |
+
+Rows 3, 4, 7, 9 CUT: no change (line 21 "hoping to ease, and even to cure"; line 51 "*Personal Knowledge* (1958)"; line 79 "In my thesis I concluded that ..."; the Acts clause in the bridge).
+
+**Byte-check (script, pre-pass copy against the final):** H1 identical; 11 `[UNVERIFIED: ...]` flags identical in text and order (cbf4461f8304), each in the same place; 53 earlier HTML comments identical in order (3c36a39d81ef), 5 added (58 in all); 53 quoted spans identical (a8c087da038f), so every scripture quotation is untouched; 46 parenthetical references identical; the Psalm 23 story block (lines 45-49) untouched; only lines 21, 25, 27, 67, 71 differ. Lines 21, 25, 27 equal the original once the inserted sentence and its note are removed; lines 67, 71 equal the original once the note is removed and the old clause put back. Line 73 and the section 5 heading not touched. No dashes, no curly quotes, no serial comma added. "I believe" in prose 12 -> 14.
+
+**Not done, on purpose:** line 73 ("None of these studies shows that prayer or worship causes better mental health") and the section 5 heading, as briefed; no flag resolved or reworded; no new consistency decision.
+
+**Questions for the author raised by these decisions**
+
+17. **Rows 5 and 6 against open-claims 76.** Lines 67 and 71 now say the findings are linked with better mental health "that reduces anxiety and feelings of depression". "Reduces" is a causal word; line 73 says "None of these studies shows that prayer or worship causes better mental health", and the section 5 heading makes the same association-only claim. Read together, the chapter now says the studies found a reduction and then that they show no cause. This is the open-claims 76 question in a sharper form, and it is his to settle: keep line 73 and the heading (and perhaps "that goes with less anxiety ..." at 67 and 71), or keep "reduces" and reword line 73 and the heading. Nothing changed here.
+18. **Row 1 and config rule 5.** "Faith as assurance and conviction can build resilience and help people cope with stress and adversity" is his own sentence and stands as he gave it, but it is stated as fact, not as belief ("I believe" or "Scripture presents faith as ..."). His choice; it also adds a third resilience sentence to question 9.
+19. **Line 21, for his ear.** The paragraph now has three "I believe" sentences ("I believe they can be seen as therapeutic interventions", "I believe faith and practice together help ...", "I believe the practices can help"). Leave, or drop one frame.
+20. **Pre-existing, not blocking the text:** the comment after the Psalm 23 story contains the words "No [AUTHOR STORY NEEDED] flag"; `scripts/build-manuscript.sh` greps comments too, so it will refuse to build on that comment even when every real flag is gone. For the orchestrator to reword when the chapter is approved.
 
 ## Editor notes carried forward
 
@@ -113,3 +139,5 @@ Added at copy edit (not part of the original block): Copy edit (copy-editor, 202
 ## Word count
 
 Plain `wc -w` with HTML comments and the notes block removed (flag text included, as the fact-check card counts it): **input 4,646; final 4,648** (+2: rows 3 and 7). Main text (to the line before "## Reflection and practice") 4,231 to 4,233; closer 415 to 415. With all `[UNVERIFIED: ...]` flag text also left out: 4,490 to 4,492 (main text 4,075 to 4,077; closer 415). The fact check's "4,177 prose before flags" leaves out only its own two new flags and still counts the nine older ones (4,175 + 2 words of the line 27 correction); 4,075 here leaves out all eleven. Main text is about 167 words under the 4,400 budget (blueprint v2) with flags, about 323 without; inside the config's 4,000-6,000; not padded or cut.
+
+**Update 2026-11-17 (author's cut-list decisions):** same method, all comments removed: 4,648 -> 4,693 (+45); main text 4,233 -> 4,278; closer 415. With flag text also removed (regex on the whole bracket): 4,502 -> 4,547.

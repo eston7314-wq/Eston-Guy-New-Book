@@ -1537,3 +1537,33 @@ branch that carried ch02-ch05), on branch claude/gifted-planck-rolja3. Copy edit
 copy-editor; outputs checked: 05-final/ch05-casting-your-cares.md (4,648 words, comments 
 removed), ch05-changes.md, 8 prose changes, 11 [UNVERIFIED] remain (open-claims 66-76), cut 
 list 0 of 9 decided. Final: flags open. Not synced to Drive (not approved).
+
+### 2026-11-17 · orchestrator · cut-list · ch05
+Author decided all 9 ch05 cut-list rows in conversation 2026-11-17: keep 1, 2, 5, 6, 8 (his 
+wording recorded in the cut list); cut 3, 4, 7, 9. Row 7 'coping;luded' read as 'concluded'. 
+Rows 5-6 wording says 'linked with ... that reduces', which bears on open-claims 76 (line 73 
+'None of these studies shows ... causes'): raised with the author, not resolved. Dispatched 
+copy-editor to apply.
+
+### 2026-11-17 · copy-editor · cut-list · ch05
+Applied the author's ch05 cut-list decisions (2026-11-17) to 
+05-final/ch05-casting-your-cares.md (pre-pass md5 fd0841be8476). Keep rows inserted word for 
+word: line 21 row 8 'I believe faith and practice together help mental, emotional and spiritual 
+health.' (after the framework sentence); line 25 row 1 'Faith as assurance and conviction can 
+build resilience and help people cope with stress and adversity.' (after the ch04 callback and 
+its B3 note; Hebrews 11:1 not quoted); line 27 row 2 'I believe those forty days were also days 
+of prayer.' (after Luke 4:2). Rows 5 and 6 in his wording: line 67 'found that frequent 
+attendance at religious services is linked with better mental health that reduces anxiety and 
+feelings of depression'; line 71 'and it links them with better mental health that reduces 
+anxiety and feelings of depression'; flags 70 and 74 unchanged and in place. Cut rows 3, 4, 7, 
+9: no change. 5 note comments added (58 in all). Script byte-check: H1, 11 [UNVERIFIED] 
+(cbf4461f8304), 53 earlier comments (3c36a39d81ef), 53 quoted spans, 46 references, Psalm 23 
+block identical; only lines 21, 25, 27, 67, 71 differ. wc -w comments removed 4,648 -> 4,693 
+(main 4,233 -> 4,278; closer 415). 'I believe' 12 -> 14. Log: ch05-changes.md section 'Author's 
+cut-list decisions 2026-11-17' (rows 10-14), status line, flags table, questions 17-20; Book 
+Bible v2 row 05 and status bullet; card. Did not: touch line 73 or the section 5 heading; 
+resolve or reword any flag; add a consistency decision; commit. For Eston: 17 rows 5-6 
+'reduces' against line 73 and the heading (open-claims 76); 18 row 1 stated as fact, not belief 
+(rule 5); 19 three 'I believe' in line 21's paragraph; 20 the comment after the Psalm 23 story 
+contains the text '[AUTHOR STORY NEEDED]', which the build script's grep will catch. Final: 
+flags open (11 [UNVERIFIED], then the voice check).
