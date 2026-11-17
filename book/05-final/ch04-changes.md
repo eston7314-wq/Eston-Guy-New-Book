@@ -283,4 +283,7 @@ Kept as he wrote them, though a style or humanizer rule could have touched them:
 - Question 2: "Keep the joining sentences". The editor's joining sentence (line 48) stays, author-approved.
 - Question 4: Alexandra Park School is the North London school where he rose to Head of Religious Studies; the Preface does not name it. The two accounts agree; no change.
 - Question 5 (spellings): "Use 'Tranquility' and Port of Spain". "Tranquility" kept; "Port-of-Spain" becomes "Port of Spain" (2 places, line 52).
-- Questions 6 (National Health Service) and 7 (UWI PhD) and the read-aloud sign-off: still open.
+- Question 1 again: "keep 'Training Officer 11' (Senior Training Officer), that title means Training Officer 2". Stays as written.
+- Question 6: "say 'a better national health service'". Changed (line 54), lower case.
+- Question 7: "my plan to do my thesis at the University of the West Indies, many years ago, had to be shelved". The text ("Unfortunately, circumstances changed") already says this; no change.
+- Open: the read-aloud sign-off, then the Drive re-sync.
