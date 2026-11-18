@@ -1654,3 +1654,16 @@ studies'). Final awaits his read-aloud.
 Author 2026-11-18: diaspora lower case everywhere; line 69 'worse on average' sentence cut 
 (cut-list row 14); Cambridge stays dropped; line 73 'these studies and this book'. 0 flags. 
 Next: his read-aloud.
+
+### 2026-11-18 · orchestrator · decision · ch05, ch06
+Author: "Chapter 05 is approved, sounds like me, so go on th chapter o6, and maintain a page
+format like that of the approved chapter04 with a margin on both sides of each page, and a
+uniform space between each heading and the text that follows." Recorded ch05 approval and the
+page-format rule in user-profile. Next: ch05 Drive sync, then `chapter 06` (research first).
+
+### 2026-11-18 · orchestrator · drive-sync · ch05
+Ch05 approved by the author 2026-11-18. Uploaded to Drive 'Approved Documents' as Google Doc
+11AlmxhyfGZtCcK6ESmv4RPQPuKXbqRO3YRiRZOgQO9Y, built with the new scripts/chapter-to-drive-html.sh
+(justified, 72pt margins both sides, 18pt before and 6pt after every heading, comments stripped);
+read back and checked. Drive-only 2026-11-15 draft 1ldQOK66... renamed SUPERSEDED. Register,
+card and Book Bible updated.

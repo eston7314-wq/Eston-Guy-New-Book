@@ -12,6 +12,8 @@ DISABLED: it was created without the Google Drive connector, so it could not rea
 recreated with Google Drive attached from the claude.ai scheduled-tasks page. Until then, the sync
 rule is carried out by each session as it makes changes.
 
+**Page format (author, 2026-11-18):** every chapter's Drive copy matches the approved ch04: justified text, a margin on both sides of each page, and a uniform space between each heading and the text that follows. Build it with `scripts/chapter-to-drive-html.sh <final .md>` and upload as text/html (converted to a Google Doc).
+
 **Standing rule (author, 2026-11-07):** whenever the author approves a document, record it here
 and upload a copy to that Drive folder. Documents still awaiting a decision are not uploaded.
 
@@ -25,6 +27,7 @@ and upload a copy to that Drive folder. Documents still awaiting a decision are 
 | 2026-11-14 | Chapter 2: Songs for Sorrow (ch02 final) | book/05-final/ch02-songs-for-sorrow.md | https://docs.google.com/document/d/1eP__PKwK5rYfAEFUA7n7M8R_98Vp1sq06zDMpBbJklk/edit (current 2026-11-16: "Chapter N:" heading, justified text, HTML comments stripped; older copies renamed SUPERSEDED) | Author voice check: "It sounds like me." |
 | 2026-11-16 | Chapter 3: The Way Home (ch03 final) | book/05-final/ch03-the-way-home.md | https://docs.google.com/document/d/18w-5SlT8gSqhIed5nf4m9gPnT0wHcFGV-e2d52BltR8/edit (current 2026-11-16: "Chapter N:" heading, justified text, HTML comments stripped; older copies renamed SUPERSEDED) | Author voice check: "Chapter 03 sounds like me"; all story proposals taken 2026-11-16 |
 | 2026-11-16 (story 2026-11-17) | Chapter 4: Thy Faith Hath Made Thee Whole (ch04 final, with the author's line 47 story) | book/05-final/ch04-thy-faith-hath-made-thee-whole.md | https://docs.google.com/document/d/1fWPN9Ojxyv3sbKUW8lXVdGZutDyB53BOMLgOkrnTe7c/edit (current 2026-11-17: justified, HTML comments stripped, read back and checked; the 2026-11-16 copy 1O8kIaU8... renamed SUPERSEDED) | Author voice check: "Chapter 04 sounds like me" (2026-11-16); story read aloud: "It sounds like me" (2026-11-17) |
+| 2026-11-18 | Chapter 5: Casting Your Cares (ch05 final) | book/05-final/ch05-casting-your-cares.md | https://docs.google.com/document/d/11AlmxhyfGZtCcK6ESmv4RPQPuKXbqRO3YRiRZOgQO9Y/edit (current 2026-11-18: justified, 72pt margins both sides, uniform heading spacing, comments stripped, read back and checked; Drive-only draft 1ldQOK66... renamed SUPERSEDED) | Author: "Chapter 05 is approved, sounds like me" (2026-11-18) |
 
 ## Awaiting the author's decision (not uploaded)
 
