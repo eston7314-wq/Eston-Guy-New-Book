@@ -1838,3 +1838,13 @@ open-claims change, chapter not marked final, no commit or push, no Drive, claud
 untouched. Book Bible v2 row 06 Copy edit done, Final 'flags open'; status line; card. For 
 Eston: 20 questions in ch06-changes.md; 1-4 block the final (23 flags, church story, cut-list 
 rows 1-23, read-aloud).
+
+### 2026-11-18 · orchestrator · author-answers · ch06
+Author answered the ch06 questions (recorded in user-profile, 10 rows): Grenfell source = the
+church's own newsletter; story coming today; 1 Cor 1:12; cut every unverifiable citation and
+unknown source (Bhui 2018 kept, title confirmed); CTBI, Sam Sharpe Project and Bishop Tedroy
+Powell / New Cross details; writers' lines, Mark 2 scene and closing paragraph sound like him;
+add the USA to the country section; RJAF/St Paul's paragraph moved; "more acceptable sources of
+help"; "As elsewhere"; "support" for "bolster"; line 17 "some may develop"; line 31 "the faith of
+the four"; line 61 kept with the conference; line 77 "systematic"; Acts 2:45 quoted. Do not re-ask
+answered questions. Next: dev editor applies, fact check of changed lines, copy edit.
