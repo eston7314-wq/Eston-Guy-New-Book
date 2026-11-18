@@ -1649,3 +1649,8 @@ and Book Bible: in-text study naming rule, 'diaspora' lower case (line 65 except
 Not done: the 'worse on average' sentence kept without the figure; no commit, no Drive. 
 Questions 21-25 for him (Diaspora capital; that sentence; Cambridge; Koenig framing; 'these 
 studies'). Final awaits his read-aloud.
+
+### 2026-11-18 · orchestrator · author-answers · ch05
+Author 2026-11-18: diaspora lower case everywhere; line 69 'worse on average' sentence cut 
+(cut-list row 14); Cambridge stays dropped; line 73 'these studies and this book'. 0 flags. 
+Next: his read-aloud.

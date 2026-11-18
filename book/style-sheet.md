@@ -100,3 +100,4 @@ Started 2026-11-11 by copy-editor at ch00. Each line gives its source.
 - multiracial, multicultural (closed); multi-ethnic (hyphenated) (approved ch01 "multiracial"; ch02).
 - Music genres lowercase and open as nouns: gospel, blues, jazz, soul, calypso, reggae, soca, hip hop, rock and roll; "rhythm and blues" at first use, R&B after. work-songs (Book Bible key term) (ch02).
 - Place names in the author's stories (author 2026-11-17): "Port of Spain" (no hyphens); "Tranquility Boys Secondary School" (his spelling).
+- "diaspora" is lower case everywhere, with no exception (author 2026-11-18: "spell 'diaspora' with a lower case 'd' here and elsewhere").

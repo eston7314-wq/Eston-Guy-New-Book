@@ -204,3 +204,14 @@ Plain `wc -w` with HTML comments and the notes block removed (flag text included
 **Update 2026-11-17 (author's decisions, second set):** same method, all comments removed: 4,693 -> 4,663 (-30: open-claims 76 flag text -33, line 73 prose +3, line 25 +2, line 21 +1, heading -3); main text 4,278 -> 4,248; closer 415. With flag text also removed: 4,547 -> 4,549 (+2, not +3: the regex left the full stop after the old flag as a token).
 
 **Update 2026-11-17 (author's answers on open-claims 66-75):** same method, all comments removed: 4,663 -> 4,471 (-192: flag text -123, prose -69); main text 4,248 -> 4,056; closer 415 unchanged. With flag text also removed (`\s*\[UNVERIFIED:[^\]]*\]`): 4,540 -> 4,471 (-69; rows 18-29: +1, -13, +1, +2, -2, +1, -17, -4, 0, +8, -46).
+
+## Author's answers on questions 21-25, 2026-11-18 (orchestrator)
+
+| # | Line | Original | Revision | Author's words |
+|---|---|---|---|---|
+| 30 | 65 | "in the Diaspora" | "in the diaspora" | "spell 'diaspora' with a lower case 'd' here and elsewhere" (no other capital D in 05-final) |
+| 31 | 69 | "Where mental health declined, the researchers found it was worse on average for the non-religious than for people of faith with typical levels of religiosity." | (cut; cut-list row 14) | "fine, drop it" |
+| 32 | 69 | "of the University of Cambridge" | (stays dropped) | "drop 'University of Cambridge'" |
+| 33 | 73 | "these studies show" | "these studies and this book show" | "change to 'these studies and this book.'" |
+
+Question 24 (thesis bibliography 69) concerns the thesis copy only; no book change. Questions 21-25 answered. Remaining: the author's read-aloud.
