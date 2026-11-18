@@ -1771,3 +1771,22 @@ logged, offered to the author); name Adams 2020 (ch07's); add a survey figure; c
 touch claudeskills. For Eston: D15, D8, D13 for his ear; rows 22-23; headings; queued writers' 
 lines; Mark 2 and Eli; 'though none of them could be confirmed' once 86-91 are decided; 'one of 
 the strongest supports'; the church story; pack questions 1-8; rows 1-21.
+
+### 2026-11-18 · copy-editor · humanize · ch06
+Humanize pass (config rule 11) on 04-edited/ch06-a-family-house.md in place; pre-pass copy 
+ch06-a-family-house.pre-humanize.md (cmp identical, md5 5e5301731604); log 
+04-edited/ch06-humanize-log.md. 4 prose changes, none in Eston's thesis wording or a flagged 
+sentence: lines 33, 39, 69 'In my thesis I ...' sentence openings varied (§7; 8 -> 5 openings, 
+'my thesis' still 11, attribution kept; 33 puts the reporting verb first, his observed 
+preference); line 71 the writer's lead 'In Canada the picture is less studied.' removed (§4; 
+it restated his own 'less scholarly attention' sentence two lines on; duplicate, no cut-list 
+row), so the paragraph opens on his 'Canada's African diaspora is diverse'. Plus a traceability 
+line in Notes for the editor. Script checks: H1, 51 comments, 19 [UNVERIFIED] in order 
+(open-claims 77-93), the story slot, 21 quoted spans and 39 parentheses byte-identical; 0 
+dashes or curly quotes; 'I believe' 11; diaspora lower case. wc -w comments and notes removed 
+4,691 -> 4,683 (main 4,219 -> 4,211, closer 472; prose without flag text 4,310). Book Bible v2 
+row 06 Dev edit cell, Humanize status 06 line and a ch06 humanize note; card updated. 
+Deliberately not done: 'bolster' and the three 'UK and the USA' in 71-73 (his words) left for 
+his ear; D8, D12, D13, D14, D15 and the queued lines left as written; no cut-list row; no 
+commit or push; claudeskills untouched. For Eston: the four changes; memo questions 1-10; the 
+church story. Next: fact check.
