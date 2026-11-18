@@ -1667,3 +1667,23 @@ Ch05 approved by the author 2026-11-18. Uploaded to Drive 'Approved Documents' a
 (justified, 72pt margins both sides, 18pt before and 6pt after every heading, comments stripped);
 read back and checked. Drive-only 2026-11-15 draft 1ldQOK66... renamed SUPERSEDED. Register,
 card and Book Bible updated.
+
+### 2026-11-18 · book-researcher · research · ch06
+Built book/02-research/ch06-evidence.md (Mode A) under the 2026-11-11 fact-checking rules on 
+blueprint v2: 87 rows (C1-C52, N1-N35) over thesis 1190-1255, 1279-1413, 1917-1948, 2154-2164, 
+2294-2337, 1482-1514, 1599-1665, 4884-4885. 51 claims thesis-supported; of 35 named items 5 T, 
+1 author-confirmed (Koenig 2009, ch05), 3 existence-confirmed, 5 corrected (J. Deotis Roberts; 
+Lincoln and Mamiya title; Thom Moore; King not a 2024 St Paul's speaker; 'The Apostles 
+reported'; 1 Corinthians 1:12, which rebukes division), 20 unconfirmed. Open-claims 77-93 added 
+(CDC 2024, WHO 2010, Johnson and Edwards, two 'Research shows', organisational sources, 
+Grenfell church leader and 'pastoral first-aid', Watson and Sharpe, Bhui title mismatch, 
+Abdullah, Este and Bernard and Idemudia and Williams (cited pages belong to other articles), 
+James and Tucker, James, Este 2004, 1 Cor 1:12 question, names). sources.md 60-74 added (15 
+works, existence only), 35/41/42/43/52 annotated. Grenfell: date, place, seventy-two deaths 
+thesis-supported; the church account has no named source; pack 1.3 lists what may not be added. 
+Book Bible v2 status row 06 (Research), five citation rows, Ch06 research section; ch06 card 
+created; glossary and source-map notes. Deliberately not done: no KJV re-read (GITenberg 
+download refused twice by the permission system; earlier packs' readings reused; Acts 2:43, 
+2:45 missing), no outside content read, no survey or suicide figures, no commit. OpenAlex 429 
+x5. For the author: the Grenfell source, Bhui, the Canadian citations, 1 Corinthians 1 vs 12, 
+CTBI/Sam Sharpe/church names, CDC page, a church story (acknowledgements story spent in ch00).

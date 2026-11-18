@@ -20,7 +20,7 @@ The author's rules of 2026-11-11 override the researcher's defaults. Three statu
 
 | Service | Result |
 |---|---|
-| api.crossref.org | **Worked** (HTTP 200 throughout; one-second pauses; 27 searches, 2 journal-year listings, 4 record reads) |
+| api.crossref.org | **Worked** (HTTP 200 throughout; one-second pauses; 27 searches, 2 journal-year listings, 6 record reads) |
 | doi.org | **Worked**: handle API `https://doi.org/api/handles/<doi>` gave responseCode 1 (registered) for all 13 new DOIs in section 4. Redirects were not followed |
 | openlibrary.org | **Worked** (`/search.json`, 8 searches; `/works/<id>/editions.json`, 1) |
 | api.openalex.org | **HTTP 429 on all 5 calls** (shared no-key budget, as in ch02-ch05), tried as the second tool for the five citations Crossref could not find (Johnson and Edwards; Watson and Sharpe; Idemudia and Williams; James and Tucker; Abdullah). No key requested |
