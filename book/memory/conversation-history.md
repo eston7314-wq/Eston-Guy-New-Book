@@ -1744,3 +1744,30 @@ flags or three-country section. For Eston: Mark 2 and Eli welcome?; four writer'
 (that faith belonged to the carriers; none of the four alone; Eli misjudged then blessed; which 
 of those two answers you meet); the church story; pack questions 1-8; cut-list rows 1-21. Fact 
 check must re-read Mark 2:1-5 and 1 Samuel 1:9-18.
+
+### 2026-11-18 · developmental-editor · devedit · ch06
+Dev edit of 03-drafts/ch06-a-family-house.md (left unchanged) to 
+04-edited/ch06-a-family-house.md, memo 04-edited/ch06-edit-memo.md (verdict first; D1-D15 
+original/revision/why). Verdict: ready for humanize and fact check. Main edits: (1) the shift's 
+two starting points ('Church is where I go on Sunday' / 'My troubles are private') were named 
+only in the last sentence and answered by neither; a new landing paragraph (D15) answers them 
+from the chapter's own risk list (social isolation, thesis 1216), Galatians 6:2 and the 
+services, no new fact; (2) six H2s to five, one per blueprint argument: sections 2 and 3 merged 
+('The first believers carried one another, and many Black churches still do, all week long') 
+with a joining sentence (D8), crisis heading widened to cover the RJAF/St Paul's paragraph 
+(D11); (3) the WHO sentence and the first-door paragraph moved so each argument runs in order 
+(D4, D10); the landing's three image definitions tightened to one sentence (D14). Also: opening 
+restating sentence removed (D1, its 'before anyone was asked' went past thesis 1400-1404); 
+'never takes its place' made a purpose (D12); USA sentence at the head of section 5 (D13); 
+Galatians 6:2 reference on the repeated span (D7); small repeats (D2, D3, D6, D9). Nothing from 
+the author's source removed; cut-list rows 22-23 added (writer's lines), 23 undecided. Script 
+checks: H1, 19 [UNVERIFIED] (same order) and the [AUTHOR STORY NEEDED] slot byte-identical; 37 
+earlier comments kept (two swapped with the moved paragraph); 20 quoted spans kept, 1 repeated, 
+0 new; refs kept, 2 added; 0 dashes or curly quotes; 'I believe' 11. wc -w 4,678 -> 4,691; 
+prose without flag text 4,305 -> 4,318 (budget 4,400). Book Bible v2 row 06 Dev edit and a 
+'Ch06 dev edit' block; card updated. Did not: fill the story slot, touch flagged sentences, the 
+closer or the Mark 2/Eli paragraphs; move RJAF to section 5 (disagreement with the blueprint 
+logged, offered to the author); name Adams 2020 (ch07's); add a survey figure; commit or push; 
+touch claudeskills. For Eston: D15, D8, D13 for his ear; rows 22-23; headings; queued writers' 
+lines; Mark 2 and Eli; 'though none of them could be confirmed' once 86-91 are decided; 'one of 
+the strongest supports'; the church story; pack questions 1-8; rows 1-21.
