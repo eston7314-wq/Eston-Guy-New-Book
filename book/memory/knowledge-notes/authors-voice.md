@@ -44,3 +44,9 @@ Stub. State the source and date of anything you add. Undated entries are untrust
 - His testimony here is two plain sentences, a practice then its effect: "During challenging times, I pray diligently for guidance ..."; "It gives me peace and enables me to think more clearly, especially when making important decisions." No list, no thanks formula. Keep them as two sentences; do not join or gloss them.
 - He writes "the Psalm 23" (article before a psalm's number); smoothed to "Psalm 23" for his sign-off.
 - In the ch05 source he names practices in long inventories (sixteen practices at 2188-2192; eight at 2199-2202) and attributes selections to "Research shows". The inventories are kept whole; the attributions are flagged.
+
+## Observed in ch06 source (chapter-writer, 2026-11-18; thesis 1190-1665, 1917-1948, 2154-2337, 4884-4885)
+
+- Names institutions and dates in full, with honorifics ("the Most Revd and Rt. Hon. Justin Welby"; "8th September, 2020"); the draft keeps names and dates, drops honorifics (cut-list row 17).
+- Reports studies with strong verbs ("has demonstrated", "lead to", "thus reducing"); the draft softens to "reported", "associated", or his belief, each on the cut list.
+- His most quotable lines here are images of shelter: "places of refuge where knowledge of God's love and community care intertwine" (1282-1284), "a 'family house,' a symbol of unity and identity" (1297-1298), "a sanctuary where believers can find solace from the racial challenges" (1613-1615), "an anchor, a shield, a sanctuary" (4885). Kept nearly verbatim.

@@ -1694,3 +1694,24 @@ whole book over (yes), move ch06 too (yes), leave claudeskills as it is. Pushed 
 claudeskills history (to 4949db7, ch06 research done) to eston7314-wq/Eston-Guy-New-Book branch
 claude/gallant-hopper-1ylx0m. Its earlier 4-commit history is kept on claude/new-session-bha8b0.
 All chapter work from here, ch06 onward, is in Eston-Guy-New-Book.
+
+### 2026-11-18 · chapter-writer · consolidate · ch06
+Consolidated ch06 from the thesis into book/03-drafts/ch06-a-family-house.md (repo 
+Eston-Guy-New-Book, branch claude/gallant-hopper-1ylx0m, per the author's 2026-11-18 move). 
+4,397 words with comments and notes removed (main 3,930 incl. H1, headings and flag text; 
+closer 467; about 4,050 without flag text). Opens on Grenfell exactly as pack 1.3 allows (no 
+church name, fire time, inquiry or 'three years'), meets the ch05 hook, then Galatians 6:2; 
+five claim H2s (protective factors; Acts 2:42-47, 1 Corinthians 1:12, Galatians; the family 
+house; the first door; crisis with RJAF and St Paul's in one paragraph; three countries) then 
+landing on 'an anchor, a shield, a sanctuary' and the blueprint ch07 hook. Flags: 19 
+[UNVERIFIED] covering open-claims 77-93, none dropped or softened; 1 [AUTHOR STORY NEEDED: a 
+time your church family carried you or someone you know]. Scripture quoted only from thesis or 
+recorded pack readings; Acts 2:45 paraphrased without quotation marks, 2:43 unused, Philippians 
+4:13 paraphrased (ch04), Mark 14 not re-quoted, 1 Corinthians 12:26 held for the author. 
+Corrections: Roberts, Lincoln and Mamiya title, King not a speaker, 'book of Acts', 1:12, Welby 
+'then'. No survey or suicide figure; 2717-2726 used lightly in the bridge (Adams 2020 not 
+named; ch07's). Cut list 21 rows, all undecided. Book Bible v2 row 06 Draft done and a Ch06 
+draft additions section; card; authors-voice note. Did not: commit, push, touch claudeskills, 
+add sources or open-claims rows, retell the Hartney story. For Eston: pack questions 1-8 
+(Grenfell source first), story, cut-list rows, 1 Corinthians choice, the writer's landing 
+glosses.
