@@ -1848,3 +1848,35 @@ add the USA to the country section; RJAF/St Paul's paragraph moved; "more accept
 help"; "As elsewhere"; "support" for "bolster"; line 17 "some may develop"; line 31 "the faith of
 the four"; line 61 kept with the conference; line 77 "systematic"; Acts 2:45 quoted. Do not re-ask
 answered questions. Next: dev editor applies, fact check of changed lines, copy edit.
+
+### 2026-11-18 · developmental-editor · author-answers · ch06
+Applied the author's ten 2026-11-18 answers to book/05-final/ch06-a-family-house.md in place 
+(copy first: ch06-a-family-house.pre-author.md, cmp identical, md5 95071e77d17d; after 
+308a38f1a538). Log: new section 'Author's answers, 2026-11-18' in 05-final/ch06-changes.md (26 
+rows: original, revision, answer). Done: Grenfell account and 'pastoral first-aid' attributed 
+to the church's own newsletter, author-confirmed comments (82; no church or leader named); 1 
+Cor 1:12 flag closed (92); 12 unverifiable citations cut with their sentences and flags (77-80, 
+83, 85-91; cut-list rows 24-35 'cut (author, 2026-11-18)', plus row 36 for the writer's 'though 
+none of them could be confirmed' lead, which fell with its three studies); Bhui kept as 'A 
+study by Bhui, Halvorsrud and Nazroo (2018), "Making a Difference: Ethnic Inequality and Severe 
+Mental Illness"', author-confirmed (84); CTBI with acronym, Sam Sharpe Project with his 
+description (CTBI and the project restored to the RJAF member sentence, cut-list row 10 partly 
+restored), Bishop Tedroy Powell, National Presiding Bishop of the Church of God of Prophecy UK, 
+church in New Cross (93; the 81c/81d flags lost their '93' part); RJAF and St Paul's paragraph 
+moved to section 5 after the CTE report, crisis heading back to 'When disaster comes, the house 
+opens its doors'; USA paragraph added (line 71, 133 words, thesis 1546-1555 only, Lincoln and 
+Mamiya 1990 existence-confirmed, no flag; last sentence his belief, for his ear); D13 sentence 
+folded into it; his wording: line 7 'A supportive church is one of the more acceptable sources 
+of help for someone in need.', 'support' for 'bolster', 'As elsewhere' (line 75), 'that was the 
+faith of the four' (line 31), Acts 2:45 quoted (KJV as in ch06-factcheck.md), 'some may 
+develop' kept, the April 2023 hope kept; editor's 'As in those two countries' (line 73) to 
+avoid two 'UK and the USA' in a row. Rows 3, 5, 7 marked cut under his rule, for confirmation. 
+Story slot and flags 94, 95, 96, 81a-d untouched. Checks: 51 earlier comments kept 
+byte-identical (one moved as history), 22 added; quoted spans 21 -> 23; 0 dashes or curly 
+quotes; build grep 8 hits, all prose. Flags: 7 [UNVERIFIED], 1 [AUTHOR STORY NEEDED]. wc -w 
+4,777 -> 4,225 (main 3,753; without flag text 4,079). Open-claims 77-80, 82-93 resolved; Book 
+Bible v2 row 06 and 'Ch06 author's answers' block; card. Not done: no commit or push, 
+claudeskills untouched, no fact check of the new lines (next), no Drive. Questions for Eston 
+(ch06-changes 21-27): Sam Sharpe Project or Sam Sharp Project?; 81a-d cut or confirm?; 94-96; 
+rows 3, 5, 7; USA paragraph and 'As in those two countries' for his ear; 'systematic 
+discrimination' has no sentence left (Este 2004 cut): restore as his view?; Bhui title case.
