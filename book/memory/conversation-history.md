@@ -1790,3 +1790,31 @@ Deliberately not done: 'bolster' and the three 'UK and the USA' in 71-73 (his wo
 his ear; D8, D12, D13, D14, D15 and the queued lines left as written; no cut-list row; no 
 commit or push; claudeskills untouched. For Eston: the four changes; memo questions 1-10; the 
 church story. Next: fact check.
+
+### 2026-11-18 · book-researcher · factcheck · ch06
+Fact check (Mode B) of 04-edited/ch06-a-family-house.md in place under the author's 2026-11-11 
+rules, modelled on ch05-factcheck.md; report 02-research/ch06-factcheck.md. 161 rows: thesis 72 
+(1190-1255, 1279-1412, 1486-1514, 1603-1665, 1919-1948, 2156-2164, 2296-2337, 2717-2726, 
+4881-4885), KJV verified 24, corrected 0, unverified 24 (19 under the existing flags 77-93, 5 
+new), author testimony 0, cross-references 11 (ch01 79/81/85/91, ch04 102, ch05 19/71/81, 
+blueprint ch07-ch11, survey Fig.19; all consistent), framed views 29, story slot 1. KJV: 
+GITenberg mirror of #10 downloaded this time (not refused; md5 f14e91c9), cross-checked with 
+thiagobodruk and scrollmapper JSON (agreeing); Acts 2:42-47 incl. 2:43 and 2:45, Galatians 
+6:1-2, 1 Corinthians 1:10-13, Mark 2:1-5, 1 Samuel 1:9-20 read in full; all 14 scripture spans 
+exact, Acts 2:45, Mark 2 and Eli paraphrases faithful; no download-refused flags needed. 
+Story-pass, D8, D12, D13, D15 and humanize sentences all checked; Grenfell opening matches 
+thesis 1394-1406 and pack 1.3. 0 corrections (nothing contradicted by thesis or KJV). 4 flags 
+inserted, wording unchanged: line 35 Roberts 'theologian ... gave the same idea its formal 
+name' and the ecclesiology gloss (open-claims 94, 95a); line 39 latchkey gloss (95b); line 57 
+first-aid gloss (95c); line 69 'Free Churches Group and Churches Together in England' (thesis 
+1933-1934 does not say one body or two; 96). Existing 77-93 unchanged; OpenAlex re-searched 79, 
+85, 89, 90 (200, nothing), 83 and 88 (429 twice); histories added to 79, 83, 85, 88, 89, 90, 
+92. Byte checks: only lines 35, 39, 57, 69 changed plus one notes line; 51 comments, quoted 
+spans, 24 references, 19 old flags, H1 and slot identical. Now 23 [UNVERIFIED], 1 [AUTHOR STORY 
+NEEDED]. Book Bible: v2 row 06 Research cell fact-check note, KJV-for-ch06 row amended, 'Ch06 
+fact check' block; sources.md 33 amended (no new source); glossary note and index; card. Did 
+not: change any other wording, edit comments, look up Adams 2020, register an OpenAlex key, 
+commit or push, touch claudeskills. For Eston: open-claims 77-96; notes N1 ('some' vs 'others 
+may develop'), N3 Mark 2:5 'their faith', N4 RJAF hope vs conference, N5 'systemic' vs thesis 
+'systematic', N6 Adams 2020 behind line 83, N8 'none could be confirmed'; copy editor N7 (study 
+naming), N9 (title case).
