@@ -1715,3 +1715,32 @@ draft additions section; card; authors-voice note. Did not: commit, push, touch 
 add sources or open-claims rows, retell the Hartney story. For Eston: pack questions 1-8 
 (Grenfell source first), story, cut-list rows, 1 Corinthians choice, the writer's landing 
 glosses.
+
+### 2026-11-18 · story-injector · story · ch06
+Story pass (Mode A) on 03-drafts/ch06-a-family-house.md in place, ch03-ch05 rule (nothing cut). 
+Pre-pass copy ch06-a-family-house.pre-story.md (cmp identical, sha256 11b50633...e932); log 
+02-research/ch06-stories.md. Four changes: (1) line 3, opening sentences 2-3 joined in pack 
+1.3's own frame ('Seventy-two people died, most of them from minority ethnic groups, ...'), no 
+fact added or dropped, nothing beyond pack 1.3 (no church or leader name, fire time, inquiry, 
+'three years'); the chapter's question now comes at sentence 6, not 7. (2) New paragraph after 
+the Galatians paragraph: the paralysed man carried by four and let down through the roof, Mark 
+2:1-5, paraphrased without quotation marks (KJV not recorded or read); 2:5's forgiveness words 
+(ch07) and the healing 2:11-12 (ch04's guard) left out on purpose. (3) Story slot brief 
+sharpened with the pack's words ('who they were, what they did and what it meant; a church, not 
+the school year told in the Preface'); not filled. (4) New paragraph before 'A first door is 
+only as good as where it leads': Eli and Hannah, 1 Samuel 1:9-18, quoting only 1:14 'How long 
+wilt thou be drunken?' and the 1:17 span 'the God of Israel grant thee thy petition' (both read 
+in the ch05 fact check 2026-11-17), Hannah called back by chapter, her ch05 spans not repeated, 
+1:27 not used; one direct-address sentence. 0 composites; no person, statistic, quotation or 
+author experience invented; Hartney story not retold. Script checks vs pre-pass: 19 
+[UNVERIFIED] byte-identical and in order; 33 earlier comments, 18 spans and all references 
+unchanged; 4 comments, 2 spans, 5 references added; 0 dashes, 0 curly quotes; 'I believe' 11. 
+wc -w comments removed 4,397 -> 4,678 (main 3,925 -> 4,206, +7.2%; closer 472); prose without 
+flag text 4,044 -> 4,305, under the 4,400 budget. Cut list unchanged (21 rows undecided, none 
+added). Book Bible: v2 row 06 Story pass filled, and the draft note, which sat in the Story 
+pass column, moved to Draft; 'Ch06 story pass' block appended. Card updated. Did not: commit or 
+push, touch claudeskills, download KJV, use Acts 12:5 or 1 Corinthians 12:26, touch the closer, 
+flags or three-country section. For Eston: Mark 2 and Eli welcome?; four writer's sentences 
+(that faith belonged to the carriers; none of the four alone; Eli misjudged then blessed; which 
+of those two answers you meet); the church story; pack questions 1-8; cut-list rows 1-21. Fact 
+check must re-read Mark 2:1-5 and 1 Samuel 1:9-18.
