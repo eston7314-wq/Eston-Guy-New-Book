@@ -1818,3 +1818,23 @@ commit or push, touch claudeskills. For Eston: open-claims 77-96; notes N1 ('som
 may develop'), N3 Mark 2:5 'their faith', N4 RJAF hope vs conference, N5 'systemic' vs thesis 
 'systematic', N6 Adams 2020 behind line 83, N8 'none could be confirmed'; copy editor N7 (study 
 naming), N9 (title case).
+
+### 2026-11-18 · copy-editor · copyedit · ch06
+Copy edit (Mode A) of 04-edited/ch06-a-family-house.md (unchanged, md5 45cc17ac8fec) to 
+05-final/ch06-a-family-house.md, log 05-final/ch06-changes.md on the ch05 model. 2 prose 
+changes: line 49 'A study of clergy in Black churches, led by Taylor (2000), describes' (commas 
+so 'led by' attaches to the study; fact check N7) and line 45 'or in collaboration with 
+mental-health professionals' (his thesis words 2311-2312 for 'or working alongside', parallel 
+with 'as part of'). Notes for the editor block moved to the log word for word. Byte-identical 
+by script: H1 (already 'Chapter 6: ...') and 11 headings (closer labels already as ch05), 51 
+comments, 23 [UNVERIFIED] in order, the [AUTHOR STORY NEEDED] slot, 21 quoted spans, 43 
+parentheses; 0 dashes or curly quotes; 'I believe' 11. wc -w comments removed 4,776 -> 4,777. 
+Decisions (style sheet, Book Bible): '3 a.m.' with stops and a figure (Hart's); report titles 
+in quotes with title case, so 'Serving People' stays (N9); studies with five or more authors 
+'led by' the first author, pending Eston; Abdullah and Bhui left inside flags 85 and 84 until 
+he places them. Deliberately not done: no edits inside flags or the slot ('African-Caribbean' 
+line 65 and 'the Preface' in the slot brief noted only), no cut-list row (nothing removed), no 
+open-claims change, chapter not marked final, no commit or push, no Drive, claudeskills 
+untouched. Book Bible v2 row 06 Copy edit done, Final 'flags open'; status line; card. For 
+Eston: 20 questions in ch06-changes.md; 1-4 block the final (23 flags, church story, cut-list 
+rows 1-23, read-aloud).
