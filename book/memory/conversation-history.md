@@ -1880,3 +1880,24 @@ claudeskills untouched, no fact check of the new lines (next), no Drive. Questio
 (ch06-changes 21-27): Sam Sharpe Project or Sam Sharp Project?; 81a-d cut or confirm?; 94-96; 
 rows 3, 5, 7; USA paragraph and 'As in those two countries' for his ear; 'systematic 
 discrimination' has no sentence left (Este 2004 cut): restore as his view?; Bhui title case.
+
+### 2026-11-18 · book-researcher · fact-check-changed-lines · ch06
+Mode B re-check of the lines changed by the author's answers (05-final/ch06-a-family-house.md 
+vs .pre-author.md, comments stripped and diffed), under the CLAUDE.md fact-checking rules. 28 
+rows checked (02-research/ch06-factcheck.md, new section 'Re-check after the author's answers, 
+2026-11-18'). 0 corrections. Acts 2:45 quoted whole: exact KJV in all three copies (GITenberg 
+#10 and both JSON files, same md5s as the first pass). New USA paragraph: sentences 2-3 thesis 
+1548-1555, Lincoln and Mamiya 1990 existence re-confirmed in Open Library (sources.md 64), 
+content not checked; last sentence written as his belief. Line 7 is his own sentence (closest 
+thesis support 1243-1244); line 11 matches thesis 1190-1192 and the 1228 heading; 'As in those 
+two countries' = 1610-1613; 'As elsewhere' = 1622-1624. Grenfell newsletter (82), Bhui 
+title/authors (84; also Crossref, whose record gives the title in sentence case, not title case 
+as the dev log says), CTBI (also thesis 1408-1409), Sam Sharpe Project description, Bishop 
+Tedroy Powell and New Cross (93) recorded as author-confirmed, not independently verified; none 
+flagged or re-asked. 2 flags inserted, nothing reworded: line 69 'Sam Sharpe Project' (thesis 
+1359 and his answer both write 'Sam Sharp Project'; open-claims 97, same as changes-log Q21); 
+line 71 'the pastor as the first door ... comes from churches there' (thesis reports Taylor 
+2000 in its UK section, 1502-1514, and the only US clergy-first sentence was cut by him; 
+open-claims 98). The 7 earlier flags unchanged. Now 9 [UNVERIFIED], 1 [AUTHOR STORY NEEDED]. 
+Updated open-claims 97-98, sources.md 61 and 64 (use notes), Book Bible row 06 and a re-check 
+block, ch06 card. Not committed. Next: copy edit; author to answer 97 and 98 with Q21-27.

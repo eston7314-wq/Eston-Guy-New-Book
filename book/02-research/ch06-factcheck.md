@@ -267,3 +267,82 @@ Under rule 2 no outside finding can be reported. The strongest objections are in
 ## Is the chapter clear?
 
 **No.** 23 `[UNVERIFIED]` remain (open-claims 77-96) and 1 `[AUTHOR STORY NEEDED]`, all for Eston to decide. Every quotation meant as scripture is exact KJV and agrees across three copies, every scripture paraphrase is faithful, and every reference matches its verse. Every thesis sentence matches its cited lines, every callback agrees with the approved chapters, and every forward pointer matches blueprint v2. The 19 earlier flags are unchanged. The four new flags cover writer's additions, not the author's thesis: a descriptor of Roberts, three lay glosses, and one "and" between two church bodies. The copy edit can go ahead around the flags. The build will refuse the chapter in `05-final/` until each flag is resolved by the author.
+
+## Re-check after the author's answers, 2026-11-18
+
+**Mode B, changed lines only.** book-researcher, 2026-11-18, repo Eston-Guy-New-Book, branch claude/gallant-hopper-1ylx0m. Input and output: `book/05-final/ch06-a-family-house.md` (md5 at start 308a38f1a538, matching the dev editor's log; after this pass 40ee7ed6ca92). Compared with `05-final/ch06-a-family-house.pre-author.md` (HTML comments stripped from both, then `diff`: 20 prose lines changed, 109 lines before and after). Read first: memory README order (config; user-profile rows 136-145, the ten 2026-11-18 "Ch06 ..." rows; book and ch06 cards; history; knowledge-notes index; Book Bible row 06 and the "Ch06 author's answers" block); `05-final/ch06-changes.md`, "Author's answers, 2026-11-18"; this file; open-claims 77-96; sources.md 60, 61, 64. Thesis lines read: 1186-1193, 1226-1230, 1239-1250, 1281-1313, 1352-1370, 1398-1412, 1482-1512, 1544-1558, 1599-1625, 1916-1945, 5053-5058; greps for "Bhui", "Lincoln", "Sharp", "intertwine", "New Cross", "Presiding", "newsletter", "acceptable", "first point of contact".
+
+**Rules.** CLAUDE.md fact-checking rules 1-5 (thesis first; outside it existence only via api.crossref.org, api.openalex.org, doi.org, openlibrary.org; never guess). Author-confirmed items (config rule 9) are recorded as author-confirmed, not independently verified, and are neither flagged nor re-asked. The 7 existing flags (81a/81b, 81c, 81d, 94/95, 95 x2, 96) were left as they were: no rule resolves any of them today.
+
+### Lookup services
+
+| Service | Call | Result |
+|---|---|---|
+| raw.githubusercontent.com, GITenberg #10 (KJV) | `10.txt` | 200; 4,452,097 bytes; md5 f14e91c9a490e60941d2dcb81246e904 (same file as the first pass) |
+| raw.githubusercontent.com, thiagobodruk `en_kjv.json` | one call | 200; md5 d0e1e9e04c7b060c466abcb855079865 (same) |
+| raw.githubusercontent.com, scrollmapper `KJV.json` | one call | 200; md5 b674a7836a064f48bc252b0a3ad562f6 (same) |
+| api.crossref.org | `works/10.1192/bjp.2018.148` | 200: "Making a difference: ethnic inequality and severe mental illness"; Kamaldeep Bhui, Kristoffer Halvorsrud, James Nazroo; issued 2018-08-22; *The British Journal of Psychiatry* 213 (4): 574-578 |
+| openlibrary.org | `works/OL21750461W.json`, `books/OL29605339M.json` | 200: *Black Church in the African American Experience*, 1990, Duke University Press (two authors on the work record) |
+| api.openalex.org, doi.org | none | Not needed |
+
+No web search, publisher site or organisation site. Generic User-Agent.
+
+### Sentences checked
+
+| # | Line | Sentence (changed or new) | Checked against | Status | Action |
+|---|---|---|---|---|---|
+| R1 | 3 | A church leader later reported in the newsletter of his neighbourhood church that it was opened at 3 a.m., when the altar candles were lit | Thesis 1400-1402 (the account); the newsletter as its source: author, 2026-11-18 (open-claims 82) | thesis + author-confirmed (source not seen) | None; existing author-confirmed comment kept |
+| R2 | 7 | A supportive church is one of the more acceptable sources of help for someone in need. | The author's own sentence, word for word (user-profile row 144). Closest thesis support: "Supportive religious or faith environments" among the protective factors (1243-1244, under the 1228 heading) | view (author's own sentence) | None |
+| R3 | 11 | Mental health is shaped by many things at once, some that harm it, the risk factors, and some that help it, the protective factors. | Thesis 1190-1191 ("several positive or negative (risk) factors"); 1228 heading "Protective Factors that Affect Mental Health". The naming follows his terms | thesis | None |
+| R4 | 11 | They work at several levels: in the person, the family, the community and the wider society. | Thesis 1191-1192 ("at multiple levels including individual, family, community and society") | thesis | None |
+| R5 | 17 | Join after the WHO cut ("... some may develop a mental-health condition. Nobody should hear ...") | Thesis 1248-1249 (first pass); no new sentence | thesis | None |
+| R6 | 19 | In my thesis I put it this way: churches become places of refuge where knowledge of God's love and community care intertwine to support mental health. | Thesis 1282-1284 ("bolster"); "support" is the author's word (row 144). Not in quotation marks, so a paraphrase of his thesis | thesis (author's wording) | None |
+| R7 | 23 | The next verse goes on, "And sold their possessions and goods, and parted them to all men, as every man had need" (Acts 2:45). | KJV Acts 2:45 read again this session in all three copies: "And sold their possessions and goods, and parted them to all men, as every man had need." Exact, word for word and comma for comma (the thiagobodruk file has its known stray space before the comma) | KJV verified | None |
+| R8 | 27 | The 1 Corinthians 1:12 quotation with its flag removed | Author's decision (open-claims 92); wording unchanged from the first pass, KJV-verified there (row 41) | KJV verified + author decision | None |
+| R9 | 31 | As I read it, that was the faith of the four. | KJV Mark 2:3-5 re-read ("which was borne of four"; "When Jesus saw their faith"); Mark does not say whose faith, and the sentence is framed as his reading | view (reading of a checked text) | None |
+| R10 | 49 | Paragraph now ends on Taylor (2000) after the Abdullah and "Research shows" cuts | No new sentence; Taylor rows 81-82 of the first pass (thesis 1508-1514; sources.md 60) | thesis | None |
+| R11 | 55 | Heading: When disaster comes, the house opens its doors | Thesis 1400-1402 (the church opened at 3 a.m.) | view / address | None |
+| R12 | 57 | ... the clergy and other believers gave emotional and spiritual care, which the church's newsletter called "pastoral first-aid", and it brought comfort to many. | Thesis 1405-1408 ("emotional and spiritual care - "pastoral first-aid"- from the clergy with other faithful brought comfort to many"); quoted span exact; the newsletter attribution author-confirmed (82) | thesis + author-confirmed | None; flag 95 (first-aid gloss) unchanged |
+| R13 | 59 | ... hosted by Churches Together in Britain and Ireland (CTBI) and the Baptist Union of Great Britain ... | Thesis 1408-1410 gives exactly "Churches Together in Britain and Ireland (CTBI)"; author-confirmed (93) | thesis + author-confirmed | None; flag 81d (the webinar's source) unchanged |
+| R14 | 63 | Paragraph now opens "The African diaspora in the UK ..." (D13 sentence and Watson and Sharpe cut) | Thesis 1486-1489 (first pass row 115); no new sentence | thesis | None |
+| R15 | 65 | A study by Bhui, Halvorsrud and Nazroo (2018), "Making a Difference: Ethnic Inequality and Severe Mental Illness", reported that religious engagement ... small prayer meetings. | Finding: thesis 1502-1507 (as the thesis reports it; "has demonstrated" softened to "reported"). Authors, year, title: thesis bibliography 16 (5055-5056) and Crossref (re-queried). Tie between paper and finding: author-confirmed (84); what the paper says is not checked (rule 2). Note: the Crossref record gives the title in sentence case, not title case as the dev log says; the chapter's title case is house style only (question 27) | thesis + existence (Crossref) + author-confirmed | None |
+| R16 | 67 | ... Justin Welby, then Archbishop of Canterbury, and Bishop Tedroy Powell, the African British National Presiding Bishop of the Church of God of Prophecy UK. | Thesis 1939-1942 (presidents; Welby; Powell; "African British"); the title and church name are the author's correction of the thesis's "National Overseer of the Redeemed Church of God of Prophecy in the UK" (93) | thesis + author-confirmed | None; flag 81c (the report) unchanged |
+| R17 | 67 | His church is in New Cross, South East London. | Author-confirmed (93); not in the thesis | author-confirmed | None |
+| R18 | 69 | Its members come from many denominations. | Thesis 1354-1360 | thesis | None |
+| R19 | 69 | Among them are CTBI and the Sam Sharpe Project, which explores and promotes the story and legacy of Sam Sharpe, a former Baptist deacon and Jamaican national hero. | Membership: thesis 1356 ("Church together in Britain and Ireland") and 1359 ("Sam Sharp Project"). Description: author-confirmed (93), used as given. **The project's spelling:** the thesis and his answer both write "Sam Sharp Project"; "Sharpe Project" is the editor's harmonisation, confirmed by neither. An organisation name; no rule-2 service applies | thesis + author-confirmed; **project spelling unverified** | **Flag inserted** after "the Sam Sharpe Project" (open-claims 97); nothing reworded. Same question as changes-log question 21 |
+| R20 | 69 | The Forum reaches Christians through their own clergy and church leaders on matters that may cause stress, anxiety and harm to their mental health. | Thesis 1360-1362 | thesis | None |
+| R21 | 69 | The rest of the moved RJAF and St Paul's paragraph | Byte-identical to the first pass's line 61 (rows 105-112 there); "In the same city" still follows the London conference in the same paragraph; the hope stays with the conference (author, N4) | thesis | None; flag 81a/81b unchanged |
+| R22 | 71 | In the USA, the part that New Testament Christianity plays in African American communities has been studied extensively, and much of what I described earlier in this chapter, the family house with its services and the pastor as the first door, comes from churches there. | First clause: thesis 1546-1548. "The family house with its services ... comes from churches there": thesis 1293-1313 (all African American). "The pastor as the first door ... comes from churches there": **not in the thesis**, which reports Taylor et al. (2000) on the first point of contact in its UK section (1502-1514), names no country for the pastor passages (2294-2337), and whose one US clergy-first sentence (1333-1337) the author has cut. sources.md 60's title names no country; where the study was done is content (rule 2) | thesis (first clause, family house) / **unverified (first door in the USA)** | **Flag inserted** after the sentence (open-claims 98); nothing reworded |
+| R23 | 71 | As I wrote in my thesis, the Black Church has long been a central institution in the lives of African Americans and a source of spiritual guidance. | Thesis 1548-1550 ("historically been a central institution ... providing spiritual guidance") | thesis | None |
+| R24 | 71 | Lincoln and Mamiya (1990) describe the church's part in building resilience and psychological well-being, and argue that it has been a vital source of emotional support, helping people to face the stresses of systemic racism, poverty and social injustice. | Thesis 1551-1555, as the thesis cites it ("fostering" to "building", "navigate" to "face"); the book exists (Open Library, re-queried; sources.md 64); what it says is not checked (rule 2) | thesis + existence (Open Library) | None |
+| R25 | 71 | I believe that for many African Americans the church has been a sanctuary from racism as well as a place of worship. | Written as his belief (config rule 5); echoes his Canadian sentence (1613-1615) and the section heading. For his ear (question 25) | view (author's belief) | None |
+| R26 | 73 | As in those two countries, African Canadian churches often stress the New Testament's themes of hope, redemption and social justice ... | Thesis 1610-1613 ("As in the UK and USA, African Canadian churches often emphasise ...") | thesis | None |
+| R27 | 75 | As elsewhere, how much this support helps people of African heritage depends on how it is put into practice. | Thesis 1622-1624 ("As in the UK and USA, the effectiveness ... is dependent on its implementation"); "elsewhere" is his word (row 144) and reads back to the UK and USA paragraphs | thesis (author's wording) | None |
+| R28 | 77 | Paragraph now ends "... the bonds that hold a community together." (Este 2004 cut) | No new sentence; first-pass rows | thesis | None |
+
+### Corrections made in place
+
+**None.** No changed sentence is contradicted by the thesis or the KJV.
+
+### Flags inserted
+
+| Line | Original | Revision | Why |
+|---|---|---|---|
+| 69 | Among them are CTBI and the Sam Sharpe Project, which explores ... | Among them are CTBI and the Sam Sharpe Project [UNVERIFIED: the thesis (1359) and the author's answer of 2026-11-18 both write Sam Sharp Project; the project's own spelling is not confirmed; open-claims 97], which explores ... | The spelling is neither the thesis's nor the author's; choosing would be a guess |
+| 71 | ... the pastor as the first door, comes from churches there. | ... comes from churches there. [UNVERIFIED: the thesis places the family house and its services in the USA (1293-1313) but reports the pastor as the first point of contact, from Taylor et al. (2000), in its UK section (1508-1511) without saying where that study was done; open-claims 98] | The first pass accepted the D13 sentence as hedged ("Much of"); now that the author has cut the only US clergy-first sentence (80), the first-door half of the claim has nothing under it in the thesis |
+
+Neither flag contains a double quotation mark. Byte check against a copy taken before this pass: only lines 69 and 71 changed, each by the inserted flag alone; 109 lines; comments, quoted spans, scripture references and the 7 earlier flags unchanged.
+
+### Author-confirmed, recorded as such (not independently verified)
+
+Grenfell newsletter as the source of the church leader's account and of "pastoral first-aid" (lines 3, 57; open-claims 82); Bhui, Halvorsrud and Nazroo (2018) as the study behind the line 65 finding (84; authors, year and title also existence-confirmed in Crossref); 1 Corinthians 1:12 (92); "Churches Together in Britain and Ireland (CTBI)" (93; also thesis 1408-1409); the Sam Sharpe Project description (93); Bishop Tedroy Powell, National Presiding Bishop of the Church of God of Prophecy UK, his church in New Cross, South East London (93).
+
+### Counts
+
+28 rows (sentences or joins) checked. Thesis 17 (alone or with an author decision or wording: R3-R6, R10, R14, R18, R20, R21, R23, R26-R28; with author confirmation: R1, R12, R13, R16), plus existence-confirmed 2 (R15 Crossref, R24 Open Library); KJV verified 2 (R7, R8); author-confirmed only 1 (R17); view / author's belief or reading 4 (R2, R9, R11, R25); unverified 2 (R19 project spelling, R22 first door in the USA). Corrections 0. Flags inserted 2, removed 0.
+
+**Flags now in the chapter:** `[UNVERIFIED]` 9 (in text order: 94/95 line 35; 95 line 39; 95 line 57; 81d line 59; 96 and 81c line 67; 97 and 81a/81b line 69; 98 line 71). By type: organisational sources 3 (81a/81b, 81c, 81d); writer's descriptor or glosses 3 (94/95, 95, 95); one body or two 1 (96); name spelling 1 (97); writer's join, first door in the USA 1 (98). `[AUTHOR STORY NEEDED]` 1 (line 41).
+
+### Is the chapter clear?
+
+**No.** 9 `[UNVERIFIED]` and 1 `[AUTHOR STORY NEEDED]`. Every changed sentence in the author's own words or from his thesis checks out, Acts 2:45 is exact KJV, and the new USA paragraph is thesis-supported except for one clause the editor carried over from D13. The two new flags both concern the editors' wording, not the author's. Either can be settled with one word from him: the project's spelling, and whether "the pastor as the first door" stays in the USA sentence. The copy edit can go ahead around the flags.
