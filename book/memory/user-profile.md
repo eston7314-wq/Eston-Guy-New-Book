@@ -132,3 +132,4 @@ infers goes under "Proposed" until the author confirms it.
 | 2026-11-18 | Ch05 approved: "Chapter 05 is approved, sounds like me" (voice check / read-aloud passed) | knowledge-notes/approved-documents.md; context-cards/ch05.md |
 | 2026-11-18 | Ch06: "go on th chapter o6"; work in the claudeskills repo (not Eston-Guy-New-Book), continuing from claude/gifted-planck-rolja3 | Book chapter 06 session; this log |
 | 2026-11-18 | Page format for every chapter's Drive copy: match approved ch04, with a margin on both sides of each page and a uniform space between each heading and the text that follows | knowledge-notes/approved-documents.md |
+| 2026-11-18 | "Take the repo back to Eston-Guy-New Book for all other chapters": the book now lives in eston7314-wq/Eston-Guy-New-Book (branch claude/gallant-hopper-1ylx0m, full history copied from claudeskills at 4949db7). Ch06 continues here too. claudeskills is left as it is | Book chapter 06 session; this log |

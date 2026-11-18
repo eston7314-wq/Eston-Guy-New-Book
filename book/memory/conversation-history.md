@@ -1687,3 +1687,10 @@ download refused twice by the permission system; earlier packs' readings reused;
 2:45 missing), no outside content read, no survey or suicide figures, no commit. OpenAlex 429 
 x5. For the author: the Grenfell source, Bhui, the Canadian citations, 1 Corinthians 1 vs 12, 
 CTBI/Sam Sharpe/church names, CDC page, a church story (acknowledgements story spent in ch00).
+
+### 2026-11-18 · orchestrator · decision · book
+Author: "Take the repo back to Eston-Guy-New Book for all other chapters". Answers: copy the
+whole book over (yes), move ch06 too (yes), leave claudeskills as it is. Pushed the full
+claudeskills history (to 4949db7, ch06 research done) to eston7314-wq/Eston-Guy-New-Book branch
+claude/gallant-hopper-1ylx0m. Its earlier 4-commit history is kept on claude/new-session-bha8b0.
+All chapter work from here, ch06 onward, is in Eston-Guy-New-Book.
