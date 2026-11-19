@@ -1908,3 +1908,29 @@ Author decided the ch06 cut list (rows 1-5, 7, 9 cut; 8, 11-20 changes accepted;
 the RJAF move accepted, "A supportive church ..." kept, and open-claims 96 (FCG and CTE are two
 separate charities, strategic partners). Still open: 81a-d, 94, 95, 98, "systematic
 discrimination" as his own view, Bhui title capitals, the church story, read-aloud.
+
+### 2026-11-19 · copy-editor · author-decisions · ch06
+Applied the author's 2026-11-19 decisions (user-profile, three 'Ch06 ...' rows, read with the 
+2026-11-18 rows) to 05-final/ch06-a-family-house.md in place (md5 40ee7ed6ca92 = HEAD -> 
+f21c48a3f750; no pre-copy in 05-final, as the build glob would take it), then a light copy edit 
+of the changed passages. 5 prose changes: line 5 row 22 restored without 'before anyone was 
+asked to come'; line 13 row 6 reworded, 'and physical disabilities, some of which may also 
+affect a person's mental or emotional development.' (comment 'for the author's ear'; question 
+A); line 67 open-claims 96, 'the Free Churches Group and Churches Together in England, two 
+separate charities working as strategic partners. It recommended ...' (sentence split), flag to 
+author-confirmed comment; line 69 row 10, the Forum's full member list from thesis 1354-1359 
+(CTBI, 'the Sam Sharpe Project', no serial comma) and open-claims 97 flag to author-confirmed 
+comment; line 79 row 23, the three image sentences word for word in place of the D14 sentence 
+(its repeat of 'continued stedfastly' goes; span kept at 23 and in the closer). Line 7 'A 
+supportive church ...' unchanged. Cut list: decision column filled for rows 1-23 (cut 1-5, 7, 
+9; change accepted 8, 11-13, 15-20; 14 reported, confirmed at line 65; 6 reword; 10, 22, 23 
+keep); 35 of 36 decided; row 21 NOT decided (not in his decisions; question B). Flags 9 -> 7 
+[UNVERIFIED] (81a/81b, 81c, 81d, 94/95, 95 x2, 98 untouched), 1 [AUTHOR STORY NEEDED] 
+untouched. 73 earlier comments byte-identical, 6 added; 0 dashes or curly quotes. wc -w 
+comments removed 4,292 -> 4,320 (main 3,848, closer 472; without flag text 4,160). Decisions: 
+acronym after first full use (CTBI in the list); 'Sam Sharpe Project'; FCG and CTE two separate 
+charities (style sheet, Book Bible). Updated open-claims 96, 97; changes-log section 'Author's 
+decisions, 2026-11-19' with consolidated open questions A-I (replacing 1-27); Book Bible v2 row 
+06 Final 'flags open' and a block; card. Not done: no commit or push; not marked final; 
+claudeskills untouched; no Drive. Note: 04-edited/ch06-a-family-house.pre-author.md matches the 
+build glob and carries flags. For Eston: A-I, the church story, read-aloud.
