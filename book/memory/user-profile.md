@@ -151,3 +151,4 @@ infers goes under "Proposed" until the author confirms it.
 | 2026-11-19 | Ch06 open-claims 81a-d: cut the Forum and St Paul's web pages, the Churches Together in England report and the 2020 webinar as sources | 05-final/ch06-changes.md |
 | 2026-11-19 | Ch06: row 6 rewording ("physical disabilities, some of which may also affect a person's mental or emotional development") is right; row 21: use a one-sentence mention of the Preface story | 05-final/ch06-changes.md |
 | 2026-11-19 | Ch06 open-claims 94: cut the name Roberts; say "a theologian named the idea"; his church story will follow | 05-final/ch06-changes.md |
+| 2026-11-19 | Ch06 open-claims 95: cut the ecclesiology explanation; keep the latchkey and first-aid explanations; keep the book's usual (title-case) capitals in the titles of Bhui's paper and the Churches Together in England report | 05-final/ch06-changes.md; style-sheet.md |

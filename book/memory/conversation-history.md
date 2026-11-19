@@ -1940,3 +1940,27 @@ Author: "systemic discrimination", back as his own view; cut the USA "first door
 cut the Forum/St Paul's web pages, CTE report and webinar as sources (81a-d); row 6 rewording
 right; row 21 one-sentence mention; cut the name Roberts, "a theologian named the idea" (94);
 story to follow. Still open: 95 (three glosses), Bhui/CTE title capitals, story, read-aloud.
+
+### 2026-11-19 · copy-editor · author-answers · ch06
+Applied the author's second set of 2026-11-19 answers (user-profile, five newest 'Ch06 ...' 
+rows) and a third set relayed by the orchestrator mid-run (95a cut, 95b-c kept, titles in house 
+title case) to 05-final/ch06-a-family-house.md in place (md5 f21c48a3f750 = 9db6ed8 -> 
+c61e2cae1e6b; the orchestrator's WIP commit 4a08b7e holds a part-way copy; no backup in 
+05-final). Changes: row 35 restored at line 79 as his view, 'In my view, such reflections on 
+faith help people to face the challenges of multiculturalism and systemic discrimination in 
+Canada.' (no Este; 'In my view' as the sentence before has 'I believe'); 98 'and the pastor as 
+the first door' cut (73); 81d webinar paragraph cut whole (61) and the closer's 'how long the 
+need for follow-up care can last' (95); 81c the report's five sentences, 'His church is in New 
+Cross' and 'England's' lead cut, lead now thesis 1926-1927 'Christians go on building that kind 
+of community in new ways.' (69); 81a-b flag removed, Forum and St Paul's paragraph kept as the 
+thesis's account (asked), CTBI spelt out (71); 94 'A theologian named the idea.' and 'As I read 
+that line,' (35), book title kept; 95a ecclesiology gloss cut; 95b-c flags to author-confirmed 
+comments; row 6 approval recorded; row 21 one sentence at 41, 'I told in the preface of a 
+school year when people pulled together: my Year 11 group in 2004, under T. Hartney's 
+leadership, with the students' cooperation, the support of fellow teachers and my many 
+conversations with parents.' Flags 7 -> 0 [UNVERIFIED]; 1 [AUTHOR STORY NEEDED] untouched. Cut 
+list 45 rows (37-45 new), all decided. wc -w 4,320 -> 3,994. Decisions: titles in house title 
+case; acronym only if used again; unnamed cited author. Updated open-claims 81, 94, 95, 98; 
+sources.md 62; style sheet; Book Bible (decisions, v2 row 06, block); card. Not done: 
+user-profile (orchestrator's), commit or push, final. Lost: the chapter's pointer to ch08. For 
+Eston: the church story and the read-aloud only.
