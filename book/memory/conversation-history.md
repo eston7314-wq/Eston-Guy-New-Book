@@ -1970,3 +1970,29 @@ Author supplied his ch06 church story (Caribbean house fire; London Pentecostal 
 raised £5,300 in two weeks; temporary house in three weeks; harvest festival; permanent home in
 eleven months). Saved verbatim to book/source/author-stories/ch06-church-family-caribbean-fire-2026-11-19.md.
 No tidy permission given: insert his words as given, propose any fixes as questions.
+
+### 2026-11-19 · copy-editor · author-story · ch06
+Inserted the author's church story 
+(book/source/author-stories/ch06-church-family-caribbean-fire-2026-11-19.md, his testimony, 
+rule 3: not fact-checked or flagged) into 05-final/ch06-a-family-house.md in place (md5 
+c61e2cae1e6b = HEAD e7414bd -> cd260d406347; no backup in 05-final). The [AUTHOR STORY NEEDED] 
+slot and its two notes (line 43; kept byte for byte in the change log) became one source 
+comment (43) and his seven paragraphs (44-56), just after the preface callback and before the 
+pastor H2. NO tidy permission (ch04's was one-time): label 'My church story:' dropped; 8 double 
+spaces collapsed; 'house,,' to 'house,'; numbers left in words; every other word as given 
+(script-checked, same words in order). One editor's joining sentence for his ear, appended to 
+the callback paragraph (line 41) so his paragraphs stay his: 'A church family can pull together 
+in the same way.' Island, churches and people unnamed. 20 suggested wording fixes put to him as 
+questions in 05-final/ch06-changes.md 'Author's story, 2026-11-19' (on a small island; their 
+three children; pastor lower case; total was raised; three-bedroom; aside comma; in one corner; 
+funds were; comma; specialists; meaning of 'only for materials' vs 'reduced costs'; such a 
+level; comma before was due; which church held the festival; raised funds; two commas; 
+family/families; community's or communities'; within ... of), none applied. Line 82 'Christians 
+go on building ...' / 'This approach' join untouched (waits on the report-paragraph answer). 
+Flags 1 -> 0; wc -w 3,994 -> 4,331 (main 3,869, closer 462); comments 90; 0 dashes or curly 
+quotes. Decisions (style sheet, Book Bible): untidied author's stories printed as given, 
+mechanical fixes only, house style suspended inside them until he answers. Updated change-log 
+status line, Book Bible (decision, v2 row 06 Final 'flags open', block), ch06 card (story in 
+Owns), authors-voice note. Not done: no commit or push; not marked final; claudeskills 
+untouched; no Drive; user-profile not touched. For Eston: questions 1-20, the joining sentence, 
+line 82, read-aloud.

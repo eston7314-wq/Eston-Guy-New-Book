@@ -50,3 +50,9 @@ Stub. State the source and date of anything you add. Undated entries are untrust
 - Names institutions and dates in full, with honorifics ("the Most Revd and Rt. Hon. Justin Welby"; "8th September, 2020"); the draft keeps names and dates, drops honorifics (cut-list row 17).
 - Reports studies with strong verbs ("has demonstrated", "lead to", "thus reducing"); the draft softens to "reported", "associated", or his belief, each on the cut list.
 - His most quotable lines here are images of shelter: "places of refuge where knowledge of God's love and community care intertwine" (1282-1284), "a 'family house,' a symbol of unity and identity" (1297-1298), "a sanctuary where believers can find solace from the racial challenges" (1613-1615), "an anchor, a shield, a sanctuary" (4885). Kept nearly verbatim.
+
+## Observed in the ch06 church story (copy-editor, 2026-11-19; book/source/author-stories/ch06-church-family-caribbean-fire-2026-11-19.md)
+
+- Reports a community's help step by step in plain, dated sequence ("within three weeks", "over two weeks", "within eleven months"), with sums written out in words ("five thousand and three hundred pounds").
+- Ends on a belief credo, as in ch02 and ch05: "I believe that ... the communities readiness to give in Jesus's name, helped them ...". Keep it last; add nothing after it.
+- Typing habits: commas before a second verb or a closing phrase ("liaised, and helped"; "free labour, over the three weeks"), double spaces, a capital for a role ("Pentecostal Pastor"). No tidy permission for this story: printed as given, fixes asked as questions (ch06-changes, "Author's story, 2026-11-19").

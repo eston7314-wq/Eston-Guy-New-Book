@@ -108,3 +108,8 @@ Started 2026-11-11 by copy-editor at ch00. Each line gives its source.
 - Music genres lowercase and open as nouns: gospel, blues, jazz, soul, calypso, reggae, soca, hip hop, rock and roll; "rhythm and blues" at first use, R&B after. work-songs (Book Bible key term) (ch02).
 - Place names in the author's stories (author 2026-11-17): "Port of Spain" (no hyphens); "Tranquility Boys Secondary School" (his spelling).
 - "diaspora" is lower case everywhere, with no exception (author 2026-11-18: "spell 'diaspora' with a lower case 'd' here and elsewhere").
+
+## Author's stories
+
+- **A story given with no tidy permission is printed as he gave it** (his standing rule; the ch04 permission of 2026-11-17 was "on this occasion, only"): his words, word order, grammar and paragraphs. The editor may only make mechanical fixes that change no word (double spaces; doubled punctuation such as ",,"), drop a label he typed ("My church story:") and add one joining sentence of the editor's, marked in a comment for his ear. Every other fix, house style included, is a numbered question with original and suggestion, not applied (copy-editor 2026-11-19, ch06 church story; 05-final/ch06-changes.md, "Author's story, 2026-11-19").
+- House style is suspended inside such a story until he answers: ch06 keeps "Pentecostal Pastor" (capital) and "three bedroom" (no hyphen) for now. The capitalisation and hyphenation rules above still govern all other prose. Numbers stay in words as he wrote them ("five thousand and three hundred pounds"; see the author exception under Numbers).
