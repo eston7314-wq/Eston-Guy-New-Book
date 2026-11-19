@@ -2024,3 +2024,8 @@ permission)', status line updated. Decisions in style sheet and Book Bible (smoo
 rule; money in words in his stories; ch06 anonymity; suspension ended); Book Bible v2 row 06 
 and block; card; authors-voice note. Not done: commit, push, final, Drive, user-profile, 
 claudeskills. For Eston: read-aloud, the four readings, joining sentence, line 82.
+
+### 2026-11-19 · orchestrator · author-answers · ch06
+Author accepted the smoothed church story in full (readings and joining sentence included) and
+asked to bring back the Churches Together in England report paragraph and the Bishop Powell lines.
+Next: copy-editor restores them from the thesis; then his read-aloud and approval.
