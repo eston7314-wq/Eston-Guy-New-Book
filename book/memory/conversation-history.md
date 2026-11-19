@@ -1934,3 +1934,9 @@ decisions, 2026-11-19' with consolidated open questions A-I (replacing 1-27); Bo
 06 Final 'flags open' and a block; card. Not done: no commit or push; not marked final; 
 claudeskills untouched; no Drive. Note: 04-edited/ch06-a-family-house.pre-author.md matches the 
 build glob and carries flags. For Eston: A-I, the church story, read-aloud.
+
+### 2026-11-19 · orchestrator · author-answers · ch06 (second set)
+Author: "systemic discrimination", back as his own view; cut the USA "first door" clause (98);
+cut the Forum/St Paul's web pages, CTE report and webinar as sources (81a-d); row 6 rewording
+right; row 21 one-sentence mention; cut the name Roberts, "a theologian named the idea" (94);
+story to follow. Still open: 95 (three glosses), Bhui/CTE title capitals, story, read-aloud.
