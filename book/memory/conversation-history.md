@@ -2029,3 +2029,26 @@ claudeskills. For Eston: read-aloud, the four readings, joining sentence, line 8
 Author accepted the smoothed church story in full (readings and joining sentence included) and
 asked to bring back the Churches Together in England report paragraph and the Bishop Powell lines.
 Next: copy-editor restores them from the thesis; then his read-aloud and approval.
+
+### 2026-11-19 · copy-editor · report-restore · ch06
+Restored, at the author's request ('Bring back the Churches Together in England report 
+paragraph and the Bishop Powell lines'), the CTE report paragraph and Bishop Powell lines in 
+05-final/ch06-a-family-house.md, line 82 only (md5 8031712311f2 = HEAD aaf48f5 -> 45714362ef05; 
+no backup in 05-final). From 9db6ed8 line 67, word for word: lead 'England's churches are 
+finding new ways to build that kind of community.' (row 41) in place of 'Christians go on 
+building ...'; the report's title and date, 18-month project, Free Churches Group and Churches 
+Together in England 'two separate charities working as strategic partners' (author 96), 
+recommendation, welcome by Justin Welby 'then Archbishop of Canterbury' (row 17) and Bishop 
+Tedroy Powell, National Presiding Bishop of the Church of God of Prophecy UK (row 39); 'His 
+church is in New Cross, South East London.' (row 40, author 93). As the thesis's account 
+(1926-1948), not the report as a source: 81c flag NOT restored, open-claims 81 unchanged. Join: 
+'This approach' -> 'The project's approach' (New Cross sentence stood between; thesis 
+1943-1945), for his ear. Comments 96 and 93 back in their 9db6ed8 places; one new decision 
+comment; 81c cut comment and thesis note kept as history. CTBI unaffected (still once, spelt 
+out, line 84). Story (accepted in full) and line 41 untouched. Cut list rows 39-41 restored, 
+17-18 change accepted, footer. Flags 0; wc -w 4,323 -> 4,449 (main 3,987, closer 462); 0 dashes 
+or curly quotes. Log: ch06-changes 'Report paragraph restored, 2026-11-19', status line 
+(remaining: read-aloud and approval only). Decisions (style sheet, Book Bible): thesis-account 
+paragraphs unflagged when the outside work is cut as a source; name the antecedent of a 
+displaced 'This'. Book Bible v2 row 06 and block; ch06 card. Not done: commit, push, final, 
+Drive, user-profile, claudeskills. For Eston: read-aloud and approval.

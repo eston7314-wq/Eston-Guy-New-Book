@@ -25,6 +25,7 @@ Started 2026-11-11 by copy-editor at ch00. Each line gives its source.
 - An organisation's acronym: spell the name out once with the acronym in parentheses, "Churches Together in Britain and Ireland (CTBI)", then use the acronym alone, also inside a list of full names ("the Baptist Union of Great Britain, CTBI, the Salvation Army") (Hart's Rules, abbreviations; copy-editor 2026-11-19, ch06 lines 59 and 69). An acronym is introduced only if it is used again: a name that appears once is spelt out without it ("Churches Together in Britain and Ireland", ch06 line 71, after the webinar sentence was cut; copy-editor 2026-11-19, second set).
 - "the USA" and "the UK" take the article as nouns in narration, also inside a list: "in Britain, the USA and Canada". Bare forms only in labels and data shorthand ("UK 20, USA 16") (ch01, 2026-11-13). In a country list that also names Canada, write "the USA", not "America" (which can read as the continent); "America" stays where it stands alone (ch02).
 - Titles and contractions have no full stops in narration: Dr, Jr, St, Mr, Mrs (the Reverend Dr Martin Luther King Jr; St Thomas; St George's Methodist Church). Quotations keep theirs (ch01). St has no full stop in place and institution names either: St Augustine Campus, St Mary's College (ch04 story, 2026-11-17).
+- A "This" that follows a restored or inserted sentence must point to the nearest fitting noun; where a sentence now stands between, name the antecedent rather than move his sentences: "The project's approach, as I wrote in my thesis, ..." (thesis 1943-1945 "This project exemplifies ... This approach"; copy-editor 2026-11-19, ch06 line 82).
 
 ## Capitalisation
 
@@ -92,6 +93,7 @@ Started 2026-11-11 by copy-editor at ch00. Each line gives its source.
 - The Free Churches Group and Churches Together in England are two separate charities working as strategic partners (author 2026-11-19, ch06 line 67): never one body, or one as part of the other.
 - A cited book whose author the author asked not to name is cited by title and year, the person described as he gives it: "A theologian named the idea. In *Black Theology in Dialogue* (1987) he wrote ..." (author 2026-11-19, ch06; do not restore the name Roberts without him).
 - Samaritans (no "the" before it in the help-line note); 988 Suicide & Crisis Lifeline; 9-8-8 Suicide Crisis Helpline.
+- A paragraph that rests on the thesis is printed as the thesis's account, without a flag, even where the outside work it describes was cut as a source: the prose names the work as the thesis does ("A report called "The Church and Social Cohesion: Connecting Communities and Serving People", published on 26 November 2020, ..."), and the decision that the work is not a source stands. Later chapters may describe that report as the thesis does but do not cite it as independently checked (author 2026-11-19, "Bring back the Churches Together in England report paragraph and the Bishop Powell lines"; precedent ch06 line 84; copy-editor 2026-11-19, ch06 line 82).
 
 ## Terms and hyphenation
 
