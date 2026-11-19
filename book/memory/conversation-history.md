@@ -1964,3 +1964,9 @@ case; acronym only if used again; unnamed cited author. Updated open-claims 81, 
 sources.md 62; style sheet; Book Bible (decisions, v2 row 06, block); card. Not done: 
 user-profile (orchestrator's), commit or push, final. Lost: the chapter's pointer to ch08. For 
 Eston: the church story and the read-aloud only.
+
+### 2026-11-19 · orchestrator · author-story · ch06
+Author supplied his ch06 church story (Caribbean house fire; London Pentecostal congregation
+raised £5,300 in two weeks; temporary house in three weeks; harvest festival; permanent home in
+eleven months). Saved verbatim to book/source/author-stories/ch06-church-family-caribbean-fire-2026-11-19.md.
+No tidy permission given: insert his words as given, propose any fixes as questions.
