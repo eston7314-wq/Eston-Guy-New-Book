@@ -1996,3 +1996,8 @@ status line, Book Bible (decision, v2 row 06 Final 'flags open', block), ch06 ca
 Owns), authors-voice note. Not done: no commit or push; not marked final; claudeskills 
 untouched; no Drive; user-profile not touched. For Eston: questions 1-20, the joining sentence, 
 line 82, read-aloud.
+
+### 2026-11-19 · orchestrator · decision · ch06
+Author: one-time permission to smooth any phrase or clause of his ch06 church story to fit the
+chapter; the story stays anonymous (no island, church, village or person names; the people did
+not explicitly permit it to be told). Recorded in user-profile and the saved story file.

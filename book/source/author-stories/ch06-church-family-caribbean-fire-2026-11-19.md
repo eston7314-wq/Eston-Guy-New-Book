@@ -1,8 +1,9 @@
 # Author's story for ch06, story slot ("a time your church family carried you or someone you know")
 
 Given by Eston T. B. Guy in conversation, 2026-11-19, verbatim (including his typing; only the
-line breaks between his paragraphs are normalised). No permission to tidy has been given for this
-story: his words stay as given unless he approves each change.
+line breaks between his paragraphs are normalised). UPDATE 2026-11-19: ONE-TIME permission given: "on this occasion, you may smooth any phrase or clause in my
+story to make it fit neatly into the chapter." Anonymity: "No church nor Island names are given to make my story
+as anonymous as possible, since the persons involved did not explicitly permit me to tell their story."
 Author's testimony (CLAUDE.md fact-checking rule 3): not fact-checked, not flagged.
 
 ---
