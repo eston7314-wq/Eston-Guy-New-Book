@@ -1901,3 +1901,10 @@ line 71 'the pastor as the first door ... comes from churches there' (thesis rep
 open-claims 98). The 7 earlier flags unchanged. Now 9 [UNVERIFIED], 1 [AUTHOR STORY NEEDED]. 
 Updated open-claims 97-98, sources.md 61 and 64 (use notes), Book Bible row 06 and a re-check 
 block, ch06 card. Not committed. Next: copy edit; author to answer 97 and 98 with Q21-27.
+
+### 2026-11-19 · orchestrator · author-answers · ch06
+Author decided the ch06 cut list (rows 1-5, 7, 9 cut; 8, 11-20 changes accepted; 14 "reported";
+6 reword; 22-23 writer's lines restored as accepted), "Sam Sharpe", Forum member names kept,
+the RJAF move accepted, "A supportive church ..." kept, and open-claims 96 (FCG and CTE are two
+separate charities, strategic partners). Still open: 81a-d, 94, 95, 98, "systematic
+discrimination" as his own view, Bhui title capitals, the church story, read-aloud.
