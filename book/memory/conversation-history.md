@@ -2001,3 +2001,26 @@ line 82, read-aloud.
 Author: one-time permission to smooth any phrase or clause of his ch06 church story to fit the
 chapter; the story stays anonymous (no island, church, village or person names; the people did
 not explicitly permit it to be told). Recorded in user-profile and the saved story file.
+
+### 2026-11-19 · copy-editor · story-smooth · ch06
+Smoothed the author's church story in 05-final/ch06-a-family-house.md (lines 43-56 only; md5 
+cd260d406347 = HEAD 777f6f4 -> 8031712311f2; no backup in 05-final) under his ONE-TIME 
+permission ('on this occasion, you may smooth any phrase or clause in my story to make it fit 
+neatly into the chapter'), recorded as one-time in the comment above the story (line 43) with 
+his anonymity rule. Model: ch04 story tidy. Suggested fixes 1, 3, 4, 6, 7, 9, 10, 11, 13, 14, 
+16, 17, 19 applied, optional 2, 8, 20 applied, 5 kept in words; plus plainer phrases ('a close 
+friend of ours', 'housed', 'the pastor of her local Pentecostal church in London', 'In the 
+local currency, that came to', 'built', 'pay for its construction', 'members of both churches', 
+'the people who handled the administration', 'move into', 'the old one'). Readings for his ear: 
+Q12 'Some specialists did their work at reduced cost, charging only for materials.'; Q15 'the 
+Pentecostal church in the village'; Q18 'the family'; Q19 'the communities'' (plural, his 
+spelling; London and the village). Every fact kept (checklist in the log), nothing added; sums 
+in words both currencies ('five thousand three hundred pounds', 'forty-five thousand four 
+hundred and eighty dollars'; author exception). Anonymity checked in chapter, log and card: no 
+names or identifying detail. Joining sentence (line 41) reviewed, kept unchanged; line 82 join 
+untouched. Flags 0; wc -w 4,331 -> 4,323 (main 3,861, closer 462; story 361 -> 353); 0 dashes, 
+curly quotes or serial commas. Log: ch06-changes 'Author's story smoothed, 2026-11-19 (one-time 
+permission)', status line updated. Decisions in style sheet and Book Bible (smoothed-story 
+rule; money in words in his stories; ch06 anonymity; suspension ended); Book Bible v2 row 06 
+and block; card; authors-voice note. Not done: commit, push, final, Drive, user-profile, 
+claudeskills. For Eston: read-aloud, the four readings, joining sentence, line 82.
