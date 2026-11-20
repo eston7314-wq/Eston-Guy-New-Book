@@ -496,3 +496,15 @@ Read aloud in place. British spelling; straight quotes; 0 dashes; no serial comm
 - HTML comments 91 (one added). Lines 124. 0 dashes, 0 curly quotes.
 
 **What Eston must do to make ch06 final:** read the whole chapter aloud, the restored report paragraph (line 82) and the smoothed story included, and approve it. Listen especially to "The project's approach, as I wrote in my thesis, ...".
+
+
+## Author's wording, church story, 2026-11-20
+
+The author: "In my church story, remove the name Pentecostal and say 'local church in London' and "festival that the village church promoted ..."". Applied by the orchestrator, his words exactly; nothing else changed.
+
+| Line | Before | After | Reason |
+|---|---|---|---|
+| 46 | "the pastor of her local Pentecostal church in London" | "the pastor of her local church in London" | Author, 2026-11-20 (anonymity) |
+| 52 | "an annual harvest festival that the Pentecostal church in the village promoted and managed" | "an annual harvest festival that the village church promoted and managed" | Author, 2026-11-20 (anonymity) |
+
+"Pentecostal" at lines 78 and 88 describes denominations in general, not the story, and is unchanged.

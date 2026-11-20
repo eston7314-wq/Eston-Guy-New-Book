@@ -2052,3 +2052,9 @@ or curly quotes. Log: ch06-changes 'Report paragraph restored, 2026-11-19', stat
 paragraphs unflagged when the outside work is cut as a source; name the antecedent of a 
 displaced 'This'. Book Bible v2 row 06 and block; ch06 card. Not done: commit, push, final, 
 Drive, user-profile, claudeskills. For Eston: read-aloud and approval.
+
+### 2026-11-20 · orchestrator · author-wording · ch06
+Author removed "Pentecostal" from his church story: "the pastor of her local church in London"
+(line 46) and "an annual harvest festival that the village church promoted and managed" (line 52).
+Applied by the orchestrator as his exact words; logged in 05-final/ch06-changes.md. Next: read-aloud
+approval, then final and Drive.
