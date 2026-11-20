@@ -5,4 +5,4 @@ states its source and date. Add a row when you add a note.
 
 | Note | What it holds | Added |
 |---|---|---|
-| (none yet) | | |
+| [drive-folders.md](drive-folders.md) | Google Drive folder IDs, what belongs in each folder, and the standing rule for filing approved and superseded versions | 2026-11-20 |
