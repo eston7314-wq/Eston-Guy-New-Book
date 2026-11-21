@@ -2130,3 +2130,31 @@ unstated preference ('the sentence I most want church leaders to hear') was cut 
 landing quotation. Word count now 3,867 with flags (main 3,411, closer 456; about 3,215 without 
 flag text). Flags, cut list and everything else unchanged; Book Bible cell, card and draft 
 notes carry the new count.
+
+### 2026-11-21 · story-injector · story · ch07
+Story pass (Mode A) on 03-drafts/ch07-when-faith-becomes-a-burden.md in place, ch03-ch06 rule 
+(nothing cut). Pre-pass copy ch07-when-faith-becomes-a-burden.pre-story.md (cmp identical, 
+sha256 63d1ea19...15fc); log and rejected options in 02-research/ch07-stories.md. Three 
+changes: (1) opening sentence 1 new, direct address ('Perhaps you know the moment after a 
+service when someone on the way out asks how you are, and you say "fine", because the true 
+answer would feel like a confession'), old sentences 1-2 joined by a colon; chapter question 
+now at sentence 4, answering ch06 line 91; (2) section 3, new paragraph before the stigma 
+definition: the blind man's parents silent for fear of being put out of the synagogue and the 
+son told 'Thou wast altogether born in sins' and cast out, then found by Jesus (John 9:20-22, 
+9:34-35); 'Stigma is the name for what happens next' reworded 'for that fear'; narration says 
+'the authorities' for the KJV's 'the Jews' (for his ear); (3) section 4, new paragraph after 
+'In extreme cases ... weak faith': the boy's father, 'Lord, I believe; help thou mine unbelief' 
+(Mark 9:18, 9:22-25); 9:23 paraphrased and the healing untold (ch04 guard), 9:25 told as 
+'turning to the boy' (rule 5). 0 composites, 0 new hypotheticals; no person, case, statistic, 
+quotation or author experience invented; pack has no real case. Rejected: the ch00 hypothetical 
+woman (Book Bible: ch07 must not reuse it), a new hypothetical, John 9:2 as opening, Luke 
+13:16, 1 John 4:18, Matthew 9:12, Eli, any scene in the flagged turn. Script checks vs 
+pre-pass: flags byte-identical and in order (prose 17 UNVERIFIED, 4 AUTHOR TO CONFIRM, 1 AUTHOR 
+STORY NEEDED); 27 comments kept, 3 added; 9 new spans, all KJV exact in the GITenberg mirror of 
+#10 (md5 f14e91c9, downloaded 2026-11-21); 1 dash (his quotation, existing), 0 curly quotes, no 
+sentence-initial But in our prose. wc -w main 3,412 -> 3,795 (+11.2%), closer 456, whole 4,251, 
+about 3,589 without flag text (budget 4,400). Cut list unchanged (16 undecided, none added). 
+Book Bible v2 row 07 Story pass cell and a 'Ch07 story pass' block; ch07 card. Not done: commit 
+or push; no survey figure, house-fire or preface-story callback; story slot untouched. For 
+Eston: John 9 and Mark 9:24 welcome?; 'the authorities' or 'the Pharisees'; the writer's 
+sentences listed in ch07-stories.md; pack questions 1-11; the story.
