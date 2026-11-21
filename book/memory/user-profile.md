@@ -10,6 +10,7 @@ infers goes under "Proposed" until the author confirms it.
 - Working style with AI: [e.g. wants pushback, not validation; direct and concise]
 - Spelling and punctuation: British (proposed, awaiting confirmation)
 - Pronouns: he/him (author, 2026-11-10)
+- Never begin a sentence with "But"; use "On the contrary," instead (author, 2026-11-21, applies to every chapter). Scope as applied by the copy-editor: the book's own prose; KJV and other quotations stay word for word.
 
 ## Voice (observed in the author's drafts)
 
@@ -157,3 +158,4 @@ infers goes under "Proposed" until the author confirms it.
 | 2026-11-19 | Ch06: "The smothered [smoothed] story is fully acceptable" (the smoothed story, its four readings: specialists at reduced cost charging only for materials, the village Pentecostal church, "the family", "the communities'", and the joining sentence "A church family can pull together in the same way." all accepted) | 05-final/ch06-changes.md |
 | 2026-11-19 | Ch06: "Bring back the Churches Together in England report paragraph and the Bishop Powell lines" (cut-list rows 39, 40 and 41 restored; they rest on the thesis, 1927-1948, with his confirmed details: Free Churches Group and CTE two separate charities working as strategic partners; Bishop Tedroy Powell, New Cross, South East London) | 05-final/ch06-changes.md |
 | 2026-11-20 | Ch06 church story: remove the name "Pentecostal"; say "local church in London" and "festival that the village church promoted ..." (no denomination is named for either church in the story) | 05-final/ch06-changes.md |
+| 2026-11-21 | Ch06 final edits: church story re-paragraphed to match the earlier chapters; heading "The pastor and other church leaders are often the first door people knock on"; report "sets out the findings"; standing rule: never begin a sentence with "But", use "On the contrary," instead (applies to every chapter) | 05-final/ch06-changes.md; book-bible.md; style-sheet.md |

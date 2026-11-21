@@ -27,6 +27,8 @@ Started 2026-11-11 by copy-editor at ch00. Each line gives its source.
 - Titles and contractions have no full stops in narration: Dr, Jr, St, Mr, Mrs (the Reverend Dr Martin Luther King Jr; St Thomas; St George's Methodist Church). Quotations keep theirs (ch01). St has no full stop in place and institution names either: St Augustine Campus, St Mary's College (ch04 story, 2026-11-17).
 - A "This" that follows a restored or inserted sentence must point to the nearest fitting noun; where a sentence now stands between, name the antecedent rather than move his sentences: "The project's approach, as I wrote in my thesis, ..." (thesis 1943-1945 "This project exemplifies ... This approach"; copy-editor 2026-11-19, ch06 line 82).
 
+- No sentence of the book's own prose begins with "But"; write "On the contrary," and lower-case the next word unless it is a proper noun (author, 2026-11-21, every chapter; ch06 line 89). Scripture and other quotations keep their own "But" (KJV rule).
+
 ## Capitalisation
 
 - Headings: H1 chapter titles in title case, preceded by "Chapter N: " with the number in figures, e.g. "Chapter 1: A Faith Handed Down in Chains" (author decision 2026-11-16; applies to every numbered chapter, 1-11; the Preface and the Afterword keep their own labels). H2 and H3 in sentence case. Closer labels are fixed: Reflection and practice; For church leaders; For families; For clinicians; Questions for small groups.

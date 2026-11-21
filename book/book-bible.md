@@ -17,6 +17,7 @@ repeat it.
 - **Humanizer rules apply to every chapter** (author, 2026-11-10): read `.claude/skills/humanizer/SKILL.md` before writing or editing. No not-X-but-Y contrasts, one-line closers, staged openers, forced triads, dashes everywhere, inflated claims, sales language, stock AI words, bold labels or filler.
 - The author writes as one of the community (author, 2026-11-10): "we", "us" and "our ancestors" for people of African heritage are allowed and welcome.
 - Reader is addressed as "you". Author is "I" (or "we" if config says so).
+- **Never begin a sentence with "But"; use "On the contrary," instead** (author, 2026-11-21, applies to every chapter). Applies to the book's own prose, after any full stop, colon, quotation mark, list marker or heading; scripture and other quotations stay word for word (KJV rule). The approved finals have it only inside KJV quotations (ch03 lines 13, 39, 49, 59, 67, 73; ch05 line 29), left as they are.
 
 ### Consistency decisions (copy editor appends; later chapters follow)
 
@@ -963,3 +964,11 @@ File: `book/05-final/ch06-a-family-house.md` (in place; log `book/05-final/ch06-
 - **Author-confirmed, not independently verified (config rule 9):** the charities' relationship (96); Bishop Powell's title, church and New Cross (93).
 - **Accepted by the author (2026-11-19):** the smoothed church story in full, its four readings, and the joining sentence "A church family can pull together in the same way." (line 41).
 - **Still open:** his read-aloud of the whole chapter and his approval. Listen for "The project's approach, as I wrote in my thesis, ...".
+
+### Ch06 author's final edits (copy-editor, 2026-11-21)
+
+- **Church story** (05-final lines 43-49): his seven short paragraphs regrouped into four (72, 76, 109, 92 words), one per stage: the fire and first help; the London appeal; the temporary house and the harvest festival; the two churches to the permanent home, closing on his "I believe" sentence. Every word kept in order; nothing added; still anonymous, no denomination. Model for his narrative passages: paragraphs of about 45-120 words, two to six sentences, no one-sentence closing paragraph (ch04 lines 48-56; preface lines 13-23).
+- **Section 3 heading** now "The pastor and other church leaders are often the first door people knock on" (supersedes the dev-edit heading list above). Body unchanged.
+- **Line 75:** the report "sets out the findings" (present tense, his choice).
+- **Line 89:** "On the contrary, social isolation is on the list ..." (was "But"); standing rule above.
+- Words 4,451 (comments removed); flags 0; approval being recorded by the orchestrator.
