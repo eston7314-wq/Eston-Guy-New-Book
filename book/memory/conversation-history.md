@@ -2058,3 +2058,19 @@ Author removed "Pentecostal" from his church story: "the pastor of her local chu
 (line 46) and "an annual harvest festival that the village church promoted and managed" (line 52).
 Applied by the orchestrator as his exact words; logged in 05-final/ch06-changes.md. Next: read-aloud
 approval, then final and Drive.
+
+### 2026-11-21 · copy-editor · final-edits · ch06
+Author's final edits of 2026-11-21 applied in place to 05-final/ch06-a-family-house.md, nothing 
+else changed: (1) church story regrouped from seven short paragraphs into four (72, 76, 109, 92 
+words; model ch04 lines 48-56 and preface 13-23), every word in his order, no joining words 
+added; the story's comment moved from its own line to the end of the story's first paragraph, 
+removing the stray double break; (2) section 3 heading now 'The pastor and other church leaders 
+are often the first door people knock on', body unchanged (lines 57 and 61 checked, no 
+contradiction); (3) line 75 'sets out the findings'; (4) line 89 'But social isolation' -> 'On 
+the contrary, social isolation' (only sentence-initial But in the chapter). Standing rule 
+recorded in user-profile (Confirmed and Decisions log), Book Bible voice rules and style-sheet: 
+never begin a sentence with 'But', use 'On the contrary,' (every chapter). Scope as applied: 
+our prose only; KJV quotations keep 'But' (ch03 lines 13, 39, 49, 59, 67, 73; ch05 line 29 are 
+all inside scripture and were not touched) - author may wish to confirm that scope. Words 4,445 
+-> 4,451; flags 0; 91 comments intact. Change log section 'Author's final edits, 2026-11-21'; 
+status line says edits applied and approval being recorded by the orchestrator. Not committed.
