@@ -2074,3 +2074,9 @@ our prose only; KJV quotations keep 'But' (ch03 lines 13, 39, 49, 59, 67, 73; ch
 all inside scripture and were not touched) - author may wish to confirm that scope. Words 4,445 
 -> 4,451; flags 0; 91 comments intact. Change log section 'Author's final edits, 2026-11-21'; 
 status line says edits applied and approval being recorded by the orchestrator. Not committed.
+
+### 2026-11-21 · orchestrator · approval · ch06
+Author approved ch06 (2026-11-21) after his four final edits. Final at 
+book/05-final/ch06-a-family-house.md, 0 flags, cut list 45/45 decided. Drive copy 
+1IaiYV1HzE4KXffDcKXy0o70fjwJP02NRsn8BQG77Deg uploaded via scripts/chapter-to-drive-html.sh and 
+read back; 2026-11-15 draft copy renamed SUPERSEDED. Next: ch07.
