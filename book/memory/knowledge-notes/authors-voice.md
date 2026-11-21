@@ -57,3 +57,10 @@ Stub. State the source and date of anything you add. Undated entries are untrust
 - Ends on a belief credo, as in ch02 and ch05: "I believe that ... the communities readiness to give in Jesus's name, helped them ...". Keep it last; add nothing after it.
 - Typing habits: commas before a second verb or a closing phrase ("liaised, and helped"; "free labour, over the three weeks"), double spaces, a capital for a role ("Pentecostal Pastor"). No tidy permission for this story: printed as given, fixes asked as questions (ch06-changes, "Author's story, 2026-11-19").
 - (copy-editor, 2026-11-19, later the same day) He then gave a ONE-TIME permission to smooth this story ("on this occasion, you may smooth any phrase or clause in my story ..."); it is smoothed and logged in ch06-changes, "Author's story smoothed, 2026-11-19 (one-time permission)". Kept as his register: "suffered a catastrophe", "brought forth", "the distressed family", "give in Jesus's name", the closing "I believe that". The permission does not carry to his next story.
+
+## Observed in ch07 source (chapter-writer, 2026-11-21; thesis 2607-2745, 1667-1704, 3623-3668, 4896-4898, 4942-4944)
+
+- Hedges his harm claims himself ("may", "some", "often", "in extreme cases", "tend to"); keep every one. The one unhedged word, "prevalent" (2649), went to him as a question.
+- Glosses a term in brackets at first use: "spiritual warfare (fight against evil forces or demons)" (2637-2638). The draft keeps the gloss as his.
+- His strongest lines here are verdict sentences with a semicolon and "rather": "mental illness is not moral failure; rather, it is an experience of modern living ..." (4942-4944), and the "The same faith that uplifts, can, if misapplied, restrain" sentence (4896-4898), which uses a dash and a serial comma. Quote them whole.
+- Paragraph openers in this section: "Above all", "Furthermore", "For example", "Consequently", "Customarily", "Increasingly", "One recalls that". The draft keeps "Increasingly" only.

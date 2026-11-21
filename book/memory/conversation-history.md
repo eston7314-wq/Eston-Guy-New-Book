@@ -2101,3 +2101,32 @@ the preface school story; do not re-ask answered questions); the ch06 cut-unveri
 recorded as precedent only, flags kept. Book Bible: v2 ch07 Research cell, four citations-table 
 rows, a Ch07 research block. Not done: no commit or push; claudeskills untouched; no draft. For 
 Eston: pack questions 1-11, unchanged (none answered by the refresh).
+
+### 2026-11-21 · chapter-writer · consolidate · ch07
+Consolidated ch07 from thesis 2607-2745, 1667-1704, 3623-3668, 4896-4898 and landing 4942-4944 
+(one version of each; no duplicates) into book/03-drafts/ch07-when-faith-becomes-a-burden.md: 
+H1 'Chapter 7: ...', Part Three content note pointing to the preface help lines and Appendix B, 
+opening on the belief stated plainly (blueprint shift line, unquoted, no person), then ch06 
+line 91's three subjects in its order across five claim H2s (sin and guilt with the prosperity 
+gospel; the devil; family silence and the stigma definition; treatment as betrayal and cultural 
+mistrust, paying ch04's promise as the author's reading; the turn), landing 4942-4944 quoted 
+whole, hook into ch08, closer 'Reflection and practice' with the ch06 sub-sections. wc -w 3,876 
+with flags (main 3,420, closer 456; about 3,224 without flag text), under the 4,400 budget and 
+not padded. Flags: 17 [UNVERIFIED] (open-claims 99-115, one each, unsoftened), 4 [AUTHOR TO 
+CONFIRM] (pack q3 'prevalent', q4 structural stigma, q6 Mbiti, q7 prosperity-gospel harm 
+reading, the last on two writer's sentences), 1 [AUTHOR STORY NEEDED] as briefed. Decisions: 
+4896-4898 only quoted, his dash kept for the copy editor; Mbiti 1990; 'a study led by McKenzie 
+(2015)'; Nickerson, Helms and Terrell named unflagged; Olayiwola flagged on the ch05 callback; 
+spent lines (ch05 77, ch06 61 and 91, ch04 19 and 23) called back, not restated; no survey 
+figure, no case, no participant material, no house-fire or preface-story callback. Cut list 16 
+rows, all undecided. Book Bible v2 row 07 Draft cell and a 'Ch07 draft additions' block; ch07 
+card. Not done: no commit or push; no open-claims or sources rows added (none new); question 5 
+and question 8 left in the notes, not flagged in text. For Eston: pack questions 1-11, the 
+story, the writer's lines listed in the draft notes.
+
+### 2026-11-21 · chapter-writer · consolidate · ch07
+Correction to the entry above: after logging, one writer's phrase that gave the author an 
+unstated preference ('the sentence I most want church leaders to hear') was cut before the 
+landing quotation. Word count now 3,867 with flags (main 3,411, closer 456; about 3,215 without 
+flag text). Flags, cut list and everything else unchanged; Book Bible cell, card and draft 
+notes carry the new count.
