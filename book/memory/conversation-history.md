@@ -2080,3 +2080,24 @@ Author approved ch06 (2026-11-21) after his four final edits. Final at
 book/05-final/ch06-a-family-house.md, 0 flags, cut list 45/45 decided. Drive copy 
 1IaiYV1HzE4KXffDcKXy0o70fjwJP02NRsn8BQG77Deg uploaded via scripts/chapter-to-drive-html.sh and 
 read back; 2026-11-15 draft copy renamed SUPERSEDED. Next: ch07.
+
+### 2026-11-21 · book-researcher · research-port · ch07
+Ported the ch07 evidence pack (built 2026-11-21 in the claudeskills clone, commit 70597ce, base 
+4949db7) into Eston-Guy-New-Book on top of the approved ch06; research not redone. Copied 
+02-research/ch07-evidence.md and context-cards/ch07.md; re-applied the 70597ce shared-file 
+additions: open-claims rows renumbered 94-110 -> 99-115 (ch06 took 94-98 here; row 105 Adams 
+carries a note on ch06 line 91); sources.md rows 75-91 unchanged (ch06 added no sources rows 
+here; no duplicate DOI or Open Library ID) and rows 41, 42, 45, 47, 69, 70 annotated for 07; 
+terms-glossary five ch07 rows and network update; source-map ch07 block plus a refresh line; 
+knowledge-notes index. Every reference renumbered in pack, card, sources, glossary, source-map 
+and Book Bible. Refresh against 05-final/ch06 (line 91 landing, quoted in pack 1.1; three 
+subjects in order) and ch00-05 finals: callback only for 2717-2726 (ch06 line 91, Adams 
+unnamed), the first door keeping people from help (ch06 line 61; the 4896-4898 quotation still 
+ch07's), ch06 lines 7 and 89, ch05 lines 77 and 100, ch04 lines 23 and 114; ch00 line 33 
+promise. Writer notes now carry the standing rules since 2026-11-18 (never begin a sentence 
+with But, use On the contrary; lower-case diaspora; systemic; house title case; acronyms; 
+four-surname study rule; story, one-time permission and anonymity rules; no second call-back of 
+the preface school story; do not re-ask answered questions); the ch06 cut-unverifiable decision 
+recorded as precedent only, flags kept. Book Bible: v2 ch07 Research cell, four citations-table 
+rows, a Ch07 research block. Not done: no commit or push; claudeskills untouched; no draft. For 
+Eston: pack questions 1-11, unchanged (none answered by the refresh).
