@@ -2208,3 +2208,28 @@ guard contrast and every queued writer's line left for his ear; cut list unchang
 undecided, none added); no consistency decision beyond a usage note in the Book Bible ('As I 
 read it' for readings of a text). Not committed or pushed. Next: fact check. For Eston: memo 
 questions 1-18, the story, and changes 1-6 (especially 4 and 6).
+
+### 2026-11-21 · book-researcher · factcheck · ch07
+Fact check (Mode B) of 04-edited/ch07-when-faith-becomes-a-burden.md (after story pass, dev 
+edit, humanize) in place; report 02-research/ch07-factcheck.md in the ch06 form. 134 rows: 
+thesis 51, KJV verified 29, corrected 0, unverified 18, cross-reference 12, view/address 23, 
+story slot 1. KJV: GITenberg #10 (md5 f14e91c9, the pack's file), thiagobodruk and scrollmapper 
+JSON all downloaded (same md5s as ch06) and agree on every verse; all 23 scripture spans exact, 
+incl. story pass John 9:2, 9:21, 9:22, 9:34 and Mark 9:18, 9:22, 9:24, dev edit Colossians 4:14 
+(4:7-14 read for 'his own companions'), Romans 8:1, Hebrews 4:15; John 9:18-35, Mark 9:14-29, 
+Matthew 17:14-21 read in full; every paraphrase faithful. Every thesis-attributed sentence 
+matched its lines (1667-1704, 2607-2745, 3623-3668, 4896-4898, 4942-4944); callbacks to ch00, 
+01, 03-06 finals and pointers to ch08, ch10, ch11, Appendix B consistent. One new flag (line 
+33, after the sentence, nothing reworded): the writer's gloss 'sectioned, that is, detained 
+under' the Acts has no thesis line ('sectioned' only at 2665, 'detain' nowhere), same kind as 
+ch06 open-claims 95; open-claims 116 added; terms-glossary update line (its 'detention' row is 
+a gloss). 17 existing [UNVERIFIED] and 4 [AUTHOR TO CONFIRM] byte-identical; none resolvable. 
+OpenAlex retried for Tanyi (113): one 200 with no Tanyi author, four 429 (daily budget for the 
+network IP used up; no key registered); row 113 history added. sources.md 33 extended (no new 
+source). Book Bible: KJV for ch07 row, v2 row 07 Research cell, 'Ch07 fact check' block. Byte 
+checks: only line 33 and one notes line changed; 40 comments, 43 spans, 58 parentheses, H1, 
+story slot identical; words 4,276 -> 4,311 with flags, 3,624 without. Notes for the author (not 
+flagged): N1 line 33 'may be truer' vs thesis 'may be true' (2662); N2 line 15 drops the 
+thesis's 'may'; N7 'In the conclusion of my thesis' is supported (thesis 674) though 4896 is in 
+7.1. Not done: no commit or push; no wording changed beyond the flag. For Eston: open-claims 
+116 and the earlier 99-115, memo questions 1-18, the story.
