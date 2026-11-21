@@ -2233,3 +2233,28 @@ flagged): N1 line 33 'may be truer' vs thesis 'may be true' (2662); N2 line 15 d
 thesis's 'may'; N7 'In the conclusion of my thesis' is supported (thesis 674) though 4896 is in 
 7.1. Not done: no commit or push; no wording changed beyond the flag. For Eston: open-claims 
 116 and the earlier 99-115, memo questions 1-18, the story.
+
+### 2026-11-21 · copy-editor · copyedit · ch07
+Copy edit (Mode A) of 04-edited/ch07-when-faith-becomes-a-burden.md (after dev edit, humanize, 
+fact check; input unchanged, md5 bb520c78) to 05-final/ch07-when-faith-becomes-a-burden.md, 
+change log 05-final/ch07-changes.md in the ch06 form, status line 'Not final' at the top. 6 
+prose changes: line 33 'may be truer' -> 'may be true' (fact check N1, thesis 2662) and line 15 
+'They stress' -> 'They may stress' (N2, thesis 2635-2637), no reason recorded in the memo for 
+either; line 13 'Paul tells the Romans that they are "joint-heirs ... we suffer"' -> 'Paul 
+writes to the Romans of being "..."' (reported-speech rule, ch05); line 39 ', I wrote,' gives 
+the unattributed thesis quotation its speaker; line 55 comma after 'reached Jesus'; line 71 'I 
+wrote:' -> 'I wrote,'. Notes block moved to the change log word for word. Script checks: H1, 11 
+headings, 40 comments, 18 [UNVERIFIED], 4 [AUTHOR TO CONFIRM], 1 [AUTHOR STORY NEEDED] 
+byte-identical and in order; 43 quoted spans (all 23 KJV) and 58 parentheses identical; 0 em, 1 
+en dash (his quotation), 0 curly, 0 sentence-initial But, 0 Diaspora. Words 4,311 -> 4,314. 
+Decisions (Book Bible and style sheet): dash inside a quotation kept as the source has it 
+(spaced en dash; he may choose a colon); writing verbs take a comma before a quotation; 
+coordinate adjectives keep commas outside the serial-comma rule; 'the prosperity gospel' lower 
+case in our prose, his quoted 'prosperity Gospel' kept (pending him); his hedges restored where 
+a draft dropped them; proposed, not applied: 'the Mental Health Act 1983' statute form (only 
+instance inside a flagged sentence). Not done deliberately: nothing inside flagged sentences (5 
+'cited in my research', the Acts' parentheses); N7 'In the conclusion of my thesis' kept 
+(asked); the 'deep' words, 'nuanced' twice and the line 35 cleft left for his ear with options; 
+thesis 'often' not restored (asked); no cut-list row added. Not committed or pushed. For Eston: 
+change-log questions 1-17 (flags, story, cut list 1-17, read-aloud) and the consolidated 
+read-aloud list (22 items plus humanize and copy-edit frames).
