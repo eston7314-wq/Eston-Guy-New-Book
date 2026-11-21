@@ -2158,3 +2158,27 @@ Book Bible v2 row 07 Story pass cell and a 'Ch07 story pass' block; ch07 card. N
 or push; no survey figure, house-fire or preface-story callback; story slot untouched. For 
 Eston: John 9 and Mark 9:24 welcome?; 'the authorities' or 'the Pharisees'; the writer's 
 sentences listed in ch07-stories.md; pack questions 1-11; the story.
+
+### 2026-11-21 · developmental-editor · devedit · ch07
+Dev edit of 03-drafts/ch07-when-faith-becomes-a-burden.md (after the story pass; draft left 
+unchanged) into 04-edited/ch07-when-faith-becomes-a-burden.md, memo 04-edited/ch07-edit-memo.md 
+in the ch06 form. Verdict: ready for humanize/fact check. D1 moved the John 9:2 / Romans 8:1 / 
+Hebrews 4:15 answer to the end of section 1 (it sat mid-section before the prosperity gospel), 
+first clause now 'Under the guilt and the sense of failure lies one question'; D2 section 2 
+heading 'Some churches blame distress on the devil, and the doctor can then look like an enemy' 
+(was '... and then fear the doctor'); D5 Colossians 4:14 now said to answer the doctor-as-enemy 
+fear (Colossians 4:10-14 read in the md5 f14e91c9 mirror); D9 the woman's paragraph ends 'it 
+was her faith, with all those years of doctors behind her, that Jesus praised' (repeated closer 
+after Mark 9; writer's clause to cut-list row 17); D3, D4, D6-D8, D10, D11 citation clutter and 
+joins ('cited in my research' 10 -> 6, 'In my thesis' 13 -> 11). Nothing from the author's 
+source removed; 22 flags byte-identical and in order (17 UNVERIFIED, 4 AUTHOR TO CONFIRM, 1 
+AUTHOR STORY NEEDED); 43 quoted spans kept, none new; no reference added; 0 DEV EDIT flags. wc 
+-w whole 4,251 -> 4,289, main 3,833, closer 456, about 3,637 without flag text (budget 4,400; 
+not padded). Cut list 17 rows undecided (stray blank line in the table removed). Book Bible v2 
+row 07 Dev edit cell and a 'Ch07 dev edit' block; ch07 card. Disagreement logged, not acted on: 
+the prosperity gospel stays in section 1 against blueprint argument 4. Not done: commit or 
+push; no survey figure, house-fire or preface-story callback; no new scripture; story slot 
+untouched; open-claims and sources unchanged. For Eston: memo questions 1-18 (pack 1-11; 
+writer's three folded into 1, 2, 4/7/11; John 9 and Mark 9 in or out, 'the authorities' or 'the 
+Pharisees', the opening sentence; D1, D5, D9, D2; cut rows 1-17; optional family 
+counter-example).
