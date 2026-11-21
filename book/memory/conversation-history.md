@@ -2182,3 +2182,29 @@ untouched; open-claims and sources unchanged. For Eston: memo questions 1-18 (pa
 writer's three folded into 1, 2, 4/7/11; John 9 and Mark 9 in or out, 'the authorities' or 'the 
 Pharisees', the opening sentence; D1, D5, D9, D2; cut rows 1-17; optional family 
 counter-example).
+
+### 2026-11-21 · copy-editor · humanize · ch07
+Humanize pass (config rule 11) on 04-edited/ch07-when-faith-becomes-a-burden.md in place; 
+pre-pass copy ch07-when-faith-becomes-a-burden.pre-humanize.md (cmp identical before, md5 
+d7439b1b7052); log 04-edited/ch07-humanize-log.md in the ch06 form. 6 prose changes, all 
+writer's frames or bridges, none in his thesis wording: (1) line 11 'In my thesis I wrote that' 
+-> 'I wrote in my thesis that' (§7; repeated across the first H2 from line 7; his 
+reporting-verb-first preference); (2) line 17 -> 'I noted in my thesis that' (§7; the 'and 
+that' scope and the Mbiti flag's referent unchanged); (3) line 59 'which I cited in my 
+research' dropped from the unflagged Nickerson sentence (§7; three citing phrases in one 
+paragraph, 'Through that study I also cited' carries it); (4) line 59 'As I read it' -> 'In my 
+view' (§7; four paragraphs closed on 'As I read it', and this one reads no text); (5) line 69 
+'as I wrote in my thesis' -> 'I argued' (§7; five thesis frames in section 5); (6) line 71 
+'That is the change I hope this chapter helps to bring about.' joined: '; I hope this chapter 
+helps to bring that change about.' (§2). Script checks vs pre-pass: H1, 40 comments, 17 
+[UNVERIFIED], 4 [AUTHOR TO CONFIRM], 1 [AUTHOR STORY NEEDED] byte-identical and in order; 43 
+quoted spans and 58 parentheses identical; KJV untouched; 1 en dash (his 4896-4898 quotation), 
+0 em, 0 curly; 0 sentence-initial But in our prose; 0 'Diaspora'. Words main 3,833 -> 3,820, 
+closer 456, whole 4,289 -> 4,276, without flag text 3,637 -> 3,624 (budget 4,400). Not done 
+deliberately: no edit inside flagged claim sentences (5 'cited in my research' remain there, 
+waiting on his decision about the unfound studies); 'Experience can feed the fear', 'Fear is 
+what the New Testament speaks to most directly here', 'Stigma is the name for that fear', the 
+guard contrast and every queued writer's line left for his ear; cut list unchanged (17 
+undecided, none added); no consistency decision beyond a usage note in the Book Bible ('As I 
+read it' for readings of a text). Not committed or pushed. Next: fact check. For Eston: memo 
+questions 1-18, the story, and changes 1-6 (especially 4 and 6).
