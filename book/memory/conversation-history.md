@@ -2289,3 +2289,9 @@ left: UNVERIFIED 2 (115, 116), AUTHOR TO CONFIRM 4, STORY 0. Updated open-claims
 (prosperity help/harm, structural stigma, Mental Health Act, 'modern living', 115, 116) left 
 flagged; 'has been learned' untouched; no commit. Open for the author: row 17, 'was learned', 
 rest of answer 10, whether 'prevalent' stays, the answer-9 split, read-aloud.
+
+### 2026-11-23 · orchestrator · author-answers · ch07
+Author (2026-11-23, second message): traditions = Pentecostal and Afro-Caribbean Baptist only; 
+structural stigma passage in his words (gradual lessening of mistrust as trustworthy 
+information spreads; stigma built into services beginning to break down, especially among 
+graduates and professionals); Mbiti not the source of the prosperity-gospel sentence.
