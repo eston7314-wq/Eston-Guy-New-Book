@@ -2295,3 +2295,18 @@ Author (2026-11-23, second message): traditions = Pentecostal and Afro-Caribbean
 structural stigma passage in his words (gradual lessening of mistrust as trustworthy 
 information spreads; stigma built into services beginning to break down, especially among 
 graduates and professionals); Mbiti not the source of the prosperity-gospel sentence.
+
+### 2026-11-23 · chapter-writer · author-answers · ch07
+Second set of the author's ch07 answers (2026-11-23), applied in place in 05-final/ch07. Answer 
+10: only 'Pentecostal and Afro-Caribbean Baptist churches' named at line 27, 'and other 
+charismatic traditions' cut (cut-list row 39), 'prevalent' kept, flag removed. Answer 11: his 
+structural-stigma observation put into line 49 word for word after 'The third form is 
+structural stigma. I have seen that,'; old pack-question-4 flag (and its 'in the next section' 
+reference) removed (row 41); new [AUTHOR TO CONFIRM] after his first sentence because the 
+Mental Health Act is UK law (open-claims 117); his wording not changed; testimony, not 
+fact-checked. Section 4 heading and opening checked and left: still read beside it. Answer 12: 
+Mbiti attribution and flag removed from line 17 (row 40); point kept as his own prose (thesis 
+3623-3628); Mbiti no longer in the chapter, sources.md 78 marked not used. Words 3,584 -> 3,577 
+(main 3,121). Flags: UNVERIFIED 2 (115, 116), AUTHOR TO CONFIRM 2 (lines 19, 49). Left for him: 
+prosperity help/harm, 115, 116, 'modern living', 'has been'/'was' learned, row 17, line 49 law 
+wording, read-aloud. Not committed.
