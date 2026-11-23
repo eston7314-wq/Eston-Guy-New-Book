@@ -2310,3 +2310,17 @@ Mbiti attribution and flag removed from line 17 (row 40); point kept as his own 
 (main 3,121). Flags: UNVERIFIED 2 (115, 116), AUTHOR TO CONFIRM 2 (lines 19, 49). Left for him: 
 prosperity help/harm, 115, 116, 'modern living', 'has been'/'was' learned, row 17, line 49 law 
 wording, read-aloud. Not committed.
+
+### 2026-11-23 · orchestrator · author-answers · ch07
+Author (2026-11-23, third message): his wording for the 'sectioned' gloss (MHA 1983, amended 
+2007, England and Wales); USA state-level civil commitment laws (Baker Act, NY Article 9, 
+California LPS Act '5150' 72-hour hold) and Canada's provincial/territorial Mental Health Acts 
+(e.g. Ontario); Asamoah identified as Asamoah, Osafo and Agyapong 2014 (Mental Health, Religion 
+and Culture), with study description and author bios.
+
+### 2026-11-23 · book-researcher · fact-check · ch07
+Asamoah existence check: author-identified work confirmed by Crossref/doi.org as Asamoah, Moses 
+Kumi; Osafo, Joseph; Agyapong, Isaac (2014), 'The role of Pentecostal clergy in mental 
+health-care delivery in Ghana', Mental Health, Religion & Culture 17(6): 601-614, doi 
+10.1080/13674676.2013.871628; sources.md 82 and open-claims 101 updated (thesis says 2019; 
+registered 2014).
