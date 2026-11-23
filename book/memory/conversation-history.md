@@ -2265,3 +2265,27 @@ people may have spoken of their disdain'; 'John Mbiti'; cut rows 1-16; keep stor
 John 9 and Mark 9; 'Pharisees'; no author story; turn section = his own research (reading, 
 surveys, interviews); cut all untraceable studies; name the traditions. Message cut off at 10; 
 Mbiti note promised. Recorded in user-profile.md.
+
+### 2026-11-23 · chapter-writer · author-answers · ch07
+Applied the author's ch07 answers of 2026-11-23 in place in 
+05-final/ch07-when-faith-becomes-a-burden.md (pre-answers copy saved as .pre-author.md, md5 
+0a6546e2968c). Answer 2: line 33 now ends 'some people may have spoken of their disdain' (no 
+'openly', nothing after; cut-list row 6 superseded). Answer 6: 'the Pharisees' twice in the 
+John 9 narration (KJV 9:22 says 'the Jews'; noted for the orchestrator). Answer 7: story slot 
+removed, no substitute. Answer 8: section 5 attributed to his own research (reading for the 
+thesis, surveys, interviews), Tanyi, Kanu and 'Research shows' removed as sources (open-claims 
+113, 114, 107 resolved as author's research); no survey figure. Answer 9: 13 citations cut with 
+their flags (open-claims 99-106, 108-112; Meyer and Gifford were candidates only, so treated as 
+unverified); rule used: points his thesis states in his own declarative prose stay as his 
+account (Mowah, Okeke, Asamoah, Olayiwola, Akinbobola, Olorunnisola, Adams, Gifford), sentences 
+given in another writer's voice removed whole (Green and Hall, Meyer, Williams Yu and Jackson, 
+Terrell and Terrell, McKenzie), plus the writer's 'Chapter 1 told part of that history.' 
+Nickerson 1994 kept. Answer 10: Pentecostal and Afro-Caribbean Baptist stay named, 'prevalent' 
+kept, old flag replaced by '[AUTHOR TO CONFIRM: which other traditions or branches to name]'. 
+Answers 1, 3, 5: no text change; Mbiti flag kept. Cut list: rows 1-16 cut, 18-38 added and 
+decided, row 17 undecided. Words 4,314 -> 3,584 (main 3,128), now under the config floor. Flags 
+left: UNVERIFIED 2 (115, 116), AUTHOR TO CONFIRM 4, STORY 0. Updated open-claims, sources.md 
+75-82, change log, Book Bible, ch07 card. Deliberately not done: unanswered questions 
+(prosperity help/harm, structural stigma, Mental Health Act, 'modern living', 115, 116) left 
+flagged; 'has been learned' untouched; no commit. Open for the author: row 17, 'was learned', 
+rest of answer 10, whether 'prevalent' stays, the answer-9 split, read-aloud.
