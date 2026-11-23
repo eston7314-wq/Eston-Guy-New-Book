@@ -2324,3 +2324,21 @@ Kumi; Osafo, Joseph; Agyapong, Isaac (2014), 'The role of Pentecostal clergy in 
 health-care delivery in Ghana', Mental Health, Religion & Culture 17(6): 601-614, doi 
 10.1080/13674676.2013.871628; sources.md 82 and open-claims 101 updated (thesis says 2019; 
 registered 2014).
+
+### 2026-11-23 · chapter-writer · author-answers · ch07
+Third set of the author's ch07 answers (2026-11-23), applied in place in 05-final/ch07. A: line 
+33 'sectioned' gloss replaced by his wording (legally detained in hospital ... under the Mental 
+Health Act (1983), amended in 2007 ... in England and Wales); 'Mental Health Act (2007)' 
+dropped; only change to his words 'mental-health assessment' hyphen; flag 116 removed, 
+open-claims 116 author-supplied. B: line 49 now 'sectioned under the Mental Health Act in the 
+UK, or detained under state laws in the USA or provincial and territorial Mental Health Acts in 
+Canada'; flag 117 removed; his examples added as three short sentences at line 33 (state civil 
+commitment laws; the Baker Act, no state named; New York's Article 9; California's 
+Lanterman-Petris-Short Act, '5150', seventy-two hours; Ontario's Mental Health Act), placed 
+there so line 49 stays about stigma. C: thesis 'Asamoah (2019)' identified by him as Asamoah, 
+Osafo and Agyapong 2014 (sources.md 82); year corrected; restored in section 5 line 67 with his 
+description ('highlighted' given as 'pointed to'); not restored at line 31, whose depression 
+claim his description does not cover; biographies left out (orchestrator to ask); cut-list row 
+25 restored. Words 3,577 -> 3,673 (main 3,217). Flags: UNVERIFIED 1 (115), AUTHOR TO CONFIRM 1 
+(line 19). Left for him: 115, prosperity help/harm, 'modern living', 'has been'/'was' learned, 
+row 17, biographies, possible split of the 70-word line 33 sentence, read-aloud. Not committed.
