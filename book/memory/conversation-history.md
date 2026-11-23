@@ -2258,3 +2258,10 @@ instance inside a flagged sentence). Not done deliberately: nothing inside flagg
 thesis 'often' not restored (asked); no cut-list row added. Not committed or pushed. For Eston: 
 change-log questions 1-17 (flags, story, cut list 1-17, read-aloud) and the consolidated 
 read-aloud list (22 items plus humanize and copy-edit frames).
+
+### 2026-11-23 · orchestrator · author-answers · ch07
+Author answered ch07 questions (2026-11-23): keep writer's lines; sectioning sentence 'some 
+people may have spoken of their disdain'; 'John Mbiti'; cut rows 1-16; keep story pass incl. 
+John 9 and Mark 9; 'Pharisees'; no author story; turn section = his own research (reading, 
+surveys, interviews); cut all untraceable studies; name the traditions. Message cut off at 10; 
+Mbiti note promised. Recorded in user-profile.md.
