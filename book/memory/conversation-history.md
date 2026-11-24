@@ -2383,3 +2383,12 @@ to 11 and the Afterword, the planning documents, and a duplicate 'Preface (appro
 that is waiting on the author's decision. Standing rule from the author: always file final 
 approved versions in Final Approved. Recorded in knowledge-notes/drive-folders.md and 
 user-profile.md. Chapter 6 is still a draft and has not been approved.
+
+### 2026-11-24 · orchestrator · approval · ch07
+Author approved ch07 (2026-11-24): 'book chapter 07 now sounds like me; approved'. Final at 
+book/05-final/ch07-when-faith-becomes-a-burden.md, 0 flags, cut list 44/44 decided. Drive copy 
+1geS-WbpwEcMqHi45EZ6RRrzfkksAgsdnbc6JkpLL0ho (uploaded 02:44 after the final answers; text 
+checked against the repo final) renamed and moved to Final Approved; 2026-11-15 draft renamed 
+SUPERSEDED to Old Versions. Also filed ch06 (1IaiYV1H...) into Final Approved and moved a 
+duplicate ch06 copy to Old Versions. Still open from ch07: approved ch04 line 23 promises the 
+'weak faith' misuse that ch07 no longer states (to ask the author). Next: ch08.
