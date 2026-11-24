@@ -16,7 +16,7 @@ The author's rules of 2026-11-11 override the researcher's defaults. Three statu
 
 **Scripture: KJV re-read this session, from the same three copies used for ch07.** All three downloaded from raw.githubusercontent.com (HTTP 200) with the same md5s as the ch06 and ch07 runs: GITenberg mirror of Project Gutenberg #10 (4,452,097 bytes, md5 f14e91c9a490e60941d2dcb81246e904), thiagobodruk `json/en_kjv.json` (md5 d0e1e9e04c7b060c466abcb855079865) and scrollmapper `formats/json/KJV.json` (md5 b674a7836a064f48bc252b0a3ad562f6). Each parsed to 31,102 verses. The #10 file was split per book on the 66 lines that begin "1:1 " (no header regex, so the ch07 parser fault with "General" epistles cannot recur), and each book on `chapter:verse`. **Every verse in section 3 agrees word for word in all three copies** after straightening apostrophes, removing spaces before punctuation and ignoring case (scrollmapper prints LORD as "Lord").
 
-**Lookup services this session (2026-11-24): all four refused.**
+**Lookup services this session (2026-11-24): all four refused at first; all four answered (HTTP 200) on the re-run later the same day (next paragraph but one).**
 
 | Service | Result |
 |---|---|
@@ -25,7 +25,9 @@ The author's rules of 2026-11-11 override the researcher's defaults. Three statu
 | doi.org (handle API) | **Refused** (CONNECT 403) |
 | openlibrary.org | **Refused** (CONNECT 403) |
 
-The proxy's own instructions say a 403 is a policy decision and must not be retried or routed around, so I did not try WebFetch, a mirror or any other route, and I did not use web search (outside the four services in any case). **Consequence:** none of the eight outside citations in the ch08 lines could be looked up at all; each is U for two reasons (not in the thesis bibliography; services unreachable), and each needs a lookup in a later run before anything else (section 9). No new `sources.md` row was added (next free number: **92**). Works already confirmed in earlier runs are reused by title only (section 4), which rule 5 allows ("check it before looking a source up and reuse the existing entry").
+The proxy's own instructions say a 403 is a policy decision and must not be retried or routed around, so I did not try WebFetch, a mirror or any other route, and I did not use web search (outside the four services in any case). **Consequence:** none of the eight outside citations in the ch08 lines could be looked up at all; each is U for two reasons (not in the thesis bibliography; services unreachable), and each needs a lookup in a later run before anything else (section 9). No new `sources.md` row was added at first; the re-run added rows **92-93** (next free number: **94**). Works already confirmed in earlier runs are reused by title only (section 4), which rule 5 allows ("check it before looking a source up and reuse the existing entry").
+
+**Lookups re-run later the same day (2026-11-24), after the coordinator moved the session to a network that allows the four services.** All four answered HTTP 200. Results in full in section 4.1 and section 9; in short: **none of the nine ch08 citations was confirmed.** For each, Crossref (author plus topic, with and without a year filter), OpenAlex (free search with the year, then an author-name filter with the year and a topic) and, for possible books, Open Library were searched. No record matched the author, year and subject the thesis gives; candidates with other authors, years or subjects were **not** taken as matches. Two works whose titles name the Redeemed Christian Church of God were confirmed (sources.md **92-93**): they show only that the church is the subject of published work, not anything Williams, R. (2018) is cited for. The "NCI" definition: Crossref holds an unauthored Qeios "Definitions" entry titled "Substance Abuse" (2020, doi 10.32388/7w4m48), which names no NCI and is not tied.
 
 No web search, publisher site, health-service site, dictionary or Wikipedia was used. Nothing below comes from memory. Survey numbers: none (section 5).
 
@@ -124,14 +126,14 @@ The thesis: "Post Traumatic Stress Disorder is widespread among people of Africa
 
 - **It conflicts with approved ch01.** Ch01 line 75 (NIMH Science Update 2007, sources.md 2; author's choice 2026-11-13) reports depression over a lifetime as **less common** among African Americans and Black Caribbeans in the USA than among White Americans, though longer, heavier and less often treated when it came, and concludes "none of us should say that our people are more depressed because of slavery". Ch01 line 73 says trauma's effects are "not yet shown" to be inherited. Ch01 cut-list row 1 dropped "PTSD" from the history chapter for want of a source.
 - **It also conflicts with the thesis's own next paragraph**, which says most people improve after a traumatic event (2855-2857).
-- **Evidence under the rules:** none in the thesis; outside sources may not be read; the services could not be reached today. So the prevalence ("widespread") and the cause ("due to") are both **U** (OC 128).
+- **Evidence under the rules:** none in the thesis; outside sources may not be read (rule 2), and existence lookups cannot show prevalence. So the prevalence ("widespread") and the cause ("due to") are both **U** (OC 128).
 - **Reframings the writer can use without new facts** (pending the author, question 2): (a) ch01's approved wording, already his: the legacy of slavery and colonial rule, with racism that has never gone away, "still weighs on many ... and for some it has fed into deeper illness"; ch08 can name PTSD as one such illness for some people, without "widespread" and without "due to"; (b) "Some people of African heritage live with PTSD. I believe that forced migration and the racism many meet today can add to the weight" (author's belief, rule 5 style); (c) the author supplies a source.
 - "Racial trauma" (blueprint argument 2; thesis 2819 "ongoing racial trauma") has **no definition in the thesis**. Use it as his phrase for the harm of racism met today (ch01 line 71's "the harm done by racism today"); do not define it as a clinical category.
 - The same applies to 2793-2796 ("mental health conditions that are most prevalent in African heritage communities"): a prevalence claim with no source (OC 129). Write "the conditions I looked at in my thesis".
 
 ### 1.6 Named programmes and churches (existence-only rule)
 
-The orchestrator asked for the named programmes to be checked only within the existence-only rule. Two limits apply: an organisation or an unnamed programme is not a book, study or article, so rule 2 offers no route to it even on a good day; and today none of the four services could be reached. So:
+The orchestrator asked for the named programmes to be checked only within the existence-only rule. Two limits apply: an organisation or an unnamed programme is not a book, study or article, so rule 2 offers no route to it even on a good day. On the lookup re-run later the same day the only route was the cited studies (not found) and works naming the church (sources.md 92-93, title only). So:
 
 | Item | Lines | Status | Note |
 |---|---|---|---|
@@ -154,7 +156,7 @@ The orchestrator asked for the named programmes to be checked only within the ex
 
 T = thesis-supported; E = existence confirmed (earlier run); U = unconfirmed; "corrected" as above. Line numbers are thesis lines. Scripture wording is in section 3; outside works in section 4. OC = open-claims rows added in this run (119-131).
 
-**Counts.** 85 rows (N1-N27, C1-C58). Named items: 27, of which outside citations 9 (eight studies plus the NCI definition), **all U** (OC 119-127); unnamed attributions 4 (OC 130; "previous findings show" is spent in ch00); prevalence claims 2 (OC 128, 129); scripture citations 9, of which **6 corrected** (KJV wording: N16, N18-N21, N24) and 3 exact; one named church (N25, T as the author's naming; the programmes are C37, C38, C52); wording slips 2. Claims: 58, of which **56 thesis-supported**: 41 clean, 14 resting in part on an unconfirmed citation, attribution or prevalence (C5, C7, C12, C17, C25, C29, C36, C38, C41, C47, C50-C53) and 1 thesis framing to drop (C42); plus 1 promise (C57), 1 writer's join of his lines (C56, counted in the 41) and 1 blueprint line (C58). Spent in an approved chapter, callback only: 5 (C5, C8, C11, C19, C55). Clinical statements needing a clinician: 6 (C13, C14, C15, C25, C40, C45; OC 131). Survey figures: 0. New works existence-confirmed: 0 (services refused).
+**Counts.** 85 rows (N1-N27, C1-C58). Named items: 27, of which outside citations 9 (eight studies plus the NCI definition), **all U** (OC 119-127); unnamed attributions 4 (OC 130; "previous findings show" is spent in ch00); prevalence claims 2 (OC 128, 129); scripture citations 9, of which **6 corrected** (KJV wording: N16, N18-N21, N24) and 3 exact; one named church (N25, T as the author's naming; the programmes are C37, C38, C52); wording slips 2. Claims: 58, of which **56 thesis-supported**: 41 clean, 14 resting in part on an unconfirmed citation, attribution or prevalence (C5, C7, C12, C17, C25, C29, C36, C38, C41, C47, C50-C53) and 1 thesis framing to drop (C42); plus 1 promise (C57), 1 writer's join of his lines (C56, counted in the 41) and 1 blueprint line (C58). Spent in an approved chapter, callback only: 5 (C5, C8, C11, C19, C55). Clinical statements needing a clinician: 6 (C13, C14, C15, C25, C40, C45; OC 131). Survey figures: 0. New works existence-confirmed: 2 on the re-run (sources.md 92-93, about the church named at N25), none of them a thesis citation.
 
 ### People, works, figures and attributions
 
@@ -184,7 +186,7 @@ T = thesis-supported; E = existence confirmed (earlier run); U = unconfirmed; "c
 | N22 | 1 Peter 5:8, "Be sober, be vigilant; because your adversary the devil, as a roaring lion, walketh about, seeking whom he may devour." | 2915-2917 | **T; KJV verified** | Exact; the KJV verse ends with a colon and runs on to 5:9 ("Whom resist stedfast in the faith ...") |
 | N23 | Ephesians 5:18, "And be not drunk with wine, wherein is excess; but be filled with the Spirit." | 2923-2924 | **T; KJV verified** | Exact; the KJV verse ends with a semicolon and runs on to 5:19, which ch05 quotes (line 55) |
 | N24 | Galatians 6:1-2, "... restore such one in the spirit of meekness ..." | 2944-2947 | **corrected** | KJV 6:1: "restore such **an** one in the spirit of meekness". 6:2 exact (ch06's) |
-| N25 | "the Nigerian-led Redeemed Christian Church of God" | 3031-3032 | T (named by the author) | An organisation: not a book or article, so no rule-2 lookup; services refused in any case. 1.6. Question 5 |
+| N25 | "the Nigerian-led Redeemed Christian Church of God" | 3031-3032 | T (named by the author) | An organisation: not a book or article. Re-run: two works whose titles name it exist (sources.md 92, Hunt 2002, *Pneuma*; 93, Burgess 2017, "African Pentecostal Growth: The Redeemed Christian Church of God in Britain"); title only, not tied to Williams, R. (2018). 1.6. Question 5 |
 | N26 | "empathise" | 2957 | **slip** | For "emphasise" (the sense of the sentence) |
 | N27 | "systematic oppression" | 2757 | **slip by the author's rule** | The author chose "systemic" (2026-11-19, superseding "systematic"); the thesis itself has "systemic oppression" at 2900 |
 
@@ -310,7 +312,19 @@ Philippians 4:6-7, 1 Peter 5:7, Matthew 11:28-30, Psalm 23, Psalm 55:22, James 5
 
 ### 4.1 The thesis's citations in the ch08 lines
 
-None could be looked up (all four services refused, CONNECT 403). All nine are U and on open-claims 119-127: Harding (2017); Baker and Bell (2020); Bryant and Peck (2015); Norris and Walters (2019); Madhav (2015); Williams, R. (2018); Gibson (2017); Johnson, M. (2020); "NCI". None is in the thesis bibliography (grep of 5000-5483: no Harding, Baker, Bell, Bryant, Peck, Norris, Walters, Madhav, Gibson, Johnson or Williams, R.; "NCI" and "National Cancer" absent; the only substance entry is WHO 2024, 130).
+At first none could be looked up (all four services refused, CONNECT 403). **Re-run later the same day (services reachable): none found.** All nine stay U and on open-claims 119-127: Harding (2017); Baker and Bell (2020); Bryant and Peck (2015); Norris and Walters (2019); Madhav (2015); Williams, R. (2018); Gibson (2017); Johnson, M. (2020); "NCI". None is in the thesis bibliography (grep of 5000-5483: no Harding, Baker, Bell, Bryant, Peck, Norris, Walters, Madhav, Gibson, Johnson or Williams, R.; "NCI" and "National Cancer" absent; the only substance entry is WHO 2024, 130).
+
+| Citation | Crossref | OpenAlex | Open Library | Nearest record (not a match) |
+|---|---|---|---|---|
+| Harding, S. 2017 | author + stigma/mistrust/access topic, 2017 and any year; author + Black Caribbean access, 2016-2018 | free search 2017 (2 results); author filter + "mental health", 2017 (15) | author + mental health mistrust (0) | Harding-authored 2017 mental-health items on other subjects (India and Japan history; nursing mentoring; a book review); Secker and Harding 2002 on African and Caribbean users of inpatient services (other year, other first author). Not tied |
+| Baker, J. and Bell, H. 2020 | "Baker Bell" + topic, 2020 and any year | free search 2020 (35); author filters "Baker" + stigma (6), "Bell" + mistrust (0) | not searched (no book indicated) | April Baker-Bell 2020, *Linguistic Justice* (language education); F. M. Baker papers 1993-2001. Not tied |
+| Bryant and Peck 2015 | "Bryant Peck" + church substance topic, 2015 and any year; "Bryant" + Baptist Pentecostal substance, 2014-2016 | free search 2015 (4); author filters "Bryant" + church (8), "Peck" + church (2), "Bryant" + substance church (0) | author Bryant + Peck (8: Bryant and Peck 2009, *Encyclopedia of Death and the Human Experience*) | Montgomery, Stewart, Bryant and Ounpraseuth 2014 on religion and substance use among rural African American cocaine users: other first author, other year. Not tied |
+| Norris and Walters 2019 | "Norris Walters" + Pentecostal rehabilitation, 2019 and any year | free search 2019 (0); author filters "Norris" + church (3), "Walters" + addiction (0), "Norris" + addiction (1) | author Norris + Walters (26, none relevant) | None |
+| Madhav, V. 2015 | author + voices/hallucinations, 2015 and any year | free search 2015 (0); author filter 2015 alone (442, none on mental health), + "hallucinations" (0), + "religion mental" (0) | "Madhav schizophrenia" (0) | None |
+| Williams, R. 2018 | author + Redeemed Christian Church of God, 2018; the church name alone | free search 2018 (150, none by a Williams on the church); author filters + "Pentecostal" (3), + "Redeemed Christian Church" (0) | church name (156 records, none by Williams) | Rowan Williams 2018 (other subject). Not tied. Works on the church by other authors: sources.md 92-93 |
+| Gibson, D. 2017 | author + African American church pastors advocacy, 2017 | free search 2017 (13); author filters + church (21, other subjects), + "African American mental health" (0) | not searched | David Gibson 2017 on mental capacity law. Not tied |
+| Johnson, M. 2020 | author + Canada spirituality psychiatric clinics, 2020 | free search 2020 (47); author filters + "spirituality psychiatric" (0), + "faith mental health Canada" (0) | not searched | None |
+| "NCI" definition | "National Cancer Institute dictionary substance abuse definition" | not searched (not an article) | not searched | Qeios "Definitions" entry "Substance Abuse" (2020, doi 10.32388/7w4m48, registered; no author; publisher Qeios). Not tied to "NCI" |
 
 ### 4.2 Works already confirmed in earlier runs, reused by title (not re-searched today)
 
@@ -364,7 +378,7 @@ Chapter 7 ended by promising that the sorrows would be named one by one, each wi
 
 The evidence is weaker than the outline assumes in six places.
 
-**First, the citations, and this session's network.** All eight studies under arguments 3 and 4 (Harding; Baker and Bell; Bryant and Peck; Norris and Walters; Madhav; Williams, R.; Gibson; Johnson, M.) are missing from the bibliography, and none could even be searched today, because all four permitted services were refused by the session's proxy. The definition of substance abuse is credited to "NCI", which is not in the bibliography either. Every named programme (London and Toronto, the Redeemed Christian Church of God, the Canadian clinics) rests on one of these citations. In ch07 the author cut every citation that could not be traced (2026-11-23) and kept the points as his own account; ch08 is likely to meet the same choice (question 1).
+**First, the citations, and this session's network.** All eight studies under arguments 3 and 4 (Harding; Baker and Bell; Bryant and Peck; Norris and Walters; Madhav; Williams, R.; Gibson; Johnson, M.) are missing from the bibliography, and at first none could be searched, because all four permitted services were refused by the session's proxy; when the services were reached later the same day, none of the eight was found. The definition of substance abuse is credited to "NCI", which is not in the bibliography either. Every named programme (London and Toronto, the Redeemed Christian Church of God, the Canadian clinics) rests on one of these citations. In ch07 the author cut every citation that could not be traced (2026-11-23) and kept the points as his own account; ch08 is likely to meet the same choice (question 1).
 
 **Second, "widespread" PTSD.** The thesis says PTSD is "widespread ... due to the legacy of slavery" with no source; approved ch01 already told the reader that depression is less common among African Americans and Black Caribbeans in the USA than among White Americans, and that "none of us should say that our people are more depressed because of slavery". Ch08 cannot say the opposite about PTSD without evidence. Reframe as ch01 did (1.5).
 
@@ -394,20 +408,20 @@ Under the rules I cannot report what outside studies found, so the counterweight
 
 | Item | What was tried | Result |
 |---|---|---|
-| Harding, S. (2017) (2905-2908) | Bibliography grep (no entry); Crossref (CONNECT 403); OpenAlex, doi.org, Open Library probed (403 each) | Not searched: services refused. U; OC 119 |
-| Baker, J.; Bell, H. (2020) (2908-2909) | Bibliography grep; services refused as above | U; OC 120 |
-| Bryant and Peck (2015) (2959-2960) | Bibliography grep; services refused | U; OC 121 |
-| Norris and Walters (2019) and the London and Toronto programmes (2968-2973) | Bibliography grep; services refused; programmes unnamed (not books or articles) | U; OC 122 |
-| Madhav, V. (2015) (3019-3020) | Bibliography grep; services refused | U; OC 123 |
-| Williams, R. (2018) and the Redeemed Christian Church of God claim (3031-3036) | Bibliography grep; services refused; a church is not a book or article | U; OC 124 |
-| Gibson, D. (2017) (3036-3039) | Bibliography grep; services refused | U; OC 125 |
-| Johnson, M. (2020) and the Canadian clinics (3041-3046) | Bibliography grep; services refused; clinics unnamed | U; OC 126 |
-| "NCI" definition of substance abuse (2887-2889) | Bibliography grep (no NCI; WHO 2024 web page at 130, not cited in the text); not a book or article | U; OC 127 |
+| Harding, S. (2017) (2905-2908) | Bibliography grep (no entry); Crossref (CONNECT 403); OpenAlex, doi.org, Open Library probed (403 each) | Refused at first; re-run later the same day (table 4.1): not found. U; OC 119 |
+| Baker, J.; Bell, H. (2020) (2908-2909) | Bibliography grep; services refused as above | Re-run later the same day (table 4.1): not found. U; OC 120 |
+| Bryant and Peck (2015) (2959-2960) | Bibliography grep; services refused | Re-run later the same day (table 4.1): not found. U; OC 121 |
+| Norris and Walters (2019) and the London and Toronto programmes (2968-2973) | Bibliography grep; services refused; programmes unnamed (not books or articles) | Re-run later the same day (table 4.1): not found. U; OC 122 |
+| Madhav, V. (2015) (3019-3020) | Bibliography grep; services refused | Re-run later the same day (table 4.1): not found. U; OC 123 |
+| Williams, R. (2018) and the Redeemed Christian Church of God claim (3031-3036) | Bibliography grep; services refused; a church is not a book or article | Re-run later the same day (table 4.1): not found. U; OC 124 |
+| Gibson, D. (2017) (3036-3039) | Bibliography grep; services refused | Re-run later the same day (table 4.1): not found. U; OC 125 |
+| Johnson, M. (2020) and the Canadian clinics (3041-3046) | Bibliography grep; services refused; clinics unnamed | Re-run later the same day (table 4.1): not found. U; OC 126 |
+| "NCI" definition of substance abuse (2887-2889) | Bibliography grep (no NCI; WHO 2024 web page at 130, not cited in the text); not a book or article | Re-run: only an untied Qeios entry (table 4.1). U; OC 127 |
 | PTSD "widespread ... due to the legacy of slavery" (2817-2819) | Thesis read 2746-3058 and grep for "PTSD" (341, 2754, 2815, 2817, 2859-2860, 3676): no source anywhere; ch01 final and cut list | No source; conflicts with ch01 line 75. U; OC 128 |
 | "most prevalent in African heritage communities" (2793-2794) | Thesis read; no source | U; OC 129 |
 | "The literature shows" (2863), "the research indicates" (3053), "prominent psychiatrists" (2987), "previous findings show" (2768) | Thesis read for a name | None named. U; OC 130 |
 | Clinical statements: PTSD list, natural course, schizophrenia description, medical model, substance definition | No clinical source is within the four services (rule 2) | Clinician review needed. OC 131 |
-| Outside works for counter-evidence (new) | Services refused | None added; sources.md 92 is the next free row |
+| Outside works for counter-evidence (new) | Services refused at first; on the re-run only the church name was searched for new works | sources.md 92-93 added (works naming the Redeemed Christian Church of God, title only); counter-evidence topics in 4.2 still to search |
 | Findings of the reused titles (4.2) | Not attempted: rule 2 | Existence only |
 
 ## 10. Notes for the writer and the next agent
@@ -436,11 +450,11 @@ Under the rules I cannot report what outside studies found, so the counterweight
 - **Flags (rule 4):** `[UNVERIFIED: ...]` on OC 119-130 where the text rests on them; the clinician note (OC 131) on the chapter as a whole (an HTML comment at the top and on each clinical sentence is enough for the reviewer; the build gate is the `[UNVERIFIED]` flags). Rule 9: the writer drops none; the author decides.
 - **Hook into ch09:** "Two subjects remain that the church has found hardest of all to speak of."
 - **Cut-list rows** (config rule 8) for whatever is left out: the thesis framing (2748-2766, 2991-2996), the full PTSD list if condensed, the second and third Romans 12:2 quotations, the spent lines.
-- **Fact check (Mode B) must:** re-read every KJV span (these readings are of 2026-11-24, three copies); **try the four services again** for OC 119-127 before anything else (all refused today); check that no survey number, invented symptom or treatment line has entered the draft; check that Romans 12:2 is quoted once and Galatians 6:2 not at all.
+- **Fact check (Mode B) must:** re-read every KJV span (these readings are of 2026-11-24, three copies); re-try OC 119-127 once more only if the author gives fuller details (all searched and not found on the 2026-11-24 re-run, table 4.1); check that no survey number, invented symptom or treatment line has entered the draft; check that Romans 12:2 is quoted once and Galatians 6:2 not at all.
 
 ### Questions for the author
 
-1. **The eight studies and the definition.** Harding (2017); Baker and Bell (2020); Bryant and Peck (2015); Norris and Walters (2019); Madhav (2015); Williams, R. (2018); Gibson (2017); Johnson, M. (2020), and the "NCI" definition of substance abuse, are not in your bibliography, and today none could even be searched (the lookup services were blocked). Can you give the full references? If not, do you want the same rule as in chapter 7: cut the citations that cannot be traced and keep the points as your own account?
+1. **The eight studies and the definition.** Harding (2017); Baker and Bell (2020); Bryant and Peck (2015); Norris and Walters (2019); Madhav (2015); Williams, R. (2018); Gibson (2017); Johnson, M. (2020), and the "NCI" definition of substance abuse, are not in your bibliography, and none could be found in Crossref, OpenAlex or Open Library (searched 2026-11-24). Can you give the full references? If not, do you want the same rule as in chapter 7: cut the citations that cannot be traced and keep the points as your own account?
 2. **PTSD "widespread ... due to the legacy of slavery".** Chapter 1 (approved) said the legacy of slavery and racism "for some ... has fed into deeper illness", and reported that depression is less common among African Americans and Black Caribbeans in the USA than among White Americans. May chapter 8 say that some people of African heritage live with PTSD, and that you believe history, migration and racism today add to the weight, without "widespread"? Or do you have a source? The same for "the conditions most prevalent in African heritage communities".
 3. **What treatment offers.** Chapters 3, 5 and 7 promise that chapter 8 will set out what faith and what treatment offer for each condition, but the thesis names no treatment, and the rules do not let us add one from outside sources. Who is the clinician who will review chapter 8 (and chapter 9)? Can you or they supply a short, plain line on treatment for anxiety and depression, trauma, addiction and psychosis? If not, may the chapter say "talk to your doctor" and point to Appendix B?
 4. **The clinical descriptions.** The PTSD signs, "most people improve naturally within ... days or a few weeks", and the description of schizophrenia ("emotional blunting, intellectual deterioration ...") come with no source. Should they stay as you wrote them for the clinician to check, or be shortened?
@@ -471,4 +485,4 @@ Under the rules I cannot report what outside studies found, so the counterweight
 | 130 | Unnamed attributions: "The literature shows" (2863), "the research indicates" (3053), "prominent psychiatrists" (2987), "previous findings show" (2768) |
 | 131 | Clinical statements needing clinician review: 2819-2861, 2887-2889, 2983-2985, 3007-3010 |
 
-**`book/02-research/sources.md`: no new rows** (services refused; next free row 92). Existing rows annotated "08 (pack, by title)": 1, 2, 27, 33, 35, 39, 41, 42, 43, 61, 84, 89.
+**`book/02-research/sources.md`: rows 92-93 added on the lookup re-run** (Hunt 2002; Burgess 2017; works naming the Redeemed Christian Church of God, title only; next free row 94). Existing rows annotated "08 (pack, by title)": 1, 2, 27, 33, 35, 39, 41, 42, 43, 61, 84, 89.

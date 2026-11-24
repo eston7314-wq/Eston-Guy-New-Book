@@ -2418,3 +2418,23 @@ cut rule; PTSD reframe; treatment lines and who the clinician is; clinical descr
 the Redeemed Christian Church of God; which traditions; addiction and sin; story). For the 
 orchestrator: restore the four lookup hosts before the ch08 fact check; approved ch04 line 23 
 promise still open from ch07.
+
+### 2026-11-24 · book-researcher · research-lookups · ch08
+Existence-only lookups for the nine ch08 outside citations, re-run after the coordinator moved 
+the session to a network allowing the four services (all answered HTTP 200, no 429). Searched 
+Crossref (author + topic, with and without the year), OpenAlex (free search with year; 
+raw_author_name filter with year and topic) and Open Library where a book was possible. 
+Confirmed: none. Still unconfirmed: Harding S. 2017, Baker J. and Bell H. 2020, Bryant and Peck 
+2015, Norris and Walters 2019, Madhav V. 2015, Williams R. 2018, Gibson D. 2017, Johnson M. 
+2020, and the 'NCI' substance-abuse definition. Candidates rejected as matches (different 
+author, year or subject): Harding-authored 2017 items on other subjects and Secker and Harding 
+2002; April Baker-Bell 2020 Linguistic Justice; Bryant and Peck 2009 encyclopedia and 
+Montgomery et al. 2014; Rowan Williams 2018; David Gibson 2017; an unauthored Qeios 'Substance 
+Abuse' definition 2020 (doi 10.32388/7w4m48) not tied to NCI. New sources.md rows 92-93 (Hunt 
+2002, Pneuma 24(2); Burgess 2017, Routledge chapter): works whose titles name the Redeemed 
+Christian Church of God, existence only, not tied to Williams R. 2018. Recorded in 
+ch08-evidence.md (addendum, new table 4.1, section 9, N25, section 11), open-claims 119-127 
+(still open, search history appended), Book Bible ch08 cell, citation rows and block, ch08 
+card, source-map and glossary network note (block resolved the same day). Not done: no 
+counter-evidence topic searches (4.2 list still for a later run), no content read, no commit. 
+For the author: pack question 1 stands (full references, or apply the ch07 cut rule).
