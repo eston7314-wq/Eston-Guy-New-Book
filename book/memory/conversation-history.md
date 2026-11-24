@@ -2487,3 +2487,25 @@ material, clinical instruction or Jakes; no commit. Book Bible v2 row 08 Story p
 'Ch08 story pass' block written; ch08 card updated. For the author: whether the new opening, 
 the Psalm 42 lines and the Emmaus last sentence sound like him; dev edit has no word room left 
 under 4,600 counting flag text.
+
+### 2026-11-24 · developmental-editor · devedit · ch08
+Dev edit on 03-drafts/ch08-naming-the-sorrow.md (unchanged) to 
+04-edited/ch08-naming-the-sorrow.md; memo 04-edited/ch08-edit-memo.md, verdict: ready for 
+humanize/fact check. D1 four condition names moved from the opening to the conditions 
+paragraph; D2 second ch07 callback cut (cut-list row 18, writer's line); D3 frame trimmed of 
+three sentences restating ch00 29-33 and ch01 (thesis 2750-2758, 2763-2766; rows 15-17); D4-D6 
+repeats and staging cut in section 1; D7 PTSD passage: 'Chapter 1 also suggested ... shows most 
+in' (which implied ch01 backed the flagged sentence) replaced by 'Chapter 1 was more careful 
+about how often illness comes among us' plus ch01 line 75's own words; his sentence and flag 
+untouched; D8 thesis 2976-2979 moved to close the verse run in the addiction section; D9 
+landing repeat cut and the shift stated ('Each of the four sections above has named an illness 
+that treatment can help, and given faith its place beside it.'); D10 closer repeats cut. Every 
+callback to ch00-ch07 audited against the finals (one inaccurate, fixed). Flags byte-identical 
+and in order (13 UNVERIFIED, 6 AUTHOR TO CONFIRM, 1 AUTHOR STORY NEEDED); 42 earlier comments 
+byte-identical, 13 dev-edit notes added; no quotation, reference or fact added or lost. Words 
+4,599 -> 4,477 (main 4,160 -> 4,069, closer 439 -> 408); 3,982 -> 3,860 without flag text. Book 
+Bible v2 row 08 Dev edit cell and 'Ch08 dev edit' block written; ch08 card updated. 
+Deliberately not done: no author question resolved (PTSD and 'most prevalent' wording, 
+citations, treatment lines, traditions, addiction and sin, church naming, story); no DEV EDIT 
+or RESEARCH NEEDED flag; 1152-1166 paragraph and 1 John 4:1 paragraph kept; no commit. For the 
+author: pack questions 1-8; D7, D9, D5, D6 for his ear; cut-list rows 15-18.
