@@ -2554,3 +2554,26 @@ clinical content, no commit. For the author: pack questions 1-8, the line 13 cor
 N1 ('demonstrates'), N2 (Emmaus 'two of them', 24:32), N3 ('may confess' hedge at line 43), N4 
 (D8 move); for the copy editor: N5 (lines 61, 71 thesis reports in book voice), N6 (line 85 
 rests on the four treatment flags), N7.
+
+### 2026-11-24 · copy-editor · copyedit · ch08
+Copy edit (Mode A) of 04-edited/ch08-naming-the-sorrow.md (unchanged, md5 71031dd0e034) to 
+05-final/ch08-naming-the-sorrow.md (md5 01cf31a46fd7); change log 05-final/ch08-changes.md in 
+the ch07 shape, notes block moved there word for word. 8 prose changes: line 43 'some believers 
+may confess' (fact check N3, ch07 hedge rule); line 61 ', I wrote,' (N5; line 71 left, already 
+framed by 'was understood' and a later 'I wrote'); line 41 Luke 24:17 reported speech 'and his 
+question ended "as ye walk, and are sad"' (span unchanged); line 37 'the gospel'; line 47 
+'substance-abuse recovery services'; line 33 'the first part of the practical care'; commas at 
+25 and 73. Byte-identical by script: H1 and 10 headings, 55 comments incl. clinician notes, 13 
+[UNVERIFIED], 6 [AUTHOR TO CONFIRM], 1 [AUTHOR STORY NEEDED] in order, 38 quoted spans (KJV 
+word for word), 42 parentheses. Final humanizer check clean: 0 dashes, 0 sentence-initial But 
+in our prose, 0 Diaspora, 0 Jakes, no survey figure. Words 4,483 -> 4,490 (main 4,082, closer 
+408). Nothing of the author's removed; cut list unchanged (18 rows, 0 decided). Decisions (Book 
+Bible and style sheet): 'the gospel' lower case for the message; substance terms ('substance 
+abuse' his thesis term, 'misuse'/'addiction' in narration, hyphen before a noun); 'Evangelical' 
+capitalised as a tradition; reported speech covers any change of person. Book Bible v2 row 08 
+Copy edit and Final cells, status line and 'Ch08 copy edit' block; card updated. Deliberately 
+not done: N1, N2, N4, N6, N7 (author's); no edit inside flagged sentences (47 'My thesis 
+began', 57 'like abusing', 51 'cure point' offered as questions); no commit. For the author: 
+change log questions 1-8 block the final (13 flags, clinician and four treatment lines, 
+traditions, addiction and sin, RCCG naming, story, cut list, read-aloud); 9-17 optional. For 
+the orchestrator: approved ch07 line 21 'evangelical' lower case vs ch06/ch08 'Evangelical'.
