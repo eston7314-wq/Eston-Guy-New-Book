@@ -2364,3 +2364,13 @@ co-authors' backgrounds added in his words, 'peer-reviewed' kept, 'widely cited'
 spans unchanged, 0 flags, build grep clean, 66 comments. Words 3,673 -> 3,906 (main 3,450). Cut 
 list 43 rows, all decided. Open: read-aloud; Jakes; approved ch04 line 23 still promises the 
 'weak faith' misuse that ch07 no longer states. Not committed.
+
+### 2026-11-24 · chapter-writer · author-answers · ch07
+Follow-up, 2026-11-24: author's 'avoid naming T. D. Jakes' applied: line 21 now 'Later, 
+televangelists and megachurch leaders helped spread the movement across North America, Latin 
+America, Africa, Asia and the Caribbean.' (his wording); cut-list row 44 'T. D. Jakes named by 
+author, removed at his request, 2026-11-24; decision: cut'; change log D10; open-claims 118 and 
+Book Bible updated (Jakes not to be named in any chapter). Correction to the previous entry's 
+line numbers: the paragraphs after the new prosperity-gospel paragraphs are two lines lower: 
+sectioning sentence line 37, woman's paragraph 61, Asamoah 71, 'modern living' 75, 'has been 
+learned' 63 (change log and card corrected). Cut list 44 rows, all decided; flags 0.
