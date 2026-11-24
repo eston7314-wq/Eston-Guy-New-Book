@@ -2348,3 +2348,19 @@ Author (2026-11-24): prosperity gospel passage (Britannica, as he reports it) pl
 that it benefits a few; cut the weak-faith link; keep 'an experience of modern living'; 'has 
 been learned'; keep row 17; add researchers' backgrounds; split the sectioning sentence; then 
 show full chapter.
+
+### 2026-11-24 · chapter-writer · author-answers · ch07
+Final set of the author's ch07 answers (2026-11-24), applied in place in 05-final/ch07. 1: 
+prosperity gospel flag (line 19) removed; two new paragraphs (280 words, lines 21-23) report 
+his Britannica passage in his voice (author-supplied, not looked up, open-claims 118), with 
+corrections Hagen to Hagin and Acres of Diamond to Acres of Diamonds, centuries in words, 'from 
+the 1950s to the 1970s', T. D. Jakes kept as he gave it (to raise with him); the 
+sin-and-illness point tied to John 9:2; his thesis's 'buffer against despair' framed as his 
+thesis beside his verbatim view. 2: the 'weak faith' sentence and flag cut (open-claims 115 cut 
+by author; cut-list row 42), join 'Her story does not set faith against doctors.' 3, 4: no 
+change. 5: row 17 keep, 'and the Gospels do not blame her for it' restored. 6: Asamoah 
+co-authors' backgrounds added in his words, 'peer-reviewed' kept, 'widely cited' cut (row 43). 
+7: line 35 sentence split, gloss wording kept. Final check: 0 But, 0 em dash, quoted and KJV 
+spans unchanged, 0 flags, build grep clean, 66 comments. Words 3,673 -> 3,906 (main 3,450). Cut 
+list 43 rows, all decided. Open: read-aloud; Jakes; approved ch04 line 23 still promises the 
+'weak faith' misuse that ch07 no longer states. Not committed.
