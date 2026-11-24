@@ -2438,3 +2438,26 @@ ch08-evidence.md (addendum, new table 4.1, section 9, N25, section 11), open-cla
 card, source-map and glossary network note (block resolved the same day). Not done: no 
 counter-evidence topic searches (4.2 list still for a later run), no content read, no commit. 
 For the author: pack question 1 stands (full references, or apply the ch07 cut rule).
+
+### 2026-11-24 · chapter-writer · consolidate · ch08
+Consolidated ch08 at 03-drafts/ch08-naming-the-sorrow.md with cut list ch08-cut-list.md (14 
+rows, undecided). Spine: thesis 2750-3057 in its own order of conditions, with 1151-1166. 
+Romans 12:2 quoted once (trauma); spent lines (3609-3615 ch03, 2016 ch04, three strands ch00, 
+Philippians 4:6-7 and Matthew 11:28-30 ch05, Galatians 6:2 ch06, ch01 71-75, ch07 spiritual 
+attack) called back, not restated. Shape as approved ch07: H1 'Chapter 8: ...', Part Three 
+content note pointing to the preface help lines and Appendix B, opens on ch07's hook, five 
+claim H2s, ends on 'Two subjects remain that the church has found hardest of all to speak of.', 
+closer Reflection and practice with the four sub-sections. Words without comments: 4,421 (main 
+3,982, closer 439); 3,804 without flag text; under the 4,600 budget, not padded. Flags: 
+UNVERIFIED 13 (open-claims 119-130, one per sentence, none softened, no citation cut); AUTHOR 
+TO CONFIRM 6 (treatment lines for anxiety and depression, trauma, addiction, psychosis; 
+traditions to name; addiction as sin against ch07's 'not moral failure', his words kept); 
+AUTHOR STORY NEEDED 1 (blueprint slot); open-claims 131 as an HTML comment on the whole 
+chapter. PTSD 'widespread ... due to' kept word for word, flagged with the ch01 line 75 
+tension, then a one-sentence ch01 callback moving the weight to untreated trauma. PTSD list 
+kept whole (17 items) as a box with a help pointer. Deliberately not done: no treatment, 
+symptom or programme detail added; no survey number; no participant material; T. D. Jakes not 
+named; Elijah, Legion and Matthew 4:24 not used; nothing committed. Book Bible v2 row 08 Draft 
+cell and 'Ch08 draft additions' block written; ch08 card updated. For the author: pack 
+questions 1-8, plus whether to keep the writer's 1 John 4:1 paragraph, 'many Africans' (3004), 
+the dropped 'abnormal' (2857) and the 'racial trauma' gloss.
