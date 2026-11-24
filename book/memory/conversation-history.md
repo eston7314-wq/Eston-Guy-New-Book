@@ -2342,3 +2342,9 @@ claim his description does not cover; biographies left out (orchestrator to ask)
 25 restored. Words 3,577 -> 3,673 (main 3,217). Flags: UNVERIFIED 1 (115), AUTHOR TO CONFIRM 1 
 (line 19). Left for him: 115, prosperity help/harm, 'modern living', 'has been'/'was' learned, 
 row 17, biographies, possible split of the 70-word line 33 sentence, read-aloud. Not committed.
+
+### 2026-11-24 · orchestrator · author-answers · ch07
+Author (2026-11-24): prosperity gospel passage (Britannica, as he reports it) plus his view 
+that it benefits a few; cut the weak-faith link; keep 'an experience of modern living'; 'has 
+been learned'; keep row 17; add researchers' backgrounds; split the sectioning sentence; then 
+show full chapter.
