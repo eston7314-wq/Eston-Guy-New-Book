@@ -2392,3 +2392,29 @@ checked against the repo final) renamed and moved to Final Approved; 2026-11-15 
 SUPERSEDED to Old Versions. Also filed ch06 (1IaiYV1H...) into Final Approved and moved a 
 duplicate ch06 copy to Old Versions. Still open from ch07: approved ch04 line 23 promises the 
 'weak faith' misuse that ch07 no longer states (to ask the author). Next: ch08.
+
+### 2026-11-24 · book-researcher · research · ch08
+Mode A pack for ch08 at 02-research/ch08-evidence.md in the ch07 shape, after ch07's approval: 
+85 rows (N1-N27, C1-C58) over 2746-3058, 1151-1166, 3609-3615, 2016. 56 of 58 claims 
+thesis-supported (14 resting in part on an unconfirmed citation, attribution or prevalence); 
+all 9 outside citations (Harding 2017, Baker and Bell 2020, Bryant and Peck 2015, Norris and 
+Walters 2019, Madhav 2015, Williams R. 2018, Gibson 2017, Johnson M. 2020, the 'NCI' 
+definition) absent from the bibliography and NOT searchable: Crossref, OpenAlex, doi.org and 
+Open Library all refused by the session proxy (CONNECT 403, policy); not retried or routed 
+around. KJV re-read in the three ch07 copies (same md5s), all agree; 6 thesis slips corrected 
+(Philippians 4:6 comma; Romans 12:2 at 2865 and 1151; Romans 12:1-2 'the mercies', 
+'reasonable', 'your mind', 'what is that good'; Matthew 11:30 'my burden'; Galatians 6:1 'such 
+an one'). Open-claims 119-131 added (9 citations; PTSD 'widespread ... due to the legacy of 
+slavery', which conflicts with approved ch01 line 75; 'most prevalent'; 4 unnamed attributions; 
+clinician review incl. the missing treatment lines). sources.md: no new rows (next 92); 12 rows 
+annotated as reused by title. Book Bible: v2 row 08 Research cell, 4 citation rows, Ch08 
+research block. Card ch08.md created; source-map, terms-glossary (6 rows plus network update) 
+and index updated. Found: 3609-3615 is already spent in ch03 line 57; 2016 in ch04 line 21; 
+Philippians 4:6-7 and Matthew 11:28-30 in ch05; the thesis names no treatment for any condition 
+though ch03, ch05 and ch07 promise ch08 will; addiction called 'sin' (2949-2951) against ch07's 
+'not moral failure'. Deliberately not done: no draft, no commit or push, no outside source 
+used, no clinical content supplied. For the author: pack questions 1-8 (citations or the ch07 
+cut rule; PTSD reframe; treatment lines and who the clinician is; clinical descriptions; naming 
+the Redeemed Christian Church of God; which traditions; addiction and sin; story). For the 
+orchestrator: restore the four lookup hosts before the ch08 fact check; approved ch04 line 23 
+promise still open from ch07.
