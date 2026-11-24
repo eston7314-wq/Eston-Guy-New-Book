@@ -11,6 +11,7 @@ infers goes under "Proposed" until the author confirms it.
 - Spelling and punctuation: British (proposed, awaiting confirmation)
 - Pronouns: he/him (author, 2026-11-10)
 - Never begin a sentence with "But"; use "On the contrary," instead (author, 2026-11-21, applies to every chapter). Scope as applied by the copy-editor: the book's own prose; KJV and other quotations stay word for word.
+- File handling (stated 2026-11-20): always move every final approved chapter or section into the Drive folder "Final Approved" as soon as it is made. Move superseded versions to "Old Versions". Approved Documents is for work in progress. See knowledge-notes/drive-folders.md. Keep things simple: the author finds multiple versions in one folder confusing.
 
 ## Voice (observed in the author's drafts)
 

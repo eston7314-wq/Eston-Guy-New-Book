@@ -1,5 +1,6 @@
 # Conversation history
 
+<<<<<<< HEAD
 Append-only log of every agent run and every orchestrator decision. Newest at the bottom. Use
 `scripts/memory-log.sh` so entries stay uniform. Tag format: `[agent] [stage] [chNN|book]`.
 
@@ -2374,3 +2375,16 @@ Book Bible updated (Jakes not to be named in any chapter). Correction to the pre
 line numbers: the paragraphs after the new prosperity-gospel paragraphs are two lines lower: 
 sectioning sentence line 37, woman's paragraph 61, Asamoah 71, 'modern living' 75, 'has been 
 learned' 63 (change log and card corrected). Cut list 44 rows, all decided; flags 0.
+=======
+Append-only log of every agent run. Written by `scripts/memory-log.sh`. Never edit or delete
+past entries — only add new ones at the bottom.
+
+### 2026-11-20 · orchestrator · housekeeping · book
+Reorganised Google Drive at the author's request. Created 'Final Approved' and moved into it 
+the current approved versions of the Preface and Chapters 1 to 5. Created 'Old Versions' and 
+moved all 15 SUPERSEDED files into it. Approved Documents now holds the drafts for Chapters 6 
+to 11 and the Afterword, the planning documents, and a duplicate 'Preface (approved, current)' 
+that is waiting on the author's decision. Standing rule from the author: always file final 
+approved versions in Final Approved. Recorded in knowledge-notes/drive-folders.md and 
+user-profile.md. Chapter 6 is still a draft and has not been approved.
+>>>>>>> origin/claude/busy-fermi-76dlm6
