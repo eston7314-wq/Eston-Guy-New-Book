@@ -2531,3 +2531,26 @@ inside flagged sentences, his thesis wording ('unique challenges and opportuniti
 'I wrote' still 17 (mostly in flagged citation sentences; re-count if he cuts them). Book 
 Bible: row 08 Dev edit cell, Humanize status line, 'Ch08 humanize pass' block; card updated. No 
 commit. For the author: changes 1 and 4 for his ear, plus all open pack and memo questions.
+
+### 2026-11-24 · book-researcher · factcheck · ch08
+Mode B fact check of 04-edited/ch08-naming-the-sorrow.md (after story pass, dev edit, 
+humanize); report 02-research/ch08-factcheck.md, 141 rows in the ch07 shape, under the author's 
+2026-11-11 rules. KJV: GITenberg #10, thiagobodruk and scrollmapper downloaded with the pack's 
+md5s; all 19 scripture spans exact in all three and in the cited verse, incl. the story pass's 
+Psalm 42:5 and Luke 24:14, 17, 21; Emmaus paraphrase faithful to 24:13-31 (24:25 not hidden); 
+Romans 12:2 quoted once, Galatians 6:2 not quoted. Thesis: 58 rows supported at the lines 
+cited; 1 corrected in place: line 13 'They were four:' -> 'This chapter takes four of them:', 
+because the thesis names seven conditions (2753-2755) and its closer examination runs to six 
+subsections (3.6.2.4b-3.6.2.9, suicide and domestic abuse being ch09's). Callbacks to ch00, 
+ch01 (incl. D7's ch01 line 75 wording and cut-list row 1), ch03-ch07 all accurate; no invented 
+person, case, study or statistic; no survey figure. 13 [UNVERIFIED] kept (open-claims 119-130), 
+6 [AUTHOR TO CONFIRM] and the story slot kept; 0 flags added or removed; byte checks: 55 
+comments, 38 spans, 42 parentheses, H1 and all flags identical; words 4,480 -> 4,483. Lookup 
+services not called (no new work, no fuller references from the author). Updated: open-claims 
+119-131 (fact-check note, status unchanged; next row 132), sources.md 33, 92, 93 (next row 94), 
+Book Bible v2 row 08 Research cell, KJV for ch08 row and a 'Ch08 fact check' block, ch08 card, 
+source-map, terms-glossary and the notes index. Not done: no re-search, no flag resolved, no 
+clinical content, no commit. For the author: pack questions 1-8, the line 13 correction, notes 
+N1 ('demonstrates'), N2 (Emmaus 'two of them', 24:32), N3 ('may confess' hedge at line 43), N4 
+(D8 move); for the copy editor: N5 (lines 61, 71 thesis reports in book voice), N6 (line 85 
+rests on the four treatment flags), N7.

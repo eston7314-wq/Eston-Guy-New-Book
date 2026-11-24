@@ -94,3 +94,5 @@ Update (ch08 research, book-researcher, 2026-11-24): **all four lookup services 
 
 Update (ch08 research lookups, book-researcher, later on 2026-11-24): **the block above was resolved the same day.** The coordinator moved the session to a network that allows the four services; api.crossref.org, api.openalex.org (free search and `raw_author_name.search` filter with `publication_year` and `title_and_abstract.search`), doi.org handle API and openlibrary.org all answered HTTP 200, with no 429. If a run starts on a network that refuses them, record it, ask the orchestrator, and re-run when they are restored, as here.
 
+
+Update (ch08 fact check, book-researcher, 2026-11-24): GITenberg mirror of #10 (md5 f14e91c9...), thiagobodruk (d0e1e9e0...) and scrollmapper (b674a783...) all downloaded (200) and agreed on every ch08 verse; the 66-line "1:1 " book split again gave 31,102 verses. The four lookup services were not called (no new work in the chapter). KJV usage noted: Luke 24:13 calls the Emmaus pair "two of them", and "opened ... the scriptures" is 24:32, not 24:27; Psalm 42:5 "in me", 42:11 and 43:5 "within me".
