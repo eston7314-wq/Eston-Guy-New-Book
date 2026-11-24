@@ -2461,3 +2461,29 @@ named; Elijah, Legion and Matthew 4:24 not used; nothing committed. Book Bible v
 cell and 'Ch08 draft additions' block written; ch08 card updated. For the author: pack 
 questions 1-8, plus whether to keep the writer's 1 John 4:1 paragraph, 'many Africans' (3004), 
 the dropped 'abnormal' (2857) and the 'racial trauma' gloss.
+
+### 2026-11-24 · story-injector · story · ch08
+Story pass (Mode A) on 03-drafts/ch08-naming-the-sorrow.md, in place, after a pre-pass copy 
+(ch08-naming-the-sorrow.pre-story.md, cmp-identical, sha256 cf0134c2...6ba18); log 
+02-research/ch08-stories.md. Run on the ch03-ch07 rule. Changes: (1) opening sentence recast as 
+direct address ('You may remember the day a doctor first gave a name to something you had been 
+carrying ...') plus 'You may also remember how much harder it was to say that name at church.'; 
+'If you have ever' dropped (ch04-ch06 each used it), its idea kept; question now at sentence 3. 
+(2) new 47-word paragraph after James 1:2-4: Psalm 42:5 quoted to 'hope thou in God', 42:11 by 
+reference. (3) trauma paragraph split after 'cry from the cross.' (no word changed) with a new 
+113-word Emmaus paragraph (Luke 24:14, 24:17, 24:21 quoted; 24:16, 24:19-31 paraphrased; ends 
+'As I read it, a shaken faith can be walked with and heard before it is answered.'). Both 
+scriptures first use in the book (grep of 05-final ch00-ch07); KJV spans exact in the pack's 
+three copies (GITenberg #10 md5 f14e91c9, en_kjv, KJV.json). 0 composites, 0 hypotheticals, no 
+real case in the pack. Flags byte-identical and in order: UNVERIFIED 13, AUTHOR TO CONFIRM 6, 
+AUTHOR STORY NEEDED 1; all 39 earlier comments (clinician notes included) byte-identical, 3 
+added; notes block gets a Story pass bullet. Words: main 3,982 -> 4,160 (+4.5%), closer 439, 
+whole 4,421 -> 4,599 (under the 4,600 budget with flag text), 3,804 -> 3,982 without flag text. 
+Cut list unchanged, no row added (nothing from the source removed). Deliberately not done: no 
+addiction or psychosis scene (flagged sources; addiction-and-sin question open, so Peter's 
+restoration John 21 held back; 1 Samuel 3 would rule on voices; Genesis 9 rejected for the 
+curse-of-Ham reading); story slot not filled or touched; no survey figure, participant 
+material, clinical instruction or Jakes; no commit. Book Bible v2 row 08 Story pass cell and 
+'Ch08 story pass' block written; ch08 card updated. For the author: whether the new opening, 
+the Psalm 42 lines and the Emmaus last sentence sound like him; dev edit has no word room left 
+under 4,600 counting flag text.
