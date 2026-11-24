@@ -2509,3 +2509,25 @@ Deliberately not done: no author question resolved (PTSD and 'most prevalent' wo
 citations, treatment lines, traditions, addiction and sin, church naming, story); no DEV EDIT 
 or RESEARCH NEEDED flag; 1152-1166 paragraph and 1 John 4:1 paragraph kept; no commit. For the 
 author: pack questions 1-8; D7, D9, D5, D6 for his ear; cut-list rows 15-18.
+
+### 2026-11-24 · copy-editor · humanize · ch08
+Humanize pass on 04-edited/ch08-naming-the-sorrow.md, in place, after a pre-pass copy 
+(ch08-naming-the-sorrow.pre-humanize.md, cmp-identical, md5 58e15124...); log 
+04-edited/ch08-humanize-log.md; ch07 conventions. 4 prose changes, all in writer's or dev-edit 
+frames: line 29 D7 colon reveal 'and that is where this section puts its weight: on trauma' -> 
+'so this section puts its weight on trauma' (§4); line 51 'In my thesis I read the call to be 
+sober' -> 'I read the call ...' (§7, repeat of line 35's opener; thesis still named by 
+'Sobriety, I wrote'); line 55 second consecutive 'I wrote' -> 'I argued' (§7); line 77 
+'Chapter 6 called the pastor the first door.' -> 'Chapter 6 made a similar point when it called 
+the pastor the first door people knock on.' (§2, left to this pass by the dev memo; ch06 line 
+51 heading phrase). Plus the notes traceability line. Checked by script against the pre-pass 
+copy: H1, 13 [UNVERIFIED], 6 [AUTHOR TO CONFIRM], 1 [AUTHOR STORY NEEDED] byte-identical and in 
+order; 55 comments, 38 quoted spans (KJV word for word), 42 parentheses identical; 0 
+sentence-initial But outside KJV, 0 dashes, 0 Diaspora, 0 Jakes, no survey figure. Words 4,477 
+-> 4,480 (main 4,069 -> 4,072, closer 408); 3,860 -> 3,863 without flag text. Cut list 
+unchanged (18, all undecided): nothing of the author's removed. Deliberately not done: no edit 
+inside flagged sentences, his thesis wording ('unique challenges and opportunities', 
+'profound', 'resonates', 'In other words, many Africans'), KJV, the PTSD box or the story slot; 
+'I wrote' still 17 (mostly in flagged citation sentences; re-count if he cuts them). Book 
+Bible: row 08 Dev edit cell, Humanize status line, 'Ch08 humanize pass' block; card updated. No 
+commit. For the author: changes 1 and 4 for his ear, plus all open pack and memo questions.
