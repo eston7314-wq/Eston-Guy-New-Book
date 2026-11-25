@@ -2635,3 +2635,10 @@ Review copy of ch08 (author's answers applied; only the story slot open) uploade
 Approved Documents at the author's request: 1sttw-f_d-02H61qA8vN9fYWe9H4J7L3ARR2BDiJ4pzo, read 
 back and checked. 2026-11-15 draft 19pk3waJ... renamed SUPERSEDED to Old Versions. Not 
 approved; not in approved-documents register.
+
+### 2026-11-25 · orchestrator · author-decision · ch05
+Author (2026-11-25): reword approved ch05 line 77 to fit the no-treatment decision for 
+ch08/ch09. Now: 'chapter 8 takes each common condition in turn and sets out what faith offers 
+and where help can be found.' Change log ch05-changes.md updated. Drive: new copy 
+1zMaTZC74Rusx7UVE2pgQMj3NIibpobMnYKoEqQts-Kk in Final Approved, read back; 11AlmxhyfG... 
+renamed SUPERSEDED to Old Versions. Ch05 stays approved.

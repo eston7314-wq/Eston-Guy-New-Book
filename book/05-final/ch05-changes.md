@@ -215,3 +215,7 @@ Plain `wc -w` with HTML comments and the notes block removed (flag text included
 | 33 | 73 | "these studies show" | "these studies and this book show" | "change to 'these studies and this book.'" |
 
 Question 24 (thesis bibliography 69) concerns the thesis copy only; no book change. Questions 21-25 answered. Remaining: the author's read-aloud.
+
+### Author decision, 2026-11-25
+
+- Line 77: "and sets out what faith and treatment each offer." becomes "and sets out what faith offers and where help can be found." The author decided on 2026-11-25 that chapters 8 and 9 offer no treatment, only brief outlines of each condition and pointers to sources of help. He approved this rewording in chat.
