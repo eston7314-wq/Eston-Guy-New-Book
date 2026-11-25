@@ -2589,3 +2589,10 @@ addiction is an illness; name the Redeemed Christian Church of God; story to fol
 weak-faith line kept (reading to confirm); keep story-pass and writer additions; 'many people 
 of African heritage in the diaspora'; drop 'abnormal'; new PTSD wording; NICE/NCI/Canada 
 substance-misuse opening; review copy to Drive Approved Documents.
+
+### 2026-11-25 · orchestrator · drive-sync · ch07
+Approved ch07 line 21 'evangelical' -> 'Evangelical' (author 2026-11-25: capital E throughout 
+the book; the only lower-case use in ch00-ch07 finals). New Drive copy 
+1aidOnnaWFhzJUuM1Ares_M86Iwmy9uzyBaMYnjYoF6U in Final Approved via 
+scripts/chapter-to-drive-html.sh, read back; 1geS-Wbp... renamed SUPERSEDED to Old Versions. No 
+other wording changed.
