@@ -2629,3 +2629,9 @@ still promises 'what faith and treatment each offer'.
 ### 2026-11-25 · orchestrator · adjust · ch08
 Line 29: racial-trauma gloss moved to follow the author's three PTSD sentences, so his supplied 
 passage (answer K) is unbroken; no words changed. Change log updated.
+
+### 2026-11-25 · orchestrator · drive-review · ch08
+Review copy of ch08 (author's answers applied; only the story slot open) uploaded to Drive 
+Approved Documents at the author's request: 1sttw-f_d-02H61qA8vN9fYWe9H4J7L3ARR2BDiJ4pzo, read 
+back and checked. 2026-11-15 draft 19pk3waJ... renamed SUPERSEDED to Old Versions. Not 
+approved; not in approved-documents register.

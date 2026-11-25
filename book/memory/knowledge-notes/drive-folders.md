@@ -35,3 +35,5 @@ Chapters 6 to 11 and the Afterword are drafts for review (2026-11-15), held in A
 Final Approved now also holds Chapter 6 (1IaiYV1H..., approved 2026-11-21, moved in from Approved Documents) and Chapter 7 (1geS-Wbp..., approved 2026-11-24). Moved to Old Versions as SUPERSEDED: the Chapter 7 draft of 2026-11-15 (1HNa-YY5...) and a duplicate Chapter 6 copy made 2026-11-24 (1dwM8o4m..., same text as 1IaiYV1H...).
 
 2026-11-25: Chapter 7 re-uploaded to Final Approved (1aidOnna..., "Evangelical" capitalised); the 2026-11-24 copy 1geS-Wbp... renamed SUPERSEDED and moved to Old Versions.
+
+2026-11-25: Chapter 8 review copy (not approved) uploaded to Approved Documents at the author's request: "Chapter 8: Naming the Sorrow (draft for review, 2026-11-25; author's story to come)", 1sttw-f_d-02H61qA8vN9fYWe9H4J7L3ARR2BDiJ4pzo, built with scripts/chapter-to-drive-html.sh and read back. The 2026-11-15 draft 19pk3waJ... renamed SUPERSEDED and moved to Old Versions.
