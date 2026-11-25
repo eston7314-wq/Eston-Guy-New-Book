@@ -2596,3 +2596,36 @@ the book; the only lower-case use in ch00-ch07 finals). New Drive copy
 1aidOnnaWFhzJUuM1Ares_M86Iwmy9uzyBaMYnjYoF6U in Final Approved via 
 scripts/chapter-to-drive-html.sh, read back; 1geS-Wbp... renamed SUPERSEDED to Old Versions. No 
 other wording changed.
+
+### 2026-11-25 · chapter-writer · author-answers · ch08
+Applied the author's ch08 answers of 2026-11-25 (A-M) in place in 
+05-final/ch08-naming-the-sorrow.md (pre-answers copy .pre-author.md, md5 01cf31a46fd7; now 
+a671b3657006), on the ch07 method; change log 'Author's answers, 2026-11-25' D1-D26. A: no 
+treatment offered and no clinician review: whole-chapter clinician comment replaced by an 
+author-decision note, CLINICIAN notes scrubbed from 6 comments, the four treatment flags (25, 
+43, 65, 83) replaced by pointers (doctor or GP, psychiatric and psychological services, church, 
+preface, Appendix B); line 9 now 'This book does not set out to offer treatment for any of 
+these illnesses' and the landing (87) 'pointed to where help can be found' plus his purpose 
+(churches and services working closer); 'For clinicians' closer bullets kept (listening 
+points). B: 8 untraceable names (Harding, Baker and Bell, Bryant and Peck, Norris and Walters, 
+Madhav, Williams R., Gibson, Johnson M.) and 3 unnamed attributions cut with their flags, 
+points kept as his own account; NCI kept as the US National Cancer Institute, flag removed. C: 
+psychosis section keeps every thesis point. D: Pentecostal, Evangelical and Afro-Caribbean 
+Baptist named (51, 77; USA paragraph 61 keeps 'Baptist'), Church of England/Anglican and Roman 
+Catholic sentence added. E: 'Addiction is classified as an illness'; 'into sin, like abusing 
+substances' out. F: Redeemed Christian Church of God kept in full (his shorthand noted). G: 
+slot untouched. H: six additions marked author-approved; gloss with his comma. I, J done. K: 
+his PTSD wording; dev edit's 'Chapter 1 was more careful' dropped; duplicate referral sentence 
+at 33 removed; 'most prevalent' -> 'some people of African heritage experience'. L: his 
+UK/NICE/NCI/Canada definitions open the addiction section (NICE name corrected), open-claims 
+132 author-supplied, no flag. M: questions 9-17 untouched. Words 4,490 -> 4,225 (main 3,817, 
+closer 408). Flags: UNVERIFIED 0, AUTHOR TO CONFIRM 0, STORY 1. Cut list: row 7 cut, rows 19-33 
+added and decided; 1-6, 8-18 undecided. Updated open-claims 119-132, Book Bible v2 row 08, 
+status note and 'Ch08 author's answers' block, style sheet (Evangelical book-wide, NICE, NCI, 
+substance terms, church names), ch08 card. Not done: no commit; approved chapters untouched. 
+Open: story; rows 1-6, 8-18; read-aloud; double '(PTSD)' at 13 and 29; approved ch05 line 77 
+still promises 'what faith and treatment each offer'.
+
+### 2026-11-25 · orchestrator · adjust · ch08
+Line 29: racial-trauma gloss moved to follow the author's three PTSD sentences, so his supplied 
+passage (answer K) is unbroken; no words changed. Change log updated.
