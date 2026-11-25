@@ -2577,3 +2577,15 @@ began', 57 'like abusing', 51 'cure point' offered as questions); no commit. For
 change log questions 1-8 block the final (13 flags, clinician and four treatment lines, 
 traditions, addiction and sin, RCCG naming, story, cut list, read-aloud); 9-17 optional. For 
 the orchestrator: approved ch07 line 21 'evangelical' lower case vs ch06/ch08 'Evangelical'.
+
+### 2026-11-25 · orchestrator · author-answers · ch08
+Author's ch08 answers (2026-11-25), recorded in user-profile decisions log: no treatment 
+offered in ch08/ch09, only brief outlines and pointers to help (churches; medical, psychiatric, 
+psychological services); no clinician review (open-claims 131 closed by author); untraceable 
+citations: cut names, keep points as his own; psychosis section must not look weak; name 
+Pentecostal, Evangelical, Afro-Caribbean Baptist, and note Church of England/Anglican and Roman 
+Catholic attendance; Evangelical capital E book-wide (ch07 line 21 corrected by orchestrator); 
+addiction is an illness; name the Redeemed Christian Church of God; story to follow; ch04 
+weak-faith line kept (reading to confirm); keep story-pass and writer additions; 'many people 
+of African heritage in the diaspora'; drop 'abnormal'; new PTSD wording; NICE/NCI/Canada 
+substance-misuse opening; review copy to Drive Approved Documents.
