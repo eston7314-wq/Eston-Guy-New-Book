@@ -226,7 +226,7 @@ Each example is used once. If you need it again, refer back to it by name.
 | 05 | Casting Your Cares: Prayer, Scripture and Worship | done | | | | | | |
 | 06 | A Family House: The Church as Community | done | | | | | | |
 | 07 | When Faith Becomes a Burden: Guilt, Demons and Stigma | done | | | | | | |
-| 08 | Naming the Sorrow: Anxiety, Depression, Trauma, Addiction and Psychosis | done | done (v2 table) | done | done | done | done | not final: 0 flags since the author's story (2026-11-26), but (cut list rows 1-6, 8-18 unsigned; story questions S1-S19; read-aloud) |
+| 08 | Naming the Sorrow: Anxiety, Depression, Trauma, Addiction and Psychosis | done | done (v2 table) | done | done | done | done | **APPROVED 2026-11-26** (0 flags; cut list 33/33 decided; story answers applied; author read and approved) |
 | 09 | The Hardest Conversations: Suicide and Domestic Abuse | done | | | | | | |
 | 10 | The Church and the Clinic | done | | | | | | |
 | 99 | Afterword: Your Fortress, Not Your Prison | done | | | | | | |
