@@ -1,4 +1,4 @@
-**Not final** (updated 2026-11-25, after the author's answers): AUTHOR STORY NEEDED 1 (his anonymised story "will follow"), UNVERIFIED 0, AUTHOR TO CONFIRM 0, COPY EDIT 0, DEV EDIT 0, RESEARCH NEEDED 0; clinician review closed by the author ("No clinician will review these chapters"; open-claims 131). Cut list 33 rows: 16 decided (7, 19-33), 17 undecided (1-6, 8-18). The build's flag grep still stops on the story slot. Awaiting the story, cut-list rows 1-6 and 8-18, the optional questions 9-17 and his read-aloud; not approved. Pre-answers copy: `05-final/ch08-naming-the-sorrow.pre-author.md` (md5 01cf31a46fd7, identical to the copy-edit output).
+**Not final** (updated 2026-11-26, after the author's story; cut list 33/33 decided 2026-11-26): AUTHOR STORY NEEDED 0 (his story is in, lines 89-99), UNVERIFIED 0, AUTHOR TO CONFIRM 0, COPY EDIT 0, DEV EDIT 0, RESEARCH NEEDED 0; clinician review closed by the author ("No clinician will review these chapters"; open-claims 131). The build's flag grep now finds nothing in ch08. Cut list 33 rows: 16 decided (7, 19-33), 17 undecided (1-6, 8-18): **the cut list is unsigned, so the chapter is not final.** Awaiting cut-list rows 1-6 and 8-18, his answers to the story questions S1-S19 (each can be "keep"), the optional questions 9-17 and his read-aloud; not approved. Pre-answers copy: `05-final/ch08-naming-the-sorrow.pre-author.md` (md5 01cf31a46fd7, identical to the copy-edit output).
 
 # Ch08 change log: Naming the Sorrow: Anxiety, Depression, Trauma, Addiction and Psychosis
 
@@ -209,3 +209,79 @@ Applied by chapter-writer on 2026-11-25 in `05-final/ch08-naming-the-sorrow.md`,
 ### Orchestrator adjustment, 2026-11-25
 
 - Line 29: the racial-trauma gloss ("By racial trauma, I mean the harm done by the racism many of us still meet.") moved from between the author's first and second PTSD sentences to just after his third, so his three-sentence passage (answer K) stands unbroken and word for word. No words changed.
+
+## Author's story, 2026-11-26
+
+Targeted revision by copy-editor, 2026-11-26, on the ch06 method (`05-final/ch06-changes.md`, "Author's story, 2026-11-19"). Not a full copy edit. Source: `book/source/author-stories/ch08-spiked-drink-2026-11-26.md` (his words, verbatim, six paragraphs, 488 words as typed). The story is his testimony (CLAUDE.md fact-checking rule 3): not fact-checked, not flagged. **No permission to tidy has been given** (the ch04 and ch06 permissions were one-time): his words, word order, grammar and paragraphs stand as given. Anonymised as he gave it: no names; "London" and "the district where he lived" only. File before: md5 df49b670c315 (HEAD e1e07e6; `git show HEAD:book/05-final/ch08-naming-the-sorrow.md` restores it); after: md5 80820affc79d. No backup copy in `05-final/`.
+
+### Summary (three lines)
+
+His story fills the slot in the last main section, "Faith helps most when it walks with treatment": a source comment, then his six paragraphs (lines 89-99), after the landing paragraph (87) and before "Where to find that help ..." (101).
+Changes to his text are mechanical only: 8 double spaces collapsed; "christian" to "Christian"; "coca cola" (twice) and "Coca Cola" (once) to "Coca-Cola"; "mum" to "Mum" (once). One bridging sentence of the editor's, for his ear. Every other possible fix is a question below (S1-S19), none applied.
+Words (comments removed): 4,225 -> 4,696 (main 3,817 -> 4,288, closer 408): minus 26 words of slot text, plus 485 of his story (488 as typed; "Coca Cola" three times becomes one hyphenated word) and 12 of the bridge. Over the 4,600 budget by 96 words; his story is not trimmed for it (his words, no tidy permission). Flags: 0.
+
+### What changed in the file
+
+| # | Line | Original | Revision | Why | To reverse |
+|---|---|---|---|---|---|
+| 1 | 89 | The story slot and its two notes (below, byte for byte) | One comment recording the source, his testimony, no tidy permission, the mechanical fixes, anonymity and the spiked-drink framing rule; then his story, six paragraphs (lines 89, 91, 93, 95, 97, 99) | The author supplied his story, 2026-11-26 | Delete lines 89-100 and put back the old line 89 |
+| 2 | 87 (end, after the comments) | "... support mental health and well-being." | "... support mental health and well-being. In one family's emergency, prayer and hospital care walked side by side." plus a comment marking it as the editor's | **Editor's bridging sentence, not his; for his ear** (the one sentence allowed). "walked" picks up the heading ("walks with treatment"). It adds no fact: the aunt's prayer and his mother's faith, and 999, A&E, the doctor, the nurse, the blood test and the treatment, are all in his story. It does not call the young man an addict or a substance misuser, passes no judgement on the parents' decision and gives no advice. Placed after the landing paragraph, not inside his first paragraph, so his paragraphs stay his. No bridge after the story: it ends on his own last sentence, with no moral added | Delete the sentence and its comment |
+| 3 | 89-99 | "had  attended"; "understand  what"; "him.  Mum"; "ambulance.  As"; "christian,  called"; "who  took"; "he  complained"; "of  blurred" | single spaces | Mechanical (typing): no word changed | Put the double spaces back |
+| 4 | 93 | "As they travelled, mum, an ardent christian, called her sister" | "As they travelled, Mum, an ardent Christian, called her sister" | House style: "Christian" always takes the capital (a proper adjective and noun, as everywhere in the book); "Mum" matches his own "Mum and Dad" (twice, lines 91 and 93), where he uses it as a name. Mechanical by the story file's notes and the brief | "mum", "christian" |
+| 5 | 89, 91, 95 | "a small bottle of coca cola"; "half of the Coca Cola"; "a bottle of coca cola" | "Coca-Cola" in all three | Made consistent: the brand's own form, capitals and hyphen (proper names keep their own spelling, style sheet). Mechanical by the story file's notes and the brief | Put his three forms back |
+
+Checked by script: his story and the printed text have the same 485 words in the same order (after the space and Coca-Cola joins), the only differences being "mum," to "Mum," and "christian," to "Christian,". His quotation marks, his ellipsis ("drugs..."), his "However," and every comma are as he typed them, including "he felt, dizzy" (question S2).
+
+The old line 89, byte for byte (the slot and its two notes, removed with the slot):
+
+`[AUTHOR STORY NEEDED: a pupil, relative or church member (anonymised, with consent) whose recovery from depression, addiction or psychosis drew on both church and professional care]<!-- note: story slot as the blueprint and brief give it, word for word; it must prove that recovery can draw on both church and clinic. No composite, no participant material (config rule 10); no story in book/memory/author-stories/ fits (pack 1.7). If he tells another person's story: anonymous and with consent, and no island, village, church or person named or identifiable (his ch06 rule). Do not invite trauma disclosures. Placed in the landing section, where the pattern needs a life to show it --><!-- author 2026-11-25 (answer G): "My anonymised story ... will follow." Slot left exactly as it is -->`
+
+**Humanizer check (rule 11) on the new text:** our prose added is one sentence and two comments. The bridge has 0 dashes, no "But", no serial comma, no triad, no not-X-but-Y; it is a plain statement that leads into the story, not a run-up or a one-line closer. His story is his testimony and was not humanized. Whole chapter: 0 em or en dashes, 0 curly quotes, 0 sentence-initial "But" in our prose (James 1:4's "But" is KJV), 0 "Diaspora", 0 lower-case "evangelical". All text outside lines 87 (end) and 89-99 is byte-identical to HEAD (checked by script: lines 1-86 and the tail from "Where to find that help" on); 82 comments (2 removed with the slot, 2 added); every KJV span unchanged.
+
+### Consistency decisions (also in the Book Bible and `book/style-sheet.md`)
+
+1. **Three house-style mechanics are allowed inside an untidied author's story** (amends the ch06 rule that every capital is a question): "christian" to "Christian"; a brand name made consistent in its owner's form ("Coca-Cola"); "Mum" and "Dad" capitalised where he uses them as names, to match his own majority form. Each is logged with his original. Everything else (tense, "may"/"might", word choice, commas, agreement, sentence length) stays a numbered question. Source: the story file's notes for agents (2026-11-26) and the orchestrator's brief of 2026-11-26.
+2. **"Coca-Cola"**, capital C twice and a hyphen, in every chapter (the brand's form; proper names keep their own spelling).
+3. **The ch08 story is anonymous and is a spiked drink, not addiction:** never name or identify the young man, his family, the friend, the party, the district or the hospital, in any chapter, blurb or marketing; no framing anywhere calls him an addict or a substance misuser, judges his parents' decision not to report to the police, or adds advice about it.
+
+### Questions for Eston: suggested wording fixes (none applied)
+
+Each is your choice. "Keep" leaves your words exactly as they are. Line numbers are the chapter's.
+
+| # | Line | Your words | Suggestion | Why |
+|---|---|---|---|---|
+| S1 | 89 | "A young undergraduate in London recalled that he had unwittingly taken home a small bottle of Coca-Cola that was given to him as surplus at a friend's birthday party that he had attended on a Saturday evening, in the district where he lived before going off to university." | keep, or split in two: "A young undergraduate in London recalled a Saturday evening at a friend's birthday party in the district where he had lived before going off to university. He had unwittingly taken home a small bottle of Coca-Cola that had been given to him as surplus." | Sentence length: 47 words with three "that" clauses; read aloud, the listener has to hold the bottle, the party and the district at once. Your choice entirely |
+| S2 | 91 | "he felt, dizzy and unsteady" | "he felt dizzy and unsteady" | The comma separates the verb from what he felt. Proposed only; the style sheet has no rule that covers it |
+| S3 | 89 | "that was given to him as surplus" | "that had been given to him as surplus" | Tense: it was given before he took it home ("had ... taken"), so the past perfect keeps the order clear |
+| S4 | 89 | "the district where he lived before going off to university" | "the district where he had lived before going off to university" | Tense, as S3: he is at university when he recalls it. If he still lived there in the holidays, "where his family lived" may say what you mean. Meaning question |
+| S5 | 93 | "anything that may help to show why" | "anything that might help to show why" | In a past-tense account "might" is the usual form |
+| S6 | 93 | "the young man may have had some serious health condition" | "the young man might have had a serious health condition" | "might" as S5; "a serious" reads more plainly than "some serious" |
+| S7 | 99 | "to determine who may have spiked his drink" | "to determine who might have spiked his drink" | As S5 |
+| S8 | 93 | "As the boy's condition worsened" | "As the young man's condition worsened" | Elsewhere he is "the young man", "their son" and "the patient"; "the boy's" is the only "boy". Keep if you mean the tenderness of a parent's view |
+| S9 | 93 | "Dad called 999, and agreed to take him to the Accident and Emergency Department" | your choice of wording; e.g. "Dad called 999 and was told he could take him ..." or "Dad called 999, and then decided to take him ..." | Meaning question: who agreed with whom? "agreed to take him" suggests the 999 call handler and Dad agreed together that he would drive him; please say which, and the sentence can follow your words. The comma before "and" is also not needed (one subject, two verbs) |
+| S10 | 93 | "the Accident and Emergency Department of their nearest hospital" | keep, or "the accident and emergency department" | Style point only: the book lower-cases generic departments and roles; the capitals are common usage in the NHS, so "keep" is fine |
+| S11 | 93 | "his speech was slurred and he reported that he did not understand" | keep, or "he said that he did not understand" | "reported" sits oddly for a young man speaking to his parents; optional |
+| S12 | 95 | "The nurse assisted the doctor who took information from the parents as part of their investigation." | "The nurse assisted the doctor, who took information from the parents as part of their investigation." | Without the comma it can read as "the doctor (the one who took information)", as if there were several. "their investigation": the doctor's and nurse's, as I read it; say if you mean otherwise |
+| S13 | 95 | "taking drugs..."" | "taking drugs ..."" | Spacing only: the book's ellipsis has a space before it. Your quotation marks and words stay |
+| S14 | 97 | "to prevent further adverse effect of the drug" | "to prevent further adverse effects of the drug" | Plural is the usual form |
+| S15 | 97 | "a test of the remaining content of the bottle" | "a test of the remaining contents of the bottle" | "contents" for what is in a bottle |
+| S16 | 97 | "The blood test revealed that the young man had traces of an illegal substance in his blood." | keep, or "The blood test revealed traces of an illegal substance." | "blood test ... in his blood" says "blood" twice; optional |
+| S17 | 89, 95 | "recalled" (89, the young man) and "Dad recalled" (95) | keep | For your ear only: the story opens with the young man recalling and later Dad recalls; both are right, but you may want one of them to be "remembered" |
+| S18 | 99 | "They were very disappointed with their son's lack of "diligence"" | keep, or "disappointed in their son's lack of "diligence"" | "disappointed in" (a person's conduct) is the more usual British pairing; optional |
+| S19 | 87 | The editor's bridging sentence, "In one family's emergency, prayer and hospital care walked side by side." | keep, reword or delete | Not your words. It joins the landing to your story. Nothing else was added: the book says nothing about reporting a spiked drink to the police, and no advice; if you want the chapter to say anything about that, please give the words |
+
+**Also for your ear (not in your story):** line 101 begins "Where to find that help differs from country to country". "that help" pointed back to "where help can be found" in line 87; your story now stands between. It still reads, since the story ends in hospital care, but "Where to find help differs ..." would make the link plain. Not changed (the brief: all text outside the story unchanged); keep or change?
+
+### Counts after this revision
+
+- Words, all HTML comments removed (python, non-greedy; flag text included, as before): **4,225 -> 4,696 (+471)**: main 3,817 -> 4,288, closer 408 unchanged. Budget 4,600: over by 96; nothing of his cut.
+- Flags in the text, comments included (the build's pattern `\[(UNVERIFIED|AUTHOR STORY NEEDED|DEV EDIT|RESEARCH NEEDED|COPY EDIT)`): **0** (was 1). `[AUTHOR TO CONFIRM]` in the prose: 0 (one historical mention survives inside a line 41 comment, unchanged).
+- HTML comments 82 (2 removed, 2 added). Lines 120 -> 130. 0 dashes, 0 curly quotes.
+
+**Files also updated:** Book Bible (consistency decision; v2 row 08; chapter status row 08; "Ch08 author's story" block); `book/style-sheet.md` (Author's stories); `memory/context-cards/ch08.md`; history entry.
+
+**What Eston must do to make ch08 final:** decide cut-list rows 1-6 and 8-18; answer S1-S19 (each can be "keep") and the line 101 question; the optional questions 9-17; read the whole chapter aloud, the story included.
+
+### Orchestrator note, 2026-11-26
+
+Cut list: the author decided all remaining rows on 2026-11-26 ("cut all that were left out"). Rows 1-6 and 8-18 are cut; all 33 rows are now decided. This supersedes the "cut-list rows 1-6 and 8-18 undecided" lines above. Still open: S1-S19, the line 101 question, optional questions 9-17 and the read-aloud. Length: 4,696 words, 96 over the 4,600 budget, because of the author's story; nothing trimmed.

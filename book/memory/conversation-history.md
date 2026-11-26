@@ -2654,3 +2654,30 @@ words as given, propose fixes as questions. Cut-list rows 1-6, 8-18 still undeci
 ### 2026-11-26 · orchestrator · cut-list · ch08
 Author (2026-11-26): 'cut all that were left out'. Ch08 cut-list rows 1-6 and 8-18 marked cut; 
 with row 7 and 19-33 already cut, all 33 rows decided. Decisions log updated.
+
+### 2026-11-26 · copy-editor · author-story · ch08
+Inserted the author's spiked-drink story 
+(book/source/author-stories/ch08-spiked-drink-2026-11-26.md, his testimony, rule 3: not 
+fact-checked or flagged) into 05-final/ch08-naming-the-sorrow.md in place (md5 df49b670c315 = 
+HEAD e1e07e6 -> 80820affc79d; no backup in 05-final), on the ch06 2026-11-19 method. The 
+[AUTHOR STORY NEEDED] slot and its two notes (old line 89, kept byte for byte in the change 
+log) became one source comment and his six paragraphs (89-99), in 'Faith helps most when it 
+walks with treatment', after the landing (87) and before 'Where to find that help' (101). NO 
+tidy permission: mechanical fixes only: 8 double spaces collapsed; 'christian' -> 'Christian'; 
+'coca cola' x2 and 'Coca Cola' x1 -> 'Coca-Cola'; 'mum' -> 'Mum' x1 (his 'Mum and Dad'); 
+script-checked: same 485 words in order, only those two case changes. 'he felt, dizzy' comma 
+and his 'However,' kept. One editor's bridge for his ear, appended to line 87: 'In one family's 
+emergency, prayer and hospital care walked side by side.' (no addict/misuser framing, no 
+judgement of the police decision, no advice); none after the story. All other lines 
+byte-identical to HEAD; 82 comments; 0 dashes, curly quotes, sentence-initial But in our prose, 
+Diaspora, lower-case evangelical. Flags 1 -> 0 (build grep clean). Words 4,225 -> 4,696 (main 
+4,288, closer 408; 96 over the 4,600 budget, story not trimmed). Change log: status line (not 
+final: cut list unsigned) and 'Author's story, 2026-11-26' with S1-S19 questions (sentence 
+length; comma; tenses; may/might x3; the boy's; who 'agreed to take him'; A&E capitals; 
+reported; doctor comma and 'their investigation'; ellipsis spacing; effects; contents; blood 
+twice; recalled twice; disappointed in; the bridge) plus line 101 'that help' antecedent; none 
+applied. Decisions (style sheet, Book Bible): three mechanics allowed in untidied stories 
+(Christian, brand form, Mum/Dad as names); 'Coca-Cola' book-wide; ch08 story anonymous and not 
+addiction. Book Bible: decision, stories table, status row 08, v2 row 08, 'Ch08 author's story' 
+block. Card and authors-voice note updated. Not done: no commit; no fact check; cut list, 
+user-profile, Drive untouched. For Eston: cut-list rows 1-6, 8-18; S1-S19; line 101; read-aloud.

@@ -64,3 +64,10 @@ Stub. State the source and date of anything you add. Undated entries are untrust
 - Glosses a term in brackets at first use: "spiritual warfare (fight against evil forces or demons)" (2637-2638). The draft keeps the gloss as his.
 - His strongest lines here are verdict sentences with a semicolon and "rather": "mental illness is not moral failure; rather, it is an experience of modern living ..." (4942-4944), and the "The same faith that uplifts, can, if misapplied, restrain" sentence (4896-4898), which uses a dash and a serial comma. Quote them whole.
 - Paragraph openers in this section: "Above all", "Furthermore", "For example", "Consequently", "Customarily", "Increasingly", "One recalls that". The draft keeps "Increasingly" only.
+
+## His told stories about other people (copy-editor, 2026-11-26, ch08 spiked-drink story)
+
+- Source: book/source/author-stories/ch08-spiked-drink-2026-11-26.md, his words as typed.
+- He tells another person's story in the third person, framed by "recalled", with family roles as names ("Mum and Dad"), a formal clinical register ("Accident and Emergency Department", "hospital personnel", "appropriate treatment") and the family's own sayings in quotation marks ("God should be the judge.").
+- His typed habits to expect: double spaces; "may" where a past account would take "might"; a comma between a verb and its complement ("he felt, dizzy"); long opening sentences with stacked "that" clauses. Without a tidy permission these stay and go to him as questions.
+- He ends on the lesson the family drew, in their terms; the editor adds no moral after it.
