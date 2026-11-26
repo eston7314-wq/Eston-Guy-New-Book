@@ -181,3 +181,4 @@ infers goes under "Proposed" until the author confirms it.
 | 2026-11-25 | Ch08 substance misuse: open with the UK/NICE definitions, then the thesis's NCI definition, then Canada's person-first terms; the book uses "substance abuse" and "substance misuse" interchangeably and recognises each country's definition (author-supplied wording, not looked up) | ch08 |
 | 2026-11-25 | Put a review copy of ch08 in Drive "Approved Documents" | approved-documents.md |
 | 2026-11-25 | Approved ch05 line 77 reworded: "chapter 8 takes each common condition in turn and sets out what faith offers and where help can be found." (was "what faith and treatment each offer") | ch05 final and changes; Drive Final Approved |
+| 2026-11-26 | Ch08 cut list: "cut all that were left out": rows 1-6 and 8-18 cut (rows 7 and 19-33 already cut); all 33 rows decided | book/03-drafts/ch08-cut-list.md |
