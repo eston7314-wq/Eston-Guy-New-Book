@@ -2702,3 +2702,35 @@ chapter in chat. Final at book/05-final/ch08-naming-the-sorrow.md (4,703 words, 
 scripts/chapter-to-drive-html.sh, read back; review copy v2 renamed SUPERSEDED to Old Versions. 
 Next: ch09 (The Hardest Conversations: Suicide and Domestic Abuse; no treatment, no clinician, 
 per his 2026-11-25 decisions).
+
+### 2026-11-26 · book-researcher · research · ch09
+Mode A evidence pack for ch09 (The Hardest Conversations: Suicide and Domestic Abuse) written 
+to book/02-research/ch09-evidence.md in the ch08 shape, under the author's 2026-11-11 rules and 
+his ch08/ch09 decisions of 2026-11-25 (no treatment, no clinician, untraceable citations cut by 
+name with the point kept as his), on blueprint v2 lines 379-411 and thesis 3059-3591 plus 
+1315-1343, after ch08's approval. Read memory (incl. decisions of 2026-11-25 and 2026-11-26), 
+config, Book Bible, CLAUDE.md, humanizer skill and approved finals ch00-ch08 for spent lines. 
+113 rows (N1-N61, C1-C52): 49 of 52 claims thesis-supported (16 clean, 31 resting in part on 
+unconfirmed sources); of 53 outside sources 13 existence-confirmed and 40 unconfirmed. Not 
+found: Brittney Guary and Breaking Free (2023), the chapter's case; Pope 2016, Foley 2004, 
+Sweeney 2011, Molock 2005 (Molock et al. 2008 a candidate), Lund and Ross 2019 (it IS in the 
+bibliography, 77, contrary to the blueprint), Van der Meer 2012, Frazier 2014, Carter 2016, 
+Baldwin 2018. Found: Joe and Marcus 2003 (methods, to cut), Ialongo et al. 2004, O'Donnell et 
+al. 2004, Rubin, Billingsley and Caldwell 1994, the YRBS 2005 report, Augustine, Aquinas, the 
+Catechism, Nason-Clark's works, Watlington and Murphy 2006, Rogers and O'Brien 2021. 'Suicide 
+is a crime' cannot be confirmed or corrected under rule 2 (only works titled 'Suicide Act 1961' 
+and Lester 1992 on Canada's decriminalisation exist by title): open-claims 4 updated. No 
+statistic confirmable; the thesis's own US figures contradict 'disproportionately high'; the 
+blueprint's three figures left to the author (NCHS 2023 report exists, not read). KJV re-read 
+in three copies (same md5s; parser fix for line-end verse numbers): Exodus 20:13 'kill' and 
+Colossians 3:18 'as it is fit' corrected; Malachi 2:16 'putting away' noted for 'God hates 
+divorce'. Safe messaging: methods 3179-3181 and 1322-1325 to cut; Matthew 27:5 and 1 Samuel 
+31:4 never quoted; content note repeats the preface help lines (not re-checkable; proof check 
+open). Open-claims 133-154 added (22; next 155); sources.md 94-118 added (25; next 119), 11 
+rows annotated; Book Bible v1 and v2 row 09 Research cells, five citation rows and a 'Ch09 
+research' block; card ch09 created; source-map, terms-glossary, notes index updated. Not done: 
+no draft, no commit, no outside finding described, no help line or statute added. Questions for 
+the author: 16 in pack section 10 (Brittney's source; figures in words only; quotations as in 
+thesis; suicide-crime sentences; Samaritans wording; App. B abuse helplines; BCDAF founder; 
+Bill 173 status; Augustine edition and 'early'; Molock 2008; CPS brackets; 'rising'; abuse 
+figures; two phrases; optional verses; assisted-dying paragraph).
