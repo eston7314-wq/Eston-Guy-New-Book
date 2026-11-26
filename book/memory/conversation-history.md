@@ -2686,3 +2686,10 @@ user-profile, Drive untouched. For Eston: cut-list rows 1-6, 8-18; S1-S19; line 
 Ch08 review copy with the author's story uploaded to Approved Documents: 
 1D3bG8iH8kUDDBNDISgZEKzX95krMf-VL77V84M8houY, read back. 2026-11-25 copy renamed SUPERSEDED to 
 Old Versions. Not approved.
+
+### 2026-11-26 · orchestrator · author-answers · ch08
+Author's story answers (2026-11-26) applied by orchestrator in 05-final/ch08: S1-S19 keep as is 
+(bridge kept); S9 sentence now 'Dad called 999, and agreed with the call handler that he would 
+drive his son to the Accident and Emergency Department of their nearest hospital himself, to 
+avoid an indefinite wait for an ambulance.'; may -> might three times in the story; line 101 
+'Where to find help'. 0 flags; cut list 33/33 decided. Awaits read-aloud and approval.

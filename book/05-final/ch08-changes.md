@@ -285,3 +285,10 @@ Each is your choice. "Keep" leaves your words exactly as they are. Line numbers 
 ### Orchestrator note, 2026-11-26
 
 Cut list: the author decided all remaining rows on 2026-11-26 ("cut all that were left out"). Rows 1-6 and 8-18 are cut; all 33 rows are now decided. This supersedes the "cut-list rows 1-6 and 8-18 undecided" lines above. Still open: S1-S19, the line 101 question, optional questions 9-17 and the read-aloud. Length: 4,696 words, 96 over the 4,600 budget, because of the author's story; nothing trimmed.
+
+### Author's answers to the story questions, 2026-11-26
+
+- S1-S19: "keep as is", except where his answers below say otherwise. The bridge sentence (S19) is kept.
+- S9 answered: Dad agreed with the 999 call handler that he would drive his son in himself. The sentence now reads: "Dad called 999, and agreed with the call handler that he would drive his son to the Accident and Emergency Department of their nearest hospital himself, to avoid an indefinite wait for an ambulance."
+- S5-S7: "might" rather than "may", at his request: "anything that might help to show why", "might have had some serious health condition", "who might have spiked his drink". Other "may" in the chapter, his thesis's present-tense hedges, are unchanged.
+- Line 101: "Where to find that help" becomes "Where to find help".

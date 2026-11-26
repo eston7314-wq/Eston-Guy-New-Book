@@ -182,3 +182,4 @@ infers goes under "Proposed" until the author confirms it.
 | 2026-11-25 | Put a review copy of ch08 in Drive "Approved Documents" | approved-documents.md |
 | 2026-11-25 | Approved ch05 line 77 reworded: "chapter 8 takes each common condition in turn and sets out what faith offers and where help can be found." (was "what faith and treatment each offer") | ch05 final and changes; Drive Final Approved |
 | 2026-11-26 | Ch08 cut list: "cut all that were left out": rows 1-6 and 8-18 cut (rows 7 and 19-33 already cut); all 33 rows decided | book/03-drafts/ch08-cut-list.md |
+| 2026-11-26 | Ch08 story questions: S1-S19 keep as is; Dad agreed with the 999 call handler to drive his son in himself (sentence reworded); "might" not "may" in the story; line 101 "Where to find help" | 05-final/ch08-changes.md |
