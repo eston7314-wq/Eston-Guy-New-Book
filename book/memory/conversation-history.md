@@ -2693,3 +2693,12 @@ Author's story answers (2026-11-26) applied by orchestrator in 05-final/ch08: S1
 drive his son to the Accident and Emergency Department of their nearest hospital himself, to 
 avoid an indefinite wait for an ambulance.'; may -> might three times in the story; line 101 
 'Where to find help'. 0 flags; cut list 33/33 decided. Awaits read-aloud and approval.
+
+### 2026-11-26 · orchestrator · approval · ch08
+Author approved ch08 (2026-11-26): 'Chapter 8 is Approved', after reading the full revised 
+chapter in chat. Final at book/05-final/ch08-naming-the-sorrow.md (4,703 words, 96 over the 
+4,600 budget because of his story), 0 flags, cut list 33/33 decided. Drive: approved copy 
+1sGBTCXum3XQuV3jdCw1uOyHdBAWub4TATpSBRTuS1k4 in Final Approved via 
+scripts/chapter-to-drive-html.sh, read back; review copy v2 renamed SUPERSEDED to Old Versions. 
+Next: ch09 (The Hardest Conversations: Suicide and Domestic Abuse; no treatment, no clinician, 
+per his 2026-11-25 decisions).

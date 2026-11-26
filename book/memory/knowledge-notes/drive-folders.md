@@ -43,3 +43,5 @@ Final Approved now also holds Chapter 6 (1IaiYV1H..., approved 2026-11-21, moved
 2026-11-26: Chapter 8 review copy with the author's story uploaded to Approved Documents (1D3bG8iH8kUDDBNDISgZEKzX95krMf-VL77V84M8houY, read back); the 2026-11-25 review copy 1sttw-f_... renamed SUPERSEDED and moved to Old Versions.
 
 2026-11-26 (later): Chapter 8 review copy v2 (story answers applied) uploaded to Approved Documents: 1mQazXP7Czscfsje-_3Oeag3i_PGJOxSCBDg4iuJeFYo; earlier 2026-11-26 copy 1D3bG8iH... renamed SUPERSEDED and moved to Old Versions.
+
+2026-11-26: Chapter 8 APPROVED; filed in Final Approved (1sGBTCXu..., read back). Review copy v2 1mQazXP7... renamed SUPERSEDED and moved to Old Versions. Final Approved now holds the Preface and Chapters 1 to 8.
