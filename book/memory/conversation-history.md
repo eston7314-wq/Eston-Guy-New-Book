@@ -2650,3 +2650,7 @@ calls her sister, who prays; blood test, treatment, discharge next afternoon; pa
 to report to police ('God should be the judge'). Saved verbatim to 
 book/source/author-stories/ch08-spiked-drink-2026-11-26.md. No tidy permission: insert his 
 words as given, propose fixes as questions. Cut-list rows 1-6, 8-18 still undecided.
+
+### 2026-11-26 · orchestrator · cut-list · ch08
+Author (2026-11-26): 'cut all that were left out'. Ch08 cut-list rows 1-6 and 8-18 marked cut; 
+with row 7 and 19-33 already cut, all 33 rows decided. Decisions log updated.
