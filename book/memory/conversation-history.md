@@ -2681,3 +2681,8 @@ applied. Decisions (style sheet, Book Bible): three mechanics allowed in untidie
 addiction. Book Bible: decision, stories table, status row 08, v2 row 08, 'Ch08 author's story' 
 block. Card and authors-voice note updated. Not done: no commit; no fact check; cut list, 
 user-profile, Drive untouched. For Eston: cut-list rows 1-6, 8-18; S1-S19; line 101; read-aloud.
+
+### 2026-11-26 · orchestrator · drive-review · ch08
+Ch08 review copy with the author's story uploaded to Approved Documents: 
+1D3bG8iH8kUDDBNDISgZEKzX95krMf-VL77V84M8houY, read back. 2026-11-25 copy renamed SUPERSEDED to 
+Old Versions. Not approved.
