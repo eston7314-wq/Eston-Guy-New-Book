@@ -2642,3 +2642,11 @@ ch08/ch09. Now: 'chapter 8 takes each common condition in turn and sets out what
 and where help can be found.' Change log ch05-changes.md updated. Drive: new copy 
 1zMaTZC74Rusx7UVE2pgQMj3NIibpobMnYKoEqQts-Kk in Final Approved, read back; 11AlmxhyfG... 
 renamed SUPERSEDED to Old Versions. Ch05 stays approved.
+
+### 2026-11-26 · orchestrator · author-story · ch08
+Author supplied his ch08 story (2026-11-26): a London undergraduate's drink spiked at a 
+friend's birthday party; collapse at home; 999 and A&E; his mother, 'an ardent christian', 
+calls her sister, who prays; blood test, treatment, discharge next afternoon; parents chose not 
+to report to police ('God should be the judge'). Saved verbatim to 
+book/source/author-stories/ch08-spiked-drink-2026-11-26.md. No tidy permission: insert his 
+words as given, propose fixes as questions. Cut-list rows 1-6, 8-18 still undecided.
