@@ -2747,3 +2747,33 @@ git, which still asks for clinician review; author asked where it came from befo
 ### 2026-11-27 · orchestrator · decision · ch09
 Author chose to start ch09 fresh from the thesis and the evidence pack; the untracked 2026-11-27
 Drive draft is not a source and is left in Drive untouched. Pipeline started: consolidate.
+
+### 2026-11-27 · chapter-writer · consolidate · ch09
+Consolidated ch09 (The Hardest Conversations: Suicide and Domestic Abuse) fresh from thesis 
+3059-3591 and 1315-1343 and the 2026-11-26 pack, by the author's instruction of 2026-11-27 (the 
+untracked Drive draft of 2026-11-27 was not looked for or used). Read config (rules 12-14), 
+CLAUDE.md, memory, Book Bible, humanizer skill, blueprint v2 ch09 block, the full pack, and 
+finals ch00-ch08 (ch08 line 103 picked up in the first sentence). Draft 
+03-drafts/ch09-the-hardest-conversations.md: content note with the preface's help lines word 
+for word plus a police line for abuse; five claim sections (suicide teaching from condemnation 
+to compassion; young Black men most at risk and the church as a bridge, with the signs box and 
+help pointer; the household rules and Matthew 5:39 misused, read whole, ch03 and ch08 promises 
+paid; abuse hidden until someone listens, men as victims, Canada, BCDAF; the second church as 
+the way out, Brittney case, one statutory paragraph, landing and shift line as his conviction); 
+blueprint hook into ch10 word for word; closer with leaders/families/clinicians points and 
+three questions. 4,718 words without comments and flags (main 4,298, closer 416), 118 over 
+4,600. Flags: [UNVERIFIED] 24 (open-claims 4, 133 x2, 136, 137, 143 x6, 144 x2, 147, 148, 149 
+x3, 150, 151 x2, 152 x2, 155 x2); 0 story slots, 0 AUTHOR TO CONFIRM. Decisions: every figure 
+(suicide and abuse) and both method passages on the cut list (pack recommendation); untraceable 
+names (Pope, Foley, Sweeney, Molock 2005, Lund and Ross, Van der Meer, Frazier, Carter, 
+Baldwin) and five unnamed attributions cut with points kept as his (2026-11-25 rule); the case, 
+both quotations, the crime sentence, 'disproportionately high', 'rising', BCDAF and Bill 173 
+kept in his words and flagged; optional KJV verses (Romans 8:38-39, 1 Kings 19, Ephesians 
+5:21-29, Colossians 3:19, Mark 10:9, Matthew 5:38, Malachi 2:16) taken word for word from the 
+pack and marked AUTHOR TO APPROVE in comments. Cut list 43 rows, all undecided. open-claims: 
+rows 4 and 133-154 annotated with the draft's handling; new row 155 (Catechism wording; 
+Augustine and Aquinas as 'early'; Augustine edition). Book Bible: Draft cell in both status 
+tables; 'Ch09 draft additions' block. Notes: source-map (ch09 spine), authors-voice (ch09). Not 
+done: no commit; no clinician mention anywhere; no outside figure, statute or finding added; no 
+author story asked for; Drive untouched. For the author: pack questions 1-16; the 43 cut rows; 
+the optional verses; 'cannot be underestimated'.

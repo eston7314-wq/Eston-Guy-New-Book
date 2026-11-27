@@ -71,3 +71,10 @@ Stub. State the source and date of anything you add. Undated entries are untrust
 - He tells another person's story in the third person, framed by "recalled", with family roles as names ("Mum and Dad"), a formal clinical register ("Accident and Emergency Department", "hospital personnel", "appropriate treatment") and the family's own sayings in quotation marks ("God should be the judge.").
 - His typed habits to expect: double spaces; "may" where a past account would take "might"; a comma between a verb and its complement ("he felt, dizzy"); long opening sentences with stacked "that" clauses. Without a tidy permission these stay and go to him as questions.
 - He ends on the lesson the family drew, in their terms; the editor adds no moral after it.
+
+## Observed in the ch09 source (chapter-writer, 2026-11-27; thesis 3059-3591)
+
+- Opens paragraphs with "Notably", "Consequently", "Furthermore", "Above all", "Yet", "Similarly"; the draft keeps "Yet" and "Similarly" a few times and drops the rest.
+- Hedges carefully on harm ("some interpretations", "could encourage", "may inadvertently perpetuate", "often used"): keep every one; they are his balance on hard subjects.
+- His summary sentences pair harm and help in one breath ("has been used sometimes to justify the subjugation of women and men within marriage ..., it also offers appropriate measures for intervention and healing", 3583-3585). Keep verbatim as landings.
+- Uses "Statutory" with a capital and "the Church" for the institution in narration; house style lower-cases "statutory".

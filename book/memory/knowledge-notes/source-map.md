@@ -125,3 +125,8 @@ charted; 20 interviewees (Fig.26 is the only source).
 - Slips: Exodus 20:13 "Kill" (3095); Colossians 3:18 "as is fit" (3327; KJV "as it is fit"); "Prince Edwards Island" (3532); "peeked" (3168); "has be" (3318); "who in terminally ill" (3083); "Centre for Disease Control" (1315); "cannot be underestimated" (3550-3552, sense reversed); "worldwide views" (3559).
 - Outside the population: South Asian example 3512-3515 (blueprint: cut). Blueprint cut: Daily Mail and Sunday Telegraph 3408-3413.
 - Length: 3059-3308 is 2,304 words, 3310-3591 is 2,538 (wc -w); 1315-1343 about 240, mostly duplicate.
+
+## Ch09 spine (chapter-writer, 2026-11-27; thesis-2025.md 3059-3591, 1315-1343)
+
+- One version only: the thesis has no duplicate drafts of 3.6.2.8-3.6.2.9. Best spine is the thesis order (3061-3308, then 3312-3590), with 1325-1326 ("By 2008 ...") and 1333-1337 (the suicide-intervention point) added from the earlier passage; 1315-1322 is the duplicate and is not used.
+- With all figures, methods, press items, the South Asian example, the Canadian Act list and framing on the cut list, the ranges yield about 4,300 words of argument plus scripture: the chapter lands at about 4,700 with the content note and closer, without padding.
