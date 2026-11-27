@@ -2743,3 +2743,7 @@ checking restated (rule 14); explain needs in plain English one step at a time. 
 in Drive (confirmed: Drive doc 'Chapter 8: Naming the Sorrow (approved, justified, margins,
 2026-11-26)'). Found an untracked Drive draft 'Chapter 9 ... (draft for review, 2026-11-27)' not in
 git, which still asks for clinician review; author asked where it came from before reuse.
+
+### 2026-11-27 · orchestrator · decision · ch09
+Author chose to start ch09 fresh from the thesis and the evidence pack; the untracked 2026-11-27
+Drive draft is not a source and is left in Drive untouched. Pipeline started: consolidate.
