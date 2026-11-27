@@ -2904,3 +2904,9 @@ grammar points 21 'nor', 73 'believed', 75 'creates' (question 10); no cut, no c
 the author: 25 flags (questions 1-3), cut list 0/45 (4), read-aloud (5), questions 6-11. Note 
 for the orchestrator: context-cards/book.md line 16 still lists 'a clinician for ch08-09', 
 which rule 12 retired; not edited (not this agent's card).
+
+### 2026-11-27 · orchestrator · drive · ch09
+Pipeline complete for ch09 (consolidate, story, dev edit, humanize, fact check, copy edit). At
+the author's "Yes", uploaded a review copy (not approved) to Drive Approved Documents:
+1BR6-fAW-65RuGjuK1BgciTgpUw9nOpoT47uaCYcyEAE. Verified full text arrived. Next: the author's
+answers, one question at a time (flags 25, cut rows 45).

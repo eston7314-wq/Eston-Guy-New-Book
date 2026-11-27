@@ -34,5 +34,7 @@ and upload a copy to that Drive folder. Documents still awaiting a decision are 
 
 ## Awaiting the author's decision (not uploaded)
 
+- Review copy uploaded at the author's request (2026-11-27, NOT approved): ch09 "Chapter 9: The Hardest Conversations (review copy, fresh from the thesis, 2026-11-27)", https://docs.google.com/document/d/1BR6-fAW-65RuGjuK1BgciTgpUw9nOpoT47uaCYcyEAE/edit, from book/05-final/ch09-the-hardest-conversations.md via scripts/chapter-to-drive-html.sh (25 [UNVERIFIED] flags visible; 45 cut rows open). The other Drive doc "Chapter 9 ... (draft for review, 2026-11-27)" (1fT-b4tYTY87v10aF_ON44OSj2yf5JwoOaoKs70i99gA) is NOT from this pipeline; the author chose not to use it; left untouched.
+
 - book/01-outline/blueprint.md (v1, superseded by v2)
 - book/00-strategy/publishing-route-options.md (choose Option 1, 2 or 3)
