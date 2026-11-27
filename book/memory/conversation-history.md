@@ -2910,3 +2910,8 @@ Pipeline complete for ch09 (consolidate, story, dev edit, humanize, fact check, 
 the author's "Yes", uploaded a review copy (not approved) to Drive Approved Documents:
 1BR6-fAW-65RuGjuK1BgciTgpUw9nOpoT47uaCYcyEAE. Verified full text arrived. Next: the author's
 answers, one question at a time (flags 25, cut rows 45).
+
+### 2026-11-27 · orchestrator · decision · ch09
+Author answered pack Q1: Brittney Guary's story read on Google; her book is on Amazon. Retell in
+his own words, no quotations; name and book may stay (author-confirmed source). To be applied to
+05-final/ch09 together with his next answers.
