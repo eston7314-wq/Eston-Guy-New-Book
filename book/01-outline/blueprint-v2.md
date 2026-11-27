@@ -372,7 +372,7 @@ It refers back to the woman with the issue of blood (ch04) to show how 3651-3655
 - How church and clinic can actually work together (paid off in ch11).
 
 **Flags:**
-- **Clinician review is needed for the whole chapter.**
+- **Clinician review is needed for the whole chapter.** *(Superseded: no clinician review, author decision 2026-11-25 and 2026-11-27; config rule 12.)*
 - The claim that PTSD is "widespread... due to the legacy of slavery" (2817-2819) needs evidence or must be reframed.
 - Harding 2017, Baker and Bell 2020, Bryant and Peck 2015, Norris and Walters 2019, Madhav 2015, Williams R. 2018, Gibson 2017 and Johnson M. 2020 are all missing from the bibliography.
 
@@ -541,7 +541,7 @@ The decision on numbered chapters versus a long conclusion stands: **eleven numb
    - the author supplies the missing yes/no counts if they exist.
 2. **A dark, citation-poor middle.** Part Three (07-09) is now 13,600 consecutive words on guilt, illness, suicide and abuse (v1: 14,400). It is also where the source is least secure: more than 25 in-text citations in 2607-3591 have **no entry in the bibliography** (listed under each chapter). Mitigations:
    - each chapter ends on a church response that works (deliverance paired with care, the London and Toronto programmes, BCDAF, Brittney's second church);
-   - researcher verification before drafting, and a clinician read of ch08 and ch09;
+   - researcher verification before drafting, and a clinician read of ch08 and ch09; *(Superseded: no clinician review, author decision 2026-11-25 and 2026-11-27; config rule 12.)*
    - **new in v2:** ch10 follows straight after, with a calmer register and an opening on what helps (argument 3 before argument 4). That gives the reader air before the turn to practice.
 3. **Thin story base, plus expansion pressure.** About 27,700 usable source words must become 51,700 without fresh drafting. Apart from the acknowledgements, the thesis has one named personal story (Brittney, 3462-3480), and rule 10 now closes the participants as a story source for good. **Eleven of thirteen story slots need an author story**, ch06 asks for an optional one, and ch09 deliberately has none. If the stories do not come, the book reads as a thesis with chapter closers, and the budgets cannot be met honestly.
 
@@ -715,4 +715,4 @@ Most important first.
 8. **Ch10 at 3,500 words**, below the inferred 4,000-word floor per chapter. Is that acceptable, or should the floor be relaxed for ch10, as it is for the preface and afterword?
 9. **Positioning facts for the bio:** how to describe your heritage, and your total years in teaching (v1's "Black British" and "30 years" are not in the source).
 10. **Charts in the book.** May ch10 carry three or four redrawn charts of overall results, and Appendix A a one-page table of overall results?
-11. **Still open from v1:** the publishing route, and a clinician to review ch08 and ch09.
+11. **Still open from v1:** the publishing route, and a clinician to review ch08 and ch09. *(Superseded: no clinician review, author decision 2026-11-25 and 2026-11-27; config rule 12.)*

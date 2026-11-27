@@ -2734,3 +2734,12 @@ the author: 16 in pack section 10 (Brittney's source; figures in words only; quo
 thesis; suicide-crime sentences; Samaritans wording; App. B abuse helplines; BCDAF founder; 
 Bill 173 status; Augustine edition and 'early'; Molock 2008; CPS brackets; 'rising'; abuse 
 figures; two phrases; optional verses; assisted-dying paragraph).
+
+### 2026-11-27 · orchestrator · decision · ch09
+Author (2026-11-27, session 'Book chapter 09'): no clinician review in any chapter, never say a
+clinician has not reviewed a chapter (config rule 12); no voice-check gate on the Preface or any
+chapter, chapters strictly in order with each writer reading the previous ending (rule 13); fact
+checking restated (rule 14); explain needs in plain English one step at a time. Ch08 approved and
+in Drive (confirmed: Drive doc 'Chapter 8: Naming the Sorrow (approved, justified, margins,
+2026-11-26)'). Found an untracked Drive draft 'Chapter 9 ... (draft for review, 2026-11-27)' not in
+git, which still asks for clinician review; author asked where it came from before reuse.

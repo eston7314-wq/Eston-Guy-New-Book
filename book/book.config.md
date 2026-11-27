@@ -67,4 +67,17 @@ must lock them. Mark any row an agent inferred rather than you stated as **Infer
     an ethics/data-protection check was advised. The exception covers Fig.27 in Appendix A only.
     Running text still uses overall numbers only, and no participant's words, story or identity
     appear anywhere.
+12. **No clinician review (author decision 2026-11-25, restated 2026-11-27; applies to every chapter).**
+    This book offers no treatment. It gives a brief outline of conditions and points readers to a
+    doctor or GP, a faith leader or another source of help. No agent asks for, recommends or flags a
+    clinician review, and no chapter or editor's note says that a clinician has not reviewed it.
+    The "For clinicians" points in the chapter closer stay: they speak to clinicians as readers.
+13. **No voice-check gate (author decision 2026-11-27).** No chapter waits for a voice check of the
+    Preface (or of any earlier chapter) before it is drafted. Chapters are still written strictly in
+    order, and each writer reads the ending of the previous chapter before starting the next.
+14. **Fact checking (author decision 2026-11-11, restated 2026-11-27).** Thesis first. Outside the
+    thesis, confirm only that a book or study exists; never open publisher websites. The author's
+    family history and his own stories are his testimony: never fact-check them; editors may only
+    advise on sentence structure or unneeded repetition. Anything that cannot be confirmed goes on
+    his "please check yourself" list, `book/02-research/open-claims.md`, and stays flagged.
 
