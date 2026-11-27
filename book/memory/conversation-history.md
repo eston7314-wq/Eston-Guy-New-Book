@@ -2804,3 +2804,28 @@ unchanged (43 rows); no new row. Book Bible: Story pass cells in both status tab
 02-research/ch09-stories.md; card ch09 updated. Not done: no commit, no new scripture (Acts 
 9:23-25, Psalm 55:12-14 left available), no fact check. For the author: whether the two new 
 sentences sound like him; pack questions 1-16; cut-list rows.
+
+### 2026-11-27 · developmental-editor · dev-edit · ch09
+Developmental edit of 03-drafts/ch09-the-hardest-conversations.md (after the story pass) to 
+04-edited/ch09-the-hardest-conversations.md; memo 04-edited/ch09-edit-memo.md (verdict: ready 
+for humanize pass). Read config rules 1-14, CLAUDE.md, user profile (2026-11-25 and 2026-11-27 
+rows), cards, Book Bible, humanizer skill, blueprint v2 09, pack 1.x, 8, 9, 10, stories log, 
+approved ch08 ending and ch08 memo, draft and cut list. Moves: A1 thesis 3244-3247 
+(multi-agency) to the Canadian rates; A2 1325-1326 ('By 2008 ...') to open the CDC paragraph 
+(it had seemed to contradict 'a new awakening'); A3 the Mark 10:9 / Ephesians 5:23 
+counter-texts now come before the Ephesians 5:21-29 reading that answers them. Changes: D3 
+Catechism paragraph meets pack 8.2 with 'As I read it, that sentence lessens the blame on the 
+person without excusing the act.' (for his ear; pack q9c still his); D4 writer's early 
+statement of the shift line cut (said once, in the landing); D5 the forgiveness-promise 
+sentence now claims only what the case shows; D2 John 10:10 gloss cut; D6, D9 two thesis 
+repeats to the cut list (rows 44, 45); D1 frames trimmed only where a paragraph already had 
+one; D7, D8 transitions; D10 closer repeats. Both story-pass sentences kept (they help; his 
+ear). Opening pickup of ch08 line 103, content note, case, landing, ch10 hook and 'For 
+clinicians' points unchanged. Flags: [UNVERIFIED] 24 before and after, byte-identical, in 
+order; 44 earlier comments byte-identical (2 swapped with their paragraphs), 10 dev notes 
+added. Words 4,786 -> 4,708 (main 4,366 -> 4,303, closer 420 -> 405), about 108 over 4,600; 
+cheapest further cuts named for the author (memo question 5), none made without him. Book 
+Bible: Dev edit cells in both status tables; 'Ch09 dev edit' block. Card ch09 updated. Not 
+done: no commit; no outside fact, figure, statute or source; no clinician mention; no author 
+story or disclosure invitation; no open-claims change. For the author: pack questions 1-16; cut 
+rows 1-45; D3 and D5 wording; the two story-pass sentences; whether to cut the last ~108 words.
