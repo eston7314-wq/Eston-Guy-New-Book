@@ -2851,3 +2851,28 @@ sentence (line 45) left for his ear; cut list unchanged (45, undecided); open-cl
 Book Bible: Dev edit cells (both tables), Humanize status line, 'Ch09 humanize pass' block. 
 Card updated. For the author: line 61 wording; pack 1-16; cut rows 1-45; memo questions 1-5. 
 Next: fact check.
+
+### 2026-11-27 · book-researcher · fact-check · ch09
+Fact check (Mode B) of 04-edited/ch09-the-hardest-conversations.md after story pass, dev edit 
+and humanize, under the author's fact-checking rules (2026-11-11, restated 2026-11-27; config 
+12-14). Read config, CLAUDE.md, user profile, cards book/ch09/ch10, history, Book Bible, 
+ch08-factcheck (model), ch09 pack, open-claims, sources, cut list, memo, humanize log; thesis 
+read in full at 3059-3592 and 1312-1345 (readable; nothing needed from the author). KJV: same 
+three copies (GITenberg #10 md5 f14e91c9, thiagobodruk d0e1e9e0, scrollmapper b674a783), 31,102 
+verses each; all 17 scripture spans exact in all three and in the cited verse; the 9 other 
+quoted spans exact against the thesis. Content note matches 05-final/ch00 line 37 word for 
+word; no method word, no figure (only the pack's list of numbers); Matthew 18:20 not quoted; 
+ch08 pickup and ch10 hook (blueprint v2 line 397) checked; no outside finding described beyond 
+the thesis. 163 rows: 85 thesis, 21 KJV, 3 corrected, 26 unverified (25 flags), 10 
+cross-reference, 18 view/address. Corrections from the thesis: line 41 'in smaller and more 
+rural communities' -> '... in Canada' (3249-3251); line 61 'My thesis acknowledged those 
+verses' -> 'acknowledged that scripture has been used in this way' (thesis never cites Mark 
+10:9 or Ephesians 5:23); closer line 105 'many church leaders now hold' -> 'several Protestant 
+church leaders have stressed' (3123-3124). Flag inserted: content note's police sentence 
+(open-claims 156, new; next 157). Open-claims 4, 133, 135-137, 139, 143, 144, 147-152, 155 
+annotated. sources.md 33 annotated; no new source (next 119). Lookup services not called (no 
+new work). Book Bible: v1 and v2 row 09 Research cells, KJV for ch09 row, 09 fact-check status 
+line, 'Ch09 fact check' block. Card updated. Not done: no commit; no flag removed; no clinician 
+mention; no publisher, agency or charity site. For the author: the police sentence; the 3 
+corrections; notes N1-N10 (hedges, line 91 wording, 'my research'); pack 1-16; cut rows 1-45; 
+memo 1-5.
