@@ -2915,3 +2915,6 @@ answers, one question at a time (flags 25, cut rows 45).
 Author answered pack Q1: Brittney Guary's story read on Google; her book is on Amazon. Retell in
 his own words, no quotations; name and book may stay (author-confirmed source). To be applied to
 05-final/ch09 together with his next answers.
+
+### 2026-11-27 · orchestrator · decision · ch09
+Author answered pack Q2/Q13: suicide and abuse figures in words only, no numbers.
