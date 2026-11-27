@@ -2829,3 +2829,25 @@ Bible: Dev edit cells in both status tables; 'Ch09 dev edit' block. Card ch09 up
 done: no commit; no outside fact, figure, statute or source; no clinician mention; no author 
 story or disclosure invitation; no open-claims change. For the author: pack questions 1-16; cut 
 rows 1-45; D3 and D5 wording; the two story-pass sentences; whether to cut the last ~108 words.
+
+### 2026-11-27 · copy-editor · humanize · ch09
+Humanize pass (config rule 11) on 04-edited/ch09-the-hardest-conversations.md, in place, after 
+the dev edit. Read config rules 1-14, CLAUDE.md, Book Bible, user profile (2026-11-25 and 
+2026-11-27 rows), cards book and ch09, humanizer skill in full, ch08 humanize log (model), 
+approved ch08 (voice), ch09 edit memo and the chapter. Pre-pass copy 
+ch09-the-hardest-conversations.pre-humanize.md (cmp identical, md5 77b4ba8b8c82...). 4 prose 
+changes, all in writer's frames or the writer's sentence: line 21 ', I wrote,' dropped from the 
+Catholic paragraph (three paragraphs running; thesis named in the next sentence), line 41 'In 
+my research I also found' -> 'My research also found' (dev memo's repeat), line 45 'The church, 
+I wrote, has' -> 'I also wrote that the church has' (same frame two sentences running) (all 
+§7); line 61 'My thesis did not pretend those verses away. It argued that' -> 'My thesis 
+acknowledged those verses and argued that' (§1, for his ear). Notes line added. Byte-identical 
+by script: 24 [UNVERIFIED] in prose (26 in file), 54 comments, 26 quoted spans (all KJV), 31 
+parentheses, content note, opening (ch08 pickup), case, Malachi paragraph, landing, ch10 hook, 
+For clinicians points. 0 dashes, 0 sentence-initial But, 0 curly quotes; no clinician review 
+mentioned. Words 4,708 -> 4,703 (main 4,303 -> 4,298, closer 405); about 103 over 4,600, no cut 
+for length. Not done: no commit; no edit inside flagged sentences; 'quietly' in the story-pass 
+sentence (line 45) left for his ear; cut list unchanged (45, undecided); open-claims unchanged. 
+Book Bible: Dev edit cells (both tables), Humanize status line, 'Ch09 humanize pass' block. 
+Card updated. For the author: line 61 wording; pack 1-16; cut rows 1-45; memo questions 1-5. 
+Next: fact check.
