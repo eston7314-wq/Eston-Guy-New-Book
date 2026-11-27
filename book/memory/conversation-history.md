@@ -2876,3 +2876,31 @@ line, 'Ch09 fact check' block. Card updated. Not done: no commit; no flag remove
 mention; no publisher, agency or charity site. For the author: the police sentence; the 3 
 corrections; notes N1-N10 (hedges, line 91 wording, 'my research'); pack 1-16; cut rows 1-45; 
 memo 1-5.
+
+### 2026-11-27 · copy-editor · copy-edit · ch09
+Copy edit (Mode A) of 04-edited/ch09 (unchanged, md5 6acb7cb0d5a8) to 
+05-final/ch09-the-hardest-conversations.md (md5 78e12f7c6eb7), DRAFT FOR THE AUTHOR'S REVIEW, 
+NOT APPROVED, NOT FINAL; change log 05-final/ch09-changes.md. 10 prose changes: thesis 
+hedges/wording restored 3 (N3 'several social services' 37; N6 'and that this could lead to' 
+65; N7 'Both churches spoke of God hating divorce.' 91); scripture position 1 (N5 'sit earlier 
+in the same household rules' 59); read-aloud 1 ('Chapter 1 showed how the verses ... were 
+preached' 59); antecedent 1 ('The Church's perspective' 21, D3 now stands between); hyphen 1 
+('suicide-prevention programme' 37); punctuation 3 ('In my view, that' 39; serial comma dropped 
+57; two commas outside the closing marks after Ephesians 5:22 and Colossians 3:18, 59). N8: 
+stale sentence trimmed from the line-21 comment (full text in the change log). N9: humanize log 
+corrected (26 quoted spans = 17 KJV + 9 thesis or reported words); CORRECTION to the 2026-11-27 
+humanize history entry above, which said '26 quoted spans (all KJV)'. Notes block moved to the 
+change log word for word. Byte-identical by script: 25 [UNVERIFIED] in order, every flagged 
+sentence, H1, content note and help lines, ch08 pickup, ch10 hook, every KJV word, 23 
+parentheses, For clinicians points; 54 of 55 comments (1 trimmed) plus 1 copy-edit note. 0 
+dashes, 0 curly quotes, 0 sentence-initial But in our prose, 0 Diaspora; rule 12 kept. Words 
+4,712 -> 4,710 (main 4,304, closer 406). Decisions (Book Bible and style sheet): hedges 
+restored only outside flagged sentences; noun compounds hyphenated before a noun 
+(suicide-prevention, domestic-abuse); Acts in UK statute form confirmed. Deliberately NOT done: 
+N1 and N4 (hedges 'often', 'potential' inside flagged sentences 13, 39: the brief's 
+word-for-word rule and CLAUDE.md fact-checking rule 4 win; offered as question 7 with ready 
+wording); N10 ('my research' for points from other writers, 37, 41, 93: question 9); his 
+grammar points 21 'nor', 73 'believed', 75 'creates' (question 10); no cut, no commit. Open for 
+the author: 25 flags (questions 1-3), cut list 0/45 (4), read-aloud (5), questions 6-11. Note 
+for the orchestrator: context-cards/book.md line 16 still lists 'a clinician for ch08-09', 
+which rule 12 retired; not edited (not this agent's card).
