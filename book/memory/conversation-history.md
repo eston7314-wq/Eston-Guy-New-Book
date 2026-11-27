@@ -2777,3 +2777,30 @@ tables; 'Ch09 draft additions' block. Notes: source-map (ch09 spine), authors-vo
 done: no commit; no clinician mention anywhere; no outside figure, statute or finding added; no 
 author story asked for; Drive untouched. For the author: pack questions 1-16; the 43 cut rows; 
 the optional verses; 'cannot be underestimated'.
+
+### 2026-11-27 · story-injector · story-pass · ch09
+Story pass (Mode A) on 03-drafts/ch09-the-hardest-conversations.md under the orchestrator's 
+strict limits (no author story slot, no composite or invented person/case/quotation/event, no 
+invitation to disclose, safe messaging absolute, config rule 12: no clinician review asked for 
+or mentioned, no outside facts, nothing from the thesis cut). Read config (rules 5-14), 
+CLAUDE.md, Book Bible, user profile (2026-11-25 and 2026-11-27 rows), cards book and ch09, 
+humanizer skill, blueprint v2 '### 09', the pack (1.1-1.7, 3, 10), approved ch07/ch08 openings 
+and ch08 ending, the draft and cut list. Pre-pass copy 
+ch09-the-hardest-conversations.pre-story.md (sha256 269cb652...ffa69e3, cmp identical). Two 
+sentences added, both ILLUSTRATIVE hypothetical second-person scenes with no person, case, 
+figure or method: line 47, before the signs box, 'You may already have seen such signs in 
+someone near you without knowing what they meant, or what to say: a friend who quietly stopped 
+coming to Bible study, or a relative whose mood changed suddenly and who began to speak about 
+death.' (only the thesis's listed signs; help pointer in the box that follows); line 67, 
+'Perhaps you have heard it said, from a pulpit or in a private word after a service, that a 
+good Christian wife forgives and endures.' (thesis 3331-3334; blueprint shift line). Held: the 
+opening (already picks up ch08 line 103 and asks its question in sentence 2; a 'You may have 
+sat at such a funeral' version rejected as presuming bereavement), the Brittney case, closer 
+with 'For clinicians', ch10 hook. Flags unchanged: [UNVERIFIED] 24 in prose (26 strings in 
+file), all 42 earlier comments byte-identical; 0 dashes, curly quotes, sentence-initial But. 
+Words: main 4,298 -> 4,366 (+68, +1.6%), whole about 4,786, about 186 over 4,600. Cut list 
+unchanged (43 rows); no new row. Book Bible: Story pass cells in both status tables (v2 row 
+09's stray empty cell removed) and a 'Ch09 story pass' block with 2 ILLUSTRATIVE rows; log 
+02-research/ch09-stories.md; card ch09 updated. Not done: no commit, no new scripture (Acts 
+9:23-25, Psalm 55:12-14 left available), no fact check. For the author: whether the two new 
+sentences sound like him; pack questions 1-16; cut-list rows.
