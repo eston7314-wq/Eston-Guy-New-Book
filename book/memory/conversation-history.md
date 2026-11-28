@@ -2918,3 +2918,6 @@ his own words, no quotations; name and book may stay (author-confirmed source). 
 
 ### 2026-11-27 · orchestrator · decision · ch09
 Author answered pack Q2/Q13: suicide and abuse figures in words only, no numbers.
+
+### 2026-11-28 · orchestrator · decision · ch09
+Author answered List A items A1-A13 (verbatim in 02-research/ch09-author-answers.md). A14-A23 and B1-B45 to come; apply all in one pass.
